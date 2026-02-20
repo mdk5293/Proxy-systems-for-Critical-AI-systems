@@ -1,0 +1,900 @@
+#!/usr/bin/env python3
+r"""
+proxytool.py
+A single-file prototype for **metadata-only** software repository similarity using Git commit signals.
+No source code is ever accessed—only commit metadata (author, date, message, file stats).
+Primary metric: Sentiment analysis of commit messages using VADER (optional) or lightweight lexicon fallback.
+Additional metrics: issue attachment rate, commit cadence, code churn.
+
+Dependencies:
+    pip install requests tqdm
+    pip install --upgrade tqdm
+    # optional, richer sentiment backend:
+    pip install vaderSentiment
+    # optional, for plots (when using --plot / --plot-details):
+    pip install matplotlib
+
+Supports:
+  • Local Git repositories (via `git log --numstat`)
+  • Remote GitHub repositories (via REST API, **no cloning**)
+
+Key design goals:
+  • Prove similarity detection **without source code**
+  • Fast, deterministic, offline-capable
+  • Suitable for large-scale mining (thousands of repos)
+
+Features:
+  • GitHub API + git log --numstat
+  • Progress bars, caching, timeout
+  • Sentiment, churn, cadence, issue attachment
+  • Publication-ready
+
+Usage:
+  python proxytool.py compare --query https://github.com/microsoft/vscode \
+    --candidates https://github.com/facebook/react \
+    --github-token $env:GH_TOKEN --metrics sentiment,churn,attach,cadence --max-commits 100 \
+    --plot results.png --plot-details
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import math
+import re
+import statistics as stats
+import subprocess
+import time
+from dataclasses import dataclass
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple, Iterator
+
+import requests
+from tqdm import tqdm  # pip install --upgrade tqdm
+
+# -----------------------------------------------------------------------------
+# Logging switches (set by CLI)
+VERBOSE = False
+QUIET = False
+
+
+def _log(msg: str, level: str = "info"):
+    """Minimal logger with quiet/verbose control."""
+    if level == "debug" and not VERBOSE:
+        return
+    if QUIET and level in ("info", "debug"):
+        return
+    print(msg)
+
+
+# =============================================================================
+# CACHING
+# =============================================================================
+CACHE_DIR = Path(".proxytool_cache")
+CACHE_DIR.mkdir(exist_ok=True)
+
+
+def cache_key(owner: str, repo: str, since: Optional[str], until: Optional[str]) -> str:
+    return f"{owner}_{repo}_{since or 'none'}_{until or 'none'}.json"
+
+
+def load_cached_commits(owner: str, repo: str, since: Optional[str], until: Optional[str]) -> Optional[List[dict]]:
+    path = CACHE_DIR / cache_key(owner, repo, since, until)
+    if path.exists():
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                _log(f"  [Cache hit] Loaded {len(data)} commits", "debug")
+                return data
+        except Exception as e:
+            _log(f"  [Cache error] {e}", "debug")
+    return None
+
+
+def save_cached_commits(owner: str, repo: str, since: Optional[str], until: Optional[str], commits: List[dict]):
+    path = CACHE_DIR / cache_key(owner, repo, since, until)
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(commits, f, indent=None)
+        _log(f"  [Cache saved] {len(commits)} commits", "debug")
+    except Exception as e:
+        _log(f"  [Cache save failed] {e}", "debug")
+
+
+# =============================================================================
+# DATA MODEL
+# =============================================================================
+@dataclass
+class CommitRecord:
+    repo_id: str
+    author: str
+    email: str
+    date: datetime
+    message: str
+    files_changed: int
+    insertions: int
+    deletions: int
+
+    @property
+    def lines_changed(self) -> int:
+        return (self.insertions or 0) + (self.deletions or 0)
+
+
+# =============================================================================
+# LOCAL GIT
+# =============================================================================
+def run_git_log(
+    repo: str,
+    since: Optional[str] = None,
+    until: Optional[str] = None,
+    max_commits: Optional[int] = None,
+) -> List[CommitRecord]:
+    repo_path = Path(repo)
+    if not repo_path.exists():
+        raise FileNotFoundError(f"Local repo not found: {repo}")
+
+    fmt = "@@@%H\x1f%an\x1f%ae\x1f%ad\x1f%s"
+    args = [
+        "git", "-C", str(repo_path), "log", "--no-merges",
+        f"--pretty=format:{fmt}", "--date=iso-strict", "--numstat"
+    ]
+    if since:
+        args.append(f"--since={since}")
+    if until:
+        args.append(f"--until={until}")
+    if max_commits:
+        args.append(f"-n{int(max_commits)}")
+
+    try:
+        out = subprocess.check_output(args, stderr=subprocess.STDOUT, text=True, encoding="utf-8", errors="replace")
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(f"git log failed: {e.output}")
+
+    recs: List[CommitRecord] = []
+    current: Optional[Dict] = None
+
+    def flush():
+        nonlocal current, recs
+        if not current:
+            return
+        dt = datetime.fromisoformat(current["date"])
+        recs.append(CommitRecord(
+            repo_id=str(repo_path.resolve()),
+            author=current.get("author", "unknown"),
+            email=current.get("email", "unknown"),
+            date=dt,
+            message=current.get("message", ""),
+            files_changed=int(current.get("files_changed", 0)),
+            insertions=int(current.get("insertions", 0)),
+            deletions=int(current.get("deletions", 0)),
+        ))
+        current = None
+
+    for line in out.splitlines():
+        if line.startswith("@@@"):
+            flush()
+            parts = line[3:].split("\x1f")
+            if len(parts) < 5:
+                continue
+            current = {
+                "files_changed": 0, "insertions": 0, "deletions": 0,
+                "author": parts[1].strip(), "email": parts[2].strip(),
+                "date": parts[3].strip(), "message": parts[4].strip(),
+            }
+        elif line.strip() and current is not None:
+            ins, dels, _ = line.split("\t")[:3]
+            current["files_changed"] += 1
+            current["insertions"] += int(ins) if ins.isdigit() else 0  # '-' for binaries
+            current["deletions"] += int(dels) if dels.isdigit() else 0
+    flush()
+    return recs
+
+
+# =============================================================================
+# GITHUB API — rate limit & progress (fixed tqdm/pause + User-Agent)
+# =============================================================================
+GITHUB_API = "https://api.github.com"
+
+
+def _github_request_with_progress(
+    url: str,
+    token: Optional[str],
+    params: Optional[dict],
+    paginate: bool,
+    pbar: Optional[tqdm] = None,
+) -> Iterator[dict]:
+    """Robust request with rate limit + progress (pbar may be None)."""
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "proxytool/0.1 (+metadata-only-similarity)",
+    }
+    if token:
+        headers["Authorization"] = f"token {token}"
+
+    while url:
+        try:
+            resp = requests.get(url, headers=headers, params=params or {}, timeout=30)
+            resp.raise_for_status()
+        except requests.exceptions.Timeout:
+            raise RuntimeError("Request timeout after 30s")
+        except requests.HTTPError as e:
+            r = getattr(e, "response", None) or resp
+            if r is not None and r.status_code == 403:
+                msg = ""
+                if "application/json" in r.headers.get("Content-Type", ""):
+                    try:
+                        msg = r.json().get("message", "")
+                    except Exception:
+                        msg = ""
+                if "rate limit" in (msg or "").lower():
+                    reset = int(r.headers.get("X-RateLimit-Reset", 0))
+                    sleep = max(reset - time.time(), 0) + 5
+                    reset_time = datetime.fromtimestamp(reset).strftime("%H:%M:%S")
+                    _log(f"  Rate limit exceeded. Sleeping {sleep:.0f}s until {reset_time}...", "info")
+                    time.sleep(sleep)
+                    continue
+                raise RuntimeError(f"GitHub 403: {msg}")
+            raise
+
+        remaining = int(resp.headers.get("X-RateLimit-Remaining", 0) or 0)
+        limit = int(resp.headers.get("X-RateLimit-Limit", 5000) or 5000)
+        if remaining < 100:
+            _log(f"  Rate limit: {remaining}/{limit} remaining", "debug")
+
+        data = resp.json()
+        if isinstance(data, list):
+            for item in data:
+                yield item
+                if pbar is not None:
+                    pbar.update(1)
+        else:
+            yield data
+            if pbar is not None:
+                pbar.update(1)
+
+        if not paginate:
+            break
+
+        link = resp.headers.get("Link", "")
+        url = None
+        for part in link.split(","):
+            if 'rel="next"' in part:
+                url = part[part.find("<") + 1: part.find(">")]
+                break
+        time.sleep(0.2)
+
+
+def run_github_log(
+    owner: str,
+    repo: str,
+    token: Optional[str] = None,
+    since: Optional[str] = None,
+    until: Optional[str] = None,
+    max_commits: Optional[int] = None,
+) -> List[CommitRecord]:
+    repo_slug = f"{owner}/{repo}"
+    commits_url = f"{GITHUB_API}/repos/{repo_slug}/commits"
+    params = {"per_page": 100}
+    if since:
+        params["since"] = f"{since}T00:00:00Z"
+    if until:
+        params["until"] = f"{until}T23:59:59Z"
+
+    cached = load_cached_commits(owner, repo, since, until)
+    if cached:
+        return [
+            CommitRecord(
+                repo_id=f"github:{repo_slug}",
+                author=c["author"], email=c["email"],
+                date=datetime.fromisoformat(c["date"].replace("Z", "+00:00")),
+                message=c["message"], files_changed=c["files_changed"],
+                insertions=c["insertions"], deletions=c["deletions"]
+            ) for c in cached
+        ]
+
+    records: List[CommitRecord] = []
+    seen = 0
+    last_progress = time.time()
+
+    _log(f"  Fetching commits from {repo_slug}...", "info")
+    with tqdm(desc="Commits", unit="c", position=0, leave=not QUIET, disable=QUIET) as pbar:
+        for commit in _github_request_with_progress(commits_url, token, params, paginate=True, pbar=pbar):
+            if max_commits and seen >= max_commits:
+                break
+            if time.time() - last_progress > 300:
+                raise RuntimeError("No progress in 5 minutes — aborting")
+
+            sha = commit["sha"]
+            author = commit["commit"]["author"]["name"]
+            email = commit["commit"]["author"]["email"]
+            date_str = commit["commit"]["author"]["date"]
+            message = commit["commit"]["message"].split("\n", 1)[0]
+
+            details_url = f"{GITHUB_API}/repos/{repo_slug}/commits/{sha}"
+            details = next(_github_request_with_progress(details_url, token, {}, paginate=False, pbar=None))
+
+            stats_d = details.get("stats", {}) or {}
+            files = details.get("files", []) or []
+            dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+
+            insertions = stats_d.get("additions") or 0
+            deletions = stats_d.get("deletions") or 0
+
+            records.append(CommitRecord(
+                repo_id=f"github:{repo_slug}",
+                author=author, email=email, date=dt, message=message,
+                files_changed=len(files),
+                insertions=insertions,
+                deletions=deletions,
+            ))
+            seen += 1
+            last_progress = time.time()
+            if pbar is not None:
+                pbar.set_postfix({"fetched": seen})
+
+    cache_data = [{
+        "author": r.author, "email": r.email, "date": r.date.isoformat(),
+        "message": r.message, "files_changed": r.files_changed,
+        "insertions": r.insertions, "deletions": r.deletions
+    } for r in records]
+    save_cached_commits(owner, repo, since, until, cache_data)
+
+    return records
+
+
+# =============================================================================
+# SENTIMENT, METRICS
+# =============================================================================
+class SentimentBackend:
+    def score(self, text: str) -> Dict[str, float]:
+        raise NotImplementedError
+
+
+class VaderBackend(SentimentBackend):
+    def __init__(self):
+        from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+        self._an = SentimentIntensityAnalyzer()
+
+    def score(self, text: str) -> Dict[str, float]:
+        s = self._an.polarity_scores(text or "")
+        return {"pos": s["pos"], "neu": s["neu"], "neg": s["neg"], "compound": s["compound"]}
+
+
+class TinyLexiconBackend(SentimentBackend):
+    POS = set("good great awesome excellent nice improved success happy fix stable".split())
+    NEG = set("bad worse terrible broken fail bug slow flaky regress revert urgent".split())
+
+    def score(self, text: str) -> Dict[str, float]:
+        words = re.findall(r"[a-zA-Z]+", (text or "").lower())
+        pos = sum(w in self.POS for w in words)
+        neg = sum(w in self.NEG for w in words)
+        total = max(pos + neg, 1)
+        compound = (pos - neg) / total
+        p = n = 0.1; neu = 0.8
+        if pos > neg:
+            p, n = 0.6, 0.1
+        elif neg > pos:
+            p, n = 0.1, 0.6
+        else:
+            p = n = 0.2; neu = 0.6
+        return {"pos": p, "neu": neu, "neg": n, "compound": compound}
+
+
+def get_sentiment_backend() -> SentimentBackend:
+    try:
+        return VaderBackend()
+    except Exception:
+        return TinyLexiconBackend()
+
+
+_issue_regex = re.compile(
+    r"(?i)(?:\b(?:fix(?:es|ed)?|close(?:s|d)?|resolve(?:s|d)?)\s*)?(?:#|gh-)?(\d{1,7})\b"
+    r"|\bissue\s*(\d{1,7})\b|\bPR\s*#(\d{1,7})\b"
+)
+
+
+class Metric:
+    name: str = "base"
+    def compute(self, commits: List[CommitRecord]) -> Dict[str, float]:
+        raise NotImplementedError
+
+
+def _entropy(p: List[float]) -> float:
+    return -sum(pi * math.log(pi + 1e-12) for pi in p if pi > 0)
+
+
+class CadenceMetric(Metric):
+    name = "cadence"
+    def compute(self, commits: List[CommitRecord]) -> Dict[str, float]:
+        if not commits:
+            return {"commit_count": 0.0, "commit_cadence_per_day": 0.0}
+        cs = sorted(commits, key=lambda c: c.date)
+        days = max((cs[-1].date - cs[0].date).days, 0) + 1
+        cadence = len(cs) / days if days > 0 else 0.0
+        return {
+            "commit_count": float(len(cs)),
+            "commit_cadence_per_day": cadence
+        }
+
+
+class ChurnMetric(Metric):
+    name = "churn"
+    def compute(self, commits: List[CommitRecord]) -> Dict[str, float]:
+        if not commits:
+            return {
+                "churn_avg_files": 0.0,
+                "lines_changed_total": 0.0,
+                "net_lines_changed": 0.0
+            }
+        files_per = [c.files_changed for c in commits]
+        return {
+            "churn_avg_files": stats.fmean(files_per),
+            "lines_changed_total": float(sum(c.lines_changed for c in commits)),
+            "net_lines_changed": float(sum(c.insertions - c.deletions for c in commits))
+        }
+
+
+class SentimentMetric(Metric):
+    name = "sentiment"
+    def __init__(self):
+        self.backend = get_sentiment_backend()
+
+    def compute(self, commits: List[CommitRecord]) -> Dict[str, float]:
+        if not commits:
+            return {f"sent_{k}": 0.0 for k in "mean std pos_share neu_share neg_share entropy weekly_volatility by_author_gini".split()}
+        scores = [self.backend.score(c.message) for c in commits]
+        comp = [s["compound"] for s in scores]
+        mean = stats.fmean(comp)
+        std = stats.pstdev(comp) if len(comp) > 1 else 0.0
+
+        # Winner-take-most class shares
+        winners = [max(("pos", s["pos"]), ("neu", s["neu"]), ("neg", s["neg"]), key=lambda x: x[1])[0] for s in scores]
+        pos = sum(1 for w in winners if w == "pos") / len(winners)
+        neu = sum(1 for w in winners if w == "neu") / len(winners)
+        neg = 1.0 - pos - neu
+        entropy = _entropy([pos, neu, neg])
+
+        # Weekly volatility of mean compound
+        weekly: Dict[Tuple[int, int], List[float]] = {}
+        for c, s in zip(commits, scores):
+            week = c.date.isocalendar()[:2]  # (year, week)
+            weekly.setdefault(week, []).append(s["compound"])
+        weekly_vol = stats.pstdev([stats.fmean(v) for v in weekly.values()]) if len(weekly) > 1 else 0.0
+
+        # Inequality of sentiment by author (Gini on |mean|)
+        by_author: Dict[str, List[float]] = {}
+        for c, s in zip(commits, scores):
+            by_author.setdefault(c.author, []).append(s["compound"])
+        author_means = [abs(stats.fmean(v)) for v in by_author.values()]
+        gini = 0.0
+        if author_means:
+            n = len(author_means)
+            total = sum(author_means)
+            cum = sum((i + 1) * x for i, x in enumerate(sorted(author_means)))
+            gini = (2 * cum) / (n * total) - (n + 1) / n if total > 0 else 0.0
+
+        return {
+            "sent_mean": mean, "sent_std": std, "sent_pos_share": pos, "sent_neu_share": neu,
+            "sent_neg_share": neg, "sent_entropy": entropy, "sent_weekly_volatility": weekly_vol,
+            "sent_by_author_gini": gini
+        }
+
+
+class AttachRateMetric(Metric):
+    name = "attach"
+    def compute(self, commits: List[CommitRecord]) -> Dict[str, float]:
+        if not commits:
+            return {"attach_rate": 0.0, "issue_breadth": 0.0}
+        with_issue = 0
+        issues = set()
+        for c in commits:
+            ids = {g for m in _issue_regex.finditer(c.message or "") for g in m.groups() if g}
+            if ids:
+                with_issue += 1
+                issues.update(ids)
+        return {"attach_rate": with_issue / len(commits), "issue_breadth": float(len(issues))}
+
+
+ALL_METRICS = {
+    "sentiment": SentimentMetric(),
+    "attach": AttachRateMetric(),
+    "churn": ChurnMetric(),
+    "cadence": CadenceMetric(),
+}
+
+
+# =============================================================================
+# REPO PARSING & FEATURES
+# =============================================================================
+def _parse_github_repo(repo: str) -> Tuple[str, str]:
+    """
+    Accepts:
+      - https://github.com/owner/name(.git)
+      - owner/name(.git)
+    Returns (owner, name) or raises ValueError on invalid input.
+    """
+    s = repo.strip()
+    m = re.match(r"https?://github\.com/([^/]+)/([^/]+)", s)
+    if m:
+        return m.group(1), m.group(2).removesuffix(".git")
+    if "/" in s:
+        owner, name = s.split("/", 1)
+        return owner, name.removesuffix(".git")
+    raise ValueError(f"Not a valid GitHub repository spec: {repo}")
+
+
+def compute_features_for_repo(
+    repo: str,
+    metric_names: List[str],
+    since: Optional[str],
+    until: Optional[str],
+    github_token: Optional[str],
+    max_commits: Optional[int] = None
+) -> Dict[str, float]:
+    try:
+        if repo.startswith("http") or ("/" in repo and not Path(repo).exists()):
+            owner, name = _parse_github_repo(repo)
+            commits = run_github_log(owner, name, github_token, since, until, max_commits)
+        else:
+            commits = run_git_log(repo, since, until, max_commits)
+    except Exception as e:
+        _log(f"  Failed to fetch {repo}: {e}", "info")
+        commits = []
+
+    # Always compute cadence first (commit_count is anchor for similarity)
+    features: Dict[str, float] = {}
+    cadence = CadenceMetric().compute(commits)
+    features.update(cadence)
+    _log(f"  [DEBUG] Fetched {len(commits)} commits, commit_count={cadence.get('commit_count')}", "debug")
+
+    # Add all requested metrics (safe to re-add cadence)
+    for name in metric_names:
+        if name not in ALL_METRICS:
+            raise KeyError(f"Unknown metric: {name}")
+        features.update(ALL_METRICS[name].compute(commits))
+
+    return features
+
+
+# =============================================================================
+# SIMILARITY — soft Min–Max + COMMON FEATURES (avoids 0/1 degeneracy)
+# =============================================================================
+class MinMaxNormalizer:
+    """
+    Scale features to (eps, 1-eps) and map constant features to 0.5.
+    This avoids the N=2 degeneracy where min-max yields complementary 0/1
+    vectors and cosine becomes identically 0.
+    """
+    def __init__(self, eps: float = 0.05):
+        self.min: Dict[str, float] = {}
+        self.max: Dict[str, float] = {}
+        self.constant_keys: set[str] = set()
+        self.eps = float(eps)
+
+    def fit(self, vectors: List[Dict[str, float]]):
+        keys = sorted({k for v in vectors for k in v})
+        for k in keys:
+            vals = [v.get(k, 0.0) for v in vectors]
+            if k == "commit_count":
+                vals = [math.log(max(val, 1)) for val in vals]  # log anchor
+            mn, mx = min(vals), max(vals)
+            self.min[k], self.max[k] = mn, mx
+            if mx - mn <= 1e-12:
+                self.constant_keys.add(k)
+
+    def transform(self, vec: Dict[str, float]) -> Dict[str, float]:
+        out: Dict[str, float] = {}
+        for k in self.min:
+            if k in self.constant_keys:
+                out[k] = 0.5
+                continue
+            val = vec.get(k, 0.0)
+            if k == "commit_count":
+                val = math.log(max(val, 1))
+            rng = self.max[k] - self.min[k]
+            z = (val - self.min[k]) / (rng if rng > 0 else 1.0)
+            out[k] = self.eps + (1.0 - 2.0 * self.eps) * z
+        return out
+
+
+def cosine(a: List[float], b: List[float]) -> float:
+    dot = sum(x * y for x, y in zip(a, b))
+    na = math.sqrt(sum(x * x for x in a))
+    nb = math.sqrt(sum(y * y for y in b))
+    return dot / (na * nb) if na > 0 and nb > 0 else 0.0
+
+
+def weighted_sum(vec: Dict[str, float], weights: Dict[str, float]) -> Dict[str, float]:
+    """
+    Apply group weights by metric family (e.g., sentiment=2.0).
+    Mapping is prefix/keys-based. Defaults to 1.0 for unspecified families.
+    """
+    family_map = {
+        "sentiment": ("sent_",),
+        "cadence": ("commit_",),
+        "churn": ("churn_", "lines_", "net_"),
+        "attach": ("attach_rate", "issue_breadth"),
+    }
+    out: Dict[str, float] = {}
+    for k, v in vec.items():
+        w = 1.0
+        for fam, fam_w in weights.items():
+            prefixes = family_map.get(fam)
+            if not prefixes:
+                continue
+            if any((isinstance(p, str) and k.startswith(p)) or k == p for p in prefixes):
+                w = fam_w
+                break
+        out[k] = v * w
+    return out
+
+
+# =============================================================================
+# PLOTTING (optional)
+# =============================================================================
+def _short_repo(r: str) -> str:
+    parts = r.rstrip("/").split("/")
+    return "/".join(parts[-2:]) if len(parts) >= 2 else r
+
+
+def _parse_figsize(s: Optional[str]) -> Tuple[float, float]:
+    if not s:
+        return (max(6.0, 0.7 * 4), 4.5)
+    m = re.match(r"^\s*(\d+(?:\.\d+)?)x(\d+(?:\.\d+)?)\s*$", s)
+    if not m:
+        return (8.0, 4.5)
+    return (float(m.group(1)), float(m.group(2)))
+
+
+def _annotate_bars(ax, rects, horizontal=False):
+    for r in rects:
+        val = r.get_width() if horizontal else r.get_height()
+        if horizontal:
+            ax.text(val + 0.01, r.get_y() + r.get_height()/2.0, f"{val:.3f}", va="center")
+        else:
+            ax.text(r.get_x() + r.get_width()/2.0, val + 0.01, f"{val:.3f}", ha="center")
+
+
+def plot_similarities(ranked: List[Tuple[str, float]], query: str, out_path: str, dpi: int = 200, fig_size: Optional[str] = None):
+    """
+    Save a summary chart of candidate cosine similarities.
+    • Single candidate -> horizontal gauge-style bar with value label
+    • Multiple candidates -> vertical bars with y∈[0,1], grid, and labels
+    """
+    try:
+        import matplotlib
+        matplotlib.use("Agg")  # headless
+        import matplotlib.pyplot as plt
+    except Exception as e:
+        _log(f"[Plot] matplotlib unavailable: {e}", "info")
+        return
+
+    labels = [_short_repo(repo) for repo, _ in ranked]
+    vals = [float(sim) for _, sim in ranked]
+
+    w, h = _parse_figsize(fig_size)
+    plt.figure(figsize=(w, h))
+    ax = plt.gca()
+
+    if len(vals) == 1:
+        # Horizontal gauge for a single bar
+        rects = ax.barh([0], [vals[0]], height=0.35)
+        ax.set_xlim(0, 1)
+        ax.set_yticks([0])
+        ax.set_yticklabels([labels[0]])
+        ax.set_xlabel("Cosine similarity")
+        ax.set_title(f"Similarity vs. query: {_short_repo(query)}")
+        ax.grid(axis="x", alpha=0.3)
+        for spine in ("top", "right"):
+            ax.spines[spine].set_visible(False)
+        _annotate_bars(ax, rects, horizontal=True)
+    else:
+        # Vertical bars for multiple candidates
+        xs = range(len(vals))
+        rects = ax.bar(xs, vals)
+        ax.set_ylim(0, 1)
+        ax.set_xticks(xs)
+        ax.set_xticklabels(labels, rotation=25, ha="right")
+        ax.set_ylabel("Cosine similarity")
+        ax.set_title(f"Similarity vs. query: {_short_repo(query)}")
+        ax.grid(axis="y", alpha=0.3)
+        for spine in ("top", "right"):
+            ax.spines[spine].set_visible(False)
+        _annotate_bars(ax, rects, horizontal=False)
+
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=dpi)
+    plt.close()
+    _log(f"[Plot] Saved similarity chart to {out_path}", "info")
+
+
+def _slug(s: str) -> str:
+    return re.sub(r"[^A-Za-z0-9_.-]+", "_", s)
+
+
+def plot_feature_contribs(q_vec: List[float], cand_vec: List[float], keys: List[str],
+                          title: str, out_path: str, topn: int = 10, dpi: int = 200):
+    """
+    Save a horizontal bar chart of the top-k feature contributions to similarity.
+
+    Contribution proxy ≈ q[k] * cand[k] (cosine numerator). We rank by absolute
+    contribution magnitude so the most influential features (positive or negative)
+    appear at the top. Bars can be negative if a feature pushes similarity down.
+    """
+    try:
+        import matplotlib
+        matplotlib.use("Agg")
+        import matplotlib.pyplot as plt
+    except Exception as e:
+        _log(f"[Plot] matplotlib unavailable for feature contributions: {e}", "info")
+        return
+
+    contribs = [(k, q * c) for k, q, c in zip(keys, q_vec, cand_vec)]
+    contribs.sort(key=lambda x: abs(x[1]), reverse=True)
+    top = contribs[:max(1, topn)]
+    labels = [k for k, _ in top][::-1]
+    vals = [v for _, v in top][::-1]
+
+    total_abs = sum(abs(v) for v in vals) or 1.0
+    shares = [v / total_abs for v in vals]  # signed share of |top| total
+
+    plt.figure(figsize=(9, max(3.5, 0.5 * len(labels) + 1)))
+    ax = plt.gca()
+    rects = ax.barh(range(len(shares)), shares)
+    ax.set_yticks(range(len(shares)))
+    ax.set_yticklabels(labels)
+    ax.set_xlabel("Contribution share to cosine similarity (signed)")
+    ax.set_title(title)
+    ax.grid(axis="x", alpha=0.3)
+    for spine in ("top", "right"):
+        ax.spines[spine].set_visible(False)
+    # annotate values
+    for i, v in enumerate(shares):
+        ax.text(v + (0.01 if v >= 0 else -0.01), i, f"{v:+.3f}", va="center",
+                ha="left" if v >= 0 else "right")
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=dpi)
+    plt.close()
+    _log(f"[Plot] Saved feature contributions chart to {out_path}", "info")
+
+
+# =============================================================================
+# CLI
+# =============================================================================
+def parse_weights(s: Optional[str]) -> Dict[str, float]:
+    if not s:
+        return {}
+    out: Dict[str, float] = {}
+    for part in s.split(","):
+        k, _, v = part.partition("=")
+        if _:
+            out[k.strip()] = float(v.strip())
+    return out
+
+
+def cmd_compare(args):
+    metrics = [m.strip() for m in args.metrics.split(",")] if args.metrics else ["sentiment"]
+    weights = parse_weights(args.weights)
+    repos = [args.query] + args.candidates
+
+    _log(f"Comparing {len(args.candidates)} candidate(s) using: {', '.join(metrics)}", "info")
+    if weights:
+        _log(f"  Weights: {weights}", "info")
+    _log("", "info")
+
+    vecs: List[Dict[str, float]] = []
+    for i, r in enumerate(repos):
+        label = "QUERY" if i == 0 else f"CANDIDATE {i}"
+        _log(f"[{label}] {_short_repo(r)}", "info")
+        start = time.time()
+        try:
+            vec = compute_features_for_repo(r, metrics, args.since, args.until, args.github_token, args.max_commits)
+            elapsed = time.time() - start
+            count = vec.get("commit_count", 0)
+            _log(f"  Done ({int(count)} commits, {elapsed:.1f}s)\n", "info")
+            _log(f"  [DEBUG] Features ({len(vec)}): {sorted(vec.keys())}", "debug")
+            vecs.append(vec)
+        except Exception as e:
+            _log(f"  FAILED ({time.time() - start:.1f}s): {e}\n", "info")
+            vecs.append({})
+
+    if len(vecs) < 2 or not any(vecs):
+        _log("Not enough data.", "info")
+        return
+
+    _log("Normalizing...", "info")
+    norm = MinMaxNormalizer()
+    norm.fit(vecs)
+    normed = [norm.transform(v) for v in vecs]
+    normed_w = [weighted_sum(v, weights) for v in normed]
+
+    # Ensure commit_count exists in all vectors (anchor feature)
+    for v in normed_w:
+        v["commit_count"] = v.get("commit_count", 0.0)
+
+    # Use only COMMON features across all repos
+    if len(normed_w) > 1:
+        common_keys = set(normed_w[0].keys())
+        for v in normed_w[1:]:
+            common_keys &= v.keys()
+        keys = sorted(common_keys)
+    else:
+        keys = sorted(normed_w[0].keys()) if normed_w else []
+
+    if not keys:
+        _log(" No common features. Cannot compute similarity.", "info")
+        return
+
+    embs = [[v.get(k, 0.0) for k in keys] for v in normed_w]
+    q_emb = embs[0]
+    _log(" Done\n", "info")
+
+    ranked = [(repo, cosine(q_emb, emb)) for repo, emb in zip(args.candidates, embs[1:])]
+    ranked.sort(key=lambda x: x[1], reverse=True)
+
+    print("=" * 70)
+    print(f"QUERY: {args.query}")
+    print(f"METRICS: {', '.join(metrics)}")
+    if weights:
+        print(f"WEIGHTS: {weights}")
+    print("=" * 70)
+    print("TOP MATCHES:")
+    for i, (repo, sim) in enumerate(ranked[:10], 1):
+        print(f" {i:2d}. {_short_repo(repo):<40} -> similarity = {sim:.4f}")
+    if len(ranked) > 10:
+        print(f" ... and {len(ranked) - 10} more")
+    print("=" * 70)
+
+    # Optional plots
+    if args.plot is not None:
+        out_path = args.plot if isinstance(args.plot, str) else "similarity.png"
+        plot_similarities(ranked, args.query, out_path, dpi=args.dpi, fig_size=args.plot_size)
+
+        # Detailed per-candidate feature contributions
+        if args.plot_details:
+            base = Path(out_path)
+            for (repo, _), emb in zip(ranked, embs[1:]):
+                title = f"Top features vs. {_short_repo(args.query)} — {_short_repo(repo)}"
+                fname = base.with_name(f"{base.stem}__features__{_slug(_short_repo(repo))}{base.suffix}")
+                plot_feature_contribs(q_emb, emb, keys, title, str(fname), topn=args.topn_features, dpi=args.dpi)
+
+
+def build_parser():
+    p = argparse.ArgumentParser(description="Metadata-only repo similarity", formatter_class=argparse.RawTextHelpFormatter)
+    sub = p.add_subparsers(dest="cmd", required=True)
+
+    cp = sub.add_parser("compare", help="Compare repos")
+    cp.add_argument("--query", required=True)
+    cp.add_argument("--candidates", nargs="+", required=True)
+    cp.add_argument("--metrics", default="sentiment")
+    cp.add_argument("--weights", help="e.g., sentiment=2.0,churn=0.5")
+    cp.add_argument("--since", help="YYYY-MM-DD")
+    cp.add_argument("--until", help="YYYY-MM-DD")
+    cp.add_argument("--github-token", help="GitHub PAT")
+    cp.add_argument("--max-commits", type=int, help="Limit commits per repo (for testing)")
+    cp.add_argument("--plot", nargs="?", const="similarity.png",
+                    help="Save a summary chart of candidate similarities to PATH (default: similarity.png)")
+    cp.add_argument("--plot-details", action="store_true",
+                    help="Also save per-candidate 'top feature contributions' charts")
+    cp.add_argument("--plot-size", help='Figure size for summary plot in "WxH" inches, e.g., 8x4 (auto if omitted)')
+    cp.add_argument("--dpi", type=int, default=200, help="DPI for plots (default 200)")
+    cp.add_argument("--topn-features", type=int, default=10, help="Top-N features in detail charts (default 10)")
+    cp.add_argument("--quiet", action="store_true", help="Reduce output; hides cache/progress/debug logs")
+    cp.add_argument("--verbose", action="store_true", help="Enable debug logs")
+    cp.set_defaults(func=cmd_compare)
+
+    return p
+
+
+def main():
+    global VERBOSE, QUIET
+    parser = build_parser()
+    args = parser.parse_args()
+    VERBOSE = bool(args.verbose)
+    QUIET = bool(args.quiet)
+    args.func(args)
+
+
+if __name__ == "__main__":
+    main()
