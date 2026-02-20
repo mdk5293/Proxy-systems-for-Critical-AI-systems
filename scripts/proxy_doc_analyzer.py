@@ -16,7 +16,7 @@ import statistics as stats
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 
 
 @dataclass
@@ -34,7 +34,7 @@ class CodeSignal:
     snippet: str
 
 
-TAXONOMY: Dict[str, Dict[str, object]] = {
+TAXONOMY: Dict[str, Dict[str, Any]] = {
     "physical_environment": {
         "description": "Similarity of operational environment (land/air/sea/space/cyber/medical).",
         "keywords": {
@@ -153,7 +153,7 @@ def load_pdf_document(pdf_path: Path) -> DocumentText:
     return DocumentText(path=pdf_path, title=title, pages=pages)
 
 
-def _best_evidence_for_term(doc: DocumentText, term: str) -> Optional[Dict[str, object]]:
+def _best_evidence_for_term(doc: DocumentText, term: str) -> Optional[Dict[str, Any]]:
     t = term.lower()
     best: Optional[Tuple[int, int, str]] = None
     for i, page in enumerate(doc.pages, start=1):
@@ -169,7 +169,7 @@ def _best_evidence_for_term(doc: DocumentText, term: str) -> Optional[Dict[str, 
     return {"doc": doc.path.name, "page": best[1], "term": term, "snippet": best[2]}
 
 
-def compute_document_dimension_scores(documents: List[DocumentText]) -> Dict[str, Dict[str, object]]:
+def compute_document_dimension_scores(documents: List[DocumentText]) -> Dict[str, Dict[str, Any]]:
     all_text = "\n\n".join("\n".join(d.pages) for d in documents).lower()
     out: Dict[str, Dict[str, object]] = {}
     for dim, spec in TAXONOMY.items():
@@ -224,7 +224,7 @@ def extract_code_signals(code_cells: List[str]) -> List[CodeSignal]:
     return signals
 
 
-def compute_code_dimension_scores(signals: List[CodeSignal], code_cells: List[str]) -> Dict[str, Dict[str, object]]:
+def compute_code_dimension_scores(signals: List[CodeSignal], code_cells: List[str]) -> Dict[str, Dict[str, Any]]:
     corpus = "\n\n".join(code_cells).lower()
     signal_labels = [s.label for s in signals]
     out: Dict[str, Dict[str, object]] = {}
@@ -258,9 +258,9 @@ def _priority_for_gap(gap: float) -> str:
 
 
 def build_recommendations(
-    doc_scores: Dict[str, Dict[str, object]],
-    code_scores: Dict[str, Dict[str, object]],
-) -> List[Dict[str, object]]:
+    doc_scores: Dict[str, Dict[str, Any]],
+    code_scores: Dict[str, Dict[str, Any]],
+) -> List[Dict[str, Any]]:
     recs: List[Dict[str, object]] = []
     for dim in TAXONOMY.keys():
         d = float(doc_scores[dim]["score"])
@@ -305,9 +305,9 @@ def build_recommendations(
 def render_markdown_report(
     pdf_paths: List[Path],
     notebook_path: Path,
-    doc_scores: Dict[str, Dict[str, object]],
-    code_scores: Dict[str, Dict[str, object]],
-    recommendations: List[Dict[str, object]],
+    doc_scores: Dict[str, Dict[str, Any]],
+    code_scores: Dict[str, Dict[str, Any]],
+    recommendations: List[Dict[str, Any]],
 ) -> str:
     lines: List[str] = []
     lines.append("# PDF-to-Recommendations Analysis")
@@ -323,8 +323,10 @@ def render_markdown_report(
     lines.append("| Dimension | Doc signal score | Code coverage score | Gap |")
     lines.append("|---|---:|---:|---:|")
     for dim in TAXONOMY.keys():
-        ds = float(doc_scores[dim]["score"])
-        cs = float(code_scores[dim]["score"])
+        ds_val = doc_scores[dim]["score"]
+        cs_val = code_scores[dim]["score"]
+        ds = float(ds_val) if not isinstance(ds_val, float) else ds_val
+        cs = float(cs_val) if not isinstance(cs_val, float) else cs_val
         gap = max(ds - cs, 0.0)
         lines.append(f"| `{dim}` | {ds:.2f} | {cs:.2f} | {gap:.2f} |")
     lines.append("")
@@ -360,13 +362,13 @@ def render_markdown_report(
     return "\n".join(lines)
 
 
-def validate_traceability(recommendations: List[Dict[str, object]]) -> List[str]:
+def validate_traceability(recommendations: List[Dict[str, Any]]) -> List[str]:
     issues: List[str] = []
     for rec in recommendations:
         if not rec.get("document_evidence"):
             issues.append(f"{rec['dimension']}: missing document evidence")
-        if "code_evidence" not in rec:
-            issues.append(f"{rec['dimension']}: missing code evidence field")
+        if not rec.get("code_evidence"):
+            issues.append(f"{rec['dimension']}: missing code evidence")
     return issues
 
 
