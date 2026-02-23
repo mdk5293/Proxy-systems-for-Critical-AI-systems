@@ -1,0 +1,19 @@
+# Ignore local secrets and caches
+# Token files
+.env
+token.txt
+
+# Notebook checkpoints and cache
+.ipynb_checkpoints/
+.proxytool_cache/
+
+# Results and large generated outputs
+results_plots/
+analysis/
+
+# Logs and system files
+*.log
+.DS_Store
+
+# Keep repository metadata tracked
+!.gitignore

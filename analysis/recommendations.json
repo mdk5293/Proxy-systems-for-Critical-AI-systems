@@ -1,0 +1,365 @@
+{
+  "sources": [
+    "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+    "IEEE PROOF Computer Software Column - v2.pdf",
+    "NIST.CSWP.31.pdf"
+  ],
+  "notebook": "proxytool.ipynb",
+  "doc_scores": {
+    "physical_environment": {
+      "score": 1.0,
+      "description": "Similarity of operational environment (land/air/sea/space/cyber/medical).",
+      "evidence": [
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 5,
+          "term": "land",
+          "snippet": "IEEE Proof 6 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGunacceptable on the live CAIS: biased inputs, adversarial examples, infra - structure failures, or degraded sensors. We can then transfer insights back to the CAIS. Failure patterns discov -"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 1,
+          "term": "air",
+          "snippet": "A Taxonomy of Critical AI System Characteristics for Use in Proxy System Testing Joanna DeFranco Engineering Penn State Malvern, USA jfd104@psu.edu Mohamad Kassab Engineering Penn State Malvern, USA muk36@psu.edu Phil Laplante Engineering Pen"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "sea",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "space",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        }
+      ]
+    },
+    "application_purpose": {
+      "score": 0.8889,
+      "description": "Similarity of mission/application purpose.",
+      "evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "application purpose",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "mission",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 4,
+          "term": "purpose",
+          "snippet": "It is important to note that \u201cmatching\u201d these 5 operational characteristics is vital for each proxy system accuracy. Every environment, technique, characteristic, algorithm, and purpose of the proxy system needs to be clearly and thoroughly defined to repres"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "domain",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        }
+      ]
+    },
+    "operational_characteristics": {
+      "score": 0.9375,
+      "description": "Runtime characteristics, constraints, failure modes, and system behavior.",
+      "evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "operational characteristics",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 3,
+          "term": "runtime",
+          "snippet": "IEEE Proof 4 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGand comparing execution traces or state transitions, building control flow and data flow graphs, and applying machine learning models to logs and runtime metrics to learn behavioral \u201cfing"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 1,
+          "term": "reliability",
+          "snippet": "A Taxonomy of Critical AI System Characteristics for Use in Proxy System Testing Joanna DeFranco Engineering Penn State Malvern, USA jfd104@psu.edu Mohamad Kassab Engineering Penn State Malvern, USA muk36@psu.edu Phil Laplante Engineering Pen"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 1,
+          "term": "safety",
+          "snippet": "A Taxonomy of Critical AI System Characteristics for Use in Proxy System Testing Joanna DeFranco Engineering Penn State Malvern, USA jfd104@psu.edu Mohamad Kassab Engineering Penn State Malvern, USA muk36@psu.edu Phil Laplante Engineering Pen"
+        }
+      ]
+    },
+    "ai_ml_algorithms": {
+      "score": 0.7692,
+      "description": "Algorithmic comparability of systems.",
+      "evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "algorithm",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "ai/ml",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "machine learning",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "deep learning",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        }
+      ]
+    },
+    "development_techniques": {
+      "score": 0.8696,
+      "description": "Engineering process, collaboration, and development practices.",
+      "evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "development techniques",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 3,
+          "term": "commit",
+          "snippet": "IEEE Proof 4 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGand comparing execution traces or state transitions, building control flow and data flow graphs, and applying machine learning models to logs and runtime metrics to learn behavioral \u201cfing"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 2,
+          "term": "collaboration",
+          "snippet": "IEEE Proof EDITORS JEFFREY VOAS IEEE Fellow ; j.voas@ieee.org BENOIT BAUDRY Universit\u00e9 de Montr\u00e9al ; benoit.baudry@umontreal.ca MONTH 2026 3One promising approach is to lever - age proxy systems : noncritical software that behaves similarly to the real"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 3,
+          "term": "issue",
+          "snippet": "IEEE Proof 4 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGand comparing execution traces or state transitions, building control flow and data flow graphs, and applying machine learning models to logs and runtime metrics to learn behavioral \u201cfing"
+        }
+      ]
+    },
+    "proxy_vnv_process": {
+      "score": 1.0,
+      "description": "NIST proxy validation and verification process phases.",
+      "evidence": [
+        {
+          "doc": "NIST.CSWP.31.pdf",
+          "page": 3,
+          "term": "five-phase process",
+          "snippet": "NIST CSWP 31 Proxy Validation and Verification September 26, 2024 for Critical AI Systems i Abstract This white paper describes a five-phase process that includes identifying or building proxy systems that have high similarity to a critical AI system (CA"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 5,
+          "term": "validation and verification",
+          "snippet": "IEEE Proof 6 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGunacceptable on the live CAIS: biased inputs, adversarial examples, infra - structure failures, or degraded sensors. We can then transfer insights back to the CAIS. Failure patterns discov -"
+        },
+        {
+          "doc": "NIST.CSWP.31.pdf",
+          "page": 1,
+          "term": "proxy design process",
+          "snippet": "NIST Cybersecurity White Paper NIST CSWP 31 Proxy Validation and Verification for Critical AI Systems A Proxy Design Process Phillip Laplante Joanna DeFranco Rick Kuhn Jeff Voas Computer Security Division Information Technology Laboratory M ohamad K"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "use case",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        }
+      ]
+    }
+  },
+  "code_scores": {
+    "physical_environment": {
+      "score": 0.0,
+      "description": "Similarity of operational environment (land/air/sea/space/cyber/medical).",
+      "evidence": []
+    },
+    "application_purpose": {
+      "score": 0.0,
+      "description": "Similarity of mission/application purpose.",
+      "evidence": []
+    },
+    "operational_characteristics": {
+      "score": 0.0,
+      "description": "Runtime characteristics, constraints, failure modes, and system behavior.",
+      "evidence": []
+    },
+    "ai_ml_algorithms": {
+      "score": 0.0,
+      "description": "Algorithmic comparability of systems.",
+      "evidence": []
+    },
+    "development_techniques": {
+      "score": 1.0,
+      "description": "Engineering process, collaboration, and development practices.",
+      "evidence": [
+        {
+          "cell_idx": 7,
+          "kind": "class",
+          "label": "CadenceMetric",
+          "snippet": "class CadenceMetric(Metric):"
+        },
+        {
+          "cell_idx": 7,
+          "kind": "class",
+          "label": "ChurnMetric",
+          "snippet": "class ChurnMetric(Metric):"
+        },
+        {
+          "cell_idx": 8,
+          "kind": "class",
+          "label": "AttachRateMetric",
+          "snippet": "class AttachRateMetric(Metric):"
+        },
+        {
+          "cell_idx": 9,
+          "kind": "class",
+          "label": "GitLoggerMetrics",
+          "snippet": "class GitLoggerMetrics(Metric):"
+        }
+      ]
+    },
+    "proxy_vnv_process": {
+      "score": 0.25,
+      "description": "NIST proxy validation and verification process phases.",
+      "evidence": []
+    }
+  },
+  "recommendations": [
+    {
+      "dimension": "physical_environment",
+      "priority": "P1",
+      "gap": 1.0,
+      "impact": 5.0,
+      "effort": "medium",
+      "recommendation": "Increase coverage depth for `physical_environment` signals and normalize feature naming across metrics.",
+      "document_evidence": [
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 5,
+          "term": "land",
+          "snippet": "IEEE Proof 6 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGunacceptable on the live CAIS: biased inputs, adversarial examples, infra - structure failures, or degraded sensors. We can then transfer insights back to the CAIS. Failure patterns discov -"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 1,
+          "term": "air",
+          "snippet": "A Taxonomy of Critical AI System Characteristics for Use in Proxy System Testing Joanna DeFranco Engineering Penn State Malvern, USA jfd104@psu.edu Mohamad Kassab Engineering Penn State Malvern, USA muk36@psu.edu Phil Laplante Engineering Pen"
+        }
+      ],
+      "code_evidence": []
+    },
+    {
+      "dimension": "operational_characteristics",
+      "priority": "P1",
+      "gap": 0.9375,
+      "impact": 4.69,
+      "effort": "medium",
+      "recommendation": "Add an operational-characteristics metric family (risk markers, safety/criticality, failure-mode mentions, and runtime constraints), then include it in ALL_METRICS.",
+      "document_evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "operational characteristics",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 3,
+          "term": "runtime",
+          "snippet": "IEEE Proof 4 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGand comparing execution traces or state transitions, building control flow and data flow graphs, and applying machine learning models to logs and runtime metrics to learn behavioral \u201cfing"
+        }
+      ],
+      "code_evidence": []
+    },
+    {
+      "dimension": "application_purpose",
+      "priority": "P1",
+      "gap": 0.8889,
+      "impact": 4.44,
+      "effort": "medium",
+      "recommendation": "Increase coverage depth for `application_purpose` signals and normalize feature naming across metrics.",
+      "document_evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "application purpose",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "mission",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        }
+      ],
+      "code_evidence": []
+    },
+    {
+      "dimension": "ai_ml_algorithms",
+      "priority": "P1",
+      "gap": 0.7692,
+      "impact": 3.85,
+      "effort": "medium",
+      "recommendation": "Increase coverage depth for `ai_ml_algorithms` signals and normalize feature naming across metrics.",
+      "document_evidence": [
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 3,
+          "term": "algorithm",
+          "snippet": "TABLE III. EUROPEAN COMMISSION AI APPLICATION TAXONOMY AI Domain Subdomain Example Key Words within the subdomains Reasoning Knowledge representation Case-based reasoning, inductive programming, expert system etc. Automated reasoning Common sense rea"
+        },
+        {
+          "doc": "A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf",
+          "page": 2,
+          "term": "ai/ml",
+          "snippet": "TABLE I. A MERICAN MEDICAL ASSOCIATION AI TAXONOMY FOR MEDICAL SERVICES AND PROCEDURES [2] Taxonomy Component Assistive Level 1 Augmentative Level 2 Autonomous Level 3 Primary Objective Detects clinically relevant data Analyzes// quantifies data i"
+        }
+      ],
+      "code_evidence": []
+    },
+    {
+      "dimension": "proxy_vnv_process",
+      "priority": "P1",
+      "gap": 0.75,
+      "impact": 3.75,
+      "effort": "medium",
+      "recommendation": "Add explicit proxy V&V process outputs (phase coverage, use/misuse-case traceability, and criticality indicators) to align with NIST CSWP-31.",
+      "document_evidence": [
+        {
+          "doc": "NIST.CSWP.31.pdf",
+          "page": 3,
+          "term": "five-phase process",
+          "snippet": "NIST CSWP 31 Proxy Validation and Verification September 26, 2024 for Critical AI Systems i Abstract This white paper describes a five-phase process that includes identifying or building proxy systems that have high similarity to a critical AI system (CA"
+        },
+        {
+          "doc": "IEEE PROOF Computer Software Column - v2.pdf",
+          "page": 5,
+          "term": "validation and verification",
+          "snippet": "IEEE Proof 6 COMPUTER WWW.COMPUTER.ORG/COMPUTER SOFTWARE ENGINEERINGunacceptable on the live CAIS: biased inputs, adversarial examples, infra - structure failures, or degraded sensors. We can then transfer insights back to the CAIS. Failure patterns discov -"
+        }
+      ],
+      "code_evidence": []
+    }
+  ],
+  "traceability_issues": []
+}
