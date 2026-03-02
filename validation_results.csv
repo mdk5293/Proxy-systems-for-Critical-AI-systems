@@ -1,8 +1,8 @@
 Test Name,Query,Candidate,Expected,Similarity,Match
-vscode vs electron (related),vscode,electron,high,0.2987,X
-vscode vs react (unrelated),vscode,react,low,0.3144,YES
-tensorflow vs pytorch (ML),tensorflow,pytorch,high,0.347,X
-tensorflow vs sklearn (ML),tensorflow,scikit-learn,high,0.2987,X
-django vs flask (Web),django,flask,high,0.3144,X
-tensorflow vs django (ML vs Web),tensorflow,django,low,0.3024,YES
-pytorch vs react (ML vs UI),pytorch,react,low,0.347,YES
+vscode vs electron (related),vscode,electron,high,0.5452,YES
+vscode vs react (unrelated),vscode,react,low,0.5076,X
+tensorflow vs pytorch (ML),tensorflow,pytorch,high,0.672,YES
+tensorflow vs sklearn (ML),tensorflow,scikit-learn,high,0.5395,YES
+django vs flask (Web),django,flask,high,0.5553,YES
+tensorflow vs django (ML vs Web),tensorflow,django,low,0.5357,X
+pytorch vs react (ML vs UI),pytorch,react,low,0.5529,X
