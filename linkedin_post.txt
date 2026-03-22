@@ -1,0 +1,119 @@
+I built an executable research pipeline for discovering open-source proxy systems to test Critical AI Systems (CAIS) when you can’t access proprietary source code — aligned with Mark Kennedy, Professor Joanna F. DeFranco & Philip A. Laplante, “Discovering Proxy Systems to Test Critical AI Systems: A Metadata-Driven Software Similarity Approach” (IEEE Computer, 2026).
+
+Most teams hit the same wall: you need safety-oriented evidence, but the real system is locked behind NDAs, export controls, or operational secrecy. “Pick a similar GitHub repo” isn’t a strategy — it’s a guess. I wanted something defensible: multi-signal similarity + explicit taxonomy alignment + a path from ranking → test planning.
+
+THE PROBLEM
+- Without source access, you still need to argue that a proxy is a plausible behavioral stand-in for a CAIS.
+- Generic similarity (stars, topics, “vibes”) doesn’t answer the hard question: does the proxy match the dimensions you care about for risk and validation?
+- You also need a bridge from “here are ranked repos” to “here is what we would test,” not just a leaderboard.
+
+WHAT I BUILT (paper → code + notebook improvisation)
+This repo is an executable extension of the paper—not a one-page demo. The main artifact is proxytool.ipynb: a single notebook that wires the full research loop (config → data pull → features → similarity → validation → plots → test plans).
+
+• Figure 2 (six-step pipeline), end-to-end in proxytool.ipynb:
+  1) Anchor per-domain CAIS profiles (NIST 5D-style dimensions) — CAIS_DOMAIN_CONFIGS
+  2) Discover or fix candidate sets — GitHub discovery (DISCOVERY_QUERIES) + run_discover_and_compare(...)
+  3) Extract behavioral fingerprints from public Git metadata (not proprietary source)
+  4) Normalize + weight features — CAIS_WEIGHTS + tuning helpers (e.g. tune_weights)
+  5) Score + rank via cosine similarity on weighted vectors
+  6) Validate taxonomy alignment — overall vs taxonomy-restricted similarity; compare_taxonomy_vs_standalone(...)
+
+• Figure 3 (Similarity → Taxonomy validation → Proxy selection → Test campaigns):
+  - Failure-mode scenarios per domain — CAIS_TEST_SCENARIOS
+  - Structured plans — plan_proxy_tests(...) + print_proxy_test_plan(...)
+
+THE 11 CAIS DOMAINS WE EXERCISE (CAIS_DOMAIN_CONFIGS — not just one vertical)
+Each row is a separate “world” with its own anchor repo, candidate set, expected-high-similarity proxies, controls, and NIST-style profile—so the same pipeline is stress-tested across heterogeneous high-stakes settings:
+
+1) autonomous_driving — road autonomy / perception-planning style systems
+2) medical_ai — clinical / imaging ML style stacks
+3) robotics — ROS-class navigation & integration ecosystems
+4) aerial_autonomy — PX4 / flight-stack style autonomy
+5) financial_risk — credit / risk-scoring ML (high-stakes decisions)
+6) industrial_robotics — arms, motion, industrial automation stacks
+7) recommender_systems — large-scale ranking / recsys codebases
+8) security_identity — IAM / auth / identity-heavy systems
+9) content_moderation — moderation / policy-enforcement style ML
+10) public_sector_fairness — fairness / public-sector ML risk framing
+11) cybersecurity_threat_detection — IDS / SIEM / threat-detection style systems
+
+
+WHAT THE NOTEBOOK ACTUALLY DOES
+Inside proxytool.ipynb the workflow is layered so you can go shallow (smoke test) or deep (full research run):
+
+• Static vs discovery paths — run suites with fixed candidate lists (reproducible) or flip on GitHub discovery to search for proxies per domain.
+• Multi-domain sweeps — helpers like run_all_domain_suites / run_discover_and_compare across all configured domains (not one notebook cell and done).
+• Weight learning — tune_weights(...) per domain to search family-level weights that improve ranking quality against expected proxy lists (tuning).
+• Taxonomy vs standalone — compare_taxonomy_vs_standalone: explicit A/B between taxonomy-augmented metric bundles vs a baseline metric set—this is the paper’s “does taxonomy help accuracy?” claim operationalized.
+• Separation analysis — domain_vs_control_analysis: measure whether domain peers separate from control repos (sanity check that the signal isn’t random).
+• Baseline triangulation — side_by_side_comparison + deep_code_similarity / code_clone_similarity / dynamic_behavior_similarity: compare metadata similarity against lightweight public-metadata baselines so you’re not evaluating in a vacuum.
+• Method agreement — correlate_methods: Spearman correlations across Metadata / CodeClone / Behavioral / DeepCode to see when methods agree (and when they don’t).
+• Safety-loop artifacts — plan_proxy_tests + print_proxy_test_plan: turn ranked proxies into scenario-backed test campaign sketches mapped to indicator families (Figure 3).
+• Reporting & visuals — plots land in results_plots/; validation_results.csv captures tabular outcomes for talks and regression checks.
+
+That’s the improvisation on the paper by using repeatable experiments, ablations, and cross-domain checks.
+
+FOUR INDICATOR FAMILIES (what “metadata-only” actually measures)
+1) Commit semantics — intent/sentiment signals; optional sentence-transformer embeddings when sentence-transformers is installed
+2) Contributor behavior — collaboration / authorship-style signals from commit history
+3) File change histories — co-change + churn from commit numstat and file-graph style signals
+4) Temporal evolution — development rhythm, cadence, burstiness
+
+TAXONOMY + METRICS 
+it’s not just embeddings
+- CAIS_METRICS bundles the paper’s indicator families with explicit NIST 5D taxonomy dimensions (environment, purpose, operational O1–O5, algorithm, language) so similarity isn’t only “commit-text similarity.”
+- The evaluation path explicitly contrasts taxonomy-augmented similarity vs standalone metric sets — that’s the paper’s accuracy in code.
+
+BASELINES & ROBUSTNESS CHECKS (portfolio signal)
+- Domain vs control analysis — quantify separation between domain peers and controls (not just high scores in isolation)
+- Side-by-side comparison — metadata similarity vs lightweight code-structure / behavioral / deep-readme+tree baselines (side_by_side_comparison, deep_code_similarity, etc.)
+- Rank-correlation analysis across methods — correlate_methods(...) (Spearman) to see whether different views agree or diverge
+
+STACK (recruiter keywords)
+• Python + GitHub REST API 
+• requests 
+• feature normalization + weighted cosine similarity 
+• matplotlib for plots 
+• scipy for rank correlations 
+• sentence-transformers + vaderSentiment 
+• CLI entry proxytool.py + PowerShell harness for batch plot generation
+
+OPTIONAL “META” TOOLING
+- scripts/proxy_doc_analyzer.py + analysis/ — PDF/taxonomy-driven gap notes vs the implementation (useful for research hygiene and showing you think in traceability, not only code)
+
+PROOF (what to look at in the repo — swap in your numbers)
+- proxytool.ipynb — full pipeline from discovery through evaluation and test-plan output
+- README.md — paper ↔ code mapping (Figure 2 / Figure 3)
+- results_plots/ — saved figures for comparisons and talks
+- validation_results.csv — summarized runs across domains / settings
+[Add 1–2 concrete bullets after your next full run, e.g.: “taxonomy-augmented improved MRR vs BASE_METRICS on domain X” or “Spearman ρ between Metadata and DeepCode on domain Y” — recruiters scan for numbers.]
+
+BIGGEST INSIGHT
+The hardest part wasn’t “compute a similarity score.” It was making the pipeline CAIS-aligned: forcing the ranking to be explainable against taxonomy dimensions and turning ranked proxies into scenario-backed test plans. If the proxy story can’t connect to how you’ll test, it won’t survive a safety review — even if the leaderboard looks pretty.
+
+LOOKING AHEAD
+This work already shows what metadata-only similarity can do; the exciting part is what comes next—deeper signals, stronger baselines, and real-world CAIS studies.
+The foundation is intentionally honest: Git metadata captures development behavior (not full runtime semantics), discovery quality tracks GitHub search and API realities, and embeddings use general-purpose sentence models today—so the roadmap below is how we tighten the science without pretending we already measured everything.
+
+• Richer dynamic baselines — where CI and test artifacts are public, layer in pass/fail distributions, coverage overlap, and execution-aware signals alongside Git metadata.
+• Cross-language code understanding — upgrade the code-centric view with models like CodeBERT / UniXcoder on carefully sampled public files (with clear licensing discipline).
+• Ensemble scoring — fuse metadata similarity, behavioral signals, and code-centric views into a single multi-view score with explicit uncertainty.
+• Temporal calibration — track how proxy rankings drift as repositories evolve; refresh rankings and flag when a proxy diverges from the CAIS fingerprint.
+• Industrial & regulated CAIS — extend the same harness to proprietary or restricted domains (defense, energy, transportation) where only metadata can be shared—exactly where proxy testing matters most.
+• Ground-truth expansion — grow per-domain validation pairs and rubrics so weight tuning and taxonomy-vs-standalone claims stay statistically grounded as the harness scales.
+
+CTA
+If you work on safety evaluation, test strategy, or AI governance under source constraints — I’d love feedback, critique, or collab ideas.
+Repo: [YOUR_GITHUB_LINK]
+Happy to walk through the notebook section-by-section.
+
+VISUAL
+Attach one chart that non-experts can read in 3 seconds (domain vs control gap, or side-by-side bars). Save the dense heatmaps for comments.
+
+#AISafety #CriticalAI #MachineLearning #Python #SoftwareEngineering #ResponsibleAI
+
+--------------------------------------------------------------------------------
+OPTIONAL FIRST COMMENT (short hook — boosts reach)
+--------------------------------------------------------------------------------
+TL;DR: Metadata-only proxy discovery for Critical AI Systems — IEEE Computer 2026 paper-aligned Jupyter pipeline, NIST 5D taxonomy validation, 11 CAIS domain harnesses (driving → med → finance → robotics → … → cyber), scenario-based test planning. Code: [LINK]
+

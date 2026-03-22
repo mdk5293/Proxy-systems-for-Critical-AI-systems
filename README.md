@@ -1,125 +1,95 @@
-# iCloud Drive Quick Access Setup
+# Proxytool: Metadata-Driven Proxy Discovery for Critical AI Systems (CAIS)
 
-## Overview
-This document explains how to set up a quick terminal alias to access your iCloud Drive folder without typing the long path every time.
+This repository contains an executable implementation of the paper:
+Kennedy, DeFranco & Laplante (IEEE Computer, 2026),
+“Discovering Proxy Systems to Test Critical AI Systems: A Metadata-Driven Software Similarity Approach”.
 
-## The Problem
-The default iCloud Drive path is long and hard to remember:
-```
-~/Library/Mobile Documents/com~apple~CloudDocs
-```
+## Abstract
+Proxytool helps discover and rank open-source proxy systems for Critical AI Systems (CAIS) when direct source code access is restricted.
+It computes a composite similarity score from GitHub metadata (commit semantics, contributor behavior, file-change histories, and temporal evolution),
+then validates candidate rankings using a NIST-style CAIS taxonomy alignment and a scenario-driven safety loop.
 
-## The Solution: Shell Alias
+## 1) Introduction / Motivation
+When source access is unavailable (proprietary, regulated, or restricted), teams still need safety-oriented evidence.
+The paper argues that proxy selection should be grounded in *behavioral fingerprints* and *taxonomy-aligned similarity*—not superficial resemblance.
 
-### What is an Alias?
-An alias is a shortcut command that runs a longer command. Instead of typing the full path, you can just type `icloud` to navigate there instantly.
+## 2) Paper-to-Code Mapping (high level)
+The notebook implements the paper’s six-step process (Figure 2) and the Similarity → Taxonomy validation → Proxy test planning safety loop (Figure 3):
 
-### Setup Steps
+- **Figure 2 (pipeline):** discovery → feature extraction → normalization → similarity scoring → ranking → validation
 
-1. **Edit your shell configuration file:**
-   ```bash
-   nano ~/.zshrc
-   ```
-   And alternatively:
-   ```bash
-   nano ~/.zprofile
-   ```
+![Figure 2: Six-step proxy discovery pipeline](assets/figure2.png)
 
-2. **Add this line at the VERY BOTTOM of the file:**
-   ```bash
-   alias icloud='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs'
-   ```
+- **Figure 3 (safety loop):** taxonomy-aware reporting → scenario-based test planning mapped to indicator families
 
-3. **Save and exit:**
-   - Press `Ctrl + O` to save
-   - Press `Enter` to confirm
-   - Press `Ctrl + X` to exit
+![Figure 2: Similarity to proxy safety loop](assets/figure3.png)
 
-4. **Apply the changes:**
-   ```bash
-   source ~/.zshrc
-   ```
+## 3) Method (Paper Figure 2: Six-Step Process)
+Run `proxytool.ipynb` for the full end-to-end workflow.
 
-5. **Test it:**
-   ```bash
-   icloud
-   pwd
-   ```
-   You should see: `/Users/aryamandev/Library/Mobile Documents/com~apple~CloudDocs`
+### Step 1 — Anchor CAIS profiles
+- Loads per-domain CAIS profile configuration (NIST 5D-style dimensions) in `CAIS_DOMAIN_CONFIGS`.
 
-### Usage
-From anywhere in your terminal, simply type:
-```bash
-icloud
-```
-And you'll instantly be in your iCloud Drive folder!
+### Step 2 — Discover candidates
+- Candidate repos are sourced from GitHub discovery queries and/or configured candidate lists.
+- Primary entry point: `run_discover_and_compare(...)`.
 
-## Important: If You WANT `cd icloud` to Work
+### Step 3 — Extract behavioral fingerprints
+Proxytool builds four indicator families:
 
-**The alias method does NOT work with `cd`!**
+1. **Commit semantics** (intent/sentiment, plus embedding when `sentence-transformers` is available)
+2. **Contributor behavior** (collaboration and authorship graph signals)
+3. **File change histories** (co-change and churn signals from commit numstat + file trees)
+4. **Temporal evolution** (development rhythm and cadence/burstiness)
 
-If you try:
-```bash
-cd icloud  # This will NOT work with an alias
-```
-You'll get: `cd: no such file or directory: icloud`
+### Step 4 — Normalize & weight features
+- Features are scaled via a normalizer and combined with paper-aligned weights (`CAIS_WEIGHTS` / weight tuning helpers).
 
-### Solution: Create a Symlink Instead
+### Step 5 — Similarity score & ranking
+- Similarity is computed via cosine similarity over the weighted feature vectors.
 
-You must create a **real path (symlink)**, not an alias.
+### Step 6 — Taxonomy-aware validation
+- Proxy selection reports **overall** vs **taxonomy-only** similarity, making taxonomy alignment explicit.
+- Key helpers: `compare_taxonomy_vs_standalone(...)`, `_taxonomy_similarity_report(...)`.
 
-**Do this once:**
-```bash
-ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/icloud
-```
+## 4) Similarity → Safety Loop (Paper Figure 3)
+The notebook includes scenario-driven test planning by mapping failure-mode scenarios back to indicator families.
 
-**Now `cd` works:**
-```bash
-cd icloud
-```
+- Scenario construction: `CAIS_TEST_SCENARIOS`
+- Plan generation: `plan_proxy_tests(...)`
+- Human-readable output: `print_proxy_test_plan(...)`
 
-The prompt will show:
-```bash
-(base) aryamandev@Aryamans-MacBook-Pro icloud %
-```
+## 5) Experimental Evaluation (How results are produced)
+The repo supports multiple evaluation modes:
 
-With a symlink, `~/icloud` acts like a real folder that can be used with `cd` and all other commands.
+- **Domain vs Control separation**: how a CAIS “peer set” differs from controls
+- **Taxonomy vs standalone**: compare accuracy under taxonomy-augmented similarity
+- **Side-by-side code baselines** (where code is available): `side_by_side_comparison(...)`
 
-## Alternative Approaches
+Outputs:
+- `results_plots/`: saved experiment visualizations
+- `validation_results.csv`: evaluation summaries
+- `analysis/`: generated recommendation artifacts (e.g., recommendations derived from taxonomy PDFs)
 
-| Method | Example | How It Works | Pros | Cons |
-|--------|---------|--------------|------|------|
-| **Alias** | `icloud` | Runs `cd` command automatically | Simple, no filesystem changes | Run directly only (not with `cd`) |
-| **Directory Variable** | `cd ~/iCloud` | Reference a path variable | Can use with `cd` and other commands | Requires setting up environment variable |
-| **Symlink** | `~/iCloud` | Creates a symbolic link/shortcut | Acts like a real folder, works everywhere | Modifies filesystem, permanent until removed |
+## 6) How to Run
+1. Set a GitHub token:
+   - `export GITHUB_TOKEN=...`
+2. Install dependencies (not all are required for every run):
+   - `pip install requests tqdm matplotlib ipython scipy sentence-transformers vaderSentiment`
+3. Open and execute:
+   - `proxytool.ipynb`
 
-### Creating a Symlink (Alternative Method)
-If you prefer a folder-like approach that works with `cd`:
-```bash
-ln -s ~/Library/Mobile\ Documents/com~apple~CloudDocs ~/iCloud
-```
-Then you can use:
-```bash
-cd ~/iCloud
-```
+Note: deep semantic embedding signals depend on `sentence-transformers`. If it isn’t installed, the notebook falls back gracefully.
 
-## Why ~/.zshrc or ~/.zprofile?
+## 7) Repository Layout
+- `proxytool.ipynb`: canonical research pipeline (discovery → similarity → evaluation → test planning)
+- `scripts/proxy_doc_analyzer.py`: generates recommendation signals from taxonomy PDFs
+- `results_plots/`: curated visuals for analysis and comparisons
+- `analysis/`: generated artifacts (optional)
 
-- **~/.zshrc**: Loaded for interactive shells (every new terminal window)
-- **~/.zprofile**: Loaded for login shells (once per session)
-
-For aliases you want to use frequently, **~/.zshrc** is usually the better choice.
-
-## Troubleshooting
-
-### Alias not working?
-1. Make sure you sourced the file: `source ~/.zshrc`
-2. Check if alias exists: `alias | grep icloud`
-3. Open a new terminal window to ensure it loads
-
-### Path with spaces?
-The backslash (`\`) before spaces is important: `Mobile\ Documents`
-
----
-
-**Note:** This setup is specific to macOS systems with iCloud Drive enabled.
+## Links / References
+- `Discovering_Proxy_Systems_to_Test_Critical_AI_Systems_A_Metadata-Driven_Software_Similarity_Approach.pdf`
+- `IEEE PROOF Computer Software Column - v2.pdf`
+- `NIST.CSWP.31.pdf`
+- `A_Taxonomy_of_Critical_AI_System_Characteristics_for_Use_in_Proxy_System_Testing.pdf`
+- `CAIS-NIST.docx`

@@ -7,6 +7,19 @@ token.txt
 .ipynb_checkpoints/
 .proxytool_cache/
 
+# Editor and local-only artifacts
+.cursor/
+.git-backups/
+__pycache__/
+*.pyc
+
+# Redundant local exports / duplicates
+proxytool4.ipynb
+proxytool copy.ipynb.txt
+proxytool.py.txt
+changes.ipynb
+TestHarness_NEEDSTOKEN.ps1
+
 # Results and large generated outputs
 results_plots/
 analysis/
@@ -17,3 +30,8 @@ analysis/
 
 # Keep repository metadata tracked
 !.gitignore
+
+.gitattributes
+
+INSTRUCTIONS.md
+linkedin_post.txt
