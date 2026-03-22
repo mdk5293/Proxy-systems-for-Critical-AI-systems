@@ -20,9 +20,14 @@ proxytool.py.txt
 changes.ipynb
 TestHarness_NEEDSTOKEN.ps1
 
-# Results and large generated outputs
+# Results and large generated outputs (local / regenerated)
 results_plots/
 analysis/
+
+# Local-only notes and drafts (never commit — if Git still tracks them, run:
+#   git rm -r --cached analysis/ INSTRUCTIONS.md linkedin_post.txt
+INSTRUCTIONS.md
+linkedin_post.txt
 
 # Logs and system files
 *.log
@@ -32,6 +37,3 @@ analysis/
 !.gitignore
 
 .gitattributes
-
-INSTRUCTIONS.md
-linkedin_post.txt
