@@ -134,7 +134,7 @@ What public metadata is actually measuring:
 
 ---
 
-## Proof points (what to open first)
+## Proof points
 
 | Artifact | Role |
 |----------|------|
@@ -147,7 +147,7 @@ What public metadata is actually measuring:
 
 ---
 
-## Research insight (why this is hard)
+## Research insight
 
 The hardest part is not “compute a similarity score.” It is making the pipeline **CAIS-aligned**: rankings **explainable against taxonomy dimensions**, and ranked proxies connected to **how you will test**. If the proxy story does not connect to test strategy, it will not pass a safety review—even if the leaderboard looks good.
 
@@ -161,18 +161,22 @@ The foundation is intentionally honest:
 - **Discovery quality** reflects real **GitHub search and API** behavior.
 - **Embeddings** use general-purpose sentence models unless you plug in something stronger.
 
-The roadmap below is how to **tighten the science** without pretending runtime behavior was fully measured from metadata alone.
+The **LOOKING AHEAD** section below is how we **tighten the science** without pretending runtime behavior was fully measured from metadata alone.
 
 ---
 
-## Roadmap
+## LOOKING AHEAD
 
-- **Richer dynamic baselines** — Where CI/test artifacts are public: pass/fail distributions, coverage overlap, execution-aware signals next to Git metadata.
-- **Cross-language code understanding** — CodeBERT / UniXcoder-style models on sampled public files (with licensing discipline).
-- **Ensemble scoring** — Fuse metadata, behavioral, and code-centric views with explicit uncertainty.
-- **Temporal calibration** — Track ranking drift as repos evolve; refresh and flag divergence from the CAIS fingerprint.
-- **Industrial & regulated CAIS** — Extend the harness where only metadata can be shared (defense, energy, transportation)—where proxy testing matters most.
-- **Ground-truth expansion** — More per-domain validation pairs and rubrics so weight tuning and taxonomy-vs-standalone claims stay statistically grounded.
+This work already shows what metadata-only similarity can do; the exciting part is what comes next—deeper signals, stronger baselines, and real-world CAIS studies.
+
+The foundation is intentionally honest: Git metadata captures development behavior (not full runtime semantics), discovery quality tracks GitHub search and API realities, and embeddings use general-purpose sentence models today—so the roadmap below is how we tighten the science without pretending we already measured everything.
+
+- **Richer dynamic baselines** — where CI and test artifacts are public, layer in pass/fail distributions, coverage overlap, and execution-aware signals alongside Git metadata.
+- **Cross-language code understanding** — upgrade the code-centric view with models like CodeBERT / UniXcoder on carefully sampled public files (with clear licensing discipline).
+- **Ensemble scoring** — fuse metadata similarity, behavioral signals, and code-centric views into a single multi-view score with explicit uncertainty.
+- **Temporal calibration** — track how proxy rankings drift as repositories evolve; refresh rankings and flag when a proxy diverges from the CAIS fingerprint.
+- **Industrial & regulated CAIS** — extend the same harness to proprietary or restricted domains (defense, energy, transportation) where only metadata can be shared—exactly where proxy testing matters most.
+- **Ground-truth expansion** — grow per-domain validation pairs and rubrics so weight tuning and taxonomy-vs-standalone claims stay statistically grounded as the harness scales.
 
 ---
 
