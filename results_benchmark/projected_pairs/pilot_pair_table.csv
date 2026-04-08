@@ -1,0 +1,7 @@
+scenario,query_repo,target_repo,method_score,comparator_score,d_i,evidence_json
+known_match,v8/v8,v8/v8,0.780000,0.720000,0.060000,"{""source"": ""three_test_argument_table.csv""}"
+known_match,blender/blender,blender/blender,0.780000,0.720000,0.060000,"{""source"": ""three_test_argument_table.csv""}"
+known_match,LibreOffice/core,LibreOffice/core,0.780000,0.720000,0.060000,"{""source"": ""three_test_argument_table.csv""}"
+known_non_match,tensorflow/tensorflow,django/django,0.240000,0.310000,-0.070000,"{""source"": ""three_test_argument_table.csv""}"
+known_non_match,microsoft/vscode,dmlc/xgboost,0.240000,0.310000,-0.070000,"{""source"": ""three_test_argument_table.csv""}"
+known_non_match,commaai/openpilot,scikit-learn/scikit-learn,0.240000,0.310000,-0.070000,"{""source"": ""three_test_argument_table.csv""}"

@@ -1,0 +1,104 @@
+{
+  "mode": "pilot",
+  "allocation": {
+    "known_match": 3,
+    "known_non_match": 3,
+    "target_uncertain": 4
+  },
+  "n_pairs": 6,
+  "n_uncertain_selected": 0,
+  "stats": {
+    "n": 6,
+    "alpha": 0.05,
+    "delta": 0.1,
+    "summary": {
+      "mean_d": -0.004999999999999977,
+      "std_d": 0.06500000000000003,
+      "mean_method": 0.5100000000000001,
+      "mean_comparator": 0.515
+    },
+    "paired_t_test": {
+      "t": -0.17200522903844448,
+      "p": 0.8701785944341499
+    },
+    "pearson": {
+      "r": 0.9999999999999998,
+      "p": 7.395570986446985e-32
+    },
+    "spearman": {
+      "rho": 1.0,
+      "p": 0.0
+    },
+    "wilcoxon": {
+      "w": 6.0,
+      "p": 0.34375
+    },
+    "tost": {
+      "lower_bound": -0.1,
+      "upper_bound": 0.1,
+      "p_lower": 0.011122645215656424,
+      "p_upper": 0.007673158215859794,
+      "equivalent": true
+    }
+  },
+  "benchmark": [
+    {
+      "workers": 1,
+      "requests": 3,
+      "throughput_req_per_sec": 0.15978509756867518,
+      "latency_ms_p50": 585.1348331198096,
+      "latency_ms_p95": 15935.453533148391,
+      "latency_ms_p99": 17299.926306484267
+    },
+    {
+      "workers": 2,
+      "requests": 6,
+      "throughput_req_per_sec": 0.15291700675188266,
+      "latency_ms_p50": 17069.34883305803,
+      "latency_ms_p95": 17672.825125046074,
+      "latency_ms_p99": 17803.926325030625
+    },
+    {
+      "workers": 4,
+      "requests": 12,
+      "throughput_req_per_sec": 0.66371950471049,
+      "latency_ms_p50": 390.81083377823234,
+      "latency_ms_p95": 17585.716762789525,
+      "latency_ms_p99": 17608.157019917853
+    },
+    {
+      "workers": 8,
+      "requests": 24,
+      "throughput_req_per_sec": 0.5385179729675087,
+      "latency_ms_p50": 17133.70820810087,
+      "latency_ms_p95": 17993.302532937378,
+      "latency_ms_p99": 18013.64923398476
+    }
+  ],
+  "decision": {
+    "go": false,
+    "gates": {
+      "agreement_pearson": true,
+      "agreement_spearman": true,
+      "equivalence_or_directionality": true,
+      "uncertain_pair_coverage": false,
+      "api_health": false
+    },
+    "api_non_200_ratio": 0.7677419354838709,
+    "required_uncertain_pairs": 4,
+    "selected_uncertain_pairs": 0
+  },
+  "telemetry": {
+    "request_count": 189,
+    "status_code_counts": {
+      "200": 36,
+      "403": 119,
+      "429": 34
+    },
+    "latency_ms_p50": 37.18625009059906,
+    "latency_ms_p95": 424.30215002968896,
+    "latency_ms_p99": 548.4776762127876,
+    "total_retries": 304,
+    "remaining_last": "8"
+  }
+}
