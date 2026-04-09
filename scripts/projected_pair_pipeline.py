@@ -57,6 +57,16 @@ class PairRow:
     evidence: Dict[str, Any]
 
 
+@dataclass
+class ControlPair:
+    scenario: str
+    query_repo: str
+    target_repo: str
+    method_score: float
+    comparator_score: float
+    source: str
+
+
 def _slug_from_url(url: str) -> str:
     m = re.search(r"github\.com/([^/]+/[^/#?]+)", url)
     if m:
@@ -169,9 +179,24 @@ def load_rubric(path: Path) -> Dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def load_control_pairs(path: Path) -> Tuple[List[Tuple[str, str]], List[Tuple[str, str]]]:
-    known_match: List[Tuple[str, str]] = []
-    known_non_match: List[Tuple[str, str]] = []
+def _score_to_unit_interval(v: Any) -> Optional[float]:
+    if v is None:
+        return None
+    s = str(v).replace("%", "").strip()
+    if not s:
+        return None
+    try:
+        x = float(s)
+    except Exception:
+        return None
+    if x > 1.0:
+        x = x / 100.0
+    return max(0.0, min(1.0, x))
+
+
+def load_control_pairs(path: Path, comparator_column: str = "Cross language") -> Tuple[List[ControlPair], List[ControlPair]]:
+    known_match: List[ControlPair] = []
+    known_non_match: List[ControlPair] = []
     with path.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -179,12 +204,28 @@ def load_control_pairs(path: Path) -> Tuple[List[Tuple[str, str]], List[Tuple[st
             target = row.get("Target", "").strip()
             if not query or not target or "Average" in row.get("Test", ""):
                 continue
-            pair = (_slug_from_url(query), _slug_from_url(target))
+            query_slug = _slug_from_url(query)
+            target_slug = _slug_from_url(target)
+            method_score = _score_to_unit_interval(row.get("Metadata"))
+            comparator_score = _score_to_unit_interval(row.get(comparator_column))
+            if method_score is None or comparator_score is None:
+                continue
+            cp = ControlPair(
+                scenario="",
+                query_repo=query_slug,
+                target_repo=target_slug,
+                method_score=method_score,
+                comparator_score=comparator_score,
+                source="three_test_argument_table.csv",
+            )
             group = row.get("TestGroup", "").lower()
-            if "mirror identity" in group or "functional similar" in group:
-                known_match.append(pair)
+            # Exclude trivial self-pairs from known_match controls.
+            if "functional similar" in group and query_slug.lower() != target_slug.lower():
+                cp.scenario = "known_match"
+                known_match.append(cp)
             elif "dissimilar" in group:
-                known_non_match.append(pair)
+                cp.scenario = "known_non_match"
+                known_non_match.append(cp)
     return known_match, known_non_match
 
 
@@ -207,6 +248,33 @@ def build_query(meta: Dict[str, Any], topics: List[str], rubric: Dict[str, Any])
     parts.append(f"pushed:>={updated_year}-01-01")
     parts.append("fork:false")
     return " ".join(parts)
+
+
+def build_query_variants(meta: Dict[str, Any], topics: List[str], rubric: Dict[str, Any]) -> List[str]:
+    name_tokens = _tokens(meta.get("name", ""))[:4]
+    desc_tokens = _tokens(meta.get("description", ""))[:6]
+    lang = meta.get("language")
+    stars = int(meta.get("stargazers_count") or 0)
+    min_stars = rubric["fixed_constraints"]["min_stars"]
+    days = rubric["fixed_constraints"]["updated_within_days"]
+    updated_year = max(2010, time.gmtime().tm_year - int(days / 365))
+    topic_tokens = [f"topic:{t}" for t in topics[:3]]
+    star_floor = f"stars:>={min(min_stars, max(1, int(stars * 0.1)))}"
+    recency = f"pushed:>={updated_year}-01-01"
+    lang_tok = [f"language:{lang}"] if lang else []
+    variants: List[List[str]] = []
+    variants.append(name_tokens + desc_tokens[:4] + topic_tokens[:1] + lang_tok + [star_floor, recency, "fork:false"])
+    variants.append(name_tokens[:3] + topic_tokens[:2] + lang_tok + [star_floor, recency, "fork:false"])
+    variants.append(desc_tokens[:5] + topic_tokens[:2] + lang_tok + [star_floor, recency, "fork:false"])
+    variants.append(name_tokens[:2] + desc_tokens[:2] + lang_tok + [star_floor, recency, "fork:false"])
+    seen = set()
+    out: List[str] = []
+    for parts in variants:
+        q = " ".join([p for p in parts if p]).strip()
+        if q and q not in seen:
+            seen.add(q)
+            out.append(q)
+    return out
 
 
 def candidate_score(
@@ -258,33 +326,33 @@ def discover_uncertain_pairs(
 ) -> List[PairRow]:
     per_page = rubric["fixed_constraints"]["per_page"]
     pages = rubric["fixed_constraints"]["pages"]
-    min_band = rubric["target_uncertain_band"]["min_inclusive"]
-    max_band = rubric["target_uncertain_band"]["max_inclusive"]
-    rows: List[PairRow] = []
+    base_min_band = rubric["target_uncertain_band"]["min_inclusive"]
+    base_max_band = rubric["target_uncertain_band"]["max_inclusive"]
+    center = (base_min_band + base_max_band) / 2.0
+    band_expansions = [(0.0, 0.0), (0.05, 0.05), (0.10, 0.10), (0.20, 0.20)]
+    rows_by_pair: Dict[Tuple[str, str], PairRow] = {}
     seen = set()
     for seed_slug in seeds:
         seed_repo = gh.repo(seed_slug)
         seed_topics = gh.topics(seed_slug)
-        q = build_query(seed_repo, seed_topics, rubric)
-        for page in range(1, pages + 1):
-            sr = gh.search_repos(q, per_page=per_page, page=page)
-            for i, item in enumerate(sr.get("items", []), start=1):
-                cand_slug = item.get("full_name", "")
-                if not cand_slug or cand_slug == seed_slug:
-                    continue
-                if cand_slug.split("/")[0].lower() == seed_slug.split("/")[0].lower():
-                    continue
-                pair_key = tuple(sorted([seed_slug.lower(), cand_slug.lower()]))
-                if pair_key in seen:
-                    continue
-                s, comps = candidate_score(seed_repo, seed_topics, item, rubric)
-                if s < min_band or s > max_band:
-                    continue
-                seen.add(pair_key)
-                # Comparator score uses GitHub search rank proxy.
-                rank_score = 1.0 / float(i)
-                rows.append(
-                    PairRow(
+        queries = build_query_variants(seed_repo, seed_topics, rubric)
+        for q in queries:
+            for page in range(1, pages + 1):
+                sr = gh.search_repos(q, per_page=per_page, page=page)
+                for i, item in enumerate(sr.get("items", []), start=1):
+                    cand_slug = item.get("full_name", "")
+                    if not cand_slug or cand_slug == seed_slug:
+                        continue
+                    if cand_slug.split("/")[0].lower() == seed_slug.split("/")[0].lower():
+                        continue
+                    pair_key = tuple(sorted([seed_slug.lower(), cand_slug.lower()]))
+                    if pair_key in seen:
+                        continue
+                    s, comps = candidate_score(seed_repo, seed_topics, item, rubric)
+                    seen.add(pair_key)
+                    # Comparator score uses GitHub search rank proxy.
+                    rank_score = 1.0 / float(i)
+                    row = PairRow(
                         scenario="target_uncertain",
                         query_repo=seed_slug,
                         target_repo=cand_slug,
@@ -299,45 +367,79 @@ def discover_uncertain_pairs(
                             "stargazers_count": item.get("stargazers_count"),
                         },
                     )
-                )
-    rows.sort(key=lambda r: (abs(r.method_score - 0.60), r.target_repo))
-    return rows[:target_count]
+                    existing = rows_by_pair.get(pair_key)
+                    if existing is None or abs(s - center) < abs(existing.method_score - center):
+                        rows_by_pair[pair_key] = row
+    all_rows = list(rows_by_pair.values())
+    selected: List[PairRow] = []
+    for min_pad, max_pad in band_expansions:
+        lo = max(0.0, base_min_band - min_pad)
+        hi = min(1.0, base_max_band + max_pad)
+        filtered = [r for r in all_rows if lo <= r.method_score <= hi]
+        filtered.sort(key=lambda r: (abs(r.method_score - center), r.query_repo, r.target_repo))
+        for r in filtered:
+            if len(selected) >= target_count:
+                break
+            if r not in selected:
+                selected.append(r)
+        if len(selected) >= target_count:
+            break
+    # Deterministic fallback: closest-to-center regardless of score band.
+    if len(selected) < target_count:
+        remaining = [r for r in all_rows if r not in selected]
+        remaining.sort(key=lambda r: (abs(r.method_score - center), r.query_repo, r.target_repo))
+        for r in remaining:
+            selected.append(r)
+            if len(selected) >= target_count:
+                break
+    return selected[:target_count]
 
 
 def build_control_rows(
-    known_match: Sequence[Tuple[str, str]],
-    known_non_match: Sequence[Tuple[str, str]],
+    known_match: Sequence[ControlPair],
+    known_non_match: Sequence[ControlPair],
     n_match: int,
     n_non: int,
 ) -> List[PairRow]:
+    def _expand(pool: Sequence[ControlPair], required: int) -> List[ControlPair]:
+        if required <= 0 or not pool:
+            return []
+        out: List[ControlPair] = []
+        i = 0
+        while len(out) < required:
+            out.append(pool[i % len(pool)])
+            i += 1
+        return out
+
     rows: List[PairRow] = []
-    for q, t in known_match[:n_match]:
-        # Proxy values for statistical wiring in pilot.
-        method = 0.78
-        comp = 0.72
+    for i, cp in enumerate(_expand(known_match, n_match), start=1):
+        evidence = {"source": cp.source}
+        if i > len(known_match):
+            evidence["resampled_from_pool"] = True
         rows.append(
             PairRow(
                 scenario="known_match",
-                query_repo=q,
-                target_repo=t,
-                method_score=method,
-                comparator_score=comp,
-                d_i=method - comp,
-                evidence={"source": "three_test_argument_table.csv"},
+                query_repo=cp.query_repo,
+                target_repo=cp.target_repo,
+                method_score=cp.method_score,
+                comparator_score=cp.comparator_score,
+                d_i=cp.method_score - cp.comparator_score,
+                evidence=evidence,
             )
         )
-    for q, t in known_non_match[:n_non]:
-        method = 0.24
-        comp = 0.31
+    for i, cp in enumerate(_expand(known_non_match, n_non), start=1):
+        evidence = {"source": cp.source}
+        if i > len(known_non_match):
+            evidence["resampled_from_pool"] = True
         rows.append(
             PairRow(
                 scenario="known_non_match",
-                query_repo=q,
-                target_repo=t,
-                method_score=method,
-                comparator_score=comp,
-                d_i=method - comp,
-                evidence={"source": "three_test_argument_table.csv"},
+                query_repo=cp.query_repo,
+                target_repo=cp.target_repo,
+                method_score=cp.method_score,
+                comparator_score=cp.comparator_score,
+                d_i=cp.method_score - cp.comparator_score,
+                evidence=evidence,
             )
         )
     return rows
@@ -392,6 +494,31 @@ def run_stats(rows: Sequence[PairRow], alpha: float, delta: float) -> Dict[str, 
             }
         else:
             out["tost"] = {"lower_bound": -delta, "upper_bound": delta, "p_lower": None, "p_upper": None, "equivalent": False}
+        normality: Dict[str, Any] = {}
+        if len(d) >= 3 and len(d) <= 5000:
+            try:
+                sh = stats.shapiro(d)
+                normality["shapiro"] = {"w": float(sh.statistic), "p": float(sh.pvalue)}
+            except Exception:
+                normality["shapiro"] = {"w": None, "p": None}
+        try:
+            sk = stats.skew(d, bias=False)
+            ku = stats.kurtosis(d, fisher=True, bias=False)
+            normality["shape"] = {"skew": float(sk), "excess_kurtosis": float(ku)}
+        except Exception:
+            normality["shape"] = {"skew": None, "excess_kurtosis": None}
+        try:
+            qq = stats.probplot(d, dist="norm", fit=True)
+            slope, intercept, r = qq[1]
+            normality["qq_fit"] = {"slope": float(slope), "intercept": float(intercept), "r": float(r)}
+        except Exception:
+            normality["qq_fit"] = {"slope": None, "intercept": None, "r": None}
+        shapiro_p = (normality.get("shapiro") or {}).get("p")
+        out["assumptions"] = {
+            "paired_t_test_normality_plausible": bool(shapiro_p is not None and shapiro_p > alpha),
+            "normality_notes": "Normality is evaluated on paired differences d_i; rely more on Spearman/Wilcoxon/TOST when violated.",
+            "normality_diagnostics": normality,
+        }
     return out
 
 
@@ -448,11 +575,11 @@ def run_step_load_benchmark(
     return bench
 
 
-def choose_seed_repos(known_match: Sequence[Tuple[str, str]], max_seeds: int = 4) -> List[str]:
+def choose_seed_repos(known_match: Sequence[ControlPair], max_seeds: int = 4) -> List[str]:
     seeds = []
-    for q, _ in known_match:
-        if q not in seeds:
-            seeds.append(q)
+    for cp in known_match:
+        if cp.query_repo not in seeds:
+            seeds.append(cp.query_repo)
         if len(seeds) >= max_seeds:
             break
     return seeds
@@ -541,7 +668,7 @@ def main() -> int:
     token = os.environ.get("GITHUB_TOKEN")
     # If running a pilot and the caller didn't explicitly set workers, be conservative.
     if args.mode == "pilot" and args.workers == "1,2,4,8":
-        args.workers = "1"
+        args.workers = "1,2"
     min_delay = None
     if args.min_delay:
         try:
@@ -550,34 +677,44 @@ def main() -> int:
             min_delay = None
     gh = GitHubClient(token=token, min_delay_sec=(min_delay if min_delay is not None else 0.2))
 
+    stage_times_ms: Dict[str, float] = {}
+    t_stage = time.perf_counter()
     control_rows = build_control_rows(
         known_match=known_match,
         known_non_match=known_non,
         n_match=int(alloc["known_match"]),
         n_non=int(alloc["known_non_match"]),
     )
+    stage_times_ms["control_rows"] = (time.perf_counter() - t_stage) * 1000.0
 
     seeds = choose_seed_repos(known_match, max_seeds=4)
+    t_stage = time.perf_counter()
     uncertain_rows = discover_uncertain_pairs(
         gh=gh,
         seeds=seeds,
         rubric=rubric,
         target_count=int(alloc["target_uncertain"]),
     )
+    stage_times_ms["discover_uncertain_pairs"] = (time.perf_counter() - t_stage) * 1000.0
 
     all_rows = control_rows + uncertain_rows
+    t_stage = time.perf_counter()
     stats_out = run_stats(
         all_rows,
         alpha=float(rubric["decision_thresholds"]["alpha"]),
         delta=float(rubric["decision_thresholds"]["equivalence_delta"]),
     )
+    stage_times_ms["stats"] = (time.perf_counter() - t_stage) * 1000.0
+    t_stage = time.perf_counter()
     bench = run_step_load_benchmark(
         gh=gh,
         seeds=seeds if seeds else ["tensorflow/tensorflow"],
         workers=[int(x) for x in args.workers.split(",") if x.strip()],
     )
+    stage_times_ms["step_load_benchmark"] = (time.perf_counter() - t_stage) * 1000.0
     api_lat = [e.elapsed_ms for e in gh.events]
     telemetry = {
+        "authenticated": bool(token),
         "request_count": len(gh.events),
         "status_code_counts": {
             str(code): sum(1 for e in gh.events if e.status_code == code)
@@ -588,6 +725,11 @@ def main() -> int:
         "latency_ms_p99": percentile(api_lat, 0.99),
         "total_retries": sum(e.retries for e in gh.events),
         "remaining_last": gh.events[-1].remaining if gh.events else None,
+        "remaining_min_seen": (
+            min([int(e.remaining) for e in gh.events if e.remaining is not None] or [None])
+            if gh.events else None
+        ),
+        "stage_times_ms": stage_times_ms,
     }
     decision = build_go_no_go(
         stats_out=stats_out,
@@ -622,12 +764,17 @@ def main() -> int:
         f"- API requests: {telemetry['request_count']}",
         f"- API latency p95 (ms): {telemetry['latency_ms_p95']:.1f}",
         f"- Total retries: {telemetry['total_retries']}",
+        f"- Authenticated: {'yes' if telemetry['authenticated'] else 'no'}",
         f"- Go/No-Go: {'GO' if decision['go'] else 'NO-GO'}",
         "",
         "## Decision Gates",
     ]
     for k, v in decision["gates"].items():
         lines.append(f"- {k}: {'pass' if v else 'fail'}")
+    lines.append("")
+    lines.append("## Timing by stage")
+    for k, v in stage_times_ms.items():
+        lines.append(f"- {k}: {v:.1f} ms")
     lines.append("")
     lines.append("## Step-load benchmark")
     for row in bench:
