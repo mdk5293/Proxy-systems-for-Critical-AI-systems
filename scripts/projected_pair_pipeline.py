@@ -84,7 +84,7 @@ def _safe_log_ratio(a: float, b: float) -> float:
 
 
 class GitHubClient:
-    def __init__(self, token: Optional[str], timeout_sec: int = 30) -> None:
+    def __init__(self, token: Optional[str], timeout_sec: int = 30, min_delay_sec: float = 0.2, verbose: bool = False) -> None:
         self.s = requests.Session()
         self.s.headers.update(
             {
@@ -95,28 +95,48 @@ class GitHubClient:
         if token:
             self.s.headers["Authorization"] = f"Bearer {token}"
         self.timeout_sec = timeout_sec
+        # Minimum delay between requests to avoid triggering abuse/secondary throttles.
+        # Can be adjusted via env var GITHUB_MIN_DELAY or via constructor.
+        try:
+            env_delay = float(os.environ.get("GITHUB_MIN_DELAY", str(min_delay_sec)))
+        except Exception:
+            env_delay = min_delay_sec
+        self.min_delay_sec = env_delay
+        self.verbose = bool(os.environ.get("GITHUB_VERBOSE", "")) or verbose
         self.events: List[ApiEvent] = []
 
     def _request(self, path: str, params: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
         url = f"{GITHUB_API}{path}"
         retries = 0
         while True:
+            # polite delay before each request
+            if self.min_delay_sec and retries == 0:
+                time.sleep(self.min_delay_sec)
             t0 = time.perf_counter()
             r = self.s.get(url, params=params, timeout=self.timeout_sec)
             elapsed_ms = (time.perf_counter() - t0) * 1000.0
+            remaining = r.headers.get("X-RateLimit-Remaining")
+            reset = r.headers.get("X-RateLimit-Reset")
             self.events.append(
                 ApiEvent(
                     endpoint=path,
                     status_code=r.status_code,
                     elapsed_ms=elapsed_ms,
                     retries=retries,
-                    remaining=r.headers.get("X-RateLimit-Remaining"),
-                    reset=r.headers.get("X-RateLimit-Reset"),
+                    remaining=remaining,
+                    reset=reset,
                 )
             )
+            # Log any concerning responses or low remaining quota when verbose
+            try:
+                rem_int = int(remaining) if remaining is not None else None
+            except Exception:
+                rem_int = None
+            if self.verbose or r.status_code != 200 or (rem_int is not None and rem_int < 20):
+                print(f"[gh] status={r.status_code} path={path} remaining={remaining} reset={reset} retries={retries}")
             if r.status_code in (429, 502, 503, 504, 403):
                 # 403 may be abuse or secondary rate limit for search.
-                if retries < 4:
+                if retries < 6:
                     backoff = (2 ** retries) + random.random()
                     time.sleep(backoff)
                     retries += 1
@@ -507,6 +527,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--out-dir", default="results_benchmark/projected_pairs")
     p.add_argument("--mode", choices=["pilot", "full"], default="pilot")
     p.add_argument("--workers", default="1,2,4,8")
+    p.add_argument("--min-delay", default=None, help="Minimum polite delay between GH requests (seconds). Overrides GITHUB_MIN_DELAY env var if provided.")
     return p.parse_args()
 
 
@@ -518,7 +539,16 @@ def main() -> int:
     alloc = rubric["pilot_allocation"] if args.mode == "pilot" else rubric["thirty_pair_allocation"]
 
     token = os.environ.get("GITHUB_TOKEN")
-    gh = GitHubClient(token=token)
+    # If running a pilot and the caller didn't explicitly set workers, be conservative.
+    if args.mode == "pilot" and args.workers == "1,2,4,8":
+        args.workers = "1"
+    min_delay = None
+    if args.min_delay:
+        try:
+            min_delay = float(args.min_delay)
+        except Exception:
+            min_delay = None
+    gh = GitHubClient(token=token, min_delay_sec=(min_delay if min_delay is not None else 0.2))
 
     control_rows = build_control_rows(
         known_match=known_match,

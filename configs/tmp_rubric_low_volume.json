@@ -1,0 +1,50 @@
+{
+  "name": "projected_pair_identification_rubric_v1_low_volume",
+  "description": "Low-volume rubric for pilot runs (reduced pages/per_page)",
+  "fixed_constraints": {
+    "search_sort": "best-match",
+    "search_order": "desc",
+    "per_page": 10,
+    "pages": 1,
+    "exclude_forks": true,
+    "updated_within_days": 3650,
+    "min_stars": 30
+  },
+  "score_components": {
+    "name_token_jaccard": 0.24,
+    "topic_overlap_jaccard": 0.22,
+    "language_match": 0.16,
+    "description_phrase_overlap": 0.23,
+    "stars_proximity_log_ratio": 0.15
+  },
+  "target_uncertain_band": {
+    "min_inclusive": 0.42,
+    "max_inclusive": 0.78
+  },
+  "selection_rules": {
+    "deduplicate_by_slug_pair": true,
+    "exclude_same_repo": true,
+    "exclude_owner_self_match": true,
+    "sort_by": [
+      "abs(score-0.60) asc",
+      "query_rank asc",
+      "repo_full_name asc"
+    ]
+  },
+  "thirty_pair_allocation": {
+    "known_match": 10,
+    "known_non_match": 10,
+    "target_uncertain": 10
+  },
+  "pilot_allocation": {
+    "known_match": 3,
+    "known_non_match": 3,
+    "target_uncertain": 4
+  },
+  "decision_thresholds": {
+    "alpha": 0.05,
+    "equivalence_delta": 0.10,
+    "minimum_pearson": 0.30,
+    "minimum_spearman": 0.30
+  }
+}
