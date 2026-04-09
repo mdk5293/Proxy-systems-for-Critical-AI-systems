@@ -1,0 +1,119 @@
+{
+  "mode": "full",
+  "allocation": {
+    "known_match": 10,
+    "known_non_match": 10,
+    "target_uncertain": 10
+  },
+  "n_pairs": 30,
+  "n_uncertain_selected": 10,
+  "scenario_counts": {
+    "known_match": 10,
+    "known_non_match": 10,
+    "target_uncertain": 10
+  },
+  "stats": {
+    "n": 30,
+    "alpha": 0.05,
+    "delta": 0.1,
+    "summary": {
+      "mean_d": -0.005998021019713976,
+      "std_d": 0.2827383363538484,
+      "mean_method": 0.34157858595355955,
+      "mean_comparator": 0.34757660697327364
+    },
+    "paired_t_test": {
+      "t": -0.11424107577471466,
+      "p": 0.909833971677751
+    },
+    "pearson": {
+      "r": -0.35065064360179055,
+      "p": 0.05745879672672359
+    },
+    "spearman": {
+      "rho": -0.21074980576321908,
+      "p": 0.26361474147957686
+    },
+    "wilcoxon": {
+      "w": 223.0,
+      "p": 0.8449994734307372
+    },
+    "tost": {
+      "lower_bound": -0.1,
+      "upper_bound": 0.1,
+      "p_lower": 0.041917463478020944,
+      "p_upper": 0.02641465425944747,
+      "equivalent": true
+    },
+    "assumptions": {
+      "paired_t_test_normality_plausible": false,
+      "normality_notes": "Normality is evaluated on paired differences d_i; rely more on Spearman/Wilcoxon/TOST when violated.",
+      "normality_diagnostics": {
+        "shapiro": {
+          "w": 0.9264272834589313,
+          "p": 0.03949788747558599
+        },
+        "shape": {
+          "skew": 0.20070078154013252,
+          "excess_kurtosis": -1.1225880286334466
+        },
+        "qq_fit": {
+          "slope": 0.29026126554320814,
+          "intercept": -0.005998021019714018,
+          "r": 0.9711864696897108
+        }
+      }
+    }
+  },
+  "benchmark": [
+    {
+      "workers": 1,
+      "requests": 3,
+      "throughput_req_per_sec": 1.535492886595987,
+      "latency_ms_p50": 655.3320842795074,
+      "latency_ms_p95": 657.9265213571489,
+      "latency_ms_p99": 658.1571379862726
+    },
+    {
+      "workers": 2,
+      "requests": 6,
+      "throughput_req_per_sec": 0.08779983153819783,
+      "latency_ms_p50": 506.1624578665942,
+      "latency_ms_p95": 67322.40064605139,
+      "latency_ms_p99": 67324.045029236
+    }
+  ],
+  "decision": {
+    "go": false,
+    "gates": {
+      "agreement_pearson": false,
+      "agreement_spearman": false,
+      "equivalence_or_directionality": true,
+      "uncertain_pair_coverage": true,
+      "api_health": true
+    },
+    "api_non_200_ratio": 0.379746835443038,
+    "required_uncertain_pairs": 10,
+    "selected_uncertain_pairs": 10
+  },
+  "telemetry": {
+    "authenticated": false,
+    "request_count": 79,
+    "status_code_counts": {
+      "200": 49,
+      "403": 30
+    },
+    "latency_ms_p50": 122.56408389657736,
+    "latency_ms_p95": 643.0359169375147,
+    "latency_ms_p99": 1175.2233909349889,
+    "total_retries": 105,
+    "remaining_last": "7",
+    "remaining_min_seen": 0,
+    "stage_times_ms": {
+      "control_rows": 0.02254219725728035,
+      "discover_uncertain_pairs": 218263.90887517482,
+      "stats": 15.691709239035845,
+      "step_load_benchmark": 70291.1865003407
+    }
+  }
+}

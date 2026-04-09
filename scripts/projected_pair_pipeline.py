@@ -67,6 +67,21 @@ class ControlPair:
     source: str
 
 
+def _deterministic_unique(rows: Sequence[PairRow]) -> List[PairRow]:
+    seen = set()
+    out: List[PairRow] = []
+    for r in rows:
+        if r.scenario != "target_uncertain":
+            out.append(r)
+            continue
+        key = (r.scenario, r.query_repo.lower(), r.target_repo.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
 def _slug_from_url(url: str) -> str:
     m = re.search(r"github\.com/([^/]+/[^/#?]+)", url)
     if m:
@@ -445,6 +460,39 @@ def build_control_rows(
     return rows
 
 
+def label_uncertain_rows(rows: Sequence[PairRow], rubric: Dict[str, Any]) -> List[PairRow]:
+    lo = float(rubric["target_uncertain_band"]["min_inclusive"])
+    hi = float(rubric["target_uncertain_band"]["max_inclusive"])
+    center = (lo + hi) / 2.0
+    out: List[PairRow] = []
+    for r in rows:
+        if r.scenario != "target_uncertain":
+            out.append(r)
+            continue
+        distance = abs(r.method_score - center)
+        evidence = dict(r.evidence)
+        evidence["uncertain_label"] = "suspected_similar_uncertain"
+        evidence["label_rule"] = {
+            "score_band_low": lo,
+            "score_band_high": hi,
+            "band_center": center,
+            "distance_to_center": distance,
+            "d_i_direction": "method_greater" if r.d_i > 0 else ("method_less" if r.d_i < 0 else "equal"),
+        }
+        out.append(
+            PairRow(
+                scenario=r.scenario,
+                query_repo=r.query_repo,
+                target_repo=r.target_repo,
+                method_score=r.method_score,
+                comparator_score=r.comparator_score,
+                d_i=r.d_i,
+                evidence=evidence,
+            )
+        )
+    return out
+
+
 def _mean(xs: Sequence[float]) -> float:
     return float(sum(xs) / max(len(xs), 1))
 
@@ -698,6 +746,28 @@ def main() -> int:
     stage_times_ms["discover_uncertain_pairs"] = (time.perf_counter() - t_stage) * 1000.0
 
     all_rows = control_rows + uncertain_rows
+    all_rows = label_uncertain_rows(all_rows, rubric)
+    all_rows = _deterministic_unique(all_rows)
+    all_rows.sort(key=lambda r: (r.scenario, r.query_repo, r.target_repo))
+
+    target_total = int(alloc["known_match"]) + int(alloc["known_non_match"]) + int(alloc["target_uncertain"])
+    scenario_counts = {
+        "known_match": sum(1 for r in all_rows if r.scenario == "known_match"),
+        "known_non_match": sum(1 for r in all_rows if r.scenario == "known_non_match"),
+        "target_uncertain": sum(1 for r in all_rows if r.scenario == "target_uncertain"),
+    }
+    if scenario_counts["known_match"] != int(alloc["known_match"]) or scenario_counts["known_non_match"] != int(alloc["known_non_match"]):
+        raise RuntimeError(
+            f"Control allocation mismatch: got {scenario_counts}, expected "
+            f"known_match={alloc['known_match']}, known_non_match={alloc['known_non_match']}"
+        )
+    if scenario_counts["target_uncertain"] < int(alloc["target_uncertain"]):
+        raise RuntimeError(
+            f"Uncertain allocation underfilled: got {scenario_counts['target_uncertain']}, "
+            f"required {alloc['target_uncertain']}"
+        )
+    if len(all_rows) < target_total:
+        raise RuntimeError(f"Total allocation underfilled: got {len(all_rows)}, expected {target_total}")
     t_stage = time.perf_counter()
     stats_out = run_stats(
         all_rows,
@@ -748,6 +818,7 @@ def main() -> int:
         "allocation": alloc,
         "n_pairs": len(all_rows),
         "n_uncertain_selected": len(uncertain_rows),
+        "scenario_counts": scenario_counts,
         "stats": stats_out,
         "benchmark": bench,
         "decision": decision,
