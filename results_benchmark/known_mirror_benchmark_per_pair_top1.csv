@@ -1,6 +1,6 @@
 pair,method,top1_hit,tp_rank,tp_score
 V8,metadata,True,1,1.0
-V8,code_centric,True,1,1.0
+V8,code_centric,True,1,0.9999999999999998
 V8,dynamic,True,1,1.0
 V8,cross_language,True,1,1.0
 Blender,metadata,True,1,1.0
@@ -24,10 +24,10 @@ Git,code_centric,True,1,1.0
 Git,dynamic,True,1,1.0
 Git,cross_language,True,1,0.9999999999999999
 GCC,metadata,True,1,1.0
-GCC,code_centric,True,1,0.8
+GCC,code_centric,True,1,0.7999999999999998
 GCC,dynamic,True,1,1.0
 GCC,cross_language,True,1,1.0
 FFmpeg,metadata,True,1,1.0
-FFmpeg,code_centric,True,1,0.9999999999999998
+FFmpeg,code_centric,True,1,1.0
 FFmpeg,dynamic,True,1,0.5
 FFmpeg,cross_language,True,1,1.0

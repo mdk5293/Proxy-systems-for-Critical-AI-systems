@@ -8,13 +8,13 @@ Test,Known similarity,Metadata,Code centric,Dynamic,Cross language,Query,Target,
 7: GCC,100%,100.0,80.0,100.0,100.0,https://github.com/gcc-mirror/gcc,https://github.com/gcc-mirror/gcc,Test 1: Mirror identity
 8: FFmpeg,100%,100.0,100.0,50.0,100.0,https://github.com/FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,Test 1: Mirror identity
 Average,100 %,100.0,95.0,87.5,100.0,,,Test 1: Mirror identity
-1: TensorFlow vs PyTorch,100%,27.62,36.73,50.0,64.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
+1: TensorFlow vs PyTorch,100%,27.62,36.71,50.0,64.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
 2: VSCode vs Electron,100%,27.65,26.95,41.67,51.28,https://github.com/microsoft/vscode,https://github.com/electron/electron,Test 2: Functional similar
 3: OpenPilot vs Autoware,100%,25.94,6.43,25.0,62.73,https://github.com/commaai/openpilot,https://github.com/autowarefoundation/autoware,Test 2: Functional similar
 4: MONAI vs TensorFlow,100%,23.72,28.11,75.0,62.78,https://github.com/Project-MONAI/MONAI,https://github.com/tensorflow/tensorflow,Test 2: Functional similar
 Average,100 %,26.2,24.6,47.9,60.2,,,Test 2: Functional similar
 1: TensorFlow vs Django,0%,27.0,24.95,25.0,11.71,https://github.com/tensorflow/tensorflow,https://github.com/django/django,Test 3: Dissimilar
 2: VSCode vs XGBoost,0%,25.21,4.02,75.0,31.96,https://github.com/microsoft/vscode,https://github.com/dmlc/xgboost,Test 3: Dissimilar
-3: OpenPilot vs Scikit-learn,0%,21.01,38.89,50.0,24.37,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
+3: OpenPilot vs Scikit-learn,0%,21.01,38.9,50.0,24.37,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
 4: MONAI vs Electron,0%,22.33,9.68,41.67,27.6,https://github.com/Project-MONAI/MONAI,https://github.com/electron/electron,Test 3: Dissimilar
 Average,0 %,23.9,19.4,47.9,23.9,,,Test 3: Dissimilar

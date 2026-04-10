@@ -7,23 +7,28 @@
   },
   "n_pairs": 10,
   "n_uncertain_selected": 4,
+  "scenario_counts": {
+    "known_match": 3,
+    "known_non_match": 3,
+    "target_uncertain": 4
+  },
   "stats": {
     "n": 10,
     "alpha": 0.05,
     "delta": 0.1,
     "summary": {
-      "mean_d": 0.04079170139108527,
-      "std_d": 0.29097019809542923,
-      "mean_method": 0.3823545219039058,
+      "mean_d": 0.04079116541453309,
+      "std_d": 0.2909696282163959,
+      "mean_method": 0.3823539859273536,
       "mean_comparator": 0.3415628205128205
     },
     "paired_t_test": {
-      "t": 0.42057607608707914,
-      "p": 0.6839289407304819
+      "t": 0.4205713736988018,
+      "p": 0.6839322517064511
     },
     "pearson": {
-      "r": -0.2720631399673044,
-      "p": 0.44699114602843726
+      "r": -0.27206250681859817,
+      "p": 0.44699224569537077
     },
     "spearman": {
       "rho": -0.16363636363636364,
@@ -36,8 +41,8 @@
     "tost": {
       "lower_bound": -0.1,
       "upper_bound": 0.1,
-      "p_lower": 0.09027971559308867,
-      "p_upper": 0.2783290199237735,
+      "p_lower": 0.09028007925409598,
+      "p_upper": 0.2783268905644724,
       "equivalent": false
     },
     "assumptions": {
@@ -45,17 +50,17 @@
       "normality_notes": "Normality is evaluated on paired differences d_i; rely more on Spearman/Wilcoxon/TOST when violated.",
       "normality_diagnostics": {
         "shapiro": {
-          "w": 0.9520354430240481,
-          "p": 0.6926155579546827
+          "w": 0.9520354635131535,
+          "p": 0.6926158008680121
         },
         "shape": {
-          "skew": 0.045375771676007655,
-          "excess_kurtosis": -1.0371222334212071
+          "skew": 0.04537336690948159,
+          "excess_kurtosis": -1.0371235318103698
         },
         "qq_fit": {
-          "slope": 0.3291195526003672,
-          "intercept": 0.04079170139108527,
-          "r": 0.9844548838639483
+          "slope": 0.32911891751783845,
+          "intercept": 0.04079116541453307,
+          "r": 0.9844549123215787
         }
       }
     }
@@ -64,18 +69,18 @@
     {
       "workers": 1,
       "requests": 3,
-      "throughput_req_per_sec": 1.6428774221425582,
-      "latency_ms_p50": 590.6924172304571,
-      "latency_ms_p95": 665.9908047411591,
-      "latency_ms_p99": 672.6839947421104
+      "throughput_req_per_sec": 1.3242267730842,
+      "latency_ms_p50": 772.6730997674167,
+      "latency_ms_p95": 779.2510199826211,
+      "latency_ms_p99": 779.8357240017503
     },
     {
       "workers": 2,
       "requests": 6,
-      "throughput_req_per_sec": 0.08830075002527524,
-      "latency_ms_p50": 284.3075208365917,
-      "latency_ms_p95": 50561.759656411596,
-      "latency_ms_p99": 63890.08343147581
+      "throughput_req_per_sec": 2.213327188121453,
+      "latency_ms_p50": 673.4898001886904,
+      "latency_ms_p95": 1503.0513248639181,
+      "latency_ms_p99": 1621.6145849088207
     }
   ],
   "decision": {
@@ -87,28 +92,28 @@
       "uncertain_pair_coverage": true,
       "api_health": true
     },
-    "api_non_200_ratio": 0.3287671232876712,
+    "api_non_200_ratio": 0.10909090909090909,
     "required_uncertain_pairs": 4,
     "selected_uncertain_pairs": 4
   },
   "telemetry": {
-    "authenticated": false,
-    "request_count": 73,
+    "authenticated": true,
+    "request_count": 55,
     "status_code_counts": {
       "200": 49,
-      "403": 24
+      "403": 6
     },
-    "latency_ms_p50": 136.03604212403297,
-    "latency_ms_p95": 681.355716381222,
-    "latency_ms_p99": 1295.75210466981,
-    "total_retries": 84,
-    "remaining_last": "9",
+    "latency_ms_p50": 276.32230008020997,
+    "latency_ms_p95": 1314.2318199388678,
+    "latency_ms_p99": 1497.2108959127218,
+    "total_retries": 21,
+    "remaining_last": "19",
     "remaining_min_seen": 0,
     "stage_times_ms": {
-      "control_rows": 0.014415942132472992,
-      "discover_uncertain_pairs": 219537.14529192075,
-      "stats": 12.40624999627471,
-      "step_load_benchmark": 69775.90608363971
+      "control_rows": 0.014599878340959549,
+      "discover_uncertain_pairs": 89799.11360004917,
+      "stats": 3.5787001252174377,
+      "step_load_benchmark": 4976.369499694556
     }
   }
 }
