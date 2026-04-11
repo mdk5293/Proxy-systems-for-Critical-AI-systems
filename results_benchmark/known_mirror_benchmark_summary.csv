@@ -2,4 +2,4 @@ method,n_pairs,n_candidate_rows,top1_accuracy,threshold,tp,tn,fp,fn,precision,re
 code_centric,8,32,1.0,0.4551,8,24,0,0,1.0,1.0,1.0,1.0
 cross_language,8,32,1.0,0.6324,8,24,0,0,1.0,1.0,1.0,1.0
 dynamic,8,32,1.0,0.7602,6,24,0,2,1.0,0.75,0.8571,0.9375
-metadata,8,32,1.0,0.6589,8,24,0,0,1.0,1.0,1.0,1.0
+metadata,8,32,1.0,0.2353,8,24,0,0,1.0,1.0,1.0,1.0
