@@ -1,20 +1,20 @@
 Test,Known similarity,Metadata,Code centric,Dynamic,Cross language,Query,Target,TestGroup
-1: V8,100%,100.0,0.0,0.0,0.0,https://github.com/v8/v8,https://github.com/v8/v8,Test 1: Mirror identity
-2: Blender,100%,100.0,0.0,0.0,0.0,https://github.com/blender/blender,https://github.com/blender/blender,Test 1: Mirror identity
-3: LibreOffice,100%,100.0,0.0,0.0,0.0,https://github.com/LibreOffice/core,https://github.com/LibreOffice/core,Test 1: Mirror identity
-4: libapps,100%,100.0,0.0,0.0,0.0,https://github.com/libapps/libapps-mirror,https://github.com/libapps/libapps-mirror,Test 1: Mirror identity
-5: FreeType,100%,100.0,0.0,0.0,0.0,https://github.com/freetype/freetype,https://github.com/freetype/freetype,Test 1: Mirror identity
-6: Git,100%,100.0,0.0,0.0,0.0,https://github.com/git/git,https://github.com/git/git,Test 1: Mirror identity
-7: GCC,100%,100.0,0.0,0.0,0.0,https://github.com/gcc-mirror/gcc,https://github.com/gcc-mirror/gcc,Test 1: Mirror identity
-8: FFmpeg,100%,100.0,0.0,0.0,0.0,https://github.com/FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,Test 1: Mirror identity
-Average,100 %,100.0,0.0,0.0,0.0,,,Test 1: Mirror identity
-1: TensorFlow vs PyTorch,100%,19.1,0.0,0.0,0.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
-2: VSCode vs Electron,100%,19.71,0.0,0.0,0.0,https://github.com/microsoft/vscode,https://github.com/electron/electron,Test 2: Functional similar
-3: OpenPilot vs Autoware,100%,19.92,0.0,0.0,0.0,https://github.com/commaai/openpilot,https://github.com/autowarefoundation/autoware,Test 2: Functional similar
-4: MONAI vs TensorFlow,100%,16.75,0.0,0.0,0.0,https://github.com/Project-MONAI/MONAI,https://github.com/tensorflow/tensorflow,Test 2: Functional similar
-Average,100 %,18.9,0.0,0.0,0.0,,,Test 2: Functional similar
-1: TensorFlow vs Django,0%,16.22,0.0,0.0,0.0,https://github.com/tensorflow/tensorflow,https://github.com/django/django,Test 3: Dissimilar
-2: VSCode vs XGBoost,0%,20.44,0.0,0.0,0.0,https://github.com/microsoft/vscode,https://github.com/dmlc/xgboost,Test 3: Dissimilar
-3: OpenPilot vs Scikit-learn,0%,18.37,0.0,0.0,0.0,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
-4: MONAI vs Electron,0%,19.2,0.0,0.0,0.0,https://github.com/Project-MONAI/MONAI,https://github.com/electron/electron,Test 3: Dissimilar
-Average,0 %,18.6,0.0,0.0,0.0,,,Test 3: Dissimilar
+1: V8,100%,100.0,100.0,100.0,100.0,https://github.com/v8/v8,https://github.com/v8/v8,Test 1: Mirror identity
+2: Blender,100%,100.0,100.0,50.0,100.0,https://github.com/blender/blender,https://github.com/blender/blender,Test 1: Mirror identity
+3: LibreOffice,100%,100.0,100.0,100.0,100.0,https://github.com/LibreOffice/core,https://github.com/LibreOffice/core,Test 1: Mirror identity
+4: libapps,100%,100.0,100.0,100.0,100.0,https://github.com/libapps/libapps-mirror,https://github.com/libapps/libapps-mirror,Test 1: Mirror identity
+5: FreeType,100%,100.0,80.0,100.0,100.0,https://github.com/freetype/freetype,https://github.com/freetype/freetype,Test 1: Mirror identity
+6: Git,100%,100.0,100.0,100.0,100.0,https://github.com/git/git,https://github.com/git/git,Test 1: Mirror identity
+7: GCC,100%,100.0,80.0,100.0,100.0,https://github.com/gcc-mirror/gcc,https://github.com/gcc-mirror/gcc,Test 1: Mirror identity
+8: FFmpeg,100%,100.0,100.0,50.0,100.0,https://github.com/FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,Test 1: Mirror identity
+Average,100 %,100.0,95.0,87.5,100.0,,,Test 1: Mirror identity
+1: TensorFlow vs PyTorch,100%,17.48,36.7,50.0,64.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
+2: VSCode vs Electron,100%,17.58,26.88,41.67,51.28,https://github.com/microsoft/vscode,https://github.com/electron/electron,Test 2: Functional similar
+3: OpenPilot vs Autoware,100%,19.92,6.43,25.0,62.73,https://github.com/commaai/openpilot,https://github.com/autowarefoundation/autoware,Test 2: Functional similar
+4: MONAI vs TensorFlow,100%,14.88,28.11,75.0,62.78,https://github.com/Project-MONAI/MONAI,https://github.com/tensorflow/tensorflow,Test 2: Functional similar
+Average,100 %,17.5,24.5,47.9,60.2,,,Test 2: Functional similar
+1: TensorFlow vs Django,0%,16.18,24.95,25.0,11.71,https://github.com/tensorflow/tensorflow,https://github.com/django/django,Test 3: Dissimilar
+2: VSCode vs XGBoost,0%,14.85,3.9,75.0,31.96,https://github.com/microsoft/vscode,https://github.com/dmlc/xgboost,Test 3: Dissimilar
+3: OpenPilot vs Scikit-learn,0%,18.37,38.9,50.0,24.37,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
+4: MONAI vs Electron,0%,17.04,9.67,41.67,27.6,https://github.com/Project-MONAI/MONAI,https://github.com/electron/electron,Test 3: Dissimilar
+Average,0 %,16.6,19.4,47.9,23.9,,,Test 3: Dissimilar
