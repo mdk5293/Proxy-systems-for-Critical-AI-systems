@@ -10,6 +10,7 @@ from __future__ import annotations
 import json
 import sys
 from pathlib import Path
+import re
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_NB = REPO_ROOT / "proxytool_REDUX_2.ipynb"
@@ -196,8 +197,57 @@ DEFAULT_NEGS = """DEFAULT_METADATA_HARD_NEGATIVES = [
     \"https://github.com/vim/vim\",
 ]
 
+TEST3_METADATA_HARD_NEGATIVES = [
+    \"https://github.com/django/django\",
+    \"https://github.com/facebook/react\",
+    \"https://github.com/tensorflow/tensorflow\",
+    \"https://github.com/vim/vim\",
+    \"https://github.com/keras-team/keras\",
+    \"https://github.com/elastic/elasticsearch\",
+    \"https://github.com/prometheus/prometheus\",
+    \"https://github.com/bitcoin/bitcoin\",
+    \"https://github.com/Homebrew/brew\",
+    \"https://github.com/golang/go\",
+    \"https://github.com/ansible/ansible\",
+    \"https://github.com/apache/spark\",
+]
+
 
 """
+
+TEST_PREFLIGHT_CELL = r'''# --- REDUX_2 preflight (fresh-kernel safety) ---
+import inspect
+
+required_symbols = [
+    "_metadata_similarity",
+    "_method_score_percent_for_target",
+    "run_known_pair_benchmark",
+    "build_argument_table",
+]
+missing = [name for name in required_symbols if name not in globals()]
+if missing:
+    raise RuntimeError(
+        "Missing required scoring symbols: " + ", ".join(missing) + ". "
+        "Run the full patch cell '# === Reliability + Discrimination Patch Overrides' (id 04d42f36) first."
+    )
+
+method_defaults = {
+    k: v.default
+    for k, v in inspect.signature(_method_score_percent_for_target).parameters.items()
+}
+if method_defaults.get("metadata_scoring_mode") != "family_cosine" or method_defaults.get("reporting_mode") != "rank_pct":
+    raise RuntimeError(
+        "_method_score_percent_for_target defaults are not canonical REDUX_2 patch defaults. "
+        "Re-run patch cell 04d42f36 to restore canonical definitions."
+    )
+
+fit_global_minmax_for_all_benchmark_tables()
+if GLOBAL_NORMALIZER is None:
+    raise RuntimeError(
+        "GLOBAL_NORMALIZER was not fitted. "
+        "Run fit_global_minmax_for_all_benchmark_tables() successfully before table tests."
+    )
+'''
 
 MARKDOWN_EXEC = """## Canonical scoring execution order
 
@@ -388,40 +438,61 @@ def main(nb_path: Path | None = None) -> None:
         src = "".join(c.get("source", []))
         if "table_test3 = build_argument_table(" not in src:
             continue
-        if "metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES" not in src:
-            old = (
-                "table_test3 = build_argument_table(\n"
-                "    known_dissimilar_pairs,\n"
-                "    known_similarity_pct=0.0,\n"
-            )
-            new = (
-                "table_test3 = build_argument_table(\n"
-                "    known_dissimilar_pairs,\n"
-                "    known_similarity_pct=0.0,\n"
-                "    metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES,\n"
-            )
-            if old not in src:
-                print("Warning: table_test3 snippet not matched; skip extras")
-            else:
-                src = src.replace(old, new, 1)
-        if "metadata_weights=CAIS_WEIGHTS_MIMIC" not in src and "metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES" in src:
-            old2 = (
-                "table_test3 = build_argument_table(\n"
-                "    known_dissimilar_pairs,\n"
-                "    known_similarity_pct=0.0,\n"
-                "    metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES,\n"
-            )
-            new2 = (
-                "table_test3 = build_argument_table(\n"
-                "    known_dissimilar_pairs,\n"
-                "    known_similarity_pct=0.0,\n"
-                "    metadata_weights=CAIS_WEIGHTS_MIMIC,\n"
-                "    metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES,\n"
-            )
-            if old2 in src:
-                src = src.replace(old2, new2, 1)
+        old = (
+            "table_test3 = build_argument_table(\n"
+            "    known_dissimilar_pairs,\n"
+            "    known_similarity_pct=0.0,\n"
+        )
+        new = (
+            "table_test3 = build_argument_table(\n"
+            "    known_dissimilar_pairs,\n"
+            "    known_similarity_pct=0.0,\n"
+            "    metadata_weights=CAIS_WEIGHTS_MIMIC,\n"
+            "    metadata_extra_candidates=TEST3_METADATA_HARD_NEGATIVES,\n"
+            "    reporting_mode=\"contrastive\",\n"
+        )
+        if old in src:
+            src = src.replace(old, new, 1)
+        else:
+            src = src.replace("metadata_extra_candidates=DEFAULT_METADATA_HARD_NEGATIVES,", "metadata_extra_candidates=TEST3_METADATA_HARD_NEGATIVES,")
+            if "metadata_weights=CAIS_WEIGHTS_MIMIC" not in src and "known_similarity_pct=0.0," in src:
+                src = src.replace("    known_similarity_pct=0.0,\n", "    known_similarity_pct=0.0,\n    metadata_weights=CAIS_WEIGHTS_MIMIC,\n", 1)
+            if "reporting_mode=\"contrastive\"" not in src and "known_similarity_pct=0.0," in src:
+                src = src.replace("    known_similarity_pct=0.0,\n", "    known_similarity_pct=0.0,\n    reporting_mode=\"contrastive\",\n", 1)
+        src = src.replace(
+            "    metadata_weights=CAIS_WEIGHTS_MIMIC,\n    metadata_extra_candidates=TEST3_METADATA_HARD_NEGATIVES,\n    reporting_mode=\"contrastive\",\n"
+            "    metadata_weights=CAIS_WEIGHTS_MIMIC,\n    metadata_extra_candidates=TEST3_METADATA_HARD_NEGATIVES,\n    reporting_mode=\"contrastive\",\n",
+            "    metadata_weights=CAIS_WEIGHTS_MIMIC,\n    metadata_extra_candidates=TEST3_METADATA_HARD_NEGATIVES,\n    reporting_mode=\"contrastive\",\n",
+        )
         nb["cells"][i]["source"] = to_source_lines(src)
         break
+
+    preflight_present = any(
+        c.get("cell_type") == "code"
+        and "# --- REDUX_2 preflight (fresh-kernel safety) ---" in "".join(c.get("source", []))
+        for c in nb["cells"]
+    )
+    if not preflight_present:
+        insert_idx = None
+        for i, c in enumerate(nb["cells"]):
+            if c.get("cell_type") != "code":
+                continue
+            src = "".join(c.get("source", []))
+            if "# --- Test 2: Functional-similar pairs (independent histories) ---" in src:
+                insert_idx = i
+                break
+        if insert_idx is not None:
+            nb["cells"].insert(
+                insert_idx,
+                {
+                    "cell_type": "code",
+                    "id": "redux2-preflight-flow",
+                    "metadata": {},
+                    "execution_count": None,
+                    "outputs": [],
+                    "source": to_source_lines(TEST_PREFLIGHT_CELL),
+                },
+            )
 
     for i, c in enumerate(nb["cells"]):
         if c.get("cell_type") != "code":
