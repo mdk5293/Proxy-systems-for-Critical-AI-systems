@@ -8,13 +8,13 @@ Test,Known similarity,Metadata,Code centric,Dynamic,Cross language,Query,Target,
 7: GCC,100%,100.0,100.0,92.5,100.0,https://github.com/gcc-mirror/gcc,https://github.com/gcc-mirror/gcc,Test 1: Mirror identity
 8: FFmpeg,100%,100.0,100.0,22.5,100.0,https://github.com/FFmpeg/FFmpeg,https://github.com/FFmpeg/FFmpeg,Test 1: Mirror identity
 Average,100 %,100.0,100.0,75.0,100.0,,,Test 1: Mirror identity
-1: TensorFlow vs PyTorch,100%,85.32,36.64,70.0,64.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
-2: VSCode vs Electron,100%,89.91,26.94,38.33,51.28,https://github.com/microsoft/vscode,https://github.com/electron/electron,Test 2: Functional similar
-3: OpenPilot vs Autoware,100%,86.48,6.36,15.0,62.73,https://github.com/commaai/openpilot,https://github.com/autowarefoundation/autoware,Test 2: Functional similar
-4: MONAI vs TensorFlow,100%,82.94,28.1,85.0,62.78,https://github.com/Project-MONAI/MONAI,https://github.com/tensorflow/tensorflow,Test 2: Functional similar
-Average,100 %,86.2,24.5,52.1,60.2,,,Test 2: Functional similar
-1: TensorFlow vs Django,0%,76.45,24.94,15.0,11.71,https://github.com/tensorflow/tensorflow,https://github.com/django/django,Test 3: Dissimilar
-2: VSCode vs XGBoost,0%,82.86,3.9,85.0,31.96,https://github.com/microsoft/vscode,https://github.com/dmlc/xgboost,Test 3: Dissimilar
-3: OpenPilot vs Scikit-learn,0%,86.54,38.95,30.0,24.37,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
-4: MONAI vs Electron,0%,91.56,9.43,38.33,27.6,https://github.com/Project-MONAI/MONAI,https://github.com/electron/electron,Test 3: Dissimilar
-Average,0 %,84.4,19.3,42.1,23.9,,,Test 3: Dissimilar
+1: TensorFlow vs PyTorch,100%,66.67,36.64,70.0,64.0,https://github.com/tensorflow/tensorflow,https://github.com/pytorch/pytorch,Test 2: Functional similar
+2: VSCode vs Electron,100%,100.0,27.2,38.33,51.28,https://github.com/microsoft/vscode,https://github.com/electron/electron,Test 2: Functional similar
+3: OpenPilot vs Autoware,100%,50.0,7.05,15.0,62.73,https://github.com/commaai/openpilot,https://github.com/autowarefoundation/autoware,Test 2: Functional similar
+4: MONAI vs TensorFlow,100%,0.0,28.1,85.0,62.78,https://github.com/Project-MONAI/MONAI,https://github.com/tensorflow/tensorflow,Test 2: Functional similar
+Average,100 %,54.2,24.7,52.1,60.2,,,Test 2: Functional similar
+1: TensorFlow vs Django,0%,4.74,25.54,15.0,11.71,https://github.com/tensorflow/tensorflow,https://github.com/django/django,Test 3: Dissimilar
+2: VSCode vs XGBoost,0%,4.49,3.92,85.0,31.96,https://github.com/microsoft/vscode,https://github.com/dmlc/xgboost,Test 3: Dissimilar
+3: OpenPilot vs Scikit-learn,0%,4.08,39.0,30.0,24.37,https://github.com/commaai/openpilot,https://github.com/scikit-learn/scikit-learn,Test 3: Dissimilar
+4: MONAI vs Electron,0%,1.73,9.34,38.33,27.6,https://github.com/Project-MONAI/MONAI,https://github.com/electron/electron,Test 3: Dissimilar
+Average,0 %,3.8,19.5,42.1,23.9,,,Test 3: Dissimilar
