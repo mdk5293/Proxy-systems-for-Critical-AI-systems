@@ -1,0 +1,5431 @@
+[
+  {
+    "FullName": "ItzCrazyKns/Vane",
+    "Name": "Vane",
+    "Url": "https://github.com/ItzCrazyKns/Vane",
+    "Description": "Vane is an AI-powered answering engine.",
+    "Topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "Language": "TypeScript",
+    "Stars": 34123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-09T10:51:32Z",
+    "UpdatedAt": "2026-05-03T18:03:42Z",
+    "Owner": "ItzCrazyKns",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ludwig-ai/ludwig",
+    "Name": "ludwig",
+    "Url": "https://github.com/ludwig-ai/ludwig",
+    "Description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+    "Topics": [
+      "computer-vision",
+      "data-centric",
+      "data-science",
+      "deep",
+      "deep-learning",
+      "deeplearning",
+      "fine-tuning",
+      "learning",
+      "llama",
+      "llama2",
+      "llm",
+      "llm-training",
+      "machine-learning",
+      "machinelearning",
+      "mistral",
+      "ml",
+      "natural-language",
+      "natural-language-processing",
+      "neural-network",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 11683,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-27T23:58:12Z",
+    "UpdatedAt": "2026-05-03T13:57:14Z",
+    "Owner": "ludwig-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davidsandberg/facenet",
+    "Name": "facenet",
+    "Url": "https://github.com/davidsandberg/facenet",
+    "Description": "Face recognition using Tensorflow",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "face-detection",
+      "face-recognition",
+      "facenet",
+      "mtcnn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 14319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-12T22:14:40Z",
+    "UpdatedAt": "2026-05-01T21:35:48Z",
+    "Owner": "davidsandberg",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "janhq/jan",
+    "Name": "jan",
+    "Url": "https://github.com/janhq/jan",
+    "Description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "Topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "Language": "TypeScript",
+    "Stars": 42352,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T02:17:10Z",
+    "UpdatedAt": "2026-05-03T18:19:06Z",
+    "Owner": "janhq",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "PeterL1n/BackgroundMattingV2",
+    "Name": "BackgroundMattingV2",
+    "Url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "Description": "Real-Time High-Resolution Background Matting",
+    "Topics": [
+      "computer-vision",
+      "machine-learning",
+      "matting",
+      "real-time"
+    ],
+    "Language": "Python",
+    "Stars": 7157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-01T00:26:17Z",
+    "UpdatedAt": "2026-04-30T03:33:28Z",
+    "Owner": "PeterL1n",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleX",
+    "Name": "PaddleX",
+    "Url": "https://github.com/PaddlePaddle/PaddleX",
+    "Description": "All-in-One Development Tool based on PaddlePaddle",
+    "Topics": [
+      "ai-pipelines",
+      "classification",
+      "deployment",
+      "formula-recognition",
+      "layout-detection",
+      "object-detection",
+      "ocr",
+      "pdf2markdown",
+      "pp-chatocr",
+      "segmentation",
+      "speech-recognition",
+      "time-series"
+    ],
+    "Language": "Python",
+    "Stars": 6126,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-11T07:58:44Z",
+    "UpdatedAt": "2026-05-03T15:54:06Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "voxel51/fiftyone",
+    "Name": "fiftyone",
+    "Url": "https://github.com/voxel51/fiftyone",
+    "Description": "Refine high-quality datasets and visual AI models",
+    "Topics": [
+      "active-learning",
+      "artificial-intelligence",
+      "computer-vision",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-curation",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "developer-tools",
+      "image-classification",
+      "machine-learning",
+      "object-detection",
+      "python",
+      "unstructured-data",
+      "vector-search",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 10630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-22T13:43:28Z",
+    "UpdatedAt": "2026-05-02T17:17:51Z",
+    "Owner": "voxel51",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LikeLy-Journey/SegmenTron",
+    "Name": "SegmenTron",
+    "Url": "https://github.com/LikeLy-Journey/SegmenTron",
+    "Description": "Support PointRend, Fast_SCNN, HRNet, Deeplabv3_plus(xception, resnet, mobilenet), ContextNet, FPENet, DABNet, EdaNet, ENet, Espnetv2, RefineNet, UNet, DANet, HRNet, DFANet, HardNet, LedNet, OCNet, EncNet, DuNet, CGNet, CCNet, BiSeNet, PSPNet, ICNet, FCN, deeplab) ",
+    "Topics": [
+      "ccnet",
+      "cityscapes",
+      "coco",
+      "deeplab-v3-plus",
+      "deeplabv3plus",
+      "eval",
+      "fast-scnn",
+      "hrnet",
+      "mobilenet",
+      "pointrend",
+      "pytorch",
+      "xception"
+    ],
+    "Language": "Python",
+    "Stars": 726,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-20T04:06:21Z",
+    "UpdatedAt": "2026-05-01T18:17:23Z",
+    "Owner": "LikeLy-Journey",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ssrajadh/sentrysearch",
+    "Name": "sentrysearch",
+    "Url": "https://github.com/ssrajadh/sentrysearch",
+    "Description": "Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.",
+    "Topics": [
+      "chromadb",
+      "dashcam",
+      "gemini",
+      "gemini-embedding-2",
+      "mp4",
+      "qwen3-vl",
+      "semantic-search",
+      "tesla",
+      "video"
+    ],
+    "Language": "Python",
+    "Stars": 3800,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-17T22:41:11Z",
+    "UpdatedAt": "2026-05-03T18:26:44Z",
+    "Owner": "ssrajadh",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77606,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-03T18:06:54Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/neuralangelo",
+    "Name": "neuralangelo",
+    "Url": "https://github.com/NVlabs/neuralangelo",
+    "Description": "Official implementation of \"Neuralangelo: High-Fidelity Neural Surface Reconstruction\" (CVPR 2023)",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "neural-rendering",
+      "neural-representation"
+    ],
+    "Language": "Python",
+    "Stars": 4591,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-23T20:52:42Z",
+    "UpdatedAt": "2026-05-01T10:13:07Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hankcs/HanLP",
+    "Name": "HanLP",
+    "Url": "https://github.com/hankcs/HanLP",
+    "Description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
+    "Topics": [
+      "dependency-parser",
+      "hanlp",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pos-tagging",
+      "semantic-parsing",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 36293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-09T06:36:16Z",
+    "UpdatedAt": "2026-05-03T17:27:42Z",
+    "Owner": "hankcs",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rishizek/tensorflow-deeplab-v3-plus",
+    "Name": "tensorflow-deeplab-v3-plus",
+    "Url": "https://github.com/rishizek/tensorflow-deeplab-v3-plus",
+    "Description": "DeepLabv3+ built in TensorFlow ",
+    "Topics": [
+      "deeplab",
+      "deeplab-resnet",
+      "deeplabv3",
+      "deeplabv3plus",
+      "pascal-voc",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 840,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-25T05:20:09Z",
+    "UpdatedAt": "2026-03-18T01:13:39Z",
+    "Owner": "rishizek",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langgenius/dify",
+    "Name": "dify",
+    "Url": "https://github.com/langgenius/dify",
+    "Description": "Production-ready platform for agentic workflow development.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "Language": "TypeScript",
+    "Stars": 139973,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T07:40:24Z",
+    "UpdatedAt": "2026-05-03T18:00:44Z",
+    "Owner": "langgenius",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zijundeng/pytorch-semantic-segmentation",
+    "Name": "pytorch-semantic-segmentation",
+    "Url": "https://github.com/zijundeng/pytorch-semantic-segmentation",
+    "Description": "PyTorch for Semantic Segmentation",
+    "Topics": [
+      "deep-learning",
+      "fully-convolutional-networks",
+      "pytorch",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 1740,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-02T06:45:33Z",
+    "UpdatedAt": "2026-04-28T12:23:40Z",
+    "Owner": "zijundeng",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-03T09:19:26Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T14:15:30Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "obss/sahi",
+    "Name": "sahi",
+    "Url": "https://github.com/obss/sahi",
+    "Description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
+    "Topics": [
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "explainable-ai",
+      "fiftyone",
+      "hacktoberfest",
+      "huggingface",
+      "instance-segmentation",
+      "large-image",
+      "machine-learning",
+      "mmdetection",
+      "object-detection",
+      "oriented-object-detection",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "satellite",
+      "small-object-detection",
+      "tiling",
+      "yolo11"
+    ],
+    "Language": "Python",
+    "Stars": 5265,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-30T12:54:53Z",
+    "UpdatedAt": "2026-05-02T03:12:07Z",
+    "Owner": "obss",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/models",
+    "Name": "models",
+    "Url": "https://github.com/PaddlePaddle/models",
+    "Description": "Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.",
+    "Topics": [
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "models",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "paddlepaddle",
+      "recommendation",
+      "speech"
+    ],
+    "Language": "Python",
+    "Stars": 6943,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-20T13:30:15Z",
+    "UpdatedAt": "2026-05-02T13:34:25Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus",
+    "Name": "deepglobe_land_cover_classification_with_deeplabv3plus",
+    "Url": "https://github.com/GeneralLi95/deepglobe_land_cover_classification_with_deeplabv3plus",
+    "Description": "DeepGlobe Land Cover Classification Challenge遥感影像语义分割",
+    "Topics": [
+      "deepglobe",
+      "deeplab-v3-plus",
+      "land-cover-challenge",
+      "satellite-images",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 230,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-20T08:28:41Z",
+    "UpdatedAt": "2026-05-03T15:54:02Z",
+    "Owner": "GeneralLi95",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37949,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-03T16:23:31Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "srihari-humbarwadi/person_segmentation_tf2.0",
+    "Name": "person_segmentation_tf2.0",
+    "Url": "https://github.com/srihari-humbarwadi/person_segmentation_tf2.0",
+    "Description": "Using deepLabv3+ to segment humans",
+    "Topics": [
+      "background-subtraction",
+      "deeplab-v3-plus",
+      "keras",
+      "keras-tensorflow",
+      "sematic-segmentation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 61,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-21T10:28:44Z",
+    "UpdatedAt": "2025-04-16T03:32:18Z",
+    "Owner": "srihari-humbarwadi",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nyoki-mtl/pytorch-segmentation",
+    "Name": "pytorch-segmentation",
+    "Url": "https://github.com/nyoki-mtl/pytorch-segmentation",
+    "Description": "PyTorch implementation for semantic segmentation (DeepLabV3+, UNet, etc.)",
+    "Topics": [
+      "deeplab-v3-plus",
+      "pytorch",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 396,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-22T03:18:19Z",
+    "UpdatedAt": "2026-01-02T13:17:13Z",
+    "Owner": "nyoki-mtl",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nikhilroxtomar/Human-Image-Segmentation-with-DeepLabV3Plus-in-TensorFlow",
+    "Name": "Human-Image-Segmentation-with-DeepLabV3Plus-in-TensorFlow",
+    "Url": "https://github.com/nikhilroxtomar/Human-Image-Segmentation-with-DeepLabV3Plus-in-TensorFlow",
+    "Description": "DeepLabV3+ with squeeze and excitation network for human image segmentation in TensorFlow 2.5.0",
+    "Topics": [
+      "deeplab-v3-plus",
+      "deeplabv3",
+      "human-image-segmentation",
+      "image-segmentation-tensorflow",
+      "people-segmentation",
+      "semantic-segmentation",
+      "tensorflow",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-07T05:00:15Z",
+    "UpdatedAt": "2025-10-31T09:38:42Z",
+    "Owner": "nikhilroxtomar",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50",
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 25104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-03T15:08:42Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "UX-Decoder/Semantic-SAM",
+    "Name": "Semantic-SAM",
+    "Url": "https://github.com/UX-Decoder/Semantic-SAM",
+    "Description": "[ECCV 2024] Official implementation of the paper \"Semantic-SAM: Segment and Recognize Anything at Any Granularity\"",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-10T17:13:37Z",
+    "UpdatedAt": "2026-05-03T01:32:23Z",
+    "Owner": "UX-Decoder",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "matterport/Mask_RCNN",
+    "Name": "Mask_RCNN",
+    "Url": "https://github.com/matterport/Mask_RCNN",
+    "Description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "Topics": [
+      "instance-segmentation",
+      "keras",
+      "mask-rcnn",
+      "object-detection",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 25553,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-19T20:28:34Z",
+    "UpdatedAt": "2026-05-03T03:36:22Z",
+    "Owner": "matterport",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Beckschen/TransUNet",
+    "Name": "TransUNet",
+    "Url": "https://github.com/Beckschen/TransUNet",
+    "Description": "This repository includes the official project of TransUNet, presented in our paper: TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3176,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-08T06:12:54Z",
+    "UpdatedAt": "2026-05-03T00:48:36Z",
+    "Owner": "Beckschen",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xuebinqin/U-2-Net",
+    "Name": "U-2-Net",
+    "Url": "https://github.com/xuebinqin/U-2-Net",
+    "Description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-background-removal",
+      "image-processing",
+      "image-segmentation",
+      "u-2-net",
+      "u2net"
+    ],
+    "Language": "Python",
+    "Stars": 9724,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-04T17:10:28Z",
+    "UpdatedAt": "2026-05-03T12:46:59Z",
+    "Owner": "xuebinqin",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hszhao/semseg",
+    "Name": "semseg",
+    "Url": "https://github.com/hszhao/semseg",
+    "Description": "Semantic Segmentation in Pytorch",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-06T17:26:36Z",
+    "UpdatedAt": "2026-04-07T04:57:32Z",
+    "Owner": "hszhao",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/stanza",
+    "Name": "stanza",
+    "Url": "https://github.com/stanfordnlp/stanza",
+    "Description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages",
+    "Topics": [
+      "artificial-intelligence",
+      "corenlp",
+      "deep-learning",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "universal-dependencies"
+    ],
+    "Language": "Python",
+    "Stars": 7783,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-26T08:00:56Z",
+    "UpdatedAt": "2026-05-03T13:48:04Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lancopku/pkuseg-python",
+    "Name": "pkuseg-python",
+    "Url": "https://github.com/lancopku/pkuseg-python",
+    "Description": "pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation",
+    "Topics": [
+      "chinese-word-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 6701,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-05T06:41:07Z",
+    "UpdatedAt": "2026-05-03T12:33:12Z",
+    "Owner": "lancopku",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openpifpaf/openpifpaf",
+    "Name": "openpifpaf",
+    "Url": "https://github.com/openpifpaf/openpifpaf",
+    "Description": "Official implementation of \"OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association\" in PyTorch.",
+    "Topics": [
+      "composite-fields",
+      "computer-vision",
+      "deep-learning",
+      "human-pose-estimation",
+      "keypoint-estimation",
+      "pose-estimation"
+    ],
+    "Language": "Python",
+    "Stars": 1252,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-21T22:07:00Z",
+    "UpdatedAt": "2026-04-24T10:58:57Z",
+    "Owner": "openpifpaf",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nerfstudio-project/nerfstudio",
+    "Name": "nerfstudio",
+    "Url": "https://github.com/nerfstudio-project/nerfstudio",
+    "Description": "A collaboration friendly studio for NeRFs",
+    "Topics": [
+      "3d",
+      "3d-graphics",
+      "3d-reconstruction",
+      "computer-vision",
+      "deep-learning",
+      "gaussian-splatting",
+      "machine-learning",
+      "nerf",
+      "photogrammetry",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 11507,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-31T18:17:37Z",
+    "UpdatedAt": "2026-05-03T09:44:34Z",
+    "Owner": "nerfstudio-project",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "katanaml/sparrow",
+    "Name": "sparrow",
+    "Url": "https://github.com/katanaml/sparrow",
+    "Description": "Structured data extraction and instruction calling with ML, LLM and Vision LLM",
+    "Topics": [
+      "computer-vision",
+      "gpt",
+      "huggingface-transformers",
+      "llm",
+      "machinelearning",
+      "nlp-machine-learning",
+      "rag",
+      "vllm"
+    ],
+    "Language": "Python",
+    "Stars": 5154,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-08T08:45:44Z",
+    "UpdatedAt": "2026-05-03T15:46:45Z",
+    "Owner": "katanaml",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yanshengjia/ml-road",
+    "Name": "ml-road",
+    "Url": "https://github.com/yanshengjia/ml-road",
+    "Description": "Machine Learning and Agentic AI Resources, Practice and Research",
+    "Topics": [
+      "agentic-ai",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "speech-recognition",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 4746,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-31T04:36:37Z",
+    "UpdatedAt": "2026-05-03T06:59:08Z",
+    "Owner": "yanshengjia",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T17:17:38Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/pix2pixHD",
+    "Name": "pix2pixHD",
+    "Url": "https://github.com/NVIDIA/pix2pixHD",
+    "Description": "Synthesizing and manipulating 2048x1024 images with conditional GANs",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "gan",
+      "generative-adversarial-network",
+      "image-to-image-translation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 6931,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-01T19:19:14Z",
+    "UpdatedAt": "2026-05-03T07:03:20Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183958,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-03T17:36:16Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "BerriAI/litellm",
+    "Name": "litellm",
+    "Url": "https://github.com/BerriAI/litellm",
+    "Description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "Topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "Language": "Python",
+    "Stars": 45559,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-27T00:09:52Z",
+    "UpdatedAt": "2026-05-03T18:07:53Z",
+    "Owner": "BerriAI",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mapbox/robosat",
+    "Name": "robosat",
+    "Url": "https://github.com/mapbox/robosat",
+    "Description": " Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds",
+    "Topics": [
+      "aerial-imagery",
+      "machine-learning",
+      "openstreetmap",
+      "satellite-imagery",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2057,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-07T12:42:33Z",
+    "UpdatedAt": "2026-04-27T02:02:54Z",
+    "Owner": "mapbox",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aurelio-labs/semantic-router",
+    "Name": "semantic-router",
+    "Url": "https://github.com/aurelio-labs/semantic-router",
+    "Description": "Superfast AI decision making and intelligent processing of multi-modal data.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "computer-vision",
+      "generative-ai",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "Python",
+    "Stars": 3474,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-30T12:12:45Z",
+    "UpdatedAt": "2026-05-03T14:59:03Z",
+    "Owner": "aurelio-labs",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "allenai/s2orc",
+    "Name": "s2orc",
+    "Url": "https://github.com/allenai/s2orc",
+    "Description": "S2ORC: The Semantic Scholar Open Research Corpus:  https://www.aclweb.org/anthology/2020.acl-main.447/",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1045,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-04T10:36:14Z",
+    "UpdatedAt": "2026-05-02T21:14:49Z",
+    "Owner": "allenai",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52919,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-03T18:26:59Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54676,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-03T18:14:23Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mikel-brostrom/boxmot",
+    "Name": "boxmot",
+    "Url": "https://github.com/mikel-brostrom/boxmot",
+    "Description": "BoxMOT: Pluggable python and c++ SOTA multi-object tracking modules with support for axis-aligned and oriented bounding boxes",
+    "Topics": [
+      "boosttrack",
+      "botsort",
+      "bytetrack",
+      "deep-learning",
+      "deepocsort",
+      "machine-learning",
+      "mot",
+      "mots",
+      "multi-object-tracking",
+      "multi-object-tracking-segmentation",
+      "ocsort",
+      "oriented-bounding-box-tracking",
+      "segmentation",
+      "strongsort",
+      "tensorrt",
+      "tracking-by-detection",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 8134,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-26T09:26:23Z",
+    "UpdatedAt": "2026-05-03T14:58:28Z",
+    "Owner": "mikel-brostrom",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opengeos/segment-geospatial",
+    "Name": "segment-geospatial",
+    "Url": "https://github.com/opengeos/segment-geospatial",
+    "Description": "A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "geopython",
+      "geospatial",
+      "machine-learning",
+      "segment-anything",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 3976,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-19T03:03:52Z",
+    "UpdatedAt": "2026-05-03T15:54:17Z",
+    "Owner": "opengeos",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T18:02:34Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "STVIR/pysot",
+    "Name": "pysot",
+    "Url": "https://github.com/STVIR/pysot",
+    "Description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+    "Topics": [
+      "computer-vision",
+      "siamese-network",
+      "tracking"
+    ],
+    "Language": "Python",
+    "Stars": 4602,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-07T12:37:56Z",
+    "UpdatedAt": "2026-05-02T19:03:09Z",
+    "Owner": "STVIR",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmMaze/BallonsTranslator",
+    "Name": "BallonsTranslator",
+    "Url": "https://github.com/dmMaze/BallonsTranslator",
+    "Description": "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning",
+    "Topics": [
+      "auto-translation",
+      "chinese-translation",
+      "comics",
+      "computer-aided-translation",
+      "computer-vision",
+      "deep-learning",
+      "inpainting",
+      "manga",
+      "ocr",
+      "pyqt",
+      "pyqt6",
+      "pytorch",
+      "qt",
+      "qt6",
+      "scene-text-detection"
+    ],
+    "Language": "Python",
+    "Stars": 4760,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-09T13:31:52Z",
+    "UpdatedAt": "2026-05-03T12:28:10Z",
+    "Owner": "dmMaze",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zalandoresearch/fashion-mnist",
+    "Name": "fashion-mnist",
+    "Url": "https://github.com/zalandoresearch/fashion-mnist",
+    "Description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+    "Topics": [
+      "benchmark",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "dataset",
+      "deep-learning",
+      "fashion",
+      "fashion-mnist",
+      "gan",
+      "machine-learning",
+      "mnist",
+      "zalando"
+    ],
+    "Language": "Python",
+    "Stars": 12722,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-25T12:05:15Z",
+    "UpdatedAt": "2026-05-03T13:54:53Z",
+    "Owner": "zalandoresearch",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kdmayer/3D-PV-Locator",
+    "Name": "3D-PV-Locator",
+    "Url": "https://github.com/kdmayer/3D-PV-Locator",
+    "Description": "Dockerized Repo for \"3D-PV-Locator: Large-scale detection of rooftop-mounted photovoltaic systems in 3D\" based on Applied Energy publication.",
+    "Topics": [
+      "ai",
+      "climate-change",
+      "computer-vision",
+      "deep-learning",
+      "deeplabv3",
+      "deepsolar",
+      "inception-v3",
+      "network-planning",
+      "neurips-2020",
+      "pv-systems",
+      "remote-sensing",
+      "renewable-energy",
+      "satellite-imagery",
+      "solar",
+      "solar-panels"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-20T12:47:54Z",
+    "UpdatedAt": "2026-04-02T12:13:01Z",
+    "Owner": "kdmayer",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "trailofbits/graphtage",
+    "Name": "graphtage",
+    "Url": "https://github.com/trailofbits/graphtage",
+    "Description": "A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.",
+    "Topics": [
+      "command-line-tool",
+      "diff",
+      "graph-algorithms",
+      "hacktoberfest",
+      "hacktoberfest2021",
+      "library",
+      "python",
+      "utility"
+    ],
+    "Language": "Python",
+    "Stars": 2470,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-21T16:47:22Z",
+    "UpdatedAt": "2026-05-01T22:36:45Z",
+    "Owner": "trailofbits",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LeslieZhoa/tensorflow-deeplab_v3_plus",
+    "Name": "tensorflow-deeplab_v3_plus",
+    "Url": "https://github.com/LeslieZhoa/tensorflow-deeplab_v3_plus",
+    "Description": "图像分割算法deeplab_v3+，基于tensorflow，中文注释，摄像头可用",
+    "Topics": [
+      "deeplab-v3-plus",
+      "image-segmentation",
+      "tensorflow",
+      "video"
+    ],
+    "Language": "Python",
+    "Stars": 100,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-15T09:51:12Z",
+    "UpdatedAt": "2026-03-24T08:24:45Z",
+    "Owner": "LeslieZhoa",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milvus-io/milvus",
+    "Name": "milvus",
+    "Url": "https://github.com/milvus-io/milvus",
+    "Description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "Topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "Language": "Go",
+    "Stars": 44103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-16T06:43:43Z",
+    "UpdatedAt": "2026-05-03T14:06:21Z",
+    "Owner": "milvus-io",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "opengeos/geoai",
+    "Name": "geoai",
+    "Url": "https://github.com/opengeos/geoai",
+    "Description": "GeoAI: Artificial Intelligence for Geospatial Data",
+    "Topics": [
+      "ai",
+      "data-science",
+      "deep-learning",
+      "earth-observation",
+      "geoai",
+      "geopython",
+      "geospatial",
+      "jupyter",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2949,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-11T20:05:04Z",
+    "UpdatedAt": "2026-05-03T10:42:46Z",
+    "Owner": "opengeos",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eveningdong/DeepLabV3-Tensorflow",
+    "Name": "DeepLabV3-Tensorflow",
+    "Url": "https://github.com/eveningdong/DeepLabV3-Tensorflow",
+    "Description": "Reimplementation of DeepLabV3",
+    "Topics": [
+      "deep-learning",
+      "deeplabv3",
+      "semantic-segmentation",
+      "slim",
+      "tensorflow",
+      "voc"
+    ],
+    "Language": "Python",
+    "Stars": 287,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-06T23:02:22Z",
+    "UpdatedAt": "2025-09-05T02:22:21Z",
+    "Owner": "eveningdong",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JunMa11/SegLossOdyssey",
+    "Name": "SegLossOdyssey",
+    "Url": "https://github.com/JunMa11/SegLossOdyssey",
+    "Description": "A collection of loss functions for medical image segmentation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 4007,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-30T15:25:37Z",
+    "UpdatedAt": "2026-04-30T18:40:44Z",
+    "Owner": "JunMa11",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/sports",
+    "Name": "sports",
+    "Url": "https://github.com/roboflow/sports",
+    "Description": "computer vision and sports",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "football",
+      "football-data",
+      "image-embeddings",
+      "keypoint-detection",
+      "object-detection",
+      "soccer",
+      "soccer-analytics",
+      "soccer-data",
+      "sports",
+      "sports-analytics",
+      "sports-data",
+      "tutorial",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 4962,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-13T14:51:16Z",
+    "UpdatedAt": "2026-05-02T23:15:31Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56705,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-03T18:11:12Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WangLibo1995/GeoSeg",
+    "Name": "GeoSeg",
+    "Url": "https://github.com/WangLibo1995/GeoSeg",
+    "Description": "UNetFormer: A UNet-like transformer for efficient semantic segmentation of remote sensing urban scene imagery, ISPRS. Also, including other vision transformers and CNNs for satellite, aerial image and UAV image segmentation.",
+    "Topics": [
+      "cnn",
+      "deep-learning",
+      "pytorch",
+      "pytorch-lightning",
+      "remote-sensing-image",
+      "segmentation",
+      "semantic-segmentation",
+      "timm",
+      "vision-transformer"
+    ],
+    "Language": "Python",
+    "Stars": 1064,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-19T11:35:52Z",
+    "UpdatedAt": "2026-04-27T07:22:32Z",
+    "Owner": "WangLibo1995",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PeterL1n/RobustVideoMatting",
+    "Name": "RobustVideoMatting",
+    "Url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "Description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "Topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "matting"
+    ],
+    "Language": "Python",
+    "Stars": 9332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-30T20:57:44Z",
+    "UpdatedAt": "2026-05-03T13:57:40Z",
+    "Owner": "PeterL1n",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl",
+    "Name": "firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "TypeScript",
+    "Stars": 114603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-15T21:02:29Z",
+    "UpdatedAt": "2026-05-03T18:28:08Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Dicklesworthstone/swiss_army_llama",
+    "Name": "swiss_army_llama",
+    "Url": "https://github.com/Dicklesworthstone/swiss_army_llama",
+    "Description": "A FastAPI service for semantic text search using precomputed embeddings and advanced similarity measures, with built-in support for various file types through textract.",
+    "Topics": [
+      "embedding-similarity",
+      "embedding-vectors",
+      "embeddings",
+      "llama2",
+      "llamacpp",
+      "semantic-search"
+    ],
+    "Language": "Python",
+    "Stars": 1051,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-08T01:23:30Z",
+    "UpdatedAt": "2026-04-25T13:25:50Z",
+    "Owner": "Dicklesworthstone",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datawhalechina/hello-agents",
+    "Name": "hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "Topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 42349,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-07T09:50:24Z",
+    "UpdatedAt": "2026-05-03T18:11:45Z",
+    "Owner": "datawhalechina",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72553,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-03T17:48:20Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sercant/mobile-segmentation",
+    "Name": "mobile-segmentation",
+    "Url": "https://github.com/sercant/mobile-segmentation",
+    "Description": "Real-time semantic image segmentation on mobile devices",
+    "Topics": [
+      "android",
+      "deeplab-v3-plus",
+      "image-processing",
+      "mobilenetv2",
+      "mscoco-dataset",
+      "neural-network",
+      "real-time",
+      "semantic-image-segmentation",
+      "semantic-segmentation",
+      "shufflenet-v2",
+      "tensorflow-lite"
+    ],
+    "Language": "Python",
+    "Stars": 110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-12T22:00:55Z",
+    "UpdatedAt": "2025-04-27T05:52:35Z",
+    "Owner": "sercant",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "luigifreda/pyslam",
+    "Name": "pyslam",
+    "Url": "https://github.com/luigifreda/pyslam",
+    "Description": "pySLAM is a hybrid Python/C++ Visual SLAM pipeline supporting monocular, stereo, and RGB-D cameras. It provides a broad set of modern local and global feature extractors, multiple loop-closure strategies, a volumetric reconstruction module, integrated depth-prediction models, and semantic segmentation capabilities for enhanced scene understanding.",
+    "Topics": [
+      "3d-reconstruction",
+      "depth-estimation",
+      "depth-prediction",
+      "end-to-end-reconstruction",
+      "feature-matching",
+      "gaussian-splatting",
+      "global-features",
+      "instance-segmentation",
+      "local-features",
+      "loop-closure",
+      "place-recognition",
+      "rgbd-slam",
+      "scene-understanding",
+      "semantic-mapping",
+      "semantic-segmentation",
+      "semantic-understanding",
+      "slam",
+      "stereo-slam",
+      "visual-odometry",
+      "volumetric-reconstruction"
+    ],
+    "Language": "Python",
+    "Stars": 3269,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-06T16:32:09Z",
+    "UpdatedAt": "2026-05-01T03:32:55Z",
+    "Owner": "luigifreda",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mjDelta/deeplabv3plus-keras",
+    "Name": "deeplabv3plus-keras",
+    "Url": "https://github.com/mjDelta/deeplabv3plus-keras",
+    "Description": "deeplabv3plus (Google's new algorithm for semantic segmentation) in keras：Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ",
+    "Topics": [
+      "deeplab",
+      "deeplab-v3-plus",
+      "deeplabv3plus",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 63,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-24T13:40:06Z",
+    "UpdatedAt": "2025-12-04T01:54:22Z",
+    "Owner": "mjDelta",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shareAI-lab/learn-claude-code",
+    "Name": "learn-claude-code",
+    "Url": "https://github.com/shareAI-lab/learn-claude-code",
+    "Description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "Topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "Language": "TypeScript",
+    "Stars": 57934,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-29T15:34:15Z",
+    "UpdatedAt": "2026-05-03T18:27:02Z",
+    "Owner": "shareAI-lab",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "oraios/serena",
+    "Name": "serena",
+    "Url": "https://github.com/oraios/serena",
+    "Description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "Topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "Language": "Python",
+    "Stars": 23771,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-23T22:35:24Z",
+    "UpdatedAt": "2026-05-03T18:17:33Z",
+    "Owner": "oraios",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63510,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-03T18:25:30Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openrecall/openrecall",
+    "Name": "openrecall",
+    "Url": "https://github.com/openrecall/openrecall",
+    "Description": "OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.",
+    "Topics": [
+      "ai",
+      "alternative",
+      "history",
+      "macos",
+      "ocr",
+      "open-source",
+      "privacy",
+      "python",
+      "recall",
+      "search",
+      "self-hosted",
+      "semantic",
+      "windows"
+    ],
+    "Language": "Python",
+    "Stars": 2823,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-29T06:14:07Z",
+    "UpdatedAt": "2026-05-03T11:34:37Z",
+    "Owner": "openrecall",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KevinMusgrave/pytorch-metric-learning",
+    "Name": "pytorch-metric-learning",
+    "Url": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+    "Description": "The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.",
+    "Topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "deep-metric-learning",
+      "embeddings",
+      "image-retrieval",
+      "machine-learning",
+      "metric-learning",
+      "pytorch",
+      "self-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 6321,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-23T17:20:35Z",
+    "UpdatedAt": "2026-05-02T20:58:30Z",
+    "Owner": "KevinMusgrave",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/MetaGPT",
+    "Name": "MetaGPT",
+    "Url": "https://github.com/FoundationAgents/MetaGPT",
+    "Description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "Language": "Python",
+    "Stars": 67655,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-30T09:04:55Z",
+    "UpdatedAt": "2026-05-03T17:07:02Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CharlesShang/FastMaskRCNN",
+    "Name": "FastMaskRCNN",
+    "Url": "https://github.com/CharlesShang/FastMaskRCNN",
+    "Description": "Mask RCNN in TensorFlow ",
+    "Topics": [
+      "coco",
+      "detection",
+      "fasterrcnn",
+      "maskrcnn",
+      "pfn",
+      "rcnn",
+      "segmentation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 3092,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-25T15:33:21Z",
+    "UpdatedAt": "2026-04-24T17:21:33Z",
+    "Owner": "CharlesShang",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "foolwood/SiamMask",
+    "Name": "SiamMask",
+    "Url": "https://github.com/foolwood/SiamMask",
+    "Description": "[CVPR19/TPAMI23] SiamMask: A Framework for Fast Online Object Tracking and Segmentation",
+    "Topics": [
+      "computer-vision",
+      "cvpr2019",
+      "deep-learning",
+      "object-tracking",
+      "pytorch",
+      "read-time",
+      "video-object-segmentation",
+      "visual-tracking"
+    ],
+    "Language": "Python",
+    "Stars": 3547,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-04T11:34:17Z",
+    "UpdatedAt": "2026-04-28T09:04:07Z",
+    "Owner": "foolwood",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hzwer/ECCV2022-RIFE",
+    "Name": "ECCV2022-RIFE",
+    "Url": "https://github.com/hzwer/ECCV2022-RIFE",
+    "Description": "ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "Topics": [
+      "aigc",
+      "computer-vision",
+      "deep-learning",
+      "slomo-filter",
+      "video-interpolation"
+    ],
+    "Language": "Python",
+    "Stars": 5411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-12T05:46:23Z",
+    "UpdatedAt": "2026-05-03T16:51:10Z",
+    "Owner": "hzwer",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ansleliu/LightNet",
+    "Name": "LightNet",
+    "Url": "https://github.com/ansleliu/LightNet",
+    "Description": "LightNet: Light-weight Networks for Semantic Image Segmentation (Cityscapes and Mapillary Vistas Dataset)",
+    "Topics": [
+      "cityscapes",
+      "deeplabv3",
+      "deeplabv3plus",
+      "inplace-activated-batchnorm",
+      "light-weight-net",
+      "light-weight-networks",
+      "mapillary-vistas-dataset",
+      "mobilenet",
+      "mobilenet-v2",
+      "mobilenetv2",
+      "mobilenetv2plus",
+      "pytorch",
+      "rfmobilenetv2plus",
+      "scse-aspp",
+      "segmentation",
+      "semantic-context-loss",
+      "semantic-segmentation",
+      "shufflenet",
+      "wide-residual-networks"
+    ],
+    "Language": "Python",
+    "Stars": 726,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-17T02:38:10Z",
+    "UpdatedAt": "2026-04-13T14:21:07Z",
+    "Owner": "ansleliu",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ekzhang/fastseg",
+    "Name": "fastseg",
+    "Url": "https://github.com/ekzhang/fastseg",
+    "Description": "📸 PyTorch implementation of MobileNetV3 for real-time semantic segmentation, with pretrained weights & state-of-the-art performance",
+    "Topics": [
+      "aspp",
+      "cityscapes",
+      "computer-vision",
+      "deep-learning",
+      "deeplabv3",
+      "edge-computing",
+      "efficientnet",
+      "kitti-dataset",
+      "mapillary-vistas-dataset",
+      "mobilenetv3",
+      "pytorch",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-22T22:11:27Z",
+    "UpdatedAt": "2026-04-27T05:34:02Z",
+    "Owner": "ekzhang",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DLR-RM/BlenderProc",
+    "Name": "BlenderProc",
+    "Url": "https://github.com/DLR-RM/BlenderProc",
+    "Description": "A procedural Blender pipeline for photorealistic training image generation",
+    "Topics": [
+      "3d-engines",
+      "3d-front-dataset",
+      "3d-graphics",
+      "3d-reconstruction",
+      "blender",
+      "blender-installation",
+      "blender-pipeline",
+      "camera-positions",
+      "camera-sampling",
+      "computer-graphics",
+      "depth-images",
+      "pose-estimation",
+      "python",
+      "rendering",
+      "segmentation",
+      "suncg-scene",
+      "synthetic",
+      "synthetic-data"
+    ],
+    "Language": "Python",
+    "Stars": 3521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-10T11:29:14Z",
+    "UpdatedAt": "2026-05-02T16:22:50Z",
+    "Owner": "DLR-RM",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "anxiangsir/urban_seg",
+    "Name": "urban_seg",
+    "Url": "https://github.com/anxiangsir/urban_seg",
+    "Description": "Remotes Sensing Semantic Segmentation",
+    "Topics": [
+      "deeplab",
+      "deeplabv3",
+      "python3",
+      "remote-sensing",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 472,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-20T10:55:38Z",
+    "UpdatedAt": "2026-04-12T15:29:16Z",
+    "Owner": "anxiangsir",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zym1119/DeepLabv3_MobileNetv2_PyTorch",
+    "Name": "DeepLabv3_MobileNetv2_PyTorch",
+    "Url": "https://github.com/zym1119/DeepLabv3_MobileNetv2_PyTorch",
+    "Description": "A PyTorch Implementation of MobileNetv2+DeepLabv3",
+    "Topics": [
+      "deeplabv3",
+      "mobilenetv2",
+      "pytorch",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 158,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-06T02:21:57Z",
+    "UpdatedAt": "2025-12-16T12:28:05Z",
+    "Owner": "zym1119",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mhashas/Document-Image-Unwarping-pytorch",
+    "Name": "Document-Image-Unwarping-pytorch",
+    "Url": "https://github.com/mhashas/Document-Image-Unwarping-pytorch",
+    "Description": "Pytorch implementation and extension of \"DocUnet: Document Image Unwarping via A Stacked U-Net\"",
+    "Topics": [
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "deeplab-v3-plus",
+      "document-unwarping",
+      "mobilenet-v2",
+      "pytorch",
+      "resnet",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 117,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-22T09:01:55Z",
+    "UpdatedAt": "2026-04-18T16:49:36Z",
+    "Owner": "mhashas",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "genforce/interfacegan",
+    "Name": "interfacegan",
+    "Url": "https://github.com/genforce/interfacegan",
+    "Description": "[CVPR 2020] Interpreting the Latent Space of GANs for Semantic Face Editing",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1558,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-26T16:49:51Z",
+    "UpdatedAt": "2026-05-03T06:55:36Z",
+    "Owner": "genforce",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "trustgraph-ai/trustgraph",
+    "Name": "trustgraph",
+    "Url": "https://github.com/trustgraph-ai/trustgraph",
+    "Description": "The context development platform. Store, enrich, and retrieve structured knowledge with graph-native infrastructure, semantic retrieval, and portable context cores.",
+    "Topics": [
+      "agent",
+      "agent-memory",
+      "ai-infra",
+      "ai-tools",
+      "context",
+      "context-engineering",
+      "context-graph",
+      "context-os",
+      "developer-tools",
+      "graph",
+      "graph-database",
+      "knowledge-graph",
+      "neuro-symbolic-ai",
+      "ontology",
+      "ontology-engineering",
+      "open-source",
+      "rdf",
+      "semantic-search",
+      "sparql",
+      "trustgraph"
+    ],
+    "Language": "Python",
+    "Stars": 2042,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-10T19:14:04Z",
+    "UpdatedAt": "2026-05-03T17:01:21Z",
+    "Owner": "trustgraph-ai",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mit-han-lab/efficientvit",
+    "Name": "efficientvit",
+    "Url": "https://github.com/mit-han-lab/efficientvit",
+    "Description": "Efficient vision foundation models for high-resolution generation and perception.",
+    "Topics": [
+      "deep-compression-autoencoder",
+      "efficient-diffusion-model",
+      "efficientvit",
+      "high-resolution",
+      "imagenet",
+      "segment-anything",
+      "segmentation",
+      "vision-transformer"
+    ],
+    "Language": "Python",
+    "Stars": 3296,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-05T23:30:46Z",
+    "UpdatedAt": "2026-05-03T09:25:45Z",
+    "Owner": "mit-han-lab",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "graphdeco-inria/gaussian-splatting",
+    "Name": "gaussian-splatting",
+    "Url": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "Description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "radiance-field"
+    ],
+    "Language": "Python",
+    "Stars": 21628,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-04T07:51:38Z",
+    "UpdatedAt": "2026-05-03T18:24:48Z",
+    "Owner": "graphdeco-inria",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/rf-detr",
+    "Name": "rf-detr",
+    "Url": "https://github.com/roboflow/rf-detr",
+    "Description": "[ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.",
+    "Topics": [
+      "computer-vision",
+      "detr",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "rf-detr",
+      "sota"
+    ],
+    "Language": "Python",
+    "Stars": 6911,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-19T20:43:00Z",
+    "UpdatedAt": "2026-05-03T17:21:53Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Layout-Parser/layout-parser",
+    "Name": "layout-parser",
+    "Url": "https://github.com/Layout-Parser/layout-parser",
+    "Description": "A Unified Toolkit for Deep Learning Based Document Image Analysis",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "detectron2",
+      "document-image-processing",
+      "document-layout-analysis",
+      "layout-analysis",
+      "layout-detection",
+      "layout-parser",
+      "object-detection",
+      "ocr"
+    ],
+    "Language": "Python",
+    "Stars": 5729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-10T20:22:54Z",
+    "UpdatedAt": "2026-05-02T20:41:58Z",
+    "Owner": "Layout-Parser",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KaiyangZhou/deep-person-reid",
+    "Name": "deep-person-reid",
+    "Url": "https://github.com/KaiyangZhou/deep-person-reid",
+    "Description": "Torchreid: Deep learning person re-identification in PyTorch.",
+    "Topics": [
+      "computer-vision",
+      "cross-domain",
+      "deep-learning",
+      "deep-neural-networks",
+      "image-retrieval",
+      "machine-learning",
+      "metric-learning",
+      "person-reid",
+      "person-reidentification",
+      "pytorch",
+      "re-ranking"
+    ],
+    "Language": "Python",
+    "Stars": 4818,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-11T21:14:39Z",
+    "UpdatedAt": "2026-05-03T14:57:41Z",
+    "Owner": "KaiyangZhou",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "autogluon/autogluon",
+    "Name": "autogluon",
+    "Url": "https://github.com/autogluon/autogluon",
+    "Description": "Fast and Accurate ML in 3 Lines of Code",
+    "Topics": [
+      "autogluon",
+      "automated-machine-learning",
+      "automl",
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "ensemble-learning",
+      "forecasting",
+      "gluon",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "natural-language-processing",
+      "object-detection",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "structured-data",
+      "tabular-data",
+      "time-series",
+      "transfer-learning"
+    ],
+    "Language": "Python",
+    "Stars": 10276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-29T18:51:24Z",
+    "UpdatedAt": "2026-05-03T10:02:42Z",
+    "Owner": "autogluon",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MIC-DKFZ/nnUNet",
+    "Name": "nnUNet",
+    "Url": "https://github.com/MIC-DKFZ/nnUNet",
+    "Description": "",
+    "Topics": [
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 8374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-17T08:10:56Z",
+    "UpdatedAt": "2026-05-03T11:35:30Z",
+    "Owner": "MIC-DKFZ",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asgeirtj/system_prompts_leaks",
+    "Name": "system_prompts_leaks",
+    "Url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "Description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+    "Topics": [
+      "ai",
+      "ai-transparency",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "gemini",
+      "generative-ai",
+      "gpt-5",
+      "grok",
+      "large-language-models",
+      "llm",
+      "openai",
+      "perplexity",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts",
+      "xai"
+    ],
+    "Language": "",
+    "Stars": 39415,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-03T02:43:56Z",
+    "UpdatedAt": "2026-05-03T18:17:37Z",
+    "Owner": "asgeirtj",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "charlesq34/pointnet2",
+    "Name": "pointnet2",
+    "Url": "https://github.com/charlesq34/pointnet2",
+    "Description": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space",
+    "Topics": [
+      "3d-shape",
+      "classification",
+      "deep-learning",
+      "point-cloud",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 3644,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-31T03:18:54Z",
+    "UpdatedAt": "2026-05-03T04:42:49Z",
+    "Owner": "charlesq34",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15813,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-03T15:08:55Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/LightRAG",
+    "Name": "LightRAG",
+    "Url": "https://github.com/HKUDS/LightRAG",
+    "Description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "Topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 34698,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-02T11:57:54Z",
+    "UpdatedAt": "2026-05-03T18:06:24Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yanx27/Pointnet_Pointnet2_pytorch",
+    "Name": "Pointnet_Pointnet2_pytorch",
+    "Url": "https://github.com/yanx27/Pointnet_Pointnet2_pytorch",
+    "Description": "PointNet and PointNet++ implemented by pytorch (pure python) and on ModelNet, ShapeNet and S3DIS.",
+    "Topics": [
+      "classification",
+      "modelnet",
+      "point-cloud",
+      "pointcloud",
+      "pointnet",
+      "pointnet2",
+      "pytorch",
+      "s3dis",
+      "segmentation",
+      "shapenet",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 4840,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-04T14:24:30Z",
+    "UpdatedAt": "2026-04-30T11:29:20Z",
+    "Owner": "yanx27",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rezazad68/transdeeplab",
+    "Name": "transdeeplab",
+    "Url": "https://github.com/rezazad68/transdeeplab",
+    "Description": "TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation",
+    "Topics": [
+      "cnn",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplab-v3-plus",
+      "segmentation",
+      "semantic-segmentation",
+      "skin-cancer",
+      "synapse",
+      "transformer",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 89,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-13T10:41:22Z",
+    "UpdatedAt": "2026-04-26T07:58:41Z",
+    "Owner": "rezazad68",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "torch-points3d/torch-points3d",
+    "Name": "torch-points3d",
+    "Url": "https://github.com/torch-points3d/torch-points3d",
+    "Description": "Pytorch framework for doing deep learning on point clouds.",
+    "Topics": [
+      "deep-learning",
+      "kpconv",
+      "minkowskiengine",
+      "point-cloud",
+      "pointnet",
+      "pytorch",
+      "s3dis",
+      "scannet",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2701,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-06T11:33:34Z",
+    "UpdatedAt": "2026-05-01T15:11:14Z",
+    "Owner": "torch-points3d",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50933,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-03T18:27:43Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mudler/LocalAI",
+    "Name": "LocalAI",
+    "Url": "https://github.com/mudler/LocalAI",
+    "Description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "Topics": [
+      "agents",
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ],
+    "Language": "Go",
+    "Stars": 46029,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-18T22:58:02Z",
+    "UpdatedAt": "2026-05-03T17:23:03Z",
+    "Owner": "mudler",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-03T18:08:03Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jfzhang95/pytorch-deeplab-xception",
+    "Name": "pytorch-deeplab-xception",
+    "Url": "https://github.com/jfzhang95/pytorch-deeplab-xception",
+    "Description": "DeepLab v3+ model in PyTorch. Support different backbones.",
+    "Topics": [
+      "deeplab-v3-plus",
+      "drn",
+      "mobilenetv2",
+      "pytorch",
+      "resnet",
+      "xception"
+    ],
+    "Language": "Python",
+    "Stars": 3003,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-15T02:07:37Z",
+    "UpdatedAt": "2026-04-19T14:54:54Z",
+    "Owner": "jfzhang95",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "speedinghzl/CCNet",
+    "Name": "CCNet",
+    "Url": "https://github.com/speedinghzl/CCNet",
+    "Description": "CCNet: Criss-Cross Attention for Semantic Segmentation (TPAMI 2020 & ICCV 2019).",
+    "Topics": [
+      "cityscape",
+      "pytorch",
+      "scene-parsing",
+      "segmentation",
+      "self-attention",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 1484,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T19:39:02Z",
+    "UpdatedAt": "2026-04-27T11:24:51Z",
+    "Owner": "speedinghzl",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tinyvision/SOLIDER",
+    "Name": "SOLIDER",
+    "Url": "https://github.com/tinyvision/SOLIDER",
+    "Description": "A Semantic Controllable Self-Supervised Learning Framework to learn general human representations from massive unlabeled human images, which can benefit downstream human-centric tasks to the maximum extent",
+    "Topics": [
+      "cvpr2023",
+      "human-centric",
+      "self-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 1498,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-07T11:35:59Z",
+    "UpdatedAt": "2026-04-14T09:16:39Z",
+    "Owner": "tinyvision",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 64810,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-03T18:29:10Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yisun98/SOLC",
+    "Name": "SOLC",
+    "Url": "https://github.com/yisun98/SOLC",
+    "Description": "Remote Sensing Sar-Optical Land-use Classfication Pytorch Pytorch高分辨率遥感语义分割/地物分割/地物分类",
+    "Topics": [
+      "cross-modal",
+      "deeplabv3",
+      "land-use-classification",
+      "multi-modal",
+      "multi-source",
+      "oa-kappa",
+      "pytorch",
+      "remote-sensing",
+      "sar-optical",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-01T08:02:27Z",
+    "UpdatedAt": "2026-04-27T07:54:59Z",
+    "Owner": "yisun98",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Hironsan/BossSensor",
+    "Name": "BossSensor",
+    "Url": "https://github.com/Hironsan/BossSensor",
+    "Description": "Hide screen when boss is approaching.",
+    "Topics": [
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "opencv"
+    ],
+    "Language": "Python",
+    "Stars": 6281,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-04T06:09:59Z",
+    "UpdatedAt": "2026-05-02T11:35:48Z",
+    "Owner": "Hironsan",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "speedinghzl/pytorch-segmentation-toolbox",
+    "Name": "pytorch-segmentation-toolbox",
+    "Url": "https://github.com/speedinghzl/pytorch-segmentation-toolbox",
+    "Description": "PyTorch Implementations for DeeplabV3 and PSPNet",
+    "Topics": [
+      "cityscape-dataset",
+      "deeplabv3",
+      "pspnet",
+      "pytorch",
+      "pytorch-segmentation-toolbox",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 777,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-07T20:11:58Z",
+    "UpdatedAt": "2026-03-30T07:06:09Z",
+    "Owner": "speedinghzl",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gaomingqi/Track-Anything",
+    "Name": "Track-Anything",
+    "Url": "https://github.com/gaomingqi/Track-Anything",
+    "Description": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+    "Topics": [
+      "inpaint-anything",
+      "interactive-tracking",
+      "segment-anything",
+      "track-anything",
+      "video-object-segmentation",
+      "video-object-tracking"
+    ],
+    "Language": "Python",
+    "Stars": 6949,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T00:19:57Z",
+    "UpdatedAt": "2026-05-02T18:09:42Z",
+    "Owner": "gaomingqi",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-03T15:15:42Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tyiannak/pyAudioAnalysis",
+    "Name": "pyAudioAnalysis",
+    "Url": "https://github.com/tyiannak/pyAudioAnalysis",
+    "Description": "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
+    "Topics": [
+      "audio",
+      "audio-analysis-tasks",
+      "audio-data",
+      "machine-learning",
+      "pyaudioanalysis",
+      "python",
+      "signal-processing"
+    ],
+    "Language": "Python",
+    "Stars": 6238,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-27T12:43:13Z",
+    "UpdatedAt": "2026-05-03T13:46:48Z",
+    "Owner": "tyiannak",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleDetection",
+    "Name": "PaddleDetection",
+    "Url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "Description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "Topics": [
+      "blazeface",
+      "deepsort",
+      "detr",
+      "face-detection",
+      "fairmot",
+      "faster-rcnn",
+      "fcos",
+      "human-activity-recognition",
+      "human-pose-estimation",
+      "instance-segmentation",
+      "mask-rcnn",
+      "multi-object-tracking",
+      "object-detection",
+      "picodet",
+      "pp-yolo",
+      "rt-detr",
+      "yolov3",
+      "yolov5",
+      "yolov7",
+      "yolox"
+    ],
+    "Language": "Python",
+    "Stars": 14191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-25T07:21:14Z",
+    "UpdatedAt": "2026-05-02T18:02:36Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "upstash/context7",
+    "Name": "context7",
+    "Url": "https://github.com/upstash/context7",
+    "Description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "Topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "Language": "TypeScript",
+    "Stars": 54352,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-26T23:40:39Z",
+    "UpdatedAt": "2026-05-03T17:53:12Z",
+    "Owner": "upstash",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/semantic-segmentation",
+    "Name": "semantic-segmentation",
+    "Url": "https://github.com/NVIDIA/semantic-segmentation",
+    "Description": "Nvidia Semantic Segmentation monorepo",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1818,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-14T19:20:20Z",
+    "UpdatedAt": "2026-04-19T14:54:45Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milesial/Pytorch-UNet",
+    "Name": "Pytorch-UNet",
+    "Url": "https://github.com/milesial/Pytorch-UNet",
+    "Description": "PyTorch implementation of the U-Net for image semantic segmentation with high quality images",
+    "Topics": [
+      "convolutional-networks",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "kaggle",
+      "pytorch",
+      "pytorch-unet",
+      "semantic-segmentation",
+      "tensorboard",
+      "unet",
+      "wandb",
+      "weights-and-biases"
+    ],
+    "Language": "Python",
+    "Stars": 11420,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-16T12:17:08Z",
+    "UpdatedAt": "2026-05-03T08:19:14Z",
+    "Owner": "milesial",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch",
+    "Name": "High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch",
+    "Url": "https://github.com/milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch",
+    "Description": "PyTorch实现高分遥感语义分割（地物分类）",
+    "Topics": [
+      "dataset",
+      "deeplabv3",
+      "land-cover-classification",
+      "pytorch",
+      "remote-sensing",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 536,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-31T13:08:19Z",
+    "UpdatedAt": "2026-05-02T17:42:34Z",
+    "Owner": "milleniums",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ansleliu/LightNetPlusPlus",
+    "Name": "LightNetPlusPlus",
+    "Url": "https://github.com/ansleliu/LightNetPlusPlus",
+    "Description": "LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation",
+    "Topics": [
+      "apex",
+      "aspp",
+      "attention-mechanism",
+      "bifpn",
+      "cityscapes",
+      "deepdrive",
+      "deeplab-v3-plus",
+      "dense-aspp",
+      "efficientnet",
+      "inplaceabn",
+      "light-weighted-network",
+      "lightnet",
+      "mixnet",
+      "mobilenetv2",
+      "mobilenetv2plus",
+      "pytorch",
+      "semantic-segmentation",
+      "shufflenetv2",
+      "shufflenetv2plus",
+      "unsharp-masking"
+    ],
+    "Language": "Python",
+    "Stars": 245,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-27T02:59:04Z",
+    "UpdatedAt": "2026-04-13T14:17:47Z",
+    "Owner": "ansleliu",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VainF/DeepLabV3Plus-Pytorch",
+    "Name": "DeepLabV3Plus-Pytorch",
+    "Url": "https://github.com/VainF/DeepLabV3Plus-Pytorch",
+    "Description": "Pretrained DeepLabv3 and DeepLabv3+ for Pascal VOC & Cityscapes",
+    "Topics": [
+      "cityscapes",
+      "deeplabv3",
+      "deeplabv3plus",
+      "pascal-voc",
+      "pytorch",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2636,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-28T11:29:20Z",
+    "UpdatedAt": "2026-04-30T06:36:59Z",
+    "Owner": "VainF",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "run-llama/llama_index",
+    "Name": "llama_index",
+    "Url": "https://github.com/run-llama/llama_index",
+    "Description": "LlamaIndex is the leading document agent and OCR platform",
+    "Topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 49113,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-02T04:24:54Z",
+    "UpdatedAt": "2026-05-03T18:00:01Z",
+    "Owner": "run-llama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "utkuozbulak/pytorch-cnn-visualizations",
+    "Name": "pytorch-cnn-visualizations",
+    "Url": "https://github.com/utkuozbulak/pytorch-cnn-visualizations",
+    "Description": "Pytorch implementation of convolutional neural network visualization techniques",
+    "Topics": [
+      "cam",
+      "cnn-visualization",
+      "deep-dream",
+      "grad-cam",
+      "gradient",
+      "gradient-visualization",
+      "guided-backpropagation",
+      "guided-grad-cam",
+      "pytorch",
+      "saliency",
+      "segmentation",
+      "smooth-grad"
+    ],
+    "Language": "Python",
+    "Stars": 8208,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-21T07:25:07Z",
+    "UpdatedAt": "2026-05-03T11:13:02Z",
+    "Owner": "utkuozbulak",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rlawjdghek/StableVITON",
+    "Name": "StableVITON",
+    "Url": "https://github.com/rlawjdghek/StableVITON",
+    "Description": "[CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1258,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-02T05:56:58Z",
+    "UpdatedAt": "2026-04-29T20:20:40Z",
+    "Owner": "rlawjdghek",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "taoyds/spider",
+    "Name": "spider",
+    "Url": "https://github.com/taoyds/spider",
+    "Description": "scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1067,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-24T03:39:47Z",
+    "UpdatedAt": "2026-04-30T10:29:03Z",
+    "Owner": "taoyds",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "storyicon/comfyui_segment_anything",
+    "Name": "comfyui_segment_anything",
+    "Url": "https://github.com/storyicon/comfyui_segment_anything",
+    "Description": "Based on GroundingDino and SAM, use semantic strings to segment any element in an image. The comfyui version of sd-webui-segment-anything.",
+    "Topics": [
+      "comfyui",
+      "custom-nodes",
+      "groundingdino",
+      "sam",
+      "segment-anything",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 1103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-07T03:21:20Z",
+    "UpdatedAt": "2026-05-01T06:16:41Z",
+    "Owner": "storyicon",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "emptysoal/tensorrt-experiment",
+    "Name": "tensorrt-experiment",
+    "Url": "https://github.com/emptysoal/tensorrt-experiment",
+    "Description": "Base on tensorrt version 8.2.4, compare inference speed for different tensorrt api.",
+    "Topics": [
+      "deeplab-v3-plus",
+      "image-classification",
+      "image-segmentation",
+      "onnx-runtime",
+      "pytorch",
+      "pytorch-cnn",
+      "resnet-50",
+      "tensorrt",
+      "tensorrt-conversion",
+      "tensorrt-engine",
+      "tensorrt-inference",
+      "unet",
+      "vgg16"
+    ],
+    "Language": "Python",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-20T03:07:49Z",
+    "UpdatedAt": "2026-04-07T09:48:12Z",
+    "Owner": "emptysoal",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jishengpeng/WavTokenizer",
+    "Name": "WavTokenizer",
+    "Url": "https://github.com/jishengpeng/WavTokenizer",
+    "Description": "[ICLR 2025] SOTA discrete acoustic codec models with 40/75 tokens per second for audio language modeling ",
+    "Topics": [
+      "acoustic",
+      "audio-representation",
+      "codec",
+      "dac",
+      "encodec",
+      "gpt4o",
+      "music-representation-learning",
+      "semantic",
+      "soundstream",
+      "speech-language-model",
+      "speech-representation",
+      "text-to-speech"
+    ],
+    "Language": "Python",
+    "Stars": 1291,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-29T13:45:44Z",
+    "UpdatedAt": "2026-05-01T23:55:37Z",
+    "Owner": "jishengpeng",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "divamgupta/image-segmentation-keras",
+    "Name": "image-segmentation-keras",
+    "Url": "https://github.com/divamgupta/image-segmentation-keras",
+    "Description": "Implementation of Segnet, FCN, UNet , PSPNet and other models in Keras.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-20T20:48:54Z",
+    "UpdatedAt": "2026-05-01T11:17:18Z",
+    "Owner": "divamgupta",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-mmlab/mmsegmentation",
+    "Name": "mmsegmentation",
+    "Url": "https://github.com/open-mmlab/mmsegmentation",
+    "Description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+    "Topics": [
+      "deeplabv3",
+      "image-segmentation",
+      "medical-image-segmentation",
+      "pspnet",
+      "pytorch",
+      "realtime-segmentation",
+      "retinal-vessel-segmentation",
+      "semantic-segmentation",
+      "swin-transformer",
+      "transformer",
+      "vessel-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 9762,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-14T04:32:33Z",
+    "UpdatedAt": "2026-05-03T12:42:13Z",
+    "Owner": "open-mmlab",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50",
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "XiaoMi/mace-models",
+    "Name": "mace-models",
+    "Url": "https://github.com/XiaoMi/mace-models",
+    "Description": "Mobile AI Compute Engine Model Zoo",
+    "Topics": [
+      "deep-learning",
+      "deeplabv3",
+      "inceptionv3",
+      "mobilenet",
+      "neural-networks",
+      "style-transfer"
+    ],
+    "Language": "Python",
+    "Stars": 377,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-27T03:50:55Z",
+    "UpdatedAt": "2026-04-25T21:15:54Z",
+    "Owner": "XiaoMi",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33843,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-03T18:04:25Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yu-changqian/TorchSeg",
+    "Name": "TorchSeg",
+    "Url": "https://github.com/yu-changqian/TorchSeg",
+    "Description": "Fast, modular reference implementation and easy training of Semantic Segmentation algorithms in PyTorch.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-10T09:06:41Z",
+    "UpdatedAt": "2026-04-05T11:52:54Z",
+    "Owner": "yu-changqian",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 130916,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-03T18:28:27Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HRNet/HRNet-Semantic-Segmentation",
+    "Name": "HRNet-Semantic-Segmentation",
+    "Url": "https://github.com/HRNet/HRNet-Semantic-Segmentation",
+    "Description": "The OCR approach is rephrased as Segmentation Transformer: https://arxiv.org/abs/1909.11065. This is an official implementation of semantic segmentation for HRNet. https://arxiv.org/abs/1908.07919",
+    "Topics": [
+      "cityscapes",
+      "high-resolution",
+      "high-resolution-net",
+      "hrnets",
+      "lip",
+      "pascal-context",
+      "segmentation",
+      "segmentation-transformer",
+      "semantic-segmentation",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 3324,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-09T13:24:09Z",
+    "UpdatedAt": "2026-05-02T11:18:56Z",
+    "Owner": "HRNet",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "songdejia/DeepLab_v3_plus",
+    "Name": "DeepLab_v3_plus",
+    "Url": "https://github.com/songdejia/DeepLab_v3_plus",
+    "Description": "This is an ongoing re-implementation of DeepLab_v3_plus on pytorch which is trained on VOC2012 and use ResNet101 for backbone. ",
+    "Topics": [
+      "deeplab",
+      "deeplab-v3-plus",
+      "dilated-convolution",
+      "encoder-decoder",
+      "pascal-voc2012",
+      "pytorch",
+      "semantic-segmentation",
+      "xception"
+    ],
+    "Language": "Python",
+    "Stars": 88,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-21T04:08:19Z",
+    "UpdatedAt": "2025-04-28T16:21:41Z",
+    "Owner": "songdejia",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zilliztech/GPTCache",
+    "Name": "GPTCache",
+    "Url": "https://github.com/zilliztech/GPTCache",
+    "Description": "Semantic cache for LLMs. Fully integrated with LangChain and llama_index. ",
+    "Topics": [
+      "aigc",
+      "autogpt",
+      "babyagi",
+      "chatbot",
+      "chatgpt",
+      "chatgpt-api",
+      "dolly",
+      "gpt",
+      "langchain",
+      "llama",
+      "llama-index",
+      "llm",
+      "memcache",
+      "milvus",
+      "openai",
+      "redis",
+      "semantic-search",
+      "similarity-search",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 8011,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-24T05:51:16Z",
+    "UpdatedAt": "2026-05-03T05:20:36Z",
+    "Owner": "zilliztech",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Hawksight-AI/semantica",
+    "Name": "semantica",
+    "Url": "https://github.com/Hawksight-AI/semantica",
+    "Description": "Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.",
+    "Topics": [
+      "agent-memory",
+      "agentic-ai",
+      "ai-agents",
+      "ai-infrastructure",
+      "context-graph",
+      "context-management",
+      "data-infrastructure",
+      "developer-tools",
+      "graph-analytics",
+      "graph-modeling",
+      "graphrag",
+      "knowledge-engineering",
+      "knowledge-graphs",
+      "llmops",
+      "ontology-engineering",
+      "python-library",
+      "rag",
+      "schema-design",
+      "semantic-layer",
+      "semantic-web"
+    ],
+    "Language": "Python",
+    "Stars": 1105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-25T10:41:00Z",
+    "UpdatedAt": "2026-05-03T15:41:30Z",
+    "Owner": "Hawksight-AI",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytorch/vision",
+    "Name": "vision",
+    "Url": "https://github.com/pytorch/vision",
+    "Description": "Datasets, Transforms and Models specific to Computer Vision",
+    "Topics": [
+      "computer-vision",
+      "machine-learning"
+    ],
+    "Language": "Python",
+    "Stars": 17657,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-09T23:11:43Z",
+    "UpdatedAt": "2026-05-03T14:52:08Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fundamentalvision/BEVFormer",
+    "Name": "BEVFormer",
+    "Url": "https://github.com/fundamentalvision/BEVFormer",
+    "Description": "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+    "Topics": [
+      "autonomous-driving",
+      "computer-vision",
+      "deep-learning",
+      "object-detection"
+    ],
+    "Language": "Python",
+    "Stars": 4445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-30T12:32:32Z",
+    "UpdatedAt": "2026-05-03T13:21:50Z",
+    "Owner": "fundamentalvision",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Burf/TFDetection",
+    "Name": "TFDetection",
+    "Url": "https://github.com/Burf/TFDetection",
+    "Description": "A Detection Toolbox for Tensorflow2",
+    "Topics": [
+      "anomaly-detection",
+      "cascade-rcnn",
+      "deeplabv3",
+      "efficientdet",
+      "efficientdet-lite",
+      "faster-rcnn",
+      "fcos",
+      "hybrid-task-cascade",
+      "instance-segmentation",
+      "keras",
+      "mask-rcnn",
+      "object-detection",
+      "patch-core",
+      "retinanet",
+      "tensorflow",
+      "tensorflow2",
+      "tf",
+      "unet",
+      "upernet",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-06T14:02:44Z",
+    "UpdatedAt": "2026-04-09T14:08:53Z",
+    "Owner": "Burf",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78928,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-03T18:24:03Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shelhamer/fcn.berkeleyvision.org",
+    "Name": "fcn.berkeleyvision.org",
+    "Url": "https://github.com/shelhamer/fcn.berkeleyvision.org",
+    "Description": "Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3355,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-10T00:27:59Z",
+    "UpdatedAt": "2026-04-20T21:30:46Z",
+    "Owner": "shelhamer",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucasjinreal/yolov7_d2",
+    "Name": "yolov7_d2",
+    "Url": "https://github.com/lucasjinreal/yolov7_d2",
+    "Description": "🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
+    "Topics": [
+      "detection",
+      "detextron2",
+      "detr",
+      "face",
+      "instance-segmentation",
+      "object-detection",
+      "onnx",
+      "tensorrt",
+      "transformers",
+      "yolo",
+      "yolov6",
+      "yolov7",
+      "yolox"
+    ],
+    "Language": "Python",
+    "Stars": 3111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-23T11:35:35Z",
+    "UpdatedAt": "2026-04-29T20:50:41Z",
+    "Owner": "lucasjinreal",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/SPADE",
+    "Name": "SPADE",
+    "Url": "https://github.com/NVlabs/SPADE",
+    "Description": "Semantic Image Synthesis with SPADE",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 7706,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-14T03:08:27Z",
+    "UpdatedAt": "2026-05-02T10:01:09Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fudan-zvg/SETR",
+    "Name": "SETR",
+    "Url": "https://github.com/fudan-zvg/SETR",
+    "Description": "[CVPR 2021 & IJCV 2024] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-30T10:18:45Z",
+    "UpdatedAt": "2026-04-27T07:20:54Z",
+    "Owner": "fudan-zvg",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "segment-any-text/wtpsplit",
+    "Name": "wtpsplit",
+    "Url": "https://github.com/segment-any-text/wtpsplit",
+    "Description": "Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "pretrained-models",
+      "python",
+      "sentence-boundary-detection",
+      "sentence-segmentation",
+      "sentence-segmenter"
+    ],
+    "Language": "Python",
+    "Stars": 1280,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-31T10:34:17Z",
+    "UpdatedAt": "2026-05-03T13:17:09Z",
+    "Owner": "segment-any-text",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SegmentationBLWX/sssegmentation",
+    "Name": "sssegmentation",
+    "Url": "https://github.com/SegmentationBLWX/sssegmentation",
+    "Description": "SSSegmentation: An Open Source Supervised Semantic Segmentation Toolbox Based on PyTorch.",
+    "Topics": [
+      "deeplab",
+      "deeplabv3",
+      "edgesam",
+      "isnet",
+      "mask2former",
+      "maskformer",
+      "mcibi",
+      "mobilesam",
+      "ocrnet",
+      "pspnet",
+      "samhq",
+      "segfomer",
+      "segment-anything",
+      "segment-anything-2",
+      "semantic-segmentation",
+      "twins"
+    ],
+    "Language": "Python",
+    "Stars": 876,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-23T05:43:02Z",
+    "UpdatedAt": "2026-04-21T12:02:27Z",
+    "Owner": "SegmentationBLWX",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56262,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-03T18:23:48Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "freedmand/semantra",
+    "Name": "semantra",
+    "Url": "https://github.com/freedmand/semantra",
+    "Description": "Multi-tool for semantic search",
+    "Topics": [
+      "cli",
+      "machine-learning",
+      "semantic-search"
+    ],
+    "Language": "Python",
+    "Stars": 2706,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T03:26:49Z",
+    "UpdatedAt": "2026-05-02T16:09:25Z",
+    "Owner": "freedmand",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chenxi116/DeepLabv3.pytorch",
+    "Name": "DeepLabv3.pytorch",
+    "Url": "https://github.com/chenxi116/DeepLabv3.pytorch",
+    "Description": "PyTorch implementation of DeepLabv3",
+    "Topics": [
+      "deeplab",
+      "deeplabv3",
+      "pytorch",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 255,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-01T17:02:41Z",
+    "UpdatedAt": "2025-12-26T12:12:22Z",
+    "Owner": "chenxi116",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Open-Source-Legal/OpenContracts",
+    "Name": "OpenContracts",
+    "Url": "https://github.com/Open-Source-Legal/OpenContracts",
+    "Description": "Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "etl",
+      "etl-pipeline",
+      "llm",
+      "prompt-engineering",
+      "unstructured-data",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 1299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-24T04:08:13Z",
+    "UpdatedAt": "2026-05-03T15:37:14Z",
+    "Owner": "Open-Source-Legal",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135347,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-03T18:25:23Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ZhengPeng7/BiRefNet",
+    "Name": "BiRefNet",
+    "Url": "https://github.com/ZhengPeng7/BiRefNet",
+    "Description": "[CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation",
+    "Topics": [
+      "background-removal",
+      "birefnet",
+      "camouflaged-object-detection",
+      "dichotomous-image-segmentation",
+      "high-resolution-image-segmentation",
+      "image-segmentation",
+      "salient-object-detection"
+    ],
+    "Language": "Python",
+    "Stars": 3393,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-17T09:13:39Z",
+    "UpdatedAt": "2026-05-03T15:21:29Z",
+    "Owner": "ZhengPeng7",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dontLoveBugs/Deeplab_pytorch",
+    "Name": "Deeplab_pytorch",
+    "Url": "https://github.com/dontLoveBugs/Deeplab_pytorch",
+    "Description": "All version of deeplab implemented in Pytorch",
+    "Topics": [
+      "auto-deeplab",
+      "deeplab",
+      "deeplabv2",
+      "deeplabv3",
+      "deeplabv3plus",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-30T09:14:11Z",
+    "UpdatedAt": "2025-10-29T09:12:18Z",
+    "Owner": "dontLoveBugs",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rishizek/tensorflow-deeplab-v3",
+    "Name": "tensorflow-deeplab-v3",
+    "Url": "https://github.com/rishizek/tensorflow-deeplab-v3",
+    "Description": "DeepLabv3 built in TensorFlow",
+    "Topics": [
+      "deeplab",
+      "deeplab-resnet",
+      "deeplabv3",
+      "pascal-voc",
+      "semantic-segmentation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 288,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-28T08:10:54Z",
+    "UpdatedAt": "2025-07-08T13:37:46Z",
+    "Owner": "rishizek",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T17:28:02Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "charlesq34/pointnet",
+    "Name": "pointnet",
+    "Url": "https://github.com/charlesq34/pointnet",
+    "Description": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+    "Topics": [
+      "classification",
+      "geometry-processing",
+      "neural-network",
+      "point-cloud",
+      "segmentation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 5405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-31T04:50:28Z",
+    "UpdatedAt": "2026-05-01T08:03:08Z",
+    "Owner": "charlesq34",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CSAILVision/semantic-segmentation-pytorch",
+    "Name": "semantic-segmentation-pytorch",
+    "Url": "https://github.com/CSAILVision/semantic-segmentation-pytorch",
+    "Description": "Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset",
+    "Topics": [
+      "ade20k",
+      "pytorch",
+      "scene-recognition",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 5070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-07T00:52:17Z",
+    "UpdatedAt": "2026-05-01T02:10:48Z",
+    "Owner": "CSAILVision",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "prabhakar-sivanesan/MS-Teams-background-changer",
+    "Name": "MS-Teams-background-changer",
+    "Url": "https://github.com/prabhakar-sivanesan/MS-Teams-background-changer",
+    "Description": "Utility application to add background blur and custom background image to MS teams on Linux",
+    "Topics": [
+      "background-blur",
+      "deeplabv3",
+      "msteams",
+      "virtual-background",
+      "virtual-camera"
+    ],
+    "Language": "Python",
+    "Stars": 54,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-02T16:20:43Z",
+    "UpdatedAt": "2025-08-24T09:35:41Z",
+    "Owner": "prabhakar-sivanesan",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qubvel/segmentation_models",
+    "Name": "segmentation_models",
+    "Url": "https://github.com/qubvel/segmentation_models",
+    "Description": "Segmentation models with pretrained backbones. Keras and TensorFlow Keras.",
+    "Topics": [
+      "densenet",
+      "efficientnet",
+      "fpn",
+      "image-segmentation",
+      "keras",
+      "keras-examples",
+      "keras-models",
+      "keras-tensorflow",
+      "linknet",
+      "mobilenet",
+      "pre-trained",
+      "pretrained",
+      "pspnet",
+      "resnet",
+      "resnext",
+      "segmentation",
+      "segmentation-models",
+      "tensorflow",
+      "tensorflow-keras",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 4925,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-05T13:27:56Z",
+    "UpdatedAt": "2026-05-03T08:58:55Z",
+    "Owner": "qubvel",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ollama/ollama",
+    "Name": "ollama",
+    "Url": "https://github.com/ollama/ollama",
+    "Description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "Topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "Language": "Go",
+    "Stars": 170610,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T19:39:32Z",
+    "UpdatedAt": "2026-05-03T18:26:02Z",
+    "Owner": "ollama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Media-Smart/vedaseg",
+    "Name": "vedaseg",
+    "Url": "https://github.com/Media-Smart/vedaseg",
+    "Description": "A semantic segmentation toolbox based on PyTorch",
+    "Topics": [
+      "deeplabv3",
+      "deeplabv3plus",
+      "fpn",
+      "pspnet",
+      "pytorch",
+      "semantic-segmentation",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-13T09:09:17Z",
+    "UpdatedAt": "2026-01-27T20:43:44Z",
+    "Owner": "Media-Smart",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmlc/gluon-cv",
+    "Name": "gluon-cv",
+    "Url": "https://github.com/dmlc/gluon-cv",
+    "Description": "Gluon CV Toolkit",
+    "Topics": [
+      "action-recognition",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "gluon",
+      "image-classification",
+      "machine-learning",
+      "mxnet",
+      "neural-network",
+      "object-detection",
+      "person-reid",
+      "pose-estimation",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 5922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-26T01:33:21Z",
+    "UpdatedAt": "2026-05-01T14:13:32Z",
+    "Owner": "dmlc",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T15:49:40Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-03T18:00:56Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mlfoundations/open_clip",
+    "Name": "open_clip",
+    "Url": "https://github.com/mlfoundations/open_clip",
+    "Description": "An open source implementation of CLIP.",
+    "Topics": [
+      "computer-vision",
+      "contrastive-loss",
+      "deep-learning",
+      "language-model",
+      "multi-modal-learning",
+      "pretrained-models",
+      "pytorch",
+      "zero-shot-classification"
+    ],
+    "Language": "Python",
+    "Stars": 13764,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-28T23:24:39Z",
+    "UpdatedAt": "2026-05-03T07:54:12Z",
+    "Owner": "mlfoundations",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gengyanlei/segmentation_pytorch",
+    "Name": "segmentation_pytorch",
+    "Url": "https://github.com/gengyanlei/segmentation_pytorch",
+    "Description": "semantic segmentation pytorch 语义分割",
+    "Topics": [
+      "deeplab-v3-plus",
+      "hed",
+      "hf-fcn",
+      "pspnet",
+      "pytorch",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-11T07:53:24Z",
+    "UpdatedAt": "2026-03-14T06:36:19Z",
+    "Owner": "gengyanlei",
+    "SourceQueries": [
+      "topic:deeplab-v3-plus language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentQQGYLab/ELLA",
+    "Name": "ELLA",
+    "Url": "https://github.com/TencentQQGYLab/ELLA",
+    "Description": "ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1284,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-07T13:57:12Z",
+    "UpdatedAt": "2026-04-22T14:19:50Z",
+    "Owner": "TencentQQGYLab",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "amdegroot/ssd.pytorch",
+    "Name": "ssd.pytorch",
+    "Url": "https://github.com/amdegroot/ssd.pytorch",
+    "Description": "A PyTorch Implementation of Single Shot MultiBox Detector",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-recognition",
+      "machine-learning",
+      "object-detection",
+      "pytorch",
+      "ssd",
+      "webcam"
+    ],
+    "Language": "Python",
+    "Stars": 5234,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-08T01:50:36Z",
+    "UpdatedAt": "2026-04-23T07:15:55Z",
+    "Owner": "amdegroot",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neuml/txtai",
+    "Name": "txtai",
+    "Url": "https://github.com/neuml/txtai",
+    "Description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "embeddings",
+      "information-retrieval",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "search",
+      "search-engine",
+      "semantic-search",
+      "sentence-embeddings",
+      "transformers",
+      "txtai",
+      "vector-database",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 12454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-09T19:14:59Z",
+    "UpdatedAt": "2026-05-03T17:36:29Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-mmlab/mmtracking",
+    "Name": "mmtracking",
+    "Url": "https://github.com/open-mmlab/mmtracking",
+    "Description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "Topics": [
+      "multi-object-tracking",
+      "single-object-tracking",
+      "tracking",
+      "video-instance-segmentation",
+      "video-object-detection"
+    ],
+    "Language": "Python",
+    "Stars": 3879,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-29T06:16:56Z",
+    "UpdatedAt": "2026-05-02T14:44:25Z",
+    "Owner": "open-mmlab",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135689,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-03T17:48:36Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kantord/SeaGOAT",
+    "Name": "SeaGOAT",
+    "Url": "https://github.com/kantord/SeaGOAT",
+    "Description": "local-first semantic code search engine",
+    "Topics": [
+      "ai",
+      "ai-project",
+      "code-search",
+      "code-search-engine",
+      "embeddings",
+      "grep",
+      "grep-like",
+      "hacktoberfest",
+      "hacktoberfest2023",
+      "llm",
+      "regular-expression",
+      "ripgrep",
+      "vector-database",
+      "vector-embeddings"
+    ],
+    "Language": "Python",
+    "Stars": 1290,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T14:38:16Z",
+    "UpdatedAt": "2026-04-29T00:15:41Z",
+    "Owner": "kantord",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "meetps/pytorch-semseg",
+    "Name": "pytorch-semseg",
+    "Url": "https://github.com/meetps/pytorch-semseg",
+    "Description": "Semantic Segmentation Architectures Implemented in PyTorch",
+    "Topics": [
+      "deep-learning",
+      "fully-convolutional-networks",
+      "pytorch",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 3411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-22T20:28:59Z",
+    "UpdatedAt": "2026-05-03T11:16:42Z",
+    "Owner": "meetps",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LeeJunHyun/Image_Segmentation",
+    "Name": "Image_Segmentation",
+    "Url": "https://github.com/LeeJunHyun/Image_Segmentation",
+    "Description": "Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3096,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-18T08:27:27Z",
+    "UpdatedAt": "2026-04-29T14:20:50Z",
+    "Owner": "LeeJunHyun",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dbolya/yolact",
+    "Name": "yolact",
+    "Url": "https://github.com/dbolya/yolact",
+    "Description": "A simple, fully convolutional model for real-time instance segmentation.",
+    "Topics": [
+      "instance-segmentation",
+      "pytorch",
+      "real-time",
+      "realtime",
+      "yolact"
+    ],
+    "Language": "Python",
+    "Stars": 5231,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-26T21:41:31Z",
+    "UpdatedAt": "2026-04-29T08:45:01Z",
+    "Owner": "dbolya",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41566,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-03T18:29:47Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "fudan-zvg/Semantic-Segment-Anything",
+    "Name": "Semantic-Segment-Anything",
+    "Url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
+    "Description": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B). ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2297,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-09T03:17:59Z",
+    "UpdatedAt": "2026-04-30T18:38:48Z",
+    "Owner": "fudan-zvg",
+    "SourceQueries": [
+      "semantic language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "clovaai/donut",
+    "Name": "donut",
+    "Url": "https://github.com/clovaai/donut",
+    "Description": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
+    "Topics": [
+      "computer-vision",
+      "document-ai",
+      "eccv-2022",
+      "multimodal-pre-trained-model",
+      "nlp",
+      "ocr"
+    ],
+    "Language": "Python",
+    "Stars": 6856,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-20T01:21:19Z",
+    "UpdatedAt": "2026-05-03T15:10:07Z",
+    "Owner": "clovaai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rohitg00/ai-engineering-from-scratch",
+    "Name": "ai-engineering-from-scratch",
+    "Url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "Description": "Learn it. Build it. Ship it for others.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "Language": "Python",
+    "Stars": 6260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-18T18:38:02Z",
+    "UpdatedAt": "2026-05-03T18:28:43Z",
+    "Owner": "rohitg00",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sujaykhandekar/Automated-objects-removal-inpainter",
+    "Name": "Automated-objects-removal-inpainter",
+    "Url": "https://github.com/sujaykhandekar/Automated-objects-removal-inpainter",
+    "Description": "Automated object remover Inpainter is a project that combines Semantic segmentation and EdgeConnect architectures with minor changes in order to remove specified object/s from list of 20 objects from all the input photos",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "deeplabv3",
+      "edgeconnect",
+      "inpainting",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 217,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-04T01:17:48Z",
+    "UpdatedAt": "2026-03-31T23:25:17Z",
+    "Owner": "sujaykhandekar",
+    "SourceQueries": [
+      "topic:deeplabv3 language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browser-use/browser-use",
+    "Name": "browser-use",
+    "Url": "https://github.com/browser-use/browser-use",
+    "Description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 91865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T16:00:56Z",
+    "UpdatedAt": "2026-05-03T18:22:18Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Mintplex-Labs/anything-llm",
+    "Name": "anything-llm",
+    "Url": "https://github.com/Mintplex-Labs/anything-llm",
+    "Description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "Topics": [
+      "ai-agents",
+      "custom-ai-agents",
+      "deepseek",
+      "kimi",
+      "llama3",
+      "llm",
+      "lmstudio",
+      "local-llm",
+      "localai",
+      "mcp",
+      "mcp-servers",
+      "moonshot",
+      "multimodal",
+      "no-code",
+      "ollama",
+      "qwen3",
+      "rag",
+      "vector-database",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 59461,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-04T02:29:14Z",
+    "UpdatedAt": "2026-05-03T17:47:01Z",
+    "Owner": "Mintplex-Labs",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-03T17:26:40Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/JeecgBoot",
+    "Name": "JeecgBoot",
+    "Url": "https://github.com/jeecgboot/JeecgBoot",
+    "Description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+    "Topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "Language": "Java",
+    "Stars": 46070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T10:40:00Z",
+    "UpdatedAt": "2026-05-03T17:18:55Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jacobgil/pytorch-grad-cam",
+    "Name": "pytorch-grad-cam",
+    "Url": "https://github.com/jacobgil/pytorch-grad-cam",
+    "Description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+    "Topics": [
+      "class-activation-maps",
+      "computer-vision",
+      "deep-learning",
+      "explainable-ai",
+      "explainable-ml",
+      "grad-cam",
+      "image-classification",
+      "interpretability",
+      "interpretable-ai",
+      "interpretable-deep-learning",
+      "machine-learning",
+      "object-detection",
+      "pytorch",
+      "score-cam",
+      "vision-transformers",
+      "visualizations",
+      "xai"
+    ],
+    "Language": "Python",
+    "Stars": 12788,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-31T19:55:15Z",
+    "UpdatedAt": "2026-05-03T12:41:47Z",
+    "Owner": "jacobgil",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scikit-image/scikit-image",
+    "Name": "scikit-image",
+    "Url": "https://github.com/scikit-image/scikit-image",
+    "Description": "Image processing in Python",
+    "Topics": [
+      "computer-vision",
+      "image-processing",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 6507,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-07T22:07:20Z",
+    "UpdatedAt": "2026-05-03T16:07:22Z",
+    "Owner": "scikit-image",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "affaan-m/everything-claude-code",
+    "Name": "everything-claude-code",
+    "Url": "https://github.com/affaan-m/everything-claude-code",
+    "Description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "Language": "JavaScript",
+    "Stars": 172569,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-18T00:51:51Z",
+    "UpdatedAt": "2026-05-03T18:29:35Z",
+    "Owner": "affaan-m",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "rtk-ai/rtk",
+    "Name": "rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "Language": "Rust",
+    "Stars": 40555,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T16:54:16Z",
+    "UpdatedAt": "2026-05-03T18:26:03Z",
+    "Owner": "rtk-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zhulf0804/3D-PointCloud",
+    "Name": "3D-PointCloud",
+    "Url": "https://github.com/zhulf0804/3D-PointCloud",
+    "Description": "Papers and Datasets  about Point Cloud.",
+    "Topics": [
+      "autonomous-driving",
+      "classification",
+      "completion",
+      "datasets",
+      "detection",
+      "generation",
+      "monocular",
+      "papers",
+      "point-cloud",
+      "registration",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2913,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-06T05:21:06Z",
+    "UpdatedAt": "2026-04-28T07:36:40Z",
+    "Owner": "zhulf0804",
+    "SourceQueries": [
+      "segmentation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kornia/kornia",
+    "Name": "kornia",
+    "Url": "https://github.com/kornia/kornia",
+    "Description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "pytorch",
+      "robotics",
+      "spatial-ai"
+    ],
+    "Language": "Python",
+    "Stars": 11192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-22T10:31:37Z",
+    "UpdatedAt": "2026-05-03T12:36:49Z",
+    "Owner": "kornia",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/vit-pytorch",
+    "Name": "vit-pytorch",
+    "Url": "https://github.com/lucidrains/vit-pytorch",
+    "Description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "computer-vision",
+      "image-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 25141,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T22:47:24Z",
+    "UpdatedAt": "2026-05-03T14:16:37Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvat-ai/cvat",
+    "Name": "cvat",
+    "Url": "https://github.com/cvat-ai/cvat",
+    "Description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "boundingbox",
+      "computer-vision",
+      "computer-vision-annotation",
+      "dataset",
+      "deep-learning",
+      "image-annotation",
+      "image-classification",
+      "image-labeling",
+      "image-labelling-tool",
+      "imagenet",
+      "labeling",
+      "labeling-tool",
+      "object-detection",
+      "pytorch",
+      "semantic-segmentation",
+      "tensorflow",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15756,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T14:02:45Z",
+    "UpdatedAt": "2026-05-03T12:06:22Z",
+    "Owner": "cvat-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "idealo/imagededup",
+    "Name": "imagededup",
+    "Url": "https://github.com/idealo/imagededup",
+    "Description": "😎 Finding duplicate images made easy!",
+    "Topics": [
+      "computer-vision",
+      "e-commerce",
+      "hashing",
+      "idealo",
+      "image-deduplication",
+      "image-preprocessing",
+      "neural-network",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 5624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-05T12:10:54Z",
+    "UpdatedAt": "2026-05-03T10:00:30Z",
+    "Owner": "idealo",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  }
+]

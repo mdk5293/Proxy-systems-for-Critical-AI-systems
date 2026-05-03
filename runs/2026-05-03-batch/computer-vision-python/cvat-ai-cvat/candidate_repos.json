@@ -1,0 +1,5728 @@
+[
+  {
+    "FullName": "Koldim2001/COCO_to_YOLOv8",
+    "Name": "COCO_to_YOLOv8",
+    "Url": "https://github.com/Koldim2001/COCO_to_YOLOv8",
+    "Description": "Converting COCO annotation (CVAT) to annotation for YOLO-seg (instance segmentation) and YOLO-obb (oriented bounding box detection)",
+    "Topics": [
+      "annotation-tool",
+      "coco",
+      "coco-dataset",
+      "coco-format-annotations",
+      "coco-format-converter",
+      "coco-to-yolo",
+      "cvat",
+      "oriented-bounding-box",
+      "ultralytics",
+      "yolo",
+      "yolo-format",
+      "yolo-format-annotations",
+      "yolo11",
+      "yolov5-seg",
+      "yolov8",
+      "yolov8-obb",
+      "yolov8-seg",
+      "yolov8-segmentation",
+      "yolov9-seg"
+    ],
+    "Language": "Python",
+    "Stars": 339,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-15T12:27:44Z",
+    "UpdatedAt": "2026-04-28T15:01:01Z",
+    "Owner": "Koldim2001",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "metagenome-atlas/atlas",
+    "Name": "atlas",
+    "Url": "https://github.com/metagenome-atlas/atlas",
+    "Description": "ATLAS - Three commands to start analyzing your metagenome data",
+    "Topics": [
+      "annotation",
+      "assembly",
+      "functional-annotation",
+      "genomic-binning",
+      "metagenomics",
+      "snakemake",
+      "taxonomic-classifications"
+    ],
+    "Language": "Python",
+    "Stars": 405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-30T15:19:28Z",
+    "UpdatedAt": "2026-04-21T14:17:59Z",
+    "Owner": "metagenome-atlas",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "naptha/tesseract.js",
+    "Name": "tesseract.js",
+    "Url": "https://github.com/naptha/tesseract.js",
+    "Description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "Topics": [
+      "deep-learning",
+      "javascript",
+      "ocr",
+      "tesseract",
+      "webassembly"
+    ],
+    "Language": "JavaScript",
+    "Stars": 38045,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-24T02:49:52Z",
+    "UpdatedAt": "2026-05-03T15:53:58Z",
+    "Owner": "naptha",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "doccano/doccano",
+    "Name": "doccano",
+    "Url": "https://github.com/doccano/doccano",
+    "Description": "Open source annotation tool for machine learning practitioners.",
+    "Topics": [
+      "annotation-tool",
+      "data-labeling",
+      "dataset",
+      "datasets",
+      "machine-learning",
+      "natural-language-processing",
+      "nuxt",
+      "nuxtjs",
+      "python",
+      "text-annotation",
+      "vue",
+      "vuejs"
+    ],
+    "Language": "Python",
+    "Stars": 10640,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-09T06:10:05Z",
+    "UpdatedAt": "2026-05-02T11:35:43Z",
+    "Owner": "doccano",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doccano/doccano-transformer",
+    "Name": "doccano-transformer",
+    "Url": "https://github.com/doccano/doccano-transformer",
+    "Description": "The official tool for transforming doccano format into common dataset formats.",
+    "Topics": [
+      "annotation",
+      "conll",
+      "dataset",
+      "doccano",
+      "machine-learning",
+      "natural-language-processing"
+    ],
+    "Language": "Python",
+    "Stars": 109,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-29T10:32:42Z",
+    "UpdatedAt": "2025-09-03T11:56:11Z",
+    "Owner": "doccano",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "code-kern-ai/refinery",
+    "Name": "refinery",
+    "Url": "https://github.com/code-kern-ai/refinery",
+    "Description": "The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.",
+    "Topics": [
+      "active-learning",
+      "annotations",
+      "artificial-intelligence",
+      "data-centric-ai",
+      "data-labeling",
+      "data-science",
+      "deep-learning",
+      "human-in-the-loop",
+      "labeling",
+      "labeling-tool",
+      "machine-learning",
+      "natural-language-processing",
+      "neural-search",
+      "nlp",
+      "python",
+      "spacy",
+      "supervised-learning",
+      "text-annotation",
+      "text-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1468,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-04T13:58:09Z",
+    "UpdatedAt": "2026-04-30T16:26:13Z",
+    "Owner": "code-kern-ai",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/CLIP",
+    "Name": "CLIP",
+    "Url": "https://github.com/openai/CLIP",
+    "Description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "Topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 33391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-16T11:24:42Z",
+    "UpdatedAt": "2026-05-03T17:39:20Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MrGiovanni/SuPreM",
+    "Name": "SuPreM",
+    "Url": "https://github.com/MrGiovanni/SuPreM",
+    "Description": "[ICLR 2024 oral; top 1.2%] Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes)",
+    "Topics": [
+      "dataset",
+      "foundation-models",
+      "foundational-datasets",
+      "medical-imaging",
+      "pre-trained-model",
+      "representation-learning",
+      "segmentation",
+      "supervised-learning",
+      "transfer-learning"
+    ],
+    "Language": "Python",
+    "Stars": 412,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-26T15:09:13Z",
+    "UpdatedAt": "2026-04-23T17:50:43Z",
+    "Owner": "MrGiovanni",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyconll/pyconll",
+    "Name": "pyconll",
+    "Url": "https://github.com/pyconll/pyconll",
+    "Description": "A minimal, pure Python library to interface with CoNLL-U format files.",
+    "Topics": [
+      "annotation",
+      "conllu",
+      "dependency-parsing",
+      "linguistics",
+      "minimal",
+      "python",
+      "universal-dependencies"
+    ],
+    "Language": "Python",
+    "Stars": 154,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-18T02:30:31Z",
+    "UpdatedAt": "2026-03-22T10:19:29Z",
+    "Owner": "pyconll",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "home-assistant/core",
+    "Name": "core",
+    "Url": "https://github.com/home-assistant/core",
+    "Description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "Topics": [
+      "asyncio",
+      "hacktoberfest",
+      "home-automation",
+      "internet-of-things",
+      "iot",
+      "mqtt",
+      "python",
+      "raspberry-pi"
+    ],
+    "Language": "Python",
+    "Stars": 86908,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-17T07:29:48Z",
+    "UpdatedAt": "2026-05-03T18:14:19Z",
+    "Owner": "home-assistant",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "duanyu/LabelFast",
+    "Name": "LabelFast",
+    "Url": "https://github.com/duanyu/LabelFast",
+    "Description": "中文世界的NLP自动标注开源工具，简单样本，交给LabelFast。",
+    "Topics": [
+      "annotation",
+      "large-language-models",
+      "llm",
+      "nlp"
+    ],
+    "Language": "Python",
+    "Stars": 85,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-03T04:55:06Z",
+    "UpdatedAt": "2025-12-31T04:40:28Z",
+    "Owner": "duanyu",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "karlicoss/grasp",
+    "Name": "grasp",
+    "Url": "https://github.com/karlicoss/grasp",
+    "Description": "A reliable org-capture browser extension for Chrome/Firefox",
+    "Topics": [
+      "annotation",
+      "browser-extension",
+      "capture",
+      "chrome-extension",
+      "firefox-extension",
+      "org-capture",
+      "org-mode",
+      "pkm",
+      "webext"
+    ],
+    "Language": "Python",
+    "Stars": 381,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-05T10:18:27Z",
+    "UpdatedAt": "2026-04-13T18:30:35Z",
+    "Owner": "karlicoss",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Labelbox/labelbox-python",
+    "Name": "labelbox-python",
+    "Url": "https://github.com/Labelbox/labelbox-python",
+    "Description": "The data factory for next gen AI",
+    "Topics": [
+      "ai",
+      "annotation",
+      "ml",
+      "mlops",
+      "python",
+      "sdk"
+    ],
+    "Language": "Python",
+    "Stars": 146,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-04T22:43:50Z",
+    "UpdatedAt": "2026-05-02T05:18:28Z",
+    "Owner": "Labelbox",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ACEnglish/truvari",
+    "Name": "truvari",
+    "Url": "https://github.com/ACEnglish/truvari",
+    "Description": "Structural variant toolkit for VCFs",
+    "Topics": [
+      "annotation-tool",
+      "benchmarking",
+      "bioinformatics",
+      "data-science",
+      "genomics",
+      "sequencing",
+      "structural-variation",
+      "sv-merging",
+      "vcf",
+      "vcf-comparison"
+    ],
+    "Language": "Python",
+    "Stars": 407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-13T17:50:41Z",
+    "UpdatedAt": "2026-04-27T10:52:24Z",
+    "Owner": "ACEnglish",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bertjiazheng/Structured3D",
+    "Name": "Structured3D",
+    "Url": "https://github.com/bertjiazheng/Structured3D",
+    "Description": "[ECCV'20] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling",
+    "Topics": [
+      "3d-reconstruction",
+      "annotations",
+      "computer-graphics",
+      "computer-vision",
+      "dataset",
+      "deep-learning",
+      "eccv",
+      "house-designs",
+      "room-layout",
+      "scene-understanding",
+      "structure-annotations"
+    ],
+    "Language": "Python",
+    "Stars": 664,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-09T10:48:43Z",
+    "UpdatedAt": "2026-04-28T21:10:59Z",
+    "Owner": "bertjiazheng",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FennelFetish/qapyq",
+    "Name": "qapyq",
+    "Url": "https://github.com/FennelFetish/qapyq",
+    "Description": "AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffusion training workflows.",
+    "Topics": [
+      "ai",
+      "annotation",
+      "automation",
+      "desktop-app",
+      "fine-tuning",
+      "image",
+      "image-processing",
+      "llm",
+      "lora",
+      "mask",
+      "multimodal",
+      "object-detection",
+      "stable-diffusion",
+      "text",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-16T23:36:29Z",
+    "UpdatedAt": "2026-05-02T16:02:07Z",
+    "Owner": "FennelFetish",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dgtlmoon/changedetection.io",
+    "Name": "changedetection.io",
+    "Url": "https://github.com/dgtlmoon/changedetection.io",
+    "Description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+    "Topics": [
+      "back-in-stock",
+      "change-alert",
+      "change-detection",
+      "change-monitoring",
+      "monitoring",
+      "notifications",
+      "restock-monitor",
+      "rss",
+      "self-hosted",
+      "url-monitor",
+      "web-scraping",
+      "website-change-detection",
+      "website-change-detector",
+      "website-change-monitor",
+      "website-change-notification",
+      "website-change-tracker",
+      "website-defacement-monitoring",
+      "website-monitor",
+      "website-monitoring",
+      "website-watcher"
+    ],
+    "Language": "Python",
+    "Stars": 31322,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-27T16:03:30Z",
+    "UpdatedAt": "2026-05-03T13:41:38Z",
+    "Owner": "dgtlmoon",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "virajmavani/semi-auto-image-annotation-tool",
+    "Name": "semi-auto-image-annotation-tool",
+    "Url": "https://github.com/virajmavani/semi-auto-image-annotation-tool",
+    "Description": "Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations using user-defined labels",
+    "Topics": [
+      "automation",
+      "deep-learning",
+      "hackoctoberfest",
+      "hacktoberfest2020",
+      "image-annotation",
+      "image-labeling",
+      "keras",
+      "pytorch",
+      "tensorflow",
+      "torchvision"
+    ],
+    "Language": "Python",
+    "Stars": 592,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-17T08:55:29Z",
+    "UpdatedAt": "2026-04-22T07:29:56Z",
+    "Owner": "virajmavani",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lld533/Grid-Anchor-based-Image-Cropping-Pytorch",
+    "Name": "Grid-Anchor-based-Image-Cropping-Pytorch",
+    "Url": "https://github.com/lld533/Grid-Anchor-based-Image-Cropping-Pytorch",
+    "Description": "Compatible with Python3 & PyTorch 1.0+ on Ubuntu",
+    "Topics": [
+      "annotation-tool",
+      "cropped-images",
+      "grid-anchor",
+      "python3",
+      "pytorch",
+      "rod-align",
+      "roi-align"
+    ],
+    "Language": "Python",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-19T06:22:57Z",
+    "UpdatedAt": "2026-04-07T11:45:50Z",
+    "Owner": "lld533",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unclecode/crawl4ai",
+    "Name": "crawl4ai",
+    "Url": "https://github.com/unclecode/crawl4ai",
+    "Description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 64946,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-09T09:48:50Z",
+    "UpdatedAt": "2026-05-03T18:04:51Z",
+    "Owner": "unclecode",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucsorel/py2puml",
+    "Name": "py2puml",
+    "Url": "https://github.com/lucsorel/py2puml",
+    "Description": "Generate PlantUML class diagrams to document your Python application.",
+    "Topics": [
+      "annotations",
+      "ast",
+      "class-diagram",
+      "documentation",
+      "plantuml",
+      "python",
+      "python3",
+      "type-hints"
+    ],
+    "Language": "Python",
+    "Stars": 271,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-13T20:16:53Z",
+    "UpdatedAt": "2026-04-14T21:30:58Z",
+    "Owner": "lucsorel",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T14:15:30Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sarnthil/unify-emotion-datasets",
+    "Name": "unify-emotion-datasets",
+    "Url": "https://github.com/sarnthil/unify-emotion-datasets",
+    "Description": "A Survey and Experiments on Annotated Corpora for Emotion Classification in Text",
+    "Topics": [
+      "aggregation",
+      "datasets",
+      "emotion-analysis",
+      "emotion-classification",
+      "emotion-recognition",
+      "logistic-regression",
+      "nlp"
+    ],
+    "Language": "Python",
+    "Stars": 234,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-26T08:45:31Z",
+    "UpdatedAt": "2026-02-12T12:58:30Z",
+    "Owner": "sarnthil",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "juand-r/entity-recognition-datasets",
+    "Name": "entity-recognition-datasets",
+    "Url": "https://github.com/juand-r/entity-recognition-datasets",
+    "Description": "A collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types.",
+    "Topics": [
+      "annotations",
+      "corpora",
+      "datasets",
+      "entity-extraction",
+      "entity-recognition",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "ner",
+      "nlp",
+      "nlp-resources"
+    ],
+    "Language": "Python",
+    "Stars": 1572,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-01T21:47:11Z",
+    "UpdatedAt": "2026-05-03T13:56:01Z",
+    "Owner": "juand-r",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50",
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lllyasviel/ControlNet",
+    "Name": "ControlNet",
+    "Url": "https://github.com/lllyasviel/ControlNet",
+    "Description": "Let us control diffusion models!",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 33849,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-01T02:43:30Z",
+    "UpdatedAt": "2026-05-03T15:52:21Z",
+    "Owner": "lllyasviel",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hhstore/annotated-py-projects",
+    "Name": "annotated-py-projects",
+    "Url": "https://github.com/hhstore/annotated-py-projects",
+    "Description": "fastapi/flask/sanic/asyncio/bottle/webpy 等源码注解合集",
+    "Topics": [
+      "annotated",
+      "anyio",
+      "asyncio",
+      "bottle",
+      "fastapi",
+      "flask",
+      "python",
+      "sanic",
+      "starlette",
+      "webpy"
+    ],
+    "Language": "Python",
+    "Stars": 730,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-27T06:27:39Z",
+    "UpdatedAt": "2026-04-13T10:28:14Z",
+    "Owner": "hhstore",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davidjurgens/potato",
+    "Name": "potato",
+    "Url": "https://github.com/davidjurgens/potato",
+    "Description": "potato: the portable annotation tool",
+    "Topics": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "annotation",
+      "annotation-tool",
+      "audio",
+      "data-labeling",
+      "image",
+      "labeling-tool",
+      "nlp",
+      "speech",
+      "vision"
+    ],
+    "Language": "Python",
+    "Stars": 380,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-23T16:49:28Z",
+    "UpdatedAt": "2026-04-26T14:46:46Z",
+    "Owner": "davidjurgens",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BatsResearch/alfred",
+    "Name": "alfred",
+    "Url": "https://github.com/BatsResearch/alfred",
+    "Description": "A system for prompted weak supervision. Alfred is a powerful tool that leverages large language models to accelerate data annotation.",
+    "Topics": [
+      "annotation-tool",
+      "data",
+      "data-annotation",
+      "llm",
+      "programmatic-weak-supervision",
+      "prompting",
+      "vlm",
+      "weak-supervision"
+    ],
+    "Language": "Python",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-20T20:39:54Z",
+    "UpdatedAt": "2026-02-16T12:29:47Z",
+    "Owner": "BatsResearch",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OschAI/VisioFirm",
+    "Name": "VisioFirm",
+    "Url": "https://github.com/OschAI/VisioFirm",
+    "Description": "VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision",
+    "Topics": [
+      "ai",
+      "annotation-tool",
+      "automatic-labelling",
+      "fast-annotation",
+      "fastapi",
+      "grounding-dino",
+      "labelling",
+      "labelling-images",
+      "object-detection",
+      "open-source",
+      "oriented-object-detection",
+      "sam",
+      "segmentation",
+      "ultralytics",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 426,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-25T13:49:16Z",
+    "UpdatedAt": "2026-05-02T14:31:47Z",
+    "Owner": "OschAI",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/diffusers",
+    "Name": "diffusers",
+    "Url": "https://github.com/huggingface/diffusers",
+    "Description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "Topics": [
+      "deep-learning",
+      "diffusion",
+      "flux",
+      "image-generation",
+      "image2image",
+      "image2video",
+      "latent-diffusion-models",
+      "pytorch",
+      "qwen-image",
+      "score-based-generative-modeling",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text2image",
+      "text2video",
+      "video2video"
+    ],
+    "Language": "Python",
+    "Stars": 33529,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T16:04:02Z",
+    "UpdatedAt": "2026-05-03T12:04:57Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tenable/ghidra_tools",
+    "Name": "ghidra_tools",
+    "Url": "https://github.com/tenable/ghidra_tools",
+    "Description": "A collection of Ghidra scripts, including the GPT-3 powered code analyser and annotator, G-3PO.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 312,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-20T15:30:04Z",
+    "UpdatedAt": "2026-04-28T11:27:59Z",
+    "Owner": "tenable",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CMU-Perceptual-Computing-Lab/openpose",
+    "Name": "openpose",
+    "Url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "Description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "Topics": [
+      "caffe",
+      "computer-vision",
+      "cpp",
+      "cvpr-2017",
+      "deep-learning",
+      "face",
+      "foot-estimation",
+      "hand-estimation",
+      "human-behavior-understanding",
+      "human-pose",
+      "human-pose-estimation",
+      "keypoint-detection",
+      "keypoints",
+      "machine-learning",
+      "multi-person",
+      "opencv",
+      "openpose",
+      "pose",
+      "pose-estimation",
+      "real-time"
+    ],
+    "Language": "C++",
+    "Stars": 34060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-24T14:06:31Z",
+    "UpdatedAt": "2026-05-03T13:59:40Z",
+    "Owner": "CMU-Perceptual-Computing-Lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xid32/SoundMind",
+    "Name": "SoundMind",
+    "Url": "https://github.com/xid32/SoundMind",
+    "Description": "We introduce the Audio Logical Reasoning (ALR) dataset, consisting of 6,446 text-audio annotated samples specifically designed for complex reasoning tasks. Building on this resource, we propose SoundMind, a rule-based reinforcement learning (RL) algorithm tailored to endow audio language models (ALMs) with deep bimodal reasoning abilities.",
+    "Topics": [
+      "audio-language-model",
+      "audio-reasoning",
+      "dataset",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 1108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-13T02:41:16Z",
+    "UpdatedAt": "2026-04-18T13:14:40Z",
+    "Owner": "xid32",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "httpie/cli",
+    "Name": "cli",
+    "Url": "https://github.com/httpie/cli",
+    "Description": "🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+    "Topics": [
+      "api",
+      "api-client",
+      "api-testing",
+      "cli",
+      "client",
+      "curl",
+      "debugging",
+      "developer-tools",
+      "development",
+      "devops",
+      "http",
+      "http-client",
+      "httpie",
+      "json",
+      "python",
+      "rest",
+      "rest-api",
+      "terminal",
+      "usability",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 38035,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-02-25T12:39:13Z",
+    "UpdatedAt": "2026-05-03T17:27:03Z",
+    "Owner": "httpie",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 25104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-03T15:08:42Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "phurwicz/hover",
+    "Name": "hover",
+    "Url": "https://github.com/phurwicz/hover",
+    "Description": ":speedboat: Label data at scale. Fun and precision included.",
+    "Topics": [
+      "annotation-tool",
+      "audio-classification",
+      "audio-labeling",
+      "bokeh",
+      "bulk-labeling",
+      "data-labeling",
+      "image-classification",
+      "image-labeling",
+      "labeling",
+      "labeling-tool",
+      "machine-learning",
+      "supervised-learning",
+      "text-classification",
+      "text-labeling",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-05T13:43:55Z",
+    "UpdatedAt": "2026-04-13T06:10:33Z",
+    "Owner": "phurwicz",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162704,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T16:59:28Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "laclouis5/globox",
+    "Name": "globox",
+    "Url": "https://github.com/laclouis5/globox",
+    "Description": "A package to read and convert object detection datasets (COCO, YOLO, PascalVOC, LabelMe, CVAT, OpenImage, ...) and evaluate them with COCO and PascalVOC metrics.",
+    "Topics": [
+      "annotation",
+      "average-precision",
+      "bounding-boxes",
+      "coco-api",
+      "cvat",
+      "dataset",
+      "labelme",
+      "mean-average-precision",
+      "metrics",
+      "object-detection",
+      "openimages",
+      "pascal-voc",
+      "voc2coco",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 216,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-10T14:24:51Z",
+    "UpdatedAt": "2026-04-21T10:59:50Z",
+    "Owner": "laclouis5",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Avik-Jain/100-Days-Of-ML-Code",
+    "Name": "100-Days-Of-ML-Code",
+    "Url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "Description": "100 Days of ML Coding",
+    "Topics": [
+      "100-days-of-code-log",
+      "100daysofcode",
+      "deep-learning",
+      "implementation",
+      "infographics",
+      "linear-algebra",
+      "linear-regression",
+      "logistic-regression",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "naive-bayes-classifier",
+      "python",
+      "scikit-learn",
+      "siraj-raval",
+      "siraj-raval-challenge",
+      "support-vector-machines",
+      "svm",
+      "tutorial"
+    ],
+    "Language": "",
+    "Stars": 50831,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-05T09:11:43Z",
+    "UpdatedAt": "2026-05-03T16:56:01Z",
+    "Owner": "Avik-Jain",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deprekate/PHANOTATE",
+    "Name": "PHANOTATE",
+    "Url": "https://github.com/deprekate/PHANOTATE",
+    "Description": "PHANOTATE: a gene caller for phages. ",
+    "Topics": [
+      "annotate-phage-genomes",
+      "annotation",
+      "genomics",
+      "phage"
+    ],
+    "Language": "Python",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-16T21:30:09Z",
+    "UpdatedAt": "2026-04-25T19:09:29Z",
+    "Owner": "deprekate",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WrightonLabCSU/DRAM",
+    "Name": "DRAM",
+    "Url": "https://github.com/WrightonLabCSU/DRAM",
+    "Description": "Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes",
+    "Topics": [
+      "annotation",
+      "bioinformatics",
+      "genomics",
+      "metagenome-assembled-genomes",
+      "metagenomics",
+      "microbiome",
+      "viral-genomics",
+      "viral-metagenomics"
+    ],
+    "Language": "Python",
+    "Stars": 332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-11T22:48:25Z",
+    "UpdatedAt": "2026-04-28T18:09:05Z",
+    "Owner": "WrightonLabCSU",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jiesutd/YEDDA",
+    "Name": "YEDDA",
+    "Url": "https://github.com/jiesutd/YEDDA",
+    "Description": "YEDDA: A Lightweight Collaborative Text Span Annotation Tool. Code for ACL 2018 Best Demo Paper Nomination.",
+    "Topics": [
+      "analysis",
+      "annotation-tool",
+      "annotations",
+      "chunk",
+      "entity",
+      "event",
+      "human-annotation",
+      "manual",
+      "named-entity-recognition",
+      "ner",
+      "python",
+      "recommender-system",
+      "sutdannotator",
+      "tkinter"
+    ],
+    "Language": "Python",
+    "Stars": 1071,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-08T07:33:27Z",
+    "UpdatedAt": "2026-04-20T09:12:01Z",
+    "Owner": "jiesutd",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50",
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77606,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-03T18:06:54Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Toloka/crowd-kit",
+    "Name": "crowd-kit",
+    "Url": "https://github.com/Toloka/crowd-kit",
+    "Description": "Control the quality of your labeled data with the Python tools you already know.",
+    "Topics": [
+      "aggregations",
+      "annotation",
+      "crowd",
+      "crowdsourcing",
+      "data-mining",
+      "data-science",
+      "labeling",
+      "python",
+      "quality-control",
+      "toloka",
+      "truth-inference"
+    ],
+    "Language": "Python",
+    "Stars": 244,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-01T23:02:08Z",
+    "UpdatedAt": "2026-04-19T19:17:54Z",
+    "Owner": "Toloka",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "9001/copyparty",
+    "Name": "copyparty",
+    "Url": "https://github.com/9001/copyparty",
+    "Description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+    "Topics": [
+      "copyparty",
+      "file-server",
+      "file-sharing",
+      "file-upload-server",
+      "ftp-server",
+      "nas-frontend",
+      "tftp-server",
+      "webdav-server"
+    ],
+    "Language": "Python",
+    "Stars": 44654,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T15:28:33Z",
+    "UpdatedAt": "2026-05-03T16:39:59Z",
+    "Owner": "9001",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lfaino/LoReAn",
+    "Name": "LoReAn",
+    "Url": "https://github.com/lfaino/LoReAn",
+    "Description": "Long Reads Annotation pipeline",
+    "Topics": [
+      "annotations",
+      "nanopore",
+      "pacbio",
+      "rna-seq"
+    ],
+    "Language": "Python",
+    "Stars": 73,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-26T09:50:30Z",
+    "UpdatedAt": "2026-01-26T02:39:26Z",
+    "Owner": "lfaino",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytorch/pytorch",
+    "Name": "pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 99599,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-13T05:26:41Z",
+    "UpdatedAt": "2026-05-03T18:20:49Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pylabel-project/pylabel",
+    "Name": "pylabel",
+    "Url": "https://github.com/pylabel-project/pylabel",
+    "Description": "Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo. ",
+    "Topics": [
+      "annotation-tool",
+      "bounding-boxes",
+      "coco",
+      "computer-vision",
+      "dataset",
+      "object-detection",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 341,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-20T03:56:54Z",
+    "UpdatedAt": "2026-04-21T10:59:13Z",
+    "Owner": "pylabel-project",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NatLibFi/Annif",
+    "Name": "Annif",
+    "Url": "https://github.com/NatLibFi/Annif",
+    "Description": "Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.",
+    "Topics": [
+      "annif",
+      "annotation-tool",
+      "classification",
+      "code4lib",
+      "connexion",
+      "flask-application",
+      "glam",
+      "machine-learning",
+      "multilabel-classification",
+      "python",
+      "rest-api",
+      "subject-indexing",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 261,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-21T09:36:52Z",
+    "UpdatedAt": "2026-05-03T10:02:56Z",
+    "Owner": "NatLibFi",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lm-sys/FastChat",
+    "Name": "FastChat",
+    "Url": "https://github.com/lm-sys/FastChat",
+    "Description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 39461,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-19T00:18:02Z",
+    "UpdatedAt": "2026-05-03T14:40:20Z",
+    "Owner": "lm-sys",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "InteractiveGL/vision6D",
+    "Name": "vision6D",
+    "Url": "https://github.com/InteractiveGL/vision6D",
+    "Description": "6D Pose Annotation Tool and Real-time Visualization - Vision6D for supporting  users to annotate the 6D pose of a given 3D object for any given 2D images and depth estimation. This 6D pose annotation tool supports annotate videos and a set of 2D images.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "depth",
+      "depth-estimation",
+      "pose",
+      "pose-annotation",
+      "python3",
+      "tool",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-01T17:32:06Z",
+    "UpdatedAt": "2026-04-14T01:53:02Z",
+    "Owner": "InteractiveGL",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55204,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-03T13:10:29Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shoumikchow/bbox-visualizer",
+    "Name": "bbox-visualizer",
+    "Url": "https://github.com/shoumikchow/bbox-visualizer",
+    "Description": "Make drawing and labeling bounding boxes a piece of cake",
+    "Topics": [
+      "annotation",
+      "annotations",
+      "bboxes",
+      "bounding-box",
+      "bounding-boxes",
+      "boundingbox",
+      "computer-vision",
+      "computer-vision-tools",
+      "cv",
+      "data-labeling",
+      "deep-learning",
+      "image-annotation",
+      "image-labeling",
+      "image-labeling-tool",
+      "labeling",
+      "object-detection",
+      "object-recognition",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-22T06:16:10Z",
+    "UpdatedAt": "2026-04-29T08:47:48Z",
+    "Owner": "shoumikchow",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52916,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-03T18:16:57Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coqui-ai/TTS",
+    "Name": "TTS",
+    "Url": "https://github.com/coqui-ai/TTS",
+    "Description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "Topics": [
+      "deep-learning",
+      "glow-tts",
+      "hifigan",
+      "melgan",
+      "multi-speaker-tts",
+      "python",
+      "pytorch",
+      "speaker-encoder",
+      "speaker-encodings",
+      "speech",
+      "speech-synthesis",
+      "tacotron",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "vocoder",
+      "voice-cloning",
+      "voice-conversion",
+      "voice-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 45211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T15:45:28Z",
+    "UpdatedAt": "2026-05-03T15:53:02Z",
+    "Owner": "coqui-ai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "Name": "Retrieval-based-Voice-Conversion-WebUI",
+    "Url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "Description": "Easily train a good VC model with voice data <= 10 mins!",
+    "Topics": [
+      "audio-analysis",
+      "change",
+      "conversational-ai",
+      "conversion",
+      "converter",
+      "retrieval-model",
+      "retrieve-data",
+      "rvc",
+      "so-vits-svc",
+      "sovits",
+      "vc",
+      "vits",
+      "voice",
+      "voice-conversion",
+      "voice-converter",
+      "voiceconversion"
+    ],
+    "Language": "Python",
+    "Stars": 35443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-27T09:59:10Z",
+    "UpdatedAt": "2026-05-03T17:51:53Z",
+    "Owner": "RVC-Project",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OSU-NLP-Group/MagicBrush",
+    "Name": "MagicBrush",
+    "Url": "https://github.com/OSU-NLP-Group/MagicBrush",
+    "Description": "[NeurIPS'23] \"MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing\".",
+    "Topics": [
+      "diffusion-models",
+      "image-editing",
+      "image-generation",
+      "image-synthesis",
+      "instruction-following",
+      "text-to-image",
+      "text-to-image-generation",
+      "text-to-image-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-06T23:22:31Z",
+    "UpdatedAt": "2026-04-24T03:42:07Z",
+    "Owner": "OSU-NLP-Group",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ucas-vg/P2BNet",
+    "Name": "P2BNet",
+    "Url": "https://github.com/ucas-vg/P2BNet",
+    "Description": "ECCV2022, Point-to-Box Network for Accurate Object Detection via Single Point Supervision",
+    "Topics": [
+      "annotation",
+      "computer-vision",
+      "detection",
+      "object-detection",
+      "point-supervised-object-detection",
+      "point-supervision",
+      "weakly-supervised-detection",
+      "weakly-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 67,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-09T04:10:22Z",
+    "UpdatedAt": "2026-03-23T02:54:52Z",
+    "Owner": "ucas-vg",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mli/paper-reading",
+    "Name": "paper-reading",
+    "Url": "https://github.com/mli/paper-reading",
+    "Description": "深度学习经典、新论文逐段精读",
+    "Topics": [
+      "deep-learning",
+      "paper",
+      "reading-list"
+    ],
+    "Language": "",
+    "Stars": 32952,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-22T06:34:51Z",
+    "UpdatedAt": "2026-05-03T15:54:12Z",
+    "Owner": "mli",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "argilla-io/argilla",
+    "Name": "argilla",
+    "Url": "https://github.com/argilla-io/argilla",
+    "Description": "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets",
+    "Topics": [
+      "active-learning",
+      "ai",
+      "annotation-tool",
+      "developer-tools",
+      "gpt-4",
+      "human-in-the-loop",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "nlp",
+      "rlhf",
+      "text-annotation",
+      "text-labeling",
+      "weak-supervision",
+      "weakly-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 4953,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-28T14:37:42Z",
+    "UpdatedAt": "2026-05-03T00:42:57Z",
+    "Owner": "argilla-io",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "annotated-types/annotated-types",
+    "Name": "annotated-types",
+    "Url": "https://github.com/annotated-types/annotated-types",
+    "Description": "Reusable constraint types to use with typing.Annotated",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 598,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-02T17:36:21Z",
+    "UpdatedAt": "2026-04-22T12:45:02Z",
+    "Owner": "annotated-types",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "0b01001001/spectree",
+    "Name": "spectree",
+    "Url": "https://github.com/0b01001001/spectree",
+    "Description": "API spec validator and  OpenAPI document generator for Python web frameworks.",
+    "Topics": [
+      "annotation",
+      "annotations",
+      "apispec",
+      "asgi",
+      "falcon",
+      "flask",
+      "hacktoberfest",
+      "openapi",
+      "openapi-document",
+      "pydantic",
+      "pydantic-v2",
+      "python",
+      "redoc",
+      "starlette",
+      "swagger",
+      "wsgi"
+    ],
+    "Language": "Python",
+    "Stars": 362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-01T07:04:07Z",
+    "UpdatedAt": "2026-04-20T07:47:25Z",
+    "Owner": "0b01001001",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Genotek/ClassifyCNV",
+    "Name": "ClassifyCNV",
+    "Url": "https://github.com/Genotek/ClassifyCNV",
+    "Description": "ClassifyCNV: a tool for clinical annotation of copy-number variants",
+    "Topics": [
+      "annotations",
+      "bioinformatics",
+      "clinical-genomics",
+      "cnv",
+      "copy-number-variation",
+      "deletion",
+      "duplication",
+      "pathogenicity"
+    ],
+    "Language": "Python",
+    "Stars": 73,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-15T14:09:17Z",
+    "UpdatedAt": "2026-03-16T20:54:19Z",
+    "Owner": "Genotek",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29395,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-03T16:59:12Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "songhengyang/face_landmark_factory",
+    "Name": "face_landmark_factory",
+    "Url": "https://github.com/songhengyang/face_landmark_factory",
+    "Description": "These are a set of tools using OpenCV, Tensorflow and Keras, with which you can generate your own model of facial landmark detection and demonstrate the effect of newly-generated model easily.",
+    "Topics": [
+      "annotation",
+      "automated",
+      "detection",
+      "face",
+      "facial",
+      "keras",
+      "landmark",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 138,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-16T10:26:30Z",
+    "UpdatedAt": "2025-06-04T10:19:11Z",
+    "Owner": "songhengyang",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lightly-ai/labelformat",
+    "Name": "labelformat",
+    "Url": "https://github.com/lightly-ai/labelformat",
+    "Description": "A tool for converting computer vision label formats.",
+    "Topics": [
+      "annotation",
+      "bounding-boxes",
+      "kitti",
+      "labels",
+      "mscoco",
+      "object-detection",
+      "pascal-voc",
+      "yolo",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-18T11:08:06Z",
+    "UpdatedAt": "2026-04-20T12:31:20Z",
+    "Owner": "lightly-ai",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rustedpy/result",
+    "Name": "result",
+    "Url": "https://github.com/rustedpy/result",
+    "Description": "NOT MAINTAINED - A simple Rust like Result type for Python 3. Fully type annotated.",
+    "Topics": [
+      "functional-programming",
+      "mypy",
+      "python",
+      "python3",
+      "railway-oriented-programming",
+      "rust",
+      "strongly-typed",
+      "type-safety",
+      "typechecking"
+    ],
+    "Language": "Python",
+    "Stars": 1691,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-12-14T13:49:05Z",
+    "UpdatedAt": "2026-05-03T08:09:28Z",
+    "Owner": "rustedpy",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jkkummerfeld/slate",
+    "Name": "slate",
+    "Url": "https://github.com/jkkummerfeld/slate",
+    "Description": "A Super-Lightweight Annotation Tool for Experts: Label text in a terminal with just Python",
+    "Topics": [
+      "annotation",
+      "labeling",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "terminal-based",
+      "text-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 114,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-24T07:33:39Z",
+    "UpdatedAt": "2026-04-29T09:04:34Z",
+    "Owner": "jkkummerfeld",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/CLI-Anything",
+    "Name": "CLI-Anything",
+    "Url": "https://github.com/HKUDS/CLI-Anything",
+    "Description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 33320,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-08T13:52:57Z",
+    "UpdatedAt": "2026-05-03T18:17:15Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-Coder",
+    "Name": "DeepSeek-Coder",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+    "Description": "DeepSeek Coder: Let the Code Write Itself",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-20T06:38:01Z",
+    "UpdatedAt": "2026-05-03T16:52:38Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "littlecodersh/ItChat",
+    "Name": "ItChat",
+    "Url": "https://github.com/littlecodersh/ItChat",
+    "Description": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+    "Topics": [
+      "api",
+      "itchat",
+      "robot",
+      "wechat"
+    ],
+    "Language": "Python",
+    "Stars": 26493,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-19T07:49:48Z",
+    "UpdatedAt": "2026-05-03T03:53:51Z",
+    "Owner": "littlecodersh",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "orsinium-labs/infer-types",
+    "Name": "infer-types",
+    "Url": "https://github.com/orsinium-labs/infer-types",
+    "Description": "A CLI tool to automatically add type annotations into Python code. Must have tool for annotating existing code.",
+    "Topics": [
+      "annotations",
+      "code-formatter",
+      "code-generation",
+      "mypy",
+      "pyannotate",
+      "python",
+      "python3",
+      "pytype",
+      "static-analysis",
+      "type-annotations",
+      "type-checking",
+      "type-inference",
+      "typing"
+    ],
+    "Language": "Python",
+    "Stars": 100,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-08T12:57:38Z",
+    "UpdatedAt": "2026-03-29T09:45:24Z",
+    "Owner": "orsinium-labs",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "diffgram/diffgram",
+    "Name": "diffgram",
+    "Url": "https://github.com/diffgram/diffgram",
+    "Description": "The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "data",
+      "data-analytics",
+      "data-annotation",
+      "data-science",
+      "datasets",
+      "datastore",
+      "deep-learning",
+      "image-annotation",
+      "kubernetes",
+      "labeling",
+      "machine-learning",
+      "training-data",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 1902,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-06T21:04:23Z",
+    "UpdatedAt": "2026-04-28T07:02:22Z",
+    "Owner": "diffgram",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotation-tool language:Python stars:>=50",
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "layumi/University1652-Baseline",
+    "Name": "University1652-Baseline",
+    "Url": "https://github.com/layumi/University1652-Baseline",
+    "Description": "ACM Multimedia2020 University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization :helicopter: annotates 1652 buildings in 72 universities around the world.",
+    "Topics": [
+      "awesome-list",
+      "cross-view",
+      "cvact",
+      "cvusa",
+      "dataset",
+      "drone",
+      "gem-pooling",
+      "geo-localization",
+      "image-retrieval",
+      "multi-source-benchmark",
+      "place-recognition",
+      "pytorch",
+      "remote-sensing",
+      "satellite",
+      "uav"
+    ],
+    "Language": "Python",
+    "Stars": 638,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-04T07:27:05Z",
+    "UpdatedAt": "2026-05-02T09:44:16Z",
+    "Owner": "layumi",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-ai-edge/mediapipe",
+    "Name": "mediapipe",
+    "Url": "https://github.com/google-ai-edge/mediapipe",
+    "Description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "Topics": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "machine-learning",
+      "mediapipe",
+      "mobile-development",
+      "perception",
+      "pipeline-framework",
+      "stream-processing",
+      "video-processing"
+    ],
+    "Language": "C++",
+    "Stars": 35048,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T19:16:41Z",
+    "UpdatedAt": "2026-05-03T16:12:46Z",
+    "Owner": "google-ai-edge",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yatengLG/ISAT_with_segment_anything",
+    "Name": "ISAT_with_segment_anything",
+    "Url": "https://github.com/yatengLG/ISAT_with_segment_anything",
+    "Description": "Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具",
+    "Topics": [
+      "annotation-tool",
+      "computer-vision",
+      "labeling",
+      "labeling-tool",
+      "sam",
+      "sam2",
+      "sam3",
+      "segment-anything",
+      "segment-anything-2",
+      "text-prompt",
+      "video-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-18T13:23:48Z",
+    "UpdatedAt": "2026-05-02T15:30:27Z",
+    "Owner": "yatengLG",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-edge-platform/geti-sdk",
+    "Name": "geti-sdk",
+    "Url": "https://github.com/open-edge-platform/geti-sdk",
+    "Description": "Software Development Kit (SDK) for the Geti™ platform for Computer Vision AI model training. ",
+    "Topics": [
+      "annotations",
+      "computer-vision",
+      "deep-learning",
+      "geti",
+      "model-deployment",
+      "model-development",
+      "openvino",
+      "python3",
+      "sdk"
+    ],
+    "Language": "Python",
+    "Stars": 122,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-21T11:11:26Z",
+    "UpdatedAt": "2026-04-27T08:50:35Z",
+    "Owner": "open-edge-platform",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56705,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-03T18:11:12Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy",
+    "Name": "Entity-Recognition-In-Resumes-SpaCy",
+    "Url": "https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy",
+    "Description": "Automatic Summarization of Resumes with NER -> Evaluate resumes at a glance through Named Entity Recognition",
+    "Topics": [
+      "annotation-tool",
+      "labeling-tool",
+      "named-entity-recognition",
+      "python",
+      "resume-parser",
+      "spacy-models",
+      "text-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-14T09:56:26Z",
+    "UpdatedAt": "2026-04-13T23:18:39Z",
+    "Owner": "DataTurks-Engg",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DS2BRAIN/ds2",
+    "Name": "ds2",
+    "Url": "https://github.com/DS2BRAIN/ds2",
+    "Description": "Easiest way to use AI models without coding (Web UI & API support)",
+    "Topics": [
+      "ai",
+      "annotation-tool",
+      "auto-labeling",
+      "automl",
+      "dalle",
+      "data-science",
+      "deep-learning",
+      "feature-engineering",
+      "huggingface",
+      "image-annotation-tool",
+      "image-to-text",
+      "machine-learning",
+      "ml",
+      "mlops",
+      "neural-network",
+      "python",
+      "pytorch",
+      "stable-diffusion",
+      "tensorflow",
+      "text-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-15T05:38:07Z",
+    "UpdatedAt": "2025-11-19T11:28:04Z",
+    "Owner": "DS2BRAIN",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Arkadiy-Garber/FeGenie",
+    "Name": "FeGenie",
+    "Url": "https://github.com/Arkadiy-Garber/FeGenie",
+    "Description": "HMM-based identification and categorization of iron genes and iron gene operons in genomes and metagenomes",
+    "Topics": [
+      "annotation",
+      "genes",
+      "iron",
+      "magnetosome",
+      "metagenomics",
+      "oxidation",
+      "reduction",
+      "schubert",
+      "siderophore",
+      "transporter"
+    ],
+    "Language": "Python",
+    "Stars": 66,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-19T01:00:35Z",
+    "UpdatedAt": "2026-05-01T19:18:48Z",
+    "Owner": "Arkadiy-Garber",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doccano/doccano-client",
+    "Name": "doccano-client",
+    "Url": "https://github.com/doccano/doccano-client",
+    "Description": "A simple client for doccano API.",
+    "Topics": [
+      "active-learning",
+      "annotation",
+      "api-client",
+      "api-wrapper",
+      "data-labeling",
+      "dataset",
+      "doccano",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "text-annotation",
+      "upload-file"
+    ],
+    "Language": "Python",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-22T02:56:23Z",
+    "UpdatedAt": "2026-01-16T07:32:57Z",
+    "Owner": "doccano",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hsliuping/TradingAgents-CN",
+    "Name": "TradingAgents-CN",
+    "Url": "https://github.com/hsliuping/TradingAgents-CN",
+    "Description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 25404,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-26T07:45:09Z",
+    "UpdatedAt": "2026-05-03T17:51:38Z",
+    "Owner": "hsliuping",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rediscovery-io/remo-python",
+    "Name": "remo-python",
+    "Url": "https://github.com/rediscovery-io/remo-python",
+    "Description": ":rabbit: Python lib for remo - the app for annotations and images management in Computer Vision",
+    "Topics": [
+      "annotation-tool",
+      "computer-vision",
+      "dataset-interface",
+      "datasets",
+      "deep-learning",
+      "image-classification",
+      "image-management",
+      "image-viewer",
+      "instance-segmentation",
+      "labeling-tool",
+      "neural-networks",
+      "object-detection",
+      "python-library"
+    ],
+    "Language": "Python",
+    "Stars": 187,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-24T13:18:54Z",
+    "UpdatedAt": "2025-11-09T00:50:40Z",
+    "Owner": "rediscovery-io",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/projects",
+    "Name": "projects",
+    "Url": "https://github.com/explosion/projects",
+    "Description": "🪐 End-to-end NLP workflows from prototype to production",
+    "Topics": [
+      "annotations",
+      "datasets",
+      "natural-language-processing",
+      "nlp",
+      "prodigy",
+      "spacy"
+    ],
+    "Language": "Python",
+    "Stars": 1428,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-21T12:08:52Z",
+    "UpdatedAt": "2026-05-03T15:34:00Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddleCV-SIG/PaddleLabel",
+    "Name": "PaddleLabel",
+    "Url": "https://github.com/PaddleCV-SIG/PaddleLabel",
+    "Description": "飞桨智能标注，让标注快人一步",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 296,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-10T03:14:04Z",
+    "UpdatedAt": "2026-04-29T01:26:44Z",
+    "Owner": "PaddleCV-SIG",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hzylmf/od-annotation",
+    "Name": "od-annotation",
+    "Url": "https://github.com/hzylmf/od-annotation",
+    "Description": "目标检测数据集标注工具",
+    "Topics": [
+      "annotation",
+      "flask-restful",
+      "object-detection",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 327,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-06T06:50:34Z",
+    "UpdatedAt": "2026-04-20T02:42:19Z",
+    "Owner": "hzylmf",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BVLC/caffe",
+    "Name": "caffe",
+    "Url": "https://github.com/BVLC/caffe",
+    "Description": "Caffe: a fast open framework for deep learning.",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "vision"
+    ],
+    "Language": "C++",
+    "Stars": 34624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-12T18:39:48Z",
+    "UpdatedAt": "2026-05-03T03:13:57Z",
+    "Owner": "BVLC",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/MiniCPM-o",
+    "Name": "MiniCPM-o",
+    "Url": "https://github.com/OpenBMB/MiniCPM-o",
+    "Description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+    "Topics": [
+      "minicpm",
+      "minicpm-v",
+      "multi-modal"
+    ],
+    "Language": "Python",
+    "Stars": 24490,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-29T05:30:33Z",
+    "UpdatedAt": "2026-05-03T15:17:45Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opencv/opencv",
+    "Name": "opencv",
+    "Url": "https://github.com/opencv/opencv",
+    "Description": "Open Source Computer Vision Library",
+    "Topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "Language": "C++",
+    "Stars": 87330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-19T09:40:17Z",
+    "UpdatedAt": "2026-05-03T16:50:32Z",
+    "Owner": "opencv",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lutzroeder/netron",
+    "Name": "netron",
+    "Url": "https://github.com/lutzroeder/netron",
+    "Description": "Visualizer for neural network, deep learning and machine learning models",
+    "Topics": [
+      "ai",
+      "coreml",
+      "deep-learning",
+      "deeplearning",
+      "keras",
+      "machine-learning",
+      "machinelearning",
+      "ml",
+      "neural-network",
+      "numpy",
+      "onnx",
+      "pytorch",
+      "safetensors",
+      "tensorflow",
+      "tensorflow-lite",
+      "visualizer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 32832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-26T12:53:43Z",
+    "UpdatedAt": "2026-05-03T18:11:05Z",
+    "Owner": "lutzroeder",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "henribru/google-api-python-client-stubs",
+    "Name": "google-api-python-client-stubs",
+    "Url": "https://github.com/henribru/google-api-python-client-stubs",
+    "Description": "Type stubs for google-api-python-client",
+    "Topics": [
+      "annotations",
+      "google-api-python-client",
+      "googleapiclient",
+      "mypy",
+      "pep561",
+      "pylance",
+      "pyre",
+      "pyright",
+      "python",
+      "pytype",
+      "stubs",
+      "stubs-only",
+      "type-annotations",
+      "type-stubs",
+      "typed",
+      "typing"
+    ],
+    "Language": "Python",
+    "Stars": 64,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T19:55:17Z",
+    "UpdatedAt": "2026-04-17T19:13:47Z",
+    "Owner": "henribru",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T17:55:00Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "detectRecog/CCPD",
+    "Name": "CCPD",
+    "Url": "https://github.com/detectRecog/CCPD",
+    "Description": "[ECCV 2018] CCPD: a diverse and well-annotated dataset for license plate detection and recognition",
+    "Topics": [
+      "ccpd",
+      "dataset",
+      "detection",
+      "large-scale",
+      "plate-detection",
+      "recognition"
+    ],
+    "Language": "Python",
+    "Stars": 2602,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-03T02:19:51Z",
+    "UpdatedAt": "2026-05-03T07:22:18Z",
+    "Owner": "detectRecog",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ElliotXie/CASSIA",
+    "Name": "CASSIA",
+    "Url": "https://github.com/ElliotXie/CASSIA",
+    "Description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
+    "Topics": [
+      "ai4science",
+      "annotation",
+      "bioinformatics",
+      "cell-annotation",
+      "llm",
+      "multiagent-systems",
+      "prompt-engineering",
+      "retrieved-augmented-generation",
+      "rna-seq",
+      "single-cell",
+      "singlecell",
+      "singlecell-data-analysis",
+      "singlecellgenomics"
+    ],
+    "Language": "Python",
+    "Stars": 89,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-20T17:55:50Z",
+    "UpdatedAt": "2026-04-14T19:30:34Z",
+    "Owner": "ElliotXie",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-03T13:23:48Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "c language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "oschwengers/bakta",
+    "Name": "bakta",
+    "Url": "https://github.com/oschwengers/bakta",
+    "Description": "Rapid & standardized annotation of bacterial genomes, MAGs & plasmids",
+    "Topics": [
+      "annotation",
+      "bacteria",
+      "bacterial-genomes",
+      "bioinformatics",
+      "genome-annotation",
+      "mag",
+      "metagenome-assembled-genomes",
+      "microbial-genomics",
+      "plasmids"
+    ],
+    "Language": "Python",
+    "Stars": 636,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-15T23:08:38Z",
+    "UpdatedAt": "2026-05-03T10:46:23Z",
+    "Owner": "oschwengers",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "srush/annotated-s4",
+    "Name": "annotated-s4",
+    "Url": "https://github.com/srush/annotated-s4",
+    "Description": "Implementation of https://srush.github.io/annotated-s4",
+    "Topics": [
+      "deep-learning",
+      "jax"
+    ],
+    "Language": "Python",
+    "Stars": 515,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-08T22:52:35Z",
+    "UpdatedAt": "2026-04-09T06:39:57Z",
+    "Owner": "srush",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rsusik/screenpen",
+    "Name": "screenpen",
+    "Url": "https://github.com/rsusik/screenpen",
+    "Description": "ScreenPen is a simple screen annotation software that allows drawing directly on the screen.",
+    "Topics": [
+      "annotation",
+      "desktop",
+      "draw",
+      "drawing",
+      "epic",
+      "epic-pen-alternative",
+      "epicpen",
+      "epicpen-alternative",
+      "marker",
+      "mouse",
+      "paint",
+      "pen",
+      "presentation",
+      "remote",
+      "screen",
+      "screen-annotation",
+      "screen-capture",
+      "screen-marker",
+      "tool"
+    ],
+    "Language": "Python",
+    "Stars": 125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-04T21:59:13Z",
+    "UpdatedAt": "2026-03-17T13:47:13Z",
+    "Owner": "rsusik",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ding-lab/CharGer",
+    "Name": "CharGer",
+    "Url": "https://github.com/ding-lab/CharGer",
+    "Description": "Characterization of Germline variants",
+    "Topics": [
+      "acmg",
+      "annotations",
+      "bioinformatics",
+      "characterization",
+      "clinical",
+      "clinvar",
+      "diseases",
+      "exac",
+      "germline-variants",
+      "gnomad",
+      "pathogenic-variants",
+      "pathogenicity",
+      "variants",
+      "vep"
+    ],
+    "Language": "Python",
+    "Stars": 101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-19T17:24:05Z",
+    "UpdatedAt": "2026-04-24T20:30:35Z",
+    "Owner": "ding-lab",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/yolov5",
+    "Name": "yolov5",
+    "Url": "https://github.com/ultralytics/yolov5",
+    "Description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "Topics": [
+      "coreml",
+      "deep-learning",
+      "ios",
+      "machine-learning",
+      "ml",
+      "object-detection",
+      "onnx",
+      "pytorch",
+      "tflite",
+      "ultralytics",
+      "yolo",
+      "yolov3",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 57330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-18T03:45:11Z",
+    "UpdatedAt": "2026-05-03T15:06:59Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "python/cpython",
+    "Name": "cpython",
+    "Url": "https://github.com/python/cpython",
+    "Description": "The Python programming language",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 72561,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-10T19:23:51Z",
+    "UpdatedAt": "2026-05-03T17:17:39Z",
+    "Owner": "python",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BelickNicko/AutoCVAT",
+    "Name": "AutoCVAT",
+    "Url": "https://github.com/BelickNicko/AutoCVAT",
+    "Description": "Use this project to automatically annotate your dataset for free in CVAT",
+    "Topics": [
+      "annotations",
+      "coco",
+      "cvat",
+      "cvat-annotations-pipeline",
+      "fastsam",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 128,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-11T08:44:20Z",
+    "UpdatedAt": "2026-05-03T08:54:52Z",
+    "Owner": "BelickNicko",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Nestak2/image-sorter2",
+    "Name": "image-sorter2",
+    "Url": "https://github.com/Nestak2/image-sorter2",
+    "Description": "One-click image sorting/labelling script",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotator",
+      "image-annotation",
+      "image-classification",
+      "image-labeling",
+      "image-sorting",
+      "label-images",
+      "labeling",
+      "labeling-tool",
+      "manual-annotations",
+      "picture-selector",
+      "sorting"
+    ],
+    "Language": "Python",
+    "Stars": 95,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-22T12:50:47Z",
+    "UpdatedAt": "2026-03-16T15:04:46Z",
+    "Owner": "Nestak2",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bnsreenu/digitalsreeni-image-annotator",
+    "Name": "digitalsreeni-image-annotator",
+    "Url": "https://github.com/bnsreenu/digitalsreeni-image-annotator",
+    "Description": "A python based GUI to annotate images and save annotations as COCO style JSON format. ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 239,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-04T16:02:42Z",
+    "UpdatedAt": "2026-03-25T06:12:25Z",
+    "Owner": "bnsreenu",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AlexanderVanhee/Gradia",
+    "Name": "Gradia",
+    "Url": "https://github.com/AlexanderVanhee/Gradia",
+    "Description": "Make your screenshots ready for all",
+    "Topics": [
+      "annotation",
+      "gnome",
+      "gradient",
+      "gtk",
+      "gtk4",
+      "image-manipulation",
+      "libadwaita",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 1009,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-18T14:46:17Z",
+    "UpdatedAt": "2026-05-02T07:31:33Z",
+    "Owner": "AlexanderVanhee",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QingyongHu/SQN",
+    "Name": "SQN",
+    "Url": "https://github.com/QingyongHu/SQN",
+    "Description": "SQN in Tensorflow (ECCV'2022)",
+    "Topics": [
+      "annotations",
+      "computer-vision",
+      "deep-learning",
+      "point-cloud",
+      "weakly-supervised-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 118,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-09T12:43:24Z",
+    "UpdatedAt": "2026-03-29T04:43:27Z",
+    "Owner": "QingyongHu",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "abersheeran/rpc.py",
+    "Name": "rpc.py",
+    "Url": "https://github.com/abersheeran/rpc.py",
+    "Description": "A fast and powerful RPC framework based on ASGI/WSGI.",
+    "Topics": [
+      "annotation",
+      "asgi",
+      "cbor",
+      "httpx",
+      "json",
+      "msgpack",
+      "msgpack-rpc",
+      "openapi-document",
+      "pickle",
+      "rpc",
+      "rpc-framework",
+      "wsgi"
+    ],
+    "Language": "Python",
+    "Stars": 205,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-11T04:22:24Z",
+    "UpdatedAt": "2026-02-21T01:06:13Z",
+    "Owner": "abersheeran",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NanmiCoder/MediaCrawler",
+    "Name": "MediaCrawler",
+    "Url": "https://github.com/NanmiCoder/MediaCrawler",
+    "Description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 48798,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-09T12:14:34Z",
+    "UpdatedAt": "2026-05-03T17:53:10Z",
+    "Owner": "NanmiCoder",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "binary-husky/gpt_academic",
+    "Name": "gpt_academic",
+    "Url": "https://github.com/binary-husky/gpt_academic",
+    "Description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "Topics": [
+      "academic",
+      "chatglm-6b",
+      "chatgpt",
+      "gpt-4",
+      "large-language-models"
+    ],
+    "Language": "Python",
+    "Stars": 70573,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-20T09:05:13Z",
+    "UpdatedAt": "2026-05-03T17:29:38Z",
+    "Owner": "binary-husky",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hltcoe/turkle",
+    "Name": "turkle",
+    "Url": "https://github.com/hltcoe/turkle",
+    "Description": "Django-based clone of Amazon's Mechanical Turk service running in your local environment.",
+    "Topics": [
+      "amazon-mechanical-turk",
+      "annotation",
+      "crowdsourcing",
+      "hlt",
+      "labeling",
+      "mechanical-turk",
+      "mturk",
+      "nlp"
+    ],
+    "Language": "Python",
+    "Stars": 155,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-05T18:54:41Z",
+    "UpdatedAt": "2026-02-24T23:52:05Z",
+    "Owner": "hltcoe",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eggnogdb/eggnog-mapper",
+    "Name": "eggnog-mapper",
+    "Url": "https://github.com/eggnogdb/eggnog-mapper",
+    "Description": "Fast genome-wide functional annotation through orthology assignment",
+    "Topics": [
+      "annotations",
+      "functional-annotation",
+      "genomics",
+      "orthology-assignments"
+    ],
+    "Language": "Python",
+    "Stars": 732,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-17T14:02:53Z",
+    "UpdatedAt": "2026-05-03T06:02:39Z",
+    "Owner": "eggnogdb",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15813,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-03T15:08:55Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ch-sa/labelCloud",
+    "Name": "labelCloud",
+    "Url": "https://github.com/ch-sa/labelCloud",
+    "Description": "A lightweight tool for labeling 3D bounding boxes in point clouds.",
+    "Topics": [
+      "3d-object-detection",
+      "6d-pose-estimation",
+      "annotation",
+      "bounding-boxes",
+      "computer-vision",
+      "labeling",
+      "machine-learning",
+      "point-clouds",
+      "tool"
+    ],
+    "Language": "Python",
+    "Stars": 779,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-23T08:40:33Z",
+    "UpdatedAt": "2026-05-02T10:12:36Z",
+    "Owner": "ch-sa",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tanishqkumar/beyond-nanogpt",
+    "Name": "beyond-nanogpt",
+    "Url": "https://github.com/tanishqkumar/beyond-nanogpt",
+    "Description": "Minimal and annotated implementations of key ideas from modern deep learning research. ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1306,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-16T05:17:44Z",
+    "UpdatedAt": "2026-04-30T20:31:22Z",
+    "Owner": "tanishqkumar",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sigven/gvanno",
+    "Name": "gvanno",
+    "Url": "https://github.com/sigven/gvanno",
+    "Description": "Generic human DNA variant annotation pipeline",
+    "Topics": [
+      "annotation-framework",
+      "annotation-tool",
+      "disease-gene-association",
+      "docker",
+      "gene",
+      "germline",
+      "indels",
+      "singularity",
+      "snv",
+      "snvs",
+      "variant-annotations",
+      "variants",
+      "vcf",
+      "vcfanno",
+      "vep",
+      "workflow"
+    ],
+    "Language": "Python",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-21T12:21:30Z",
+    "UpdatedAt": "2026-02-10T14:08:06Z",
+    "Owner": "sigven",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44432,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-03T18:19:10Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mdhmz1/Auto-Annotate",
+    "Name": "Auto-Annotate",
+    "Url": "https://github.com/mdhmz1/Auto-Annotate",
+    "Description": "Auto-Annotate - Automatically annotate your entire image directory by a single command.  As simple as saying - \"Annotate all the street sign (label) in the autonomous car dataset (directory)\" and BAM! DONE. Each and every image with a street sign in the diverse dataset directory containing images of all sorts which have a street sign are filtered and the segmentation annotation is performed in a single command.  The Auto-Annotate tool provides auto annotation of segmentation masks for the objects in the images inside some directory based on the labels. Auto-Annotate is able to provide automated annotations for the labels defined in the COCO Dataset and also supports Custom Labels. ",
+    "Topics": [
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "machine-learning",
+      "object-detection"
+    ],
+    "Language": "Python",
+    "Stars": 200,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-10T18:35:06Z",
+    "UpdatedAt": "2026-04-16T12:16:35Z",
+    "Owner": "mdhmz1",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dkpro/dkpro-cassis",
+    "Name": "dkpro-cassis",
+    "Url": "https://github.com/dkpro/dkpro-cassis",
+    "Description": "UIMA CAS processing library written in Python",
+    "Topics": [
+      "annotation",
+      "cas",
+      "nlp",
+      "python",
+      "uima"
+    ],
+    "Language": "Python",
+    "Stars": 91,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-23T19:32:46Z",
+    "UpdatedAt": "2026-04-23T05:14:59Z",
+    "Owner": "dkpro",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gristlabs/asttokens",
+    "Name": "asttokens",
+    "Url": "https://github.com/gristlabs/asttokens",
+    "Description": "Annotate Python AST trees with source text and token information",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-05T22:09:10Z",
+    "UpdatedAt": "2026-03-30T05:48:03Z",
+    "Owner": "gristlabs",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30257,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-03T15:50:40Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cnr-isti-vclab/TagLab",
+    "Name": "TagLab",
+    "Url": "https://github.com/cnr-isti-vclab/TagLab",
+    "Description": "A CNN based image segmentation tool oriented to marine data analysis",
+    "Topics": [
+      "annotation-tool",
+      "cnn",
+      "coral-reefs",
+      "corals",
+      "image-segmentation",
+      "labeling-tool",
+      "labels",
+      "marine-data-analysis",
+      "python",
+      "semantic",
+      "semantic-segmentation",
+      "underwater-monitoring"
+    ],
+    "Language": "Python",
+    "Stars": 116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-24T08:20:16Z",
+    "UpdatedAt": "2026-04-26T01:58:43Z",
+    "Owner": "cnr-isti-vclab",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytest-dev/pytest-github-actions-annotate-failures",
+    "Name": "pytest-github-actions-annotate-failures",
+    "Url": "https://github.com/pytest-dev/pytest-github-actions-annotate-failures",
+    "Description": "Pytest plugin to annotate failed tests with a workflow command for GitHub Actions",
+    "Topics": [
+      "github-actions",
+      "pytest",
+      "python",
+      "testing",
+      "workflow"
+    ],
+    "Language": "Python",
+    "Stars": 176,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-08T15:16:53Z",
+    "UpdatedAt": "2026-04-26T11:57:31Z",
+    "Owner": "pytest-dev",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ycm-core/YouCompleteMe",
+    "Name": "YouCompleteMe",
+    "Url": "https://github.com/ycm-core/YouCompleteMe",
+    "Description": "A code-completion engine for Vim",
+    "Topics": [
+      "code-analysis",
+      "code-completion",
+      "semantic-engine",
+      "vim"
+    ],
+    "Language": "Python",
+    "Stars": 25978,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-04-16T03:12:14Z",
+    "UpdatedAt": "2026-05-02T12:05:50Z",
+    "Owner": "ycm-core",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZuzooVn/machine-learning-for-software-engineers",
+    "Name": "machine-learning-for-software-engineers",
+    "Url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "Description": "A complete daily plan for studying to become a machine learning engineer.",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "software-engineer"
+    ],
+    "Language": "",
+    "Stars": 28760,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-09T21:20:25Z",
+    "UpdatedAt": "2026-05-03T17:45:26Z",
+    "Owner": "ZuzooVn",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "opensemanticsearch/open-semantic-etl",
+    "Name": "open-semantic-etl",
+    "Url": "https://github.com/opensemanticsearch/open-semantic-etl",
+    "Description": "Python based Open Source ETL tools for file crawling, document processing (text extraction, OCR), content analysis (Entity Extraction & Named Entity Recognition) & data enrichment (annotation) pipelines & ingestor to Solr or Elastic search index & linked data graph database",
+    "Topics": [
+      "annotation",
+      "documents",
+      "elasticsearch",
+      "enrichment",
+      "etl",
+      "extract",
+      "extract-information",
+      "extract-text",
+      "extractor",
+      "ingest",
+      "ingestion-pipeline",
+      "ingests-documents",
+      "named-entity-recognition",
+      "nlp",
+      "ocr",
+      "pdf",
+      "python",
+      "rdf",
+      "solr",
+      "solr-dataimporter"
+    ],
+    "Language": "Python",
+    "Stars": 277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-30T17:49:10Z",
+    "UpdatedAt": "2026-04-08T16:39:55Z",
+    "Owner": "opensemanticsearch",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mbzuai-metaverse/XMem2",
+    "Name": "XMem2",
+    "Url": "https://github.com/mbzuai-metaverse/XMem2",
+    "Description": "A tool for efficient semi-supervised video object segmentation (great results with minimal manual labor) and a dataset for benchmarking",
+    "Topics": [
+      "annotation-tool",
+      "computer-vision",
+      "dataset",
+      "deep-learning",
+      "interactive-segmentation",
+      "segmentation",
+      "video-object-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-16T08:46:44Z",
+    "UpdatedAt": "2026-05-02T21:08:22Z",
+    "Owner": "mbzuai-metaverse",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ilaria-manco/song-describer",
+    "Name": "song-describer",
+    "Url": "https://github.com/ilaria-manco/song-describer",
+    "Description": "Song Describer is a data collection platform for annotating music with textual descriptions.",
+    "Topics": [
+      "annotations",
+      "audio-captioning",
+      "data-collection",
+      "music-dataset"
+    ],
+    "Language": "Python",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-21T14:30:00Z",
+    "UpdatedAt": "2025-09-21T23:51:18Z",
+    "Owner": "ilaria-manco",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42248,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-03T18:01:59Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "celery/celery",
+    "Name": "celery",
+    "Url": "https://github.com/celery/celery",
+    "Description": "Distributed Task Queue (development branch)",
+    "Topics": [
+      "amqp",
+      "python",
+      "python-library",
+      "python3",
+      "queue-tasks",
+      "queue-workers",
+      "queued-jobs",
+      "redis",
+      "redis-queue",
+      "sqs",
+      "sqs-queue",
+      "task-manager",
+      "task-runner",
+      "task-scheduler"
+    ],
+    "Language": "Python",
+    "Stars": 28426,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-04-24T11:31:24Z",
+    "UpdatedAt": "2026-05-03T14:02:08Z",
+    "Owner": "celery",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-03T17:38:10Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "label-sleuth/label-sleuth",
+    "Name": "label-sleuth",
+    "Url": "https://github.com/label-sleuth/label-sleuth",
+    "Description": "Open source no-code system for text annotation and building of text classifiers",
+    "Topics": [
+      "active-learning",
+      "annotation-tool",
+      "labeling-tool",
+      "nlp",
+      "no-code",
+      "python",
+      "pytorch",
+      "react",
+      "text-annotation",
+      "text-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 272,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-07T13:16:06Z",
+    "UpdatedAt": "2026-03-24T03:34:20Z",
+    "Owner": "label-sleuth",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZJUFanLab/scDeepSort",
+    "Name": "scDeepSort",
+    "Url": "https://github.com/ZJUFanLab/scDeepSort",
+    "Description": "Cell-type Annotation for Single-cell Transcriptomics using Deep Learning with a Weighted Graph Neural Network",
+    "Topics": [
+      "annotation",
+      "cell-type-classification",
+      "deep-learning",
+      "gnn",
+      "graph-neural-network",
+      "reference-free",
+      "scrna-seq",
+      "single-cell",
+      "transcriptomics"
+    ],
+    "Language": "Python",
+    "Stars": 108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-18T11:05:21Z",
+    "UpdatedAt": "2026-04-13T12:21:55Z",
+    "Owner": "ZJUFanLab",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DataTurks-Engg/Automatic_tagging_of_clothing_in_E-Commerce",
+    "Name": "Automatic_tagging_of_clothing_in_E-Commerce",
+    "Url": "https://github.com/DataTurks-Engg/Automatic_tagging_of_clothing_in_E-Commerce",
+    "Description": "Automatic tagging of clothing in E-Commerce, Using Tensorflow and GCP. Classify the clothing products into various categories using Machine Learning.",
+    "Topics": [
+      "annotations",
+      "deep-learning",
+      "ecommerce",
+      "image-annotation",
+      "image-classification",
+      "image-segmentation",
+      "labeling",
+      "labeling-tool",
+      "mobilenet",
+      "object-detection",
+      "python",
+      "tenserflow",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-24T13:25:51Z",
+    "UpdatedAt": "2025-09-09T18:53:53Z",
+    "Owner": "DataTurks-Engg",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marcelauliano/MitoHiFi",
+    "Name": "MitoHiFi",
+    "Url": "https://github.com/marcelauliano/MitoHiFi",
+    "Description": "Find, circularise and annotate mitogenome from PacBio assemblies",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-18T14:19:33Z",
+    "UpdatedAt": "2026-04-21T01:32:25Z",
+    "Owner": "marcelauliano",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "amir-zeldes/gum",
+    "Name": "gum",
+    "Url": "https://github.com/amir-zeldes/gum",
+    "Description": "Repository for the Georgetown University Multilayer Corpus (GUM)",
+    "Topics": [
+      "annis",
+      "annotations",
+      "coreference",
+      "corpus",
+      "pos-tagging",
+      "rhetorical-structure-theory",
+      "treebank",
+      "universal-dependencies"
+    ],
+    "Language": "Python",
+    "Stars": 107,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-14T21:58:24Z",
+    "UpdatedAt": "2026-05-02T20:55:45Z",
+    "Owner": "amir-zeldes",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chubin/cheat.sh",
+    "Name": "cheat.sh",
+    "Url": "https://github.com/chubin/cheat.sh",
+    "Description": "the only cheat sheet you need",
+    "Topics": [
+      "cheatsheet",
+      "cli",
+      "command-line",
+      "curl",
+      "documentation",
+      "examples",
+      "hacktoberfest2021",
+      "help",
+      "terminal",
+      "tldr"
+    ],
+    "Language": "Python",
+    "Stars": 41319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-07T21:40:56Z",
+    "UpdatedAt": "2026-05-03T15:10:42Z",
+    "Owner": "chubin",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "waittim/draw-YOLO-box",
+    "Name": "draw-YOLO-box",
+    "Url": "https://github.com/waittim/draw-YOLO-box",
+    "Description": "Draw bounding boxes on raw images based on YOLO format annotation. Help to check the correctness of annotation and extract the images with wrong boxes.",
+    "Topics": [
+      "annotation",
+      "object-detection",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 99,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-13T07:45:51Z",
+    "UpdatedAt": "2025-12-30T17:43:33Z",
+    "Owner": "waittim",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ilevkivskyi/com2ann",
+    "Name": "com2ann",
+    "Url": "https://github.com/ilevkivskyi/com2ann",
+    "Description": "Tool for translation type comments to type annotations in Python",
+    "Topics": [
+      "annotations",
+      "python-3-6",
+      "source-to-source",
+      "type-annotations",
+      "type-hints"
+    ],
+    "Language": "Python",
+    "Stars": 157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-09T07:17:02Z",
+    "UpdatedAt": "2026-03-15T09:20:34Z",
+    "Owner": "ilevkivskyi",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "IDEA-Research/Click-Pose",
+    "Name": "Click-Pose",
+    "Url": "https://github.com/IDEA-Research/Click-Pose",
+    "Description": "[ICCV 2023] Official implementation of the paper \"Neural Interactive Keypoint Detection\"",
+    "Topics": [
+      "annotation-tool",
+      "human-in-the-loop",
+      "iccv2023",
+      "pose-estimation"
+    ],
+    "Language": "Python",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-21T12:40:18Z",
+    "UpdatedAt": "2026-04-11T11:28:35Z",
+    "Owner": "IDEA-Research",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bmcfee/muda",
+    "Name": "muda",
+    "Url": "https://github.com/bmcfee/muda",
+    "Description": "A library for augmenting annotated audio data",
+    "Topics": [
+      "data-augmentation",
+      "machine-learning",
+      "music",
+      "nyucds",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-07T21:21:22Z",
+    "UpdatedAt": "2026-02-18T19:13:03Z",
+    "Owner": "bmcfee",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cleanlab/cleanlab",
+    "Name": "cleanlab",
+    "Url": "https://github.com/cleanlab/cleanlab",
+    "Description": "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "Topics": [
+      "active-learning",
+      "annotation",
+      "anomaly-detection",
+      "data-annotation",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-curation",
+      "data-labeling",
+      "data-profiling",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "datasets",
+      "exploratory-data-analysis",
+      "labeling",
+      "machine-learning",
+      "noisy-labels",
+      "out-of-distribution-detection",
+      "outlier-detection",
+      "weak-supervision"
+    ],
+    "Language": "Python",
+    "Stars": 11449,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-11T01:55:21Z",
+    "UpdatedAt": "2026-05-02T08:06:12Z",
+    "Owner": "cleanlab",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ming71/mmdetection-annotated",
+    "Name": "mmdetection-annotated",
+    "Url": "https://github.com/ming71/mmdetection-annotated",
+    "Description": "mmdetection源码注释",
+    "Topics": [
+      "instance-segmentation",
+      "mmdetection",
+      "object-detection",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 655,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-16T07:30:25Z",
+    "UpdatedAt": "2026-03-12T08:45:52Z",
+    "Owner": "ming71",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VirtusLab/pandas-stubs",
+    "Name": "pandas-stubs",
+    "Url": "https://github.com/VirtusLab/pandas-stubs",
+    "Description": "Pandas type stubs. Helps you type-check your code.",
+    "Topics": [
+      "annotations",
+      "mypy",
+      "pandas",
+      "python3",
+      "stub-files",
+      "type-annotations"
+    ],
+    "Language": "Python",
+    "Stars": 123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-25T09:00:10Z",
+    "UpdatedAt": "2026-04-28T09:22:35Z",
+    "Owner": "VirtusLab",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-03T18:00:56Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "etetoolkit/ete",
+    "Name": "ete",
+    "Url": "https://github.com/etetoolkit/ete",
+    "Description": "Python package for building, comparing, annotating, manipulating and visualising trees. It provides a comprehensive API and a collection of command line tools, including utilities to work with the NCBI taxonomy tree. ",
+    "Topics": [
+      "phylogenetics",
+      "phylogenomic",
+      "python",
+      "tree-structure",
+      "treeview",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 876,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-11-13T16:04:25Z",
+    "UpdatedAt": "2026-05-02T07:43:38Z",
+    "Owner": "etetoolkit",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mks0601/NeuralAnnot_RELEASE",
+    "Name": "NeuralAnnot_RELEASE",
+    "Url": "https://github.com/mks0601/NeuralAnnot_RELEASE",
+    "Description": "3D Pseudo-GTs of \"NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets\", CVPRW 2022 Oral.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 194,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-26T12:06:41Z",
+    "UpdatedAt": "2026-03-28T12:55:33Z",
+    "Owner": "mks0601",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ykotseruba/JAAD",
+    "Name": "JAAD",
+    "Url": "https://github.com/ykotseruba/JAAD",
+    "Description": "Annotation data for JAAD (Joint Attention in Autonomous Driving) Dataset",
+    "Topics": [
+      "action-prediction",
+      "action-recognition",
+      "annotations",
+      "autonomous-driving",
+      "bounding-boxes",
+      "dataset",
+      "jaad",
+      "occlusion",
+      "pedestrian-detection",
+      "python-interface"
+    ],
+    "Language": "Python",
+    "Stars": 195,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-05T16:15:11Z",
+    "UpdatedAt": "2026-04-20T10:58:33Z",
+    "Owner": "ykotseruba",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "C0D3D3V/bbb-dl",
+    "Name": "bbb-dl",
+    "Url": "https://github.com/C0D3D3V/bbb-dl",
+    "Description": "Downlaod BigBlueButton recordings. A simple scrapper for Big Blue Button lessons. Download and merge the audio and video files of a BigBlueButton conference from the conference replay url. ",
+    "Topics": [
+      "annotations",
+      "audio",
+      "bbb",
+      "big-blue-button",
+      "downloader",
+      "fast",
+      "presentation",
+      "recorder",
+      "simple",
+      "video"
+    ],
+    "Language": "Python",
+    "Stars": 82,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-12T15:10:31Z",
+    "UpdatedAt": "2026-04-30T15:57:30Z",
+    "Owner": "C0D3D3V",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CorentinJ/Real-Time-Voice-Cloning",
+    "Name": "Real-Time-Voice-Cloning",
+    "Url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "Description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "deep-learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tts",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 59711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T08:56:15Z",
+    "UpdatedAt": "2026-05-03T18:01:13Z",
+    "Owner": "CorentinJ",
+    "SourceQueries": [
+      "c language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "seralexger/clothing-detection-ecommerce-dataset",
+    "Name": "clothing-detection-ecommerce-dataset",
+    "Url": "https://github.com/seralexger/clothing-detection-ecommerce-dataset",
+    "Description": "Clothing detection dataset",
+    "Topics": [
+      "annotations",
+      "bounding-boxes",
+      "clothes-detection",
+      "clothes-detector",
+      "clothes-segmentation",
+      "clothing-detection-dataset",
+      "dataset",
+      "datasets",
+      "fashion-classifier",
+      "fashion-mnist",
+      "object-detection"
+    ],
+    "Language": "Python",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-22T11:35:51Z",
+    "UpdatedAt": "2025-12-15T19:46:31Z",
+    "Owner": "seralexger",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "abelcheung/types-lxml",
+    "Name": "types-lxml",
+    "Url": "https://github.com/abelcheung/types-lxml",
+    "Description": "Complete lxml external type annotation",
+    "Topics": [
+      "annotation",
+      "lxml",
+      "python",
+      "stubs",
+      "typing"
+    ],
+    "Language": "Python",
+    "Stars": 82,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-25T17:32:45Z",
+    "UpdatedAt": "2026-04-09T07:31:56Z",
+    "Owner": "abelcheung",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "youtype/mypy_boto3_builder",
+    "Name": "mypy_boto3_builder",
+    "Url": "https://github.com/youtype/mypy_boto3_builder",
+    "Description": "Type annotations builder for boto3 compatible with VSCode, PyCharm, Emacs, Sublime Text, pyright and mypy.",
+    "Topics": [
+      "annotations",
+      "annotations-builder",
+      "auto-generated",
+      "autocomplete",
+      "boto3",
+      "boto3-stubs",
+      "docker",
+      "emacs",
+      "mypy",
+      "mypy-stubs",
+      "pycharm",
+      "pyright",
+      "python3",
+      "sublime-text",
+      "type-annotations",
+      "typeshed",
+      "vscode"
+    ],
+    "Language": "Python",
+    "Stars": 668,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T14:55:05Z",
+    "UpdatedAt": "2026-04-28T15:45:43Z",
+    "Owner": "youtype",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GokuMohandas/Made-With-ML",
+    "Name": "Made-With-ML",
+    "Url": "https://github.com/GokuMohandas/Made-With-ML",
+    "Description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+    "Topics": [
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "distributed-ml",
+      "distributed-training",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "ray"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-05T03:44:27Z",
+    "UpdatedAt": "2026-05-03T17:55:41Z",
+    "Owner": "GokuMohandas",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "marl/jams",
+    "Name": "jams",
+    "Url": "https://github.com/marl/jams",
+    "Description": "A JSON Annotated Music Specification for Reproducible MIR Research",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-29T09:07:42Z",
+    "UpdatedAt": "2026-04-09T10:31:03Z",
+    "Owner": "marl",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "biothings/myvariant.info",
+    "Name": "myvariant.info",
+    "Url": "https://github.com/biothings/myvariant.info",
+    "Description": "MyVariant.info: A BioThings API for human variant annotations",
+    "Topics": [
+      "annotations",
+      "api",
+      "bioinformatics",
+      "biothings",
+      "ncats-translator",
+      "variant-annotations",
+      "variants",
+      "webservice"
+    ],
+    "Language": "Python",
+    "Stars": 98,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-26T20:30:49Z",
+    "UpdatedAt": "2026-01-28T17:26:42Z",
+    "Owner": "biothings",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hbuschme/TextGridTools",
+    "Name": "TextGridTools",
+    "Url": "https://github.com/hbuschme/TextGridTools",
+    "Description": "Read, write, and manipulate Praat TextGrid files with Python",
+    "Topics": [
+      "annotation",
+      "data-analysis",
+      "elan",
+      "linguistics",
+      "praat",
+      "python",
+      "textgrid"
+    ],
+    "Language": "Python",
+    "Stars": 132,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-03-26T16:12:34Z",
+    "UpdatedAt": "2026-04-12T14:52:10Z",
+    "Owner": "hbuschme",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jacobphillips99/ares",
+    "Name": "ares",
+    "Url": "https://github.com/jacobphillips99/ares",
+    "Description": "ARES - Automatic Robot Evaluation System. A simple, scalable solution for robotics research",
+    "Topics": [
+      "annotation-tool",
+      "data",
+      "machine-learning",
+      "multimodal",
+      "robot",
+      "robotics"
+    ],
+    "Language": "Python",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-24T22:06:17Z",
+    "UpdatedAt": "2026-04-04T15:48:00Z",
+    "Owner": "jacobphillips99",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/cascadia-code",
+    "Name": "cascadia-code",
+    "Url": "https://github.com/microsoft/cascadia-code",
+    "Description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 27662,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-10T22:50:20Z",
+    "UpdatedAt": "2026-05-03T13:40:45Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-team/keras",
+    "Name": "keras",
+    "Url": "https://github.com/keras-team/keras",
+    "Description": "Deep Learning for humans",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 64056,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T00:35:42Z",
+    "UpdatedAt": "2026-05-03T11:02:48Z",
+    "Owner": "keras-team",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dbamman/litbank",
+    "Name": "litbank",
+    "Url": "https://github.com/dbamman/litbank",
+    "Description": "Annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-01T18:31:18Z",
+    "UpdatedAt": "2026-04-23T04:48:11Z",
+    "Owner": "dbamman",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kovidgoyal/kitty",
+    "Name": "kitty",
+    "Url": "https://github.com/kovidgoyal/kitty",
+    "Description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
+    "Topics": [
+      "c",
+      "go",
+      "golang",
+      "golang-application",
+      "kitty",
+      "kitty-terminal",
+      "opengl",
+      "python",
+      "terminal",
+      "terminal-emulators",
+      "terminfo",
+      "vt100"
+    ],
+    "Language": "Python",
+    "Stars": 32729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-16T14:48:28Z",
+    "UpdatedAt": "2026-05-03T18:10:19Z",
+    "Owner": "kovidgoyal",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zai-org/ChatGLM-6B",
+    "Name": "ChatGLM-6B",
+    "Url": "https://github.com/zai-org/ChatGLM-6B",
+    "Description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 41129,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-13T12:00:18Z",
+    "UpdatedAt": "2026-05-03T12:43:01Z",
+    "Owner": "zai-org",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "certbot/certbot",
+    "Name": "certbot",
+    "Url": "https://github.com/certbot/certbot",
+    "Description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
+    "Topics": [
+      "acme",
+      "acme-client",
+      "certbot",
+      "certificate",
+      "letsencrypt",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 33019,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-12T02:52:20Z",
+    "UpdatedAt": "2026-05-02T14:31:59Z",
+    "Owner": "certbot",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "UCSC-REAL/cifar-10-100n",
+    "Name": "cifar-10-100n",
+    "Url": "https://github.com/UCSC-REAL/cifar-10-100n",
+    "Description": "Human annotated noisy labels for CIFAR-10 and CIFAR-100. The website of CIFAR-N is available at http://www.noisylabels.com/.",
+    "Topics": [
+      "label-noise"
+    ],
+    "Language": "Python",
+    "Stars": 174,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-12T21:20:03Z",
+    "UpdatedAt": "2026-04-25T09:33:40Z",
+    "Owner": "UCSC-REAL",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tvst/st-annotated-text",
+    "Name": "st-annotated-text",
+    "Url": "https://github.com/tvst/st-annotated-text",
+    "Description": "A simple component to display annotated text in Streamlit apps.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 570,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-02T21:15:25Z",
+    "UpdatedAt": "2026-04-24T11:19:26Z",
+    "Owner": "tvst",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T17:28:02Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hypothesis/h",
+    "Name": "h",
+    "Url": "https://github.com/hypothesis/h",
+    "Description": "Annotate with anyone, anywhere.",
+    "Topics": [
+      "annotation",
+      "hypothesis",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 3135,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-04-02T19:56:59Z",
+    "UpdatedAt": "2026-05-02T22:51:51Z",
+    "Owner": "hypothesis",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "niekverw/Deep-Learning-Based-ECG-Annotator",
+    "Name": "Deep-Learning-Based-ECG-Annotator",
+    "Url": "https://github.com/niekverw/Deep-Learning-Based-ECG-Annotator",
+    "Description": "Annotation of ECG signals using deep learning, tensorflow’ Keras",
+    "Topics": [
+      "annotations",
+      "deep-learning",
+      "ecg",
+      "ecg-data",
+      "electrocardiogram",
+      "example",
+      "keras-tutorials",
+      "lstm",
+      "peak",
+      "peaks",
+      "qrs-detection",
+      "segmentation",
+      "tensorflow",
+      "time-series",
+      "tutorial",
+      "wfdb"
+    ],
+    "Language": "Python",
+    "Stars": 145,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-29T18:32:53Z",
+    "UpdatedAt": "2026-01-10T14:39:41Z",
+    "Owner": "niekverw",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/ChatDev",
+    "Name": "ChatDev",
+    "Url": "https://github.com/OpenBMB/ChatDev",
+    "Description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 32965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-28T02:18:13Z",
+    "UpdatedAt": "2026-05-03T17:30:22Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thepanacealab/SMMT",
+    "Name": "SMMT",
+    "Url": "https://github.com/thepanacealab/SMMT",
+    "Description": "Social Media Mining Toolkit (SMMT) main repository",
+    "Topics": [
+      "annotation",
+      "data-acquisition",
+      "data-annotation",
+      "data-preprocessing",
+      "gathering",
+      "spacy",
+      "tweets",
+      "twitter-api"
+    ],
+    "Language": "Python",
+    "Stars": 137,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-05T00:24:00Z",
+    "UpdatedAt": "2026-02-10T12:26:47Z",
+    "Owner": "thepanacealab",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zmievsa/pytest-fixture-classes",
+    "Name": "pytest-fixture-classes",
+    "Url": "https://github.com/zmievsa/pytest-fixture-classes",
+    "Description": "Fixtures as classes that work well with dependency injection, autocompletetion, type checkers, and language servers",
+    "Topics": [
+      "annotations",
+      "fixtures",
+      "pytest",
+      "pytest-plugin",
+      "python",
+      "testing",
+      "type-hints",
+      "unit-testing"
+    ],
+    "Language": "Python",
+    "Stars": 51,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-14T15:37:42Z",
+    "UpdatedAt": "2026-02-16T18:34:40Z",
+    "Owner": "zmievsa",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "resemble-ai/chatterbox",
+    "Name": "chatterbox",
+    "Url": "https://github.com/resemble-ai/chatterbox",
+    "Description": "SoTA open-source TTS",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 24556,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-23T08:16:38Z",
+    "UpdatedAt": "2026-05-03T17:01:23Z",
+    "Owner": "resemble-ai",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dib-lab/dammit",
+    "Name": "dammit",
+    "Url": "https://github.com/dib-lab/dammit",
+    "Description": "just annotate it, dammit!",
+    "Topics": [
+      "annotation",
+      "bioinformatics",
+      "transcriptomics"
+    ],
+    "Language": "Python",
+    "Stars": 94,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-18T09:22:12Z",
+    "UpdatedAt": "2026-04-24T08:26:07Z",
+    "Owner": "dib-lab",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentARC/GFPGAN",
+    "Name": "GFPGAN",
+    "Url": "https://github.com/TencentARC/GFPGAN",
+    "Description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "Topics": [
+      "deep-learning",
+      "face-restoration",
+      "gan",
+      "gfpgan",
+      "image-restoration",
+      "pytorch",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 37445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-19T06:18:20Z",
+    "UpdatedAt": "2026-05-03T15:03:06Z",
+    "Owner": "TencentARC",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Comfy-Org/ComfyUI",
+    "Name": "ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "Topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 111195,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-17T03:15:56Z",
+    "UpdatedAt": "2026-05-03T18:16:17Z",
+    "Owner": "Comfy-Org",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "irahorecka/youtube2audio",
+    "Name": "youtube2audio",
+    "Url": "https://github.com/irahorecka/youtube2audio",
+    "Description": "Convert YouTube videos to annotated MP3 and MP4 files",
+    "Topics": [
+      "annotated-mp3-files",
+      "convert-youtube-videos",
+      "desktop-application",
+      "ffmpeg",
+      "mp3",
+      "mp4",
+      "pyqt5",
+      "video",
+      "youtube"
+    ],
+    "Language": "Python",
+    "Stars": 167,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-27T15:59:28Z",
+    "UpdatedAt": "2026-04-16T19:30:31Z",
+    "Owner": "irahorecka",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "0ssamaak0/DLTA-AI",
+    "Name": "DLTA-AI",
+    "Url": "https://github.com/0ssamaak0/DLTA-AI",
+    "Description": "Data Labeling, Tracking and Annotation with AI",
+    "Topics": [
+      "annotation",
+      "computer-vision",
+      "datasets-preparation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 360,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-06T23:44:03Z",
+    "UpdatedAt": "2026-04-04T00:55:04Z",
+    "Owner": "0ssamaak0",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "teamunitlab/yolo8-segmentation-deploy",
+    "Name": "yolo8-segmentation-deploy",
+    "Url": "https://github.com/teamunitlab/yolo8-segmentation-deploy",
+    "Description": "Production-ready YOLO8 Segmentation deployment with TensorRT and ONNX support for CPU/GPU, including AI model integration guidance for Unitlab Annotate.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "computer-vision",
+      "computer-vision-annotation-tool",
+      "deployment",
+      "image-segmentation",
+      "labeling",
+      "labeling-tool",
+      "onnx",
+      "production",
+      "pytorch",
+      "semantic-segmentation",
+      "tensorrt",
+      "tensorrt-inference",
+      "yolo8"
+    ],
+    "Language": "Python",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-05T04:37:23Z",
+    "UpdatedAt": "2026-03-30T09:46:17Z",
+    "Owner": "teamunitlab",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T15:49:40Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eugeneyan/applied-ml",
+    "Name": "applied-ml",
+    "Url": "https://github.com/eugeneyan/applied-ml",
+    "Description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "Topics": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "production",
+      "recsys",
+      "reinforcement-learning",
+      "search"
+    ],
+    "Language": "",
+    "Stars": 28793,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-04T18:57:47Z",
+    "UpdatedAt": "2026-05-03T08:03:53Z",
+    "Owner": "eugeneyan",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ungoogled-software/ungoogled-chromium",
+    "Name": "ungoogled-chromium",
+    "Url": "https://github.com/ungoogled-software/ungoogled-chromium",
+    "Description": "Google Chromium, sans integration with Google",
+    "Topics": [
+      "chromium",
+      "control",
+      "google-chromium",
+      "inox",
+      "iridium",
+      "privacy",
+      "transparency"
+    ],
+    "Language": "Python",
+    "Stars": 26445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-12T22:24:24Z",
+    "UpdatedAt": "2026-05-03T17:39:18Z",
+    "Owner": "ungoogled-software",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "c language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "getsentry/auto-type-annotate",
+    "Name": "auto-type-annotate",
+    "Url": "https://github.com/getsentry/auto-type-annotate",
+    "Description": "automatically add annotations to untyped python code!",
+    "Topics": [
+      "tag-non-production"
+    ],
+    "Language": "Python",
+    "Stars": 197,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-18T15:11:46Z",
+    "UpdatedAt": "2026-04-15T14:06:59Z",
+    "Owner": "getsentry",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "trevismd/statannotations",
+    "Name": "statannotations",
+    "Url": "https://github.com/trevismd/statannotations",
+    "Description": "add statistical significance annotations on seaborn plots. Further development of statannot, with bugfixes, new features, and a different API.",
+    "Topics": [
+      "annotations",
+      "plotting",
+      "seaborn",
+      "statistics"
+    ],
+    "Language": "Python",
+    "Stars": 839,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-16T11:44:53Z",
+    "UpdatedAt": "2026-04-29T06:55:04Z",
+    "Owner": "trevismd",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neuml/annotateai",
+    "Name": "annotateai",
+    "Url": "https://github.com/neuml/annotateai",
+    "Description": "📝 Automatically annotate papers using LLMs ",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "medical",
+      "nlp",
+      "python",
+      "scientific-papers",
+      "search",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-12T15:51:02Z",
+    "UpdatedAt": "2026-04-30T17:43:21Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SaidBySolo/neispy",
+    "Name": "neispy",
+    "Url": "https://github.com/SaidBySolo/neispy",
+    "Description": "전국 초·중·고등학교의 학교 정보, 급식, 시간표를 손쉽게 가져올 수 있는 파이썬 패키지로, 동기 및 비동기 요청을 모두 지원합니다.",
+    "Topics": [
+      "aiohttp",
+      "annotations",
+      "asyncio",
+      "hacktoberfest",
+      "korean",
+      "neis",
+      "neis-api",
+      "python",
+      "python-package",
+      "python3",
+      "typed"
+    ],
+    "Language": "Python",
+    "Stars": 64,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-25T15:35:52Z",
+    "UpdatedAt": "2026-04-08T11:28:24Z",
+    "Owner": "SaidBySolo",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CVHub520/X-AnyLabeling-Server",
+    "Name": "X-AnyLabeling-Server",
+    "Url": "https://github.com/CVHub520/X-AnyLabeling-Server",
+    "Description": "A Simple, Lightweight, and Extensible Serving Framework for X-AnyLabeling",
+    "Topics": [
+      "annotation-tool",
+      "clip",
+      "computer-vision",
+      "deep-learning",
+      "grounding-dino",
+      "image-classification",
+      "image-labeling-tool",
+      "instance-segmentation",
+      "labeling-tool",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "transformers",
+      "vision-language-model",
+      "x-anylabeling",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 215,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-04T09:00:29Z",
+    "UpdatedAt": "2026-05-03T15:16:03Z",
+    "Owner": "CVHub520",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chrisjbryant/errant",
+    "Name": "errant",
+    "Url": "https://github.com/chrisjbryant/errant",
+    "Description": "ERRor ANnotation Toolkit: Automatically extract and classify grammatical errors in parallel original and corrected sentences.",
+    "Topics": [
+      "annotation",
+      "automatic",
+      "classifier",
+      "evaluation",
+      "grammatical-framework"
+    ],
+    "Language": "Python",
+    "Stars": 462,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-11T01:00:22Z",
+    "UpdatedAt": "2026-03-27T18:56:43Z",
+    "Owner": "chrisjbryant",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ln-12/blainder-range-scanner",
+    "Name": "blainder-range-scanner",
+    "Url": "https://github.com/ln-12/blainder-range-scanner",
+    "Description": "BlAInder range scanner is a Blender add-on to simulate Lidar and Sonar measurements. The result can be saved as annotated 2D image or 3D point cloud.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-07T11:12:35Z",
+    "UpdatedAt": "2026-04-20T06:08:17Z",
+    "Owner": "ln-12",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vemel/handsdown",
+    "Name": "handsdown",
+    "Url": "https://github.com/vemel/handsdown",
+    "Description": "Python documentation generator for lazy perfectionists",
+    "Topics": [
+      "annotations",
+      "docstring-documentation",
+      "documentation-generator",
+      "pep484",
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 89,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-12T01:30:50Z",
+    "UpdatedAt": "2026-03-11T10:30:24Z",
+    "Owner": "vemel",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lab-v2/pyreason",
+    "Name": "pyreason",
+    "Url": "https://github.com/lab-v2/pyreason",
+    "Description": "An explainable inference software supporting annotated, real valued, graph based and temporal logic ",
+    "Topics": [
+      "logic",
+      "logic-programming",
+      "machine-learning",
+      "neurosymbolic",
+      "python",
+      "temporal-logic"
+    ],
+    "Language": "Python",
+    "Stars": 334,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-22T03:45:47Z",
+    "UpdatedAt": "2026-05-02T13:21:35Z",
+    "Owner": "lab-v2",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lightly-ai/lightly-studio",
+    "Name": "lightly-studio",
+    "Url": "https://github.com/lightly-ai/lightly-studio",
+    "Description": "Curate, Annotate, and Manage Your Data in LightlyStudio.",
+    "Topics": [
+      "computer-vision",
+      "image-labeling",
+      "mlops"
+    ],
+    "Language": "Python",
+    "Stars": 699,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-21T07:12:36Z",
+    "UpdatedAt": "2026-04-30T17:29:43Z",
+    "Owner": "lightly-ai",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Audio-WestlakeU/RealMAN",
+    "Name": "RealMAN",
+    "Url": "https://github.com/Audio-WestlakeU/RealMAN",
+    "Description": "A description of \"RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization\" [NeurIPS 2024]",
+    "Topics": [
+      "audio-datasets",
+      "doa-estimation",
+      "microphone-array-processing",
+      "microphone-audio-capture",
+      "multi-channel",
+      "real-world-datasets",
+      "sound-source-localization",
+      "speech-enhancement"
+    ],
+    "Language": "Python",
+    "Stars": 162,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-10T08:48:26Z",
+    "UpdatedAt": "2026-04-28T12:23:29Z",
+    "Owner": "Audio-WestlakeU",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OBOFoundry/OBOFoundry.github.io",
+    "Name": "OBOFoundry.github.io",
+    "Url": "https://github.com/OBOFoundry/OBOFoundry.github.io",
+    "Description": "Metadata and website for the Open Bio Ontologies Foundry Ontology Registry",
+    "Topics": [
+      "annotation",
+      "biocuration",
+      "bioinformatics",
+      "life-sciences",
+      "metadata",
+      "obo",
+      "obofoundry",
+      "ontology",
+      "ontology-registry",
+      "open-science",
+      "open-source",
+      "semantic-web"
+    ],
+    "Language": "Python",
+    "Stars": 214,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-29T02:24:48Z",
+    "UpdatedAt": "2026-05-01T16:14:57Z",
+    "Owner": "OBOFoundry",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Taeyoung96/Yolo-to-COCO-format-converter",
+    "Name": "Yolo-to-COCO-format-converter",
+    "Url": "https://github.com/Taeyoung96/Yolo-to-COCO-format-converter",
+    "Description": "Yolo to COCO annotation format converter",
+    "Topics": [
+      "annotations",
+      "coco",
+      "coco-format-converter",
+      "openlabeling",
+      "yolo",
+      "yolo-mark"
+    ],
+    "Language": "Python",
+    "Stars": 309,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-26T03:19:42Z",
+    "UpdatedAt": "2026-05-01T16:23:38Z",
+    "Owner": "Taeyoung96",
+    "SourceQueries": [
+      "topic:annotations language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MrGiovanni/AbdomenAtlas",
+    "Name": "AbdomenAtlas",
+    "Url": "https://github.com/MrGiovanni/AbdomenAtlas",
+    "Description": "[NeurIPS 2023] AbdomenAtlas 1.0 (5,195 CT volumes + 9 annotated classes)",
+    "Topics": [
+      "dataset",
+      "multi-organ-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 302,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-04T22:09:16Z",
+    "UpdatedAt": "2026-04-30T18:38:26Z",
+    "Owner": "MrGiovanni",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-03T18:08:03Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37949,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-03T16:23:31Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openannotation/annotator-store",
+    "Name": "annotator-store",
+    "Url": "https://github.com/openannotation/annotator-store",
+    "Description": "A backend store for the Annotator",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 179,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-22T11:30:09Z",
+    "UpdatedAt": "2026-03-03T22:53:10Z",
+    "Owner": "openannotation",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "crewAIInc/crewAI",
+    "Name": "crewAI",
+    "Url": "https://github.com/crewAIInc/crewAI",
+    "Description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "llms"
+    ],
+    "Language": "Python",
+    "Stars": 50532,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-27T03:26:59Z",
+    "UpdatedAt": "2026-05-03T18:01:20Z",
+    "Owner": "crewAIInc",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/qlib",
+    "Name": "qlib",
+    "Url": "https://github.com/microsoft/qlib",
+    "Description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "Topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "Language": "Python",
+    "Stars": 41915,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-14T06:46:00Z",
+    "UpdatedAt": "2026-05-03T18:01:55Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tensorflow/tensorflow",
+    "Name": "tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "Language": "C++",
+    "Stars": 194978,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T01:19:20Z",
+    "UpdatedAt": "2026-05-03T17:48:08Z",
+    "Owner": "tensorflow",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ccxt/ccxt",
+    "Name": "ccxt",
+    "Url": "https://github.com/ccxt/ccxt",
+    "Description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+    "Topics": [
+      "altcoin",
+      "api",
+      "arbitrage",
+      "bitcoin",
+      "bot",
+      "btc",
+      "crypto",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "eth",
+      "ethereum",
+      "exchange",
+      "invest",
+      "library",
+      "market-data",
+      "memecoin",
+      "merchant",
+      "strategy",
+      "trade",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 42186,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-14T15:41:56Z",
+    "UpdatedAt": "2026-05-03T18:19:06Z",
+    "Owner": "ccxt",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gradio-app/gradio",
+    "Name": "gradio",
+    "Url": "https://github.com/gradio-app/gradio",
+    "Description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "deploy",
+      "gradio",
+      "gradio-interface",
+      "interface",
+      "machine-learning",
+      "models",
+      "python",
+      "python-notebook",
+      "ui",
+      "ui-components"
+    ],
+    "Language": "Python",
+    "Stars": 42495,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T08:24:04Z",
+    "UpdatedAt": "2026-05-03T17:33:59Z",
+    "Owner": "gradio-app",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Dumbris/trunklucator",
+    "Name": "trunklucator",
+    "Url": "https://github.com/Dumbris/trunklucator",
+    "Description": "Python module for data scientists for quick creating annotation projects.",
+    "Topics": [
+      "active-learning",
+      "annotation",
+      "annotation-tool",
+      "data-science",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "Python",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-28T15:14:27Z",
+    "UpdatedAt": "2026-01-05T17:46:18Z",
+    "Owner": "Dumbris",
+    "SourceQueries": [
+      "topic:annotation language:Python stars:>=50",
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hacksider/Deep-Live-Cam",
+    "Name": "Deep-Live-Cam",
+    "Url": "https://github.com/hacksider/Deep-Live-Cam",
+    "Description": "real time face swap and one-click video deepfake with only a single image",
+    "Topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "Language": "Python",
+    "Stars": 92582,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-24T13:19:31Z",
+    "UpdatedAt": "2026-05-03T18:19:46Z",
+    "Owner": "hacksider",
+    "SourceQueries": [
+      "c language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scverse/anndata",
+    "Name": "anndata",
+    "Url": "https://github.com/scverse/anndata",
+    "Description": "Annotated data.",
+    "Topics": [
+      "anndata",
+      "bioinformatics",
+      "data-science",
+      "machine-learning",
+      "scanpy",
+      "scverse",
+      "transcriptomics"
+    ],
+    "Language": "Python",
+    "Stars": 736,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-11T14:10:06Z",
+    "UpdatedAt": "2026-05-02T02:20:17Z",
+    "Owner": "scverse",
+    "SourceQueries": [
+      "annotate language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "l3p-cv/lost",
+    "Name": "lost",
+    "Url": "https://github.com/l3p-cv/lost",
+    "Description": "Label Objects and Save Time (LOST) - Design your own smart Image Annotation process in a web-based environment.",
+    "Topics": [
+      "annotation-framework",
+      "annotation-process",
+      "annotation-tool",
+      "bounding-boxes",
+      "computer-vision",
+      "image-annotation",
+      "machine-learning",
+      "machine-vision",
+      "polygon-annotations"
+    ],
+    "Language": "Python",
+    "Stars": 576,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-12T16:04:39Z",
+    "UpdatedAt": "2026-04-03T04:42:32Z",
+    "Owner": "l3p-cv",
+    "SourceQueries": [
+      "topic:annotation-tool language:Python stars:>=50"
+    ]
+  }
+]

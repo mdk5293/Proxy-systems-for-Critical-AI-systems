@@ -1,0 +1,5102 @@
+[
+  {
+    "FullName": "KudoAI/duckduckgpt",
+    "Name": "duckduckgpt",
+    "Url": "https://github.com/KudoAI/duckduckgpt",
+    "Description": "🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "bot",
+      "chatbot",
+      "chatgpt",
+      "duckduckgo",
+      "gpt",
+      "gpt-5",
+      "greasemonkey",
+      "javascript",
+      "kudoai",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "search",
+      "userscripts",
+      "web"
+    ],
+    "Language": "JavaScript",
+    "Stars": 270,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-01T15:35:55Z",
+    "UpdatedAt": "2026-04-30T08:42:55Z",
+    "Owner": "KudoAI",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nextapps-de/flexsearch",
+    "Name": "flexsearch",
+    "Url": "https://github.com/nextapps-de/flexsearch",
+    "Description": "Next-generation full-text search library for Browser and Node.js",
+    "Topics": [
+      "elasticsearch",
+      "full-text-search",
+      "fulltext-search",
+      "fuzzy",
+      "fuzzy-search",
+      "javascript",
+      "javascript-library",
+      "nodejs",
+      "open-source",
+      "search",
+      "search-algorithm",
+      "search-engine",
+      "search-in-text",
+      "searching",
+      "searching-algorithms",
+      "web",
+      "web-worker"
+    ],
+    "Language": "JavaScript",
+    "Stars": 13686,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-25T12:40:24Z",
+    "UpdatedAt": "2026-05-03T17:42:01Z",
+    "Owner": "nextapps-de",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FormidableLabs/webpack-dashboard",
+    "Name": "webpack-dashboard",
+    "Url": "https://github.com/FormidableLabs/webpack-dashboard",
+    "Description": "A CLI dashboard for webpack dev server",
+    "Topics": [
+      "cli",
+      "cli-dashboard",
+      "dashboard",
+      "devtools",
+      "dx",
+      "socket-communication",
+      "webpack",
+      "webpack-dashboard"
+    ],
+    "Language": "JavaScript",
+    "Stars": 14031,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-14T17:44:33Z",
+    "UpdatedAt": "2026-04-30T22:02:47Z",
+    "Owner": "FormidableLabs",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "winkjs/wink-bm25-text-search",
+    "Name": "wink-bm25-text-search",
+    "Url": "https://github.com/winkjs/wink-bm25-text-search",
+    "Description": "Fast Full Text Search based on BM25",
+    "Topics": [
+      "bm25",
+      "bm25f",
+      "full-text-search",
+      "in-memory-search",
+      "natural-language-processing",
+      "nlp",
+      "semantic-search",
+      "tf-idf",
+      "tfidf"
+    ],
+    "Language": "JavaScript",
+    "Stars": 72,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-25T14:43:49Z",
+    "UpdatedAt": "2026-04-19T07:30:53Z",
+    "Owner": "winkjs",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenNewsLabs/guri-vr",
+    "Name": "guri-vr",
+    "Url": "https://github.com/OpenNewsLabs/guri-vr",
+    "Description": "https://gurivr.com",
+    "Topics": [
+      "nlp",
+      "virtual-reality",
+      "vr",
+      "webvr"
+    ],
+    "Language": "JavaScript",
+    "Stars": 195,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-08T15:03:50Z",
+    "UpdatedAt": "2025-08-27T12:09:45Z",
+    "Owner": "OpenNewsLabs",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wekan/wekan",
+    "Name": "wekan",
+    "Url": "https://github.com/wekan/wekan",
+    "Description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.",
+    "Topics": [
+      "docker-image",
+      "foss",
+      "javascript",
+      "kanban",
+      "meteor",
+      "real-time",
+      "sandstorm",
+      "snapcraft",
+      "wekan"
+    ],
+    "Language": "JavaScript",
+    "Stars": 20917,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-21T01:26:28Z",
+    "UpdatedAt": "2026-05-03T16:52:57Z",
+    "Owner": "wekan",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50",
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "memvid/memvid",
+    "Name": "memvid",
+    "Url": "https://github.com/memvid/memvid",
+    "Description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+    "Topics": [
+      "ai",
+      "context",
+      "embedded",
+      "faiss",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm",
+      "machine-learning",
+      "memory",
+      "memvid",
+      "mv2",
+      "nlp",
+      "offline-first",
+      "opencv",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "vector-database",
+      "video-processing"
+    ],
+    "Language": "Rust",
+    "Stars": 15339,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-27T16:01:08Z",
+    "UpdatedAt": "2026-05-03T15:27:07Z",
+    "Owner": "memvid",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "Name": "How-To-Ask-Questions-The-Smart-Way",
+    "Url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "Description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "Topics": [
+      "rtfm",
+      "stfw",
+      "translation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 35030,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T16:52:40Z",
+    "UpdatedAt": "2026-05-03T15:40:45Z",
+    "Owner": "ryanhanwu",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shaoxiongji/knowledge-graphs",
+    "Name": "knowledge-graphs",
+    "Url": "https://github.com/shaoxiongji/knowledge-graphs",
+    "Description": "A collection of research on knowledge graphs",
+    "Topics": [
+      "commonsense",
+      "cross-modal",
+      "dialogue-systems",
+      "information-retrieval",
+      "knowledge-graph",
+      "knowledge-graph-completion",
+      "meta-relational-learning",
+      "natural-language-processing",
+      "ner",
+      "paper",
+      "question-answering",
+      "reasoning",
+      "recommendation-systems",
+      "relation-extraction",
+      "representation-learning",
+      "survey",
+      "temporal-knowledge-graph"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1787,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-02T03:39:25Z",
+    "UpdatedAt": "2026-04-29T02:35:48Z",
+    "Owner": "shaoxiongji",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/unilm",
+    "Name": "unilm",
+    "Url": "https://github.com/microsoft/unilm",
+    "Description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "Topics": [
+      "beit",
+      "beit-3",
+      "bitnet",
+      "deepnet",
+      "document-ai",
+      "foundation-models",
+      "kosmos",
+      "kosmos-1",
+      "layoutlm",
+      "layoutxlm",
+      "llm",
+      "minilm",
+      "mllm",
+      "multimodal",
+      "nlp",
+      "pre-trained-model",
+      "textdiffuser",
+      "trocr",
+      "unilm",
+      "xlm-e"
+    ],
+    "Language": "Python",
+    "Stars": 22114,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-23T04:15:28Z",
+    "UpdatedAt": "2026-05-03T02:16:58Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "automatisch/automatisch",
+    "Name": "automatisch",
+    "Url": "https://github.com/automatisch/automatisch",
+    "Description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "Topics": [
+      "automation",
+      "automatisch",
+      "low-code",
+      "no-code",
+      "open-source",
+      "self-hosted",
+      "workflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 13822,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-30T20:28:16Z",
+    "UpdatedAt": "2026-05-03T15:10:37Z",
+    "Owner": "automatisch",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shorwood/gptsh",
+    "Name": "gptsh",
+    "Url": "https://github.com/shorwood/gptsh",
+    "Description": "GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.",
+    "Topics": [
+      "ai",
+      "bash",
+      "cli",
+      "cmdxyz",
+      "cross-platform",
+      "gitpod",
+      "gpt3",
+      "natural-language-processing",
+      "nlsh",
+      "nodejs",
+      "openai",
+      "powershell"
+    ],
+    "Language": "JavaScript",
+    "Stars": 125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-27T04:16:56Z",
+    "UpdatedAt": "2026-04-01T17:11:41Z",
+    "Owner": "shorwood",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nltk/nltk",
+    "Name": "nltk",
+    "Url": "https://github.com/nltk/nltk",
+    "Description": "NLTK Source",
+    "Topics": [
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "nltk",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 14603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-09-07T10:53:58Z",
+    "UpdatedAt": "2026-05-03T11:03:07Z",
+    "Owner": "nltk",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "feathericons/feather",
+    "Name": "feather",
+    "Url": "https://github.com/feathericons/feather",
+    "Description": "Simply beautiful open-source icons",
+    "Topics": [
+      "icons",
+      "javascript",
+      "svg"
+    ],
+    "Language": "JavaScript",
+    "Stars": 25888,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-28T19:49:55Z",
+    "UpdatedAt": "2026-05-02T11:23:54Z",
+    "Owner": "feathericons",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "polyrabbit/WeCron",
+    "Name": "WeCron",
+    "Url": "https://github.com/polyrabbit/WeCron",
+    "Description": ":heavy_check_mark: 微信上的定时提醒 - Cron on WeChat",
+    "Topics": [
+      "angular",
+      "cron",
+      "crontab",
+      "ionic",
+      "nlp",
+      "postgresql",
+      "python",
+      "timer",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "JavaScript",
+    "Stars": 690,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-30T06:00:32Z",
+    "UpdatedAt": "2026-04-28T21:10:45Z",
+    "Owner": "polyrabbit",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marcelscruz/public-apis",
+    "Name": "public-apis",
+    "Url": "https://github.com/marcelscruz/public-apis",
+    "Description": "A collaborative list of public APIs for developers",
+    "Topics": [
+      "apis",
+      "awesome",
+      "awesome-list",
+      "hacktoberfest",
+      "lists",
+      "open-source",
+      "public-api",
+      "public-apis",
+      "resources"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8877,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-11T06:31:22Z",
+    "UpdatedAt": "2026-05-03T17:45:42Z",
+    "Owner": "marcelscruz",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jackdh/RasaTalk",
+    "Name": "RasaTalk",
+    "Url": "https://github.com/jackdh/RasaTalk",
+    "Description": "A chatbot framework for Rasa NLU",
+    "Topics": [
+      "bot",
+      "botkit",
+      "bots",
+      "chatbot",
+      "chatbot-framework",
+      "conversational-ai",
+      "nlp",
+      "nodejs",
+      "rasa",
+      "rasa-nlu",
+      "react"
+    ],
+    "Language": "JavaScript",
+    "Stars": 303,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-25T21:20:20Z",
+    "UpdatedAt": "2026-03-31T23:25:00Z",
+    "Owner": "jackdh",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Unstructured-IO/unstructured",
+    "Name": "unstructured",
+    "Url": "https://github.com/Unstructured-IO/unstructured",
+    "Description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+    "Topics": [
+      "data-pipelines",
+      "deep-learning",
+      "document-image-analysis",
+      "document-image-processing",
+      "document-parser",
+      "document-parsing",
+      "docx",
+      "donut",
+      "information-retrieval",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "ml",
+      "natural-language-processing",
+      "nlp",
+      "ocr",
+      "pdf",
+      "pdf-to-json",
+      "pdf-to-text",
+      "preprocessing"
+    ],
+    "Language": "HTML",
+    "Stars": 14617,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-26T21:53:41Z",
+    "UpdatedAt": "2026-05-03T12:53:12Z",
+    "Owner": "Unstructured-IO",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepset-ai/haystack",
+    "Name": "haystack",
+    "Url": "https://github.com/deepset-ai/haystack",
+    "Description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "Topics": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "orchestration",
+      "python",
+      "pytorch",
+      "question-answering",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "summarization",
+      "transformers"
+    ],
+    "Language": "MDX",
+    "Stars": 25064,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T09:05:28Z",
+    "UpdatedAt": "2026-05-03T15:01:45Z",
+    "Owner": "deepset-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "websockets/ws",
+    "Name": "ws",
+    "Url": "https://github.com/websockets/ws",
+    "Description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+    "Topics": [
+      "javascript",
+      "node",
+      "nodejs",
+      "real-time",
+      "rfc-6455",
+      "websocket",
+      "websocket-client",
+      "websocket-compression",
+      "websocket-server"
+    ],
+    "Language": "JavaScript",
+    "Stars": 22743,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-11-09T22:32:45Z",
+    "UpdatedAt": "2026-05-02T09:59:10Z",
+    "Owner": "websockets",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BoostIO/BoostNote-Legacy",
+    "Name": "BoostNote-Legacy",
+    "Url": "https://github.com/BoostIO/BoostNote-Legacy",
+    "Description": "This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App",
+    "Topics": [
+      "electron",
+      "linux",
+      "macos",
+      "open-source",
+      "react",
+      "stylus",
+      "windows"
+    ],
+    "Language": "JavaScript",
+    "Stars": 16939,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-06T17:06:07Z",
+    "UpdatedAt": "2026-04-30T16:52:52Z",
+    "Owner": "BoostIO",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nitotm/efficient-language-detector-js",
+    "Name": "efficient-language-detector-js",
+    "Url": "https://github.com/nitotm/efficient-language-detector-js",
+    "Description": "Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD. ",
+    "Topics": [
+      "javascript",
+      "language",
+      "language-detection",
+      "language-detector",
+      "language-identification",
+      "natural-language",
+      "natural-language-processing",
+      "nlp",
+      "nodejs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 97,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-27T17:30:09Z",
+    "UpdatedAt": "2026-04-27T00:17:29Z",
+    "Owner": "nitotm",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/Windows-universal-samples",
+    "Name": "Windows-universal-samples",
+    "Url": "https://github.com/microsoft/Windows-universal-samples",
+    "Description": "API samples for the Universal Windows Platform.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 9690,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-06T22:13:13Z",
+    "UpdatedAt": "2026-05-03T13:47:00Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ToolJet/ToolJet",
+    "Name": "ToolJet",
+    "Url": "https://github.com/ToolJet/ToolJet",
+    "Description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "Topics": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript",
+      "kubernetes",
+      "low-code",
+      "low-code-development-platform",
+      "low-code-framework",
+      "no-code",
+      "nodejs",
+      "reactjs",
+      "self-hosted",
+      "typescript",
+      "web-development-tools",
+      "workflow-automation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 37857,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-30T08:51:34Z",
+    "UpdatedAt": "2026-05-03T15:53:14Z",
+    "Owner": "ToolJet",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "necolas/react-native-web",
+    "Name": "react-native-web",
+    "Url": "https://github.com/necolas/react-native-web",
+    "Description": "Cross-platform React UI packages",
+    "Topics": [
+      "cross-platform",
+      "css-in-js",
+      "gui-framework",
+      "react",
+      "react-components",
+      "react-dom",
+      "react-native",
+      "react-native-web",
+      "react-ui"
+    ],
+    "Language": "JavaScript",
+    "Stars": 22119,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-09T19:25:38Z",
+    "UpdatedAt": "2026-05-03T09:51:15Z",
+    "Owner": "necolas",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "santifer/career-ops",
+    "Name": "career-ops",
+    "Url": "https://github.com/santifer/career-ops",
+    "Description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "Topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "career",
+      "claude",
+      "claude-code",
+      "cli",
+      "golang",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ],
+    "Language": "JavaScript",
+    "Stars": 42103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T18:21:18Z",
+    "UpdatedAt": "2026-05-03T17:51:53Z",
+    "Owner": "santifer",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Anil-matcha/Open-Generative-AI",
+    "Name": "Open-Generative-AI",
+    "Url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "Description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "Topics": [
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "flux-1",
+      "generative-ai",
+      "higgsfield",
+      "higgsfield-ai",
+      "higgsfield-alternative",
+      "image-to-video",
+      "javascript",
+      "kling-ai",
+      "midjourney-alternative",
+      "muapi",
+      "open-source",
+      "sora-alternative",
+      "text-to-video",
+      "uncensored",
+      "unrestricted",
+      "wan-video"
+    ],
+    "Language": "JavaScript",
+    "Stars": 11032,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-09T14:12:37Z",
+    "UpdatedAt": "2026-05-03T17:47:26Z",
+    "Owner": "Anil-matcha",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stevenjoezhang/live2d-widget",
+    "Name": "live2d-widget",
+    "Url": "https://github.com/stevenjoezhang/live2d-widget",
+    "Description": "把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform",
+    "Topics": [
+      "javascript-plugin",
+      "live2d"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10623,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-11T05:22:00Z",
+    "UpdatedAt": "2026-05-03T16:14:07Z",
+    "Owner": "stevenjoezhang",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jsdelivr/jsdelivr",
+    "Name": "jsdelivr",
+    "Url": "https://github.com/jsdelivr/jsdelivr",
+    "Description": "A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM",
+    "Topics": [
+      "cdn",
+      "cdn-providers",
+      "distribution",
+      "esm",
+      "esmodules",
+      "http",
+      "infrastructure",
+      "javascript",
+      "jsdelivr",
+      "npm",
+      "npm-cdn",
+      "traffic"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6235,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-13T17:25:24Z",
+    "UpdatedAt": "2026-05-03T03:34:17Z",
+    "Owner": "jsdelivr",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leehanchung/cs224n",
+    "Name": "cs224n",
+    "Url": "https://github.com/leehanchung/cs224n",
+    "Description": "Stanford CS224n: Natural Language Processing with Deep Learning, Winter 2020",
+    "Topics": [
+      "2020",
+      "cs224n",
+      "cs224n-assignment-solutions",
+      "cs224nwinter2020",
+      "natural-language-processing",
+      "pytorch",
+      "stanford",
+      "stanford-nlp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-14T01:58:10Z",
+    "UpdatedAt": "2026-03-31T14:48:59Z",
+    "Owner": "leehanchung",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanford-oval/storm",
+    "Name": "storm",
+    "Url": "https://github.com/stanford-oval/storm",
+    "Description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "Topics": [
+      "agentic-rag",
+      "deep-research",
+      "emnlp2024",
+      "knowledge-curation",
+      "large-language-models",
+      "naacl",
+      "nlp",
+      "report-generation",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 28156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-24T16:23:39Z",
+    "UpdatedAt": "2026-05-03T10:07:20Z",
+    "Owner": "stanford-oval",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HeyPuter/puter",
+    "Name": "puter",
+    "Url": "https://github.com/HeyPuter/puter",
+    "Description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+    "Topics": [
+      "cloud",
+      "cloud-os",
+      "cloud-storage",
+      "desktop",
+      "desktop-environment",
+      "dropbox",
+      "good-first-issue",
+      "gui",
+      "javascript",
+      "nas",
+      "open-source",
+      "operating-system",
+      "os",
+      "osjs",
+      "puter",
+      "remote-desktop",
+      "storage",
+      "web-desktop",
+      "web-os",
+      "webtop"
+    ],
+    "Language": "JavaScript",
+    "Stars": 40861,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-03T01:44:32Z",
+    "UpdatedAt": "2026-05-03T17:49:38Z",
+    "Owner": "HeyPuter",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webpack/webpack-bundle-analyzer",
+    "Name": "webpack-bundle-analyzer",
+    "Url": "https://github.com/webpack/webpack-bundle-analyzer",
+    "Description": "Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+    "Topics": [
+      "analyze",
+      "bundle",
+      "chart",
+      "interactive",
+      "size",
+      "treemap",
+      "webpack",
+      "webpack-bundle-analyzer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12674,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-26T04:24:35Z",
+    "UpdatedAt": "2026-05-01T23:10:29Z",
+    "Owner": "webpack",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KudoAI/chatgpt.js",
+    "Name": "chatgpt.js",
+    "Url": "https://github.com/KudoAI/chatgpt.js",
+    "Description": "🤖 A powerful, open source JavaScript library for ChatGPT",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "bot",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "clientside",
+      "conversational-ai",
+      "conversational-bots",
+      "frontend",
+      "gpt",
+      "gpt-5",
+      "javascript",
+      "kudoai",
+      "library",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "openai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2030,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-15T07:53:55Z",
+    "UpdatedAt": "2026-05-01T15:08:33Z",
+    "Owner": "KudoAI",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "grpc/grpc-web",
+    "Name": "grpc-web",
+    "Url": "https://github.com/grpc/grpc-web",
+    "Description": "gRPC for Web Clients",
+    "Topics": [
+      "grpc",
+      "javascript",
+      "web"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9204,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-06-20T17:34:33Z",
+    "UpdatedAt": "2026-05-03T12:22:36Z",
+    "Owner": "grpc",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatopera/chatbot-samples",
+    "Name": "chatbot-samples",
+    "Url": "https://github.com/chatopera/chatbot-samples",
+    "Description": "🤖  聊天机器人示例，定制聊天机器人，聊天机器人语料导入导出",
+    "Topics": [
+      "chatbot",
+      "natural-language-generation",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "personal-assistant"
+    ],
+    "Language": "JavaScript",
+    "Stars": 129,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-05T07:35:03Z",
+    "UpdatedAt": "2026-01-21T03:20:18Z",
+    "Owner": "chatopera",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/FinGPT",
+    "Name": "FinGPT",
+    "Url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "Description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+    "Topics": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "prompt-engineering",
+      "pytorch",
+      "reinforcement-learning",
+      "robo-advisor",
+      "sentiment-analysis",
+      "technical-analysis"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 19921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T20:21:34Z",
+    "UpdatedAt": "2026-05-03T17:04:16Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Yomguithereal/talisman",
+    "Name": "talisman",
+    "Url": "https://github.com/Yomguithereal/talisman",
+    "Description": "Straightforward fuzzy matching, information retrieval and NLP building blocks for JavaScript.",
+    "Topics": [
+      "clustering",
+      "deduplication",
+      "fuzzy-matching",
+      "information-retrieval",
+      "machine-learning",
+      "natural-language-processing",
+      "record-linkage"
+    ],
+    "Language": "JavaScript",
+    "Stars": 727,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-25T11:09:12Z",
+    "UpdatedAt": "2026-04-25T16:49:36Z",
+    "Owner": "Yomguithereal",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-LLaMA-Alpaca",
+    "Name": "Chinese-LLaMA-Alpaca",
+    "Url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "Description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+    "Topics": [
+      "alpaca",
+      "alpaca-2",
+      "large-language-models",
+      "llama",
+      "llama-2",
+      "llm",
+      "lora",
+      "nlp",
+      "plm",
+      "pre-trained-language-models",
+      "quantization"
+    ],
+    "Language": "Python",
+    "Stars": 18944,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-15T11:09:39Z",
+    "UpdatedAt": "2026-05-03T15:11:47Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "samtecspg/articulate",
+    "Name": "articulate",
+    "Url": "https://github.com/samtecspg/articulate",
+    "Description": "A platform for building conversational interfaces with intelligent agents (chatbots)",
+    "Topics": [
+      "chatbot",
+      "nlp",
+      "nlu",
+      "react"
+    ],
+    "Language": "JavaScript",
+    "Stars": 592,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-25T17:32:59Z",
+    "UpdatedAt": "2026-05-03T06:50:38Z",
+    "Owner": "samtecspg",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aisingapore/TagUI",
+    "Name": "TagUI",
+    "Url": "https://github.com/aisingapore/TagUI",
+    "Description": "Free RPA tool by AI Singapore",
+    "Topics": [
+      "ai",
+      "nlp",
+      "opencv",
+      "rpa",
+      "tesseract"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6282,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-06T04:30:34Z",
+    "UpdatedAt": "2026-05-01T04:34:52Z",
+    "Owner": "aisingapore",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wwebjs/whatsapp-web.js",
+    "Name": "whatsapp-web.js",
+    "Url": "https://github.com/wwebjs/whatsapp-web.js",
+    "Description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "Topics": [
+      "api",
+      "bot",
+      "bot-api",
+      "hacktoberfest",
+      "whatsapp",
+      "whatsapp-api",
+      "whatsapp-bot",
+      "whatsapp-web",
+      "whatsapp-web-api"
+    ],
+    "Language": "JavaScript",
+    "Stars": 21743,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-17T02:16:02Z",
+    "UpdatedAt": "2026-05-03T15:37:11Z",
+    "Owner": "wwebjs",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kengz/aiva",
+    "Name": "aiva",
+    "Url": "https://github.com/kengz/aiva",
+    "Description": "AIVA (A.I. Virtual Assistant): General-purpose virtual assistant for developers.",
+    "Topics": [
+      "bot",
+      "fb",
+      "nlp",
+      "nodejs",
+      "slack",
+      "telegram"
+    ],
+    "Language": "JavaScript",
+    "Stars": 845,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-10T04:21:39Z",
+    "UpdatedAt": "2026-04-30T10:57:37Z",
+    "Owner": "kengz",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "adamlui/chatgpt-widescreen",
+    "Name": "chatgpt-widescreen",
+    "Url": "https://github.com/adamlui/chatgpt-widescreen",
+    "Description": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "chrome-extension",
+      "gpt",
+      "gpt-5",
+      "greasemonkey",
+      "javascript",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "poe",
+      "ui",
+      "userscripts",
+      "ux",
+      "widescreen"
+    ],
+    "Language": "JavaScript",
+    "Stars": 199,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-28T22:58:33Z",
+    "UpdatedAt": "2026-05-01T00:18:30Z",
+    "Owner": "adamlui",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pen-ho/medical_knowledge_graph_app-master",
+    "Name": "medical_knowledge_graph_app-master",
+    "Url": "https://github.com/pen-ho/medical_knowledge_graph_app-master",
+    "Description": "医药知识图谱自动问答系统实现，包括构建知识图谱、基于知识图谱的流水线问答以及前端实现。实体识别（基于词典+BERT_CRF）、实体链接（Sentence-BERT做匹配）、意图识别（基于提问词+领域词词典）。",
+    "Topics": [
+      "django-application",
+      "echarts",
+      "entity-linking",
+      "kbqa",
+      "kgqa",
+      "knowledge-graph",
+      "mention-detection",
+      "neo4j",
+      "ner",
+      "nlp",
+      "pytorch-transformers",
+      "relation-detection",
+      "relation-extraction"
+    ],
+    "Language": "JavaScript",
+    "Stars": 346,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-15T07:29:17Z",
+    "UpdatedAt": "2026-05-02T15:50:45Z",
+    "Owner": "pen-ho",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/CoreNLP",
+    "Name": "CoreNLP",
+    "Url": "https://github.com/stanfordnlp/CoreNLP",
+    "Description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+    "Topics": [
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "nlp-parsing",
+      "stanford-nlp"
+    ],
+    "Language": "Java",
+    "Stars": 10070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-06-27T21:13:49Z",
+    "UpdatedAt": "2026-05-01T19:40:06Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/tokenizers",
+    "Name": "tokenizers",
+    "Url": "https://github.com/huggingface/tokenizers",
+    "Description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "Topics": [
+      "bert",
+      "gpt",
+      "language-model",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "transformers"
+    ],
+    "Language": "Rust",
+    "Stars": 10689,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-01T17:52:20Z",
+    "UpdatedAt": "2026-05-03T17:31:34Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NLP-LOVE/ML-NLP",
+    "Name": "ML-NLP",
+    "Url": "https://github.com/NLP-LOVE/ML-NLP",
+    "Description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 17650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-05T12:49:53Z",
+    "UpdatedAt": "2026-05-03T01:53:40Z",
+    "Owner": "NLP-LOVE",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "axa-group/Parsr",
+    "Name": "Parsr",
+    "Url": "https://github.com/axa-group/Parsr",
+    "Description": "Transforms PDF, Documents and Images into Enriched Structured Data",
+    "Topics": [
+      "data",
+      "document",
+      "extraction",
+      "hacktoberfest",
+      "images",
+      "nlp",
+      "ocr",
+      "parsr",
+      "pdf",
+      "python",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6174,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-05T12:43:53Z",
+    "UpdatedAt": "2026-05-01T15:40:34Z",
+    "Owner": "axa-group",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AccumulateMore/CV",
+    "Name": "CV",
+    "Url": "https://github.com/AccumulateMore/CV",
+    "Description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+    "Topics": [
+      "agent",
+      "agents",
+      "book",
+      "chinese",
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "jupyter-notebook",
+      "llm",
+      "llms",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "notebook",
+      "python",
+      "rag"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 20604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-31T13:19:32Z",
+    "UpdatedAt": "2026-05-03T16:03:58Z",
+    "Owner": "AccumulateMore",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "Name": "WebGL-Fluid-Simulation",
+    "Url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "Description": "Play with fluids in your browser (works even on mobile)",
+    "Topics": [
+      "fluid",
+      "gpu",
+      "navier-stokes",
+      "simulation",
+      "webgl"
+    ],
+    "Language": "JavaScript",
+    "Stars": 16301,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-22T21:30:33Z",
+    "UpdatedAt": "2026-05-03T13:51:20Z",
+    "Owner": "PavelDoGreat",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chakra-core/ChakraCore",
+    "Name": "ChakraCore",
+    "Url": "https://github.com/chakra-core/ChakraCore",
+    "Description": "ChakraCore is an open source Javascript engine with a C API.",
+    "Topics": [
+      "chakra",
+      "chakracore",
+      "cplusplus",
+      "cplusplus-11",
+      "cpp",
+      "hacktoberfest",
+      "help-wanted",
+      "javascript",
+      "javascript-engine",
+      "js",
+      "jsrt",
+      "linux",
+      "microsoft",
+      "mit-license",
+      "osx",
+      "runtime",
+      "up-for-grabs",
+      "vm",
+      "windows"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9246,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-05T19:05:31Z",
+    "UpdatedAt": "2026-05-02T14:20:52Z",
+    "Owner": "chakra-core",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "up-for-grabs/up-for-grabs.net",
+    "Name": "up-for-grabs.net",
+    "Url": "https://github.com/up-for-grabs/up-for-grabs.net",
+    "Description": "This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!",
+    "Topics": [
+      "good-first-issue",
+      "help-wanted",
+      "javascript",
+      "ruby",
+      "up-for-grabs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 5938,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-11-20T22:44:13Z",
+    "UpdatedAt": "2026-05-01T13:48:58Z",
+    "Owner": "up-for-grabs",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jokenox/Goopt",
+    "Name": "Goopt",
+    "Url": "https://github.com/jokenox/Goopt",
+    "Description": "🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.",
+    "Topics": [
+      "gpt-3",
+      "gpt3",
+      "javascript",
+      "natural-language-processing",
+      "nlp",
+      "procedural",
+      "procedural-content",
+      "procedural-content-generation",
+      "procedural-generation",
+      "procedural-web",
+      "react",
+      "reactjs",
+      "simulation",
+      "simulator",
+      "tailwindcss",
+      "web",
+      "web3"
+    ],
+    "Language": "JavaScript",
+    "Stars": 519,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-10T11:24:10Z",
+    "UpdatedAt": "2026-04-09T10:35:43Z",
+    "Owner": "jokenox",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gerardobort/node-corenlp",
+    "Name": "node-corenlp",
+    "Url": "https://github.com/gerardobort/node-corenlp",
+    "Description": "CoreNLP @ NodeJS",
+    "Topics": [
+      "corenlp",
+      "natural-language-processing",
+      "nlp",
+      "nodejs",
+      "stanford-nlp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 67,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-10T03:06:51Z",
+    "UpdatedAt": "2025-11-12T15:07:32Z",
+    "Owner": "gerardobort",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "piskvorky/gensim",
+    "Name": "gensim",
+    "Url": "https://github.com/piskvorky/gensim",
+    "Description": "Topic Modelling for Humans",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "document-similarity",
+      "fasttext",
+      "gensim",
+      "information-retrieval",
+      "machine-learning",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "python",
+      "topic-modeling",
+      "word-embeddings",
+      "word-similarity",
+      "word2vec"
+    ],
+    "Language": "Python",
+    "Stars": 16405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-10T07:43:04Z",
+    "UpdatedAt": "2026-05-03T17:51:04Z",
+    "Owner": "piskvorky",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CesiumGS/cesium",
+    "Name": "cesium",
+    "Url": "https://github.com/CesiumGS/cesium",
+    "Description": "An open-source JavaScript library for world-class 3D globes and maps :earth_americas:",
+    "Topics": [
+      "3d",
+      "3d-globe",
+      "3d-tiles",
+      "cesium",
+      "czml",
+      "geospatial",
+      "gis",
+      "gltf",
+      "webgl"
+    ],
+    "Language": "JavaScript",
+    "Stars": 15228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-03-02T22:27:14Z",
+    "UpdatedAt": "2026-05-03T13:03:53Z",
+    "Owner": "CesiumGS",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "teamsudocode/dexter",
+    "Name": "dexter",
+    "Url": "https://github.com/teamsudocode/dexter",
+    "Description": "Let your talking do the code",
+    "Topics": [
+      "accessibility",
+      "fuzzy-logic",
+      "javascript",
+      "language",
+      "natural-language-processing",
+      "python",
+      "speech-to-text"
+    ],
+    "Language": "JavaScript",
+    "Stars": 95,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-26T18:32:51Z",
+    "UpdatedAt": "2024-04-10T20:53:59Z",
+    "Owner": "teamsudocode",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fishjar/kiss-translator",
+    "Name": "kiss-translator",
+    "Url": "https://github.com/fishjar/kiss-translator",
+    "Description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+    "Topics": [
+      "extension",
+      "translate",
+      "translation",
+      "translator",
+      "userscript",
+      "userscripts"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9847,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-18T07:20:49Z",
+    "UpdatedAt": "2026-05-03T17:51:39Z",
+    "Owner": "fishjar",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "winkjs/wink-nlp-utils",
+    "Name": "wink-nlp-utils",
+    "Url": "https://github.com/winkjs/wink-nlp-utils",
+    "Description": "NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more.",
+    "Topics": [
+      "bag-of-words",
+      "natural-language-processing",
+      "ngrams",
+      "nlp",
+      "phonetize",
+      "sentence-boundary-detection",
+      "stem",
+      "stop-words",
+      "tokenize"
+    ],
+    "Language": "JavaScript",
+    "Stars": 135,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-12T17:44:31Z",
+    "UpdatedAt": "2026-04-25T12:52:49Z",
+    "Owner": "winkjs",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "botpress/botpress",
+    "Name": "botpress",
+    "Url": "https://github.com/botpress/botpress",
+    "Description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+    "Topics": [
+      "agent",
+      "ai",
+      "botpress",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "langchain",
+      "llm",
+      "nlp",
+      "openai",
+      "prompt"
+    ],
+    "Language": "TypeScript",
+    "Stars": 14666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-16T21:57:59Z",
+    "UpdatedAt": "2026-05-03T13:39:04Z",
+    "Owner": "botpress",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "DavidHDev/react-bits",
+    "Name": "react-bits",
+    "Url": "https://github.com/DavidHDev/react-bits",
+    "Description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+    "Topics": [
+      "3d",
+      "animations",
+      "component-library",
+      "components",
+      "components-library",
+      "components-react",
+      "css-animations",
+      "javascript",
+      "react",
+      "react-components",
+      "reactjs",
+      "tailwind",
+      "tailwindcss",
+      "ui-components",
+      "ui-library",
+      "web"
+    ],
+    "Language": "JavaScript",
+    "Stars": 38806,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-06T06:54:54Z",
+    "UpdatedAt": "2026-05-03T17:49:50Z",
+    "Owner": "DavidHDev",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Algolisted-Org/AlgoListed",
+    "Name": "AlgoListed",
+    "Url": "https://github.com/Algolisted-Org/AlgoListed",
+    "Description": "Algolisted is an AI-powered platform dedicated to assisting computer science students in preparing for placements and internships. Our services include tracking and analytics across various platforms and topics.",
+    "Topics": [
+      "ai",
+      "css",
+      "firebase",
+      "hacktoberfest-2023",
+      "javascript",
+      "mern-stack",
+      "ml",
+      "nlp",
+      "python3",
+      "react-js",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 169,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-14T11:18:01Z",
+    "UpdatedAt": "2026-05-03T09:42:36Z",
+    "Owner": "Algolisted-Org",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airbnb/lottie-web",
+    "Name": "lottie-web",
+    "Url": "https://github.com/airbnb/lottie-web",
+    "Description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 31826,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-20T21:02:59Z",
+    "UpdatedAt": "2026-05-02T22:04:30Z",
+    "Owner": "airbnb",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leaningtech/webvm",
+    "Name": "webvm",
+    "Url": "https://github.com/leaningtech/webvm",
+    "Description": "Virtual Machine for the Web",
+    "Topics": [
+      "cheerp",
+      "cheerpx",
+      "cpp",
+      "lwip",
+      "repl",
+      "tailscale",
+      "vm",
+      "wasm",
+      "webassembly",
+      "webvm",
+      "xterm-js"
+    ],
+    "Language": "JavaScript",
+    "Stars": 16667,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-31T20:45:58Z",
+    "UpdatedAt": "2026-05-03T17:28:00Z",
+    "Owner": "leaningtech",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openvinotoolkit/openvino",
+    "Name": "openvino",
+    "Url": "https://github.com/openvinotoolkit/openvino",
+    "Description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "Topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "deploy-ai",
+      "diffusion-models",
+      "generative-ai",
+      "good-first-issue",
+      "inference",
+      "llm-inference",
+      "natural-language-processing",
+      "nlp",
+      "openvino",
+      "optimize-ai",
+      "performance-boost",
+      "recommendation-system",
+      "speech-recognition",
+      "stable-diffusion",
+      "transformers",
+      "yolo"
+    ],
+    "Language": "C++",
+    "Stars": 10169,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-15T10:54:40Z",
+    "UpdatedAt": "2026-05-03T07:12:08Z",
+    "Owner": "openvinotoolkit",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ishantchauhan710/WriterAI",
+    "Name": "WriterAI",
+    "Url": "https://github.com/ishantchauhan710/WriterAI",
+    "Description": "WriterAI is an AI based content writing tool that helps users easily write high quality emails, blogs, letters, thesis and other stuff. One can also share their project with others and work as a team.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "firebase",
+      "ktor",
+      "machine-learning",
+      "nlp",
+      "reactjs",
+      "sql"
+    ],
+    "Language": "JavaScript",
+    "Stars": 154,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-08T13:30:44Z",
+    "UpdatedAt": "2026-04-15T20:00:25Z",
+    "Owner": "ishantchauhan710",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/Web-Dev-For-Beginners",
+    "Name": "Web-Dev-For-Beginners",
+    "Url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "Description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "Topics": [
+      "css",
+      "curriculum",
+      "education",
+      "html",
+      "javascript",
+      "learning",
+      "microsoft-for-beginners",
+      "tutorials"
+    ],
+    "Language": "JavaScript",
+    "Stars": 95704,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-10T02:44:00Z",
+    "UpdatedAt": "2026-05-03T09:36:40Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "primaryobjects/lda",
+    "Name": "lda",
+    "Url": "https://github.com/primaryobjects/lda",
+    "Description": "LDA topic modeling for node.js",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "javascript",
+      "keywords",
+      "language",
+      "lda",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "node",
+      "node-js",
+      "nodejs",
+      "topic-modeling",
+      "topics"
+    ],
+    "Language": "JavaScript",
+    "Stars": 294,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-27T17:35:48Z",
+    "UpdatedAt": "2026-04-17T14:04:48Z",
+    "Owner": "primaryobjects",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T16:27:18Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pickle-com/glass",
+    "Name": "glass",
+    "Url": "https://github.com/pickle-com/glass",
+    "Description": "Digital Mind Extension",
+    "Topics": [
+      "electron",
+      "local-first",
+      "nextjs",
+      "open-source",
+      "tailwindcss"
+    ],
+    "Language": "JavaScript",
+    "Stars": 7502,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-02T20:28:49Z",
+    "UpdatedAt": "2026-05-03T15:13:31Z",
+    "Owner": "pickle-com",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fergiemcdowall/search-index",
+    "Name": "search-index",
+    "Url": "https://github.com/fergiemcdowall/search-index",
+    "Description": "A persistent, network resilient, full text search library for the browser and Node.js",
+    "Topics": [
+      "nlp",
+      "offline-first",
+      "search"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1424,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-07-04T07:56:35Z",
+    "UpdatedAt": "2026-04-30T06:54:45Z",
+    "Owner": "fergiemcdowall",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ruanyf/webpack-demos",
+    "Name": "webpack-demos",
+    "Url": "https://github.com/ruanyf/webpack-demos",
+    "Description": "a collection of simple demos of Webpack",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 9575,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-14T03:15:35Z",
+    "UpdatedAt": "2026-05-01T23:14:11Z",
+    "Owner": "ruanyf",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "YeYzheng/KGQA-Based-On-medicine",
+    "Name": "KGQA-Based-On-medicine",
+    "Url": "https://github.com/YeYzheng/KGQA-Based-On-medicine",
+    "Description": "基于医药知识图谱的智能问答系统",
+    "Topics": [
+      "kgqa",
+      "nlp",
+      "python3",
+      "qa",
+      "rdf"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1270,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-22T00:57:39Z",
+    "UpdatedAt": "2026-05-01T13:01:22Z",
+    "Owner": "YeYzheng",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spencermountain/compromise",
+    "Name": "compromise",
+    "Url": "https://github.com/spencermountain/compromise",
+    "Description": "modest natural-language processing",
+    "Topics": [
+      "named-entity-recognition",
+      "nlp",
+      "part-of-speech"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-05T09:04:38Z",
+    "UpdatedAt": "2026-05-02T19:28:55Z",
+    "Owner": "spencermountain",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50",
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "adamlui/ai-web-extensions",
+    "Name": "ai-web-extensions",
+    "Url": "https://github.com/adamlui/ai-web-extensions",
+    "Description": "🤖 AI browser extensions & userscripts to augment your web experience",
+    "Topics": [
+      "ai",
+      "amazon",
+      "artificialintelligence",
+      "brave",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "chrome-extensions",
+      "duckduckgo",
+      "firefox-addons",
+      "google",
+      "gpt-5",
+      "greasemonkey",
+      "javascript",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "openai",
+      "userscripts",
+      "web-extensions"
+    ],
+    "Language": "JavaScript",
+    "Stars": 541,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-01T01:23:31Z",
+    "UpdatedAt": "2026-05-02T01:28:44Z",
+    "Owner": "adamlui",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GAIR-NLP/ReAlign",
+    "Name": "ReAlign",
+    "Url": "https://github.com/GAIR-NLP/ReAlign",
+    "Description": "Reformatted Alignment",
+    "Topics": [
+      "alignment",
+      "generative-ai",
+      "large-language-models",
+      "llms",
+      "natural-language-processing",
+      "nlp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-05T09:45:56Z",
+    "UpdatedAt": "2026-01-03T06:37:02Z",
+    "Owner": "GAIR-NLP",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GeeeekExplorer/nano-vllm",
+    "Name": "nano-vllm",
+    "Url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "Description": "Nano vLLM",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "llm",
+      "nlp",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 13237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-09T16:22:14Z",
+    "UpdatedAt": "2026-05-03T17:48:46Z",
+    "Owner": "GeeeekExplorer",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vunb/vntk",
+    "Name": "vntk",
+    "Url": "https://github.com/vunb/vntk",
+    "Description": "Vietnamese NLP Toolkit for Node",
+    "Topics": [
+      "language-identification",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "pos-tagging",
+      "tf-idf",
+      "vietnamese",
+      "vietnamese-nlp",
+      "vietnamese-text-classification",
+      "vietnamese-tokenizer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 219,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-01T03:23:55Z",
+    "UpdatedAt": "2026-04-17T13:20:53Z",
+    "Owner": "vunb",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "virgili0/Virgilio",
+    "Name": "Virgilio",
+    "Url": "https://github.com/virgili0/Virgilio",
+    "Description": "Your new Mentor for Data Science E-Learning.",
+    "Topics": [
+      "business-intelligence",
+      "computer-vision",
+      "data-science",
+      "datascience",
+      "guide",
+      "guidelines",
+      "hacktoberfest",
+      "learning",
+      "learning-python",
+      "machine-learning",
+      "machine-vision",
+      "nlp",
+      "path",
+      "python",
+      "scikit-learn",
+      "statistics",
+      "study",
+      "studypath",
+      "tensorflow",
+      "virgilio"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 14328,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-12T18:45:36Z",
+    "UpdatedAt": "2026-05-02T09:15:26Z",
+    "Owner": "virgili0",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "webtorrent/webtorrent",
+    "Name": "webtorrent",
+    "Url": "https://github.com/webtorrent/webtorrent",
+    "Description": "⚡️ Streaming torrent client for the web",
+    "Topics": [
+      "bittorrent",
+      "browser",
+      "hacktoberfest",
+      "javascript",
+      "nodejs",
+      "p2p",
+      "streaming",
+      "torrent",
+      "webrtc",
+      "webtorrent"
+    ],
+    "Language": "JavaScript",
+    "Stars": 30889,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-15T08:16:40Z",
+    "UpdatedAt": "2026-05-03T16:01:49Z",
+    "Owner": "webtorrent",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhao-stanley/chroma-ai",
+    "Name": "chroma-ai",
+    "Url": "https://github.com/zhao-stanley/chroma-ai",
+    "Description": "Write about your current mood, the lyrics of your favorite song, or even a random thought that popped into your head — AI will do the rest.",
+    "Topics": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "chatgpt",
+      "gpt-3",
+      "gradient",
+      "nextjs",
+      "nlp",
+      "openai",
+      "openai-api",
+      "tailwindcss",
+      "vercel"
+    ],
+    "Language": "JavaScript",
+    "Stars": 201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-12T17:29:52Z",
+    "UpdatedAt": "2025-11-19T11:32:15Z",
+    "Owner": "zhao-stanley",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "victordibia/neuralqa",
+    "Name": "neuralqa",
+    "Url": "https://github.com/victordibia/neuralqa",
+    "Description": "NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT",
+    "Topics": [
+      "bert-model",
+      "deep-learning",
+      "elastic-search",
+      "information-retrieval",
+      "natural-language-processing"
+    ],
+    "Language": "JavaScript",
+    "Stars": 235,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-19T03:55:56Z",
+    "UpdatedAt": "2026-04-13T23:30:09Z",
+    "Owner": "victordibia",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "paperswithcode/ai-deadlines",
+    "Name": "ai-deadlines",
+    "Url": "https://github.com/paperswithcode/ai-deadlines",
+    "Description": ":alarm_clock: AI conference deadline countdowns ",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "machine-learning",
+      "natural-language-processing",
+      "robotics"
+    ],
+    "Language": "JavaScript",
+    "Stars": 5992,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-18T23:11:12Z",
+    "UpdatedAt": "2026-04-28T15:20:33Z",
+    "Owner": "paperswithcode",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cryptpad/cryptpad",
+    "Name": "cryptpad",
+    "Url": "https://github.com/cryptpad/cryptpad",
+    "Description": "Collaborative office suite, end-to-end encrypted and open-source.",
+    "Topics": [
+      "chainpad",
+      "collaboration",
+      "collaborative-editing",
+      "cryptpad",
+      "e2ee",
+      "end-to-end-encryption",
+      "javascript",
+      "real-time"
+    ],
+    "Language": "JavaScript",
+    "Stars": 7542,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-31T15:46:17Z",
+    "UpdatedAt": "2026-05-03T09:39:57Z",
+    "Owner": "cryptpad",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "johanmodin/clifs",
+    "Name": "clifs",
+    "Url": "https://github.com/johanmodin/clifs",
+    "Description": "Contrastive Language-Image Forensic Search allows free text searching through videos using OpenAI's machine learning model CLIP ",
+    "Topics": [
+      "ai",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "python",
+      "search",
+      "text",
+      "video"
+    ],
+    "Language": "JavaScript",
+    "Stars": 486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-15T09:55:10Z",
+    "UpdatedAt": "2026-04-25T04:54:57Z",
+    "Owner": "johanmodin",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thisandagain/troll",
+    "Name": "troll",
+    "Url": "https://github.com/thisandagain/troll",
+    "Description": "Language sentiment analysis and neural networks... for trolls.",
+    "Topics": [
+      "javascript",
+      "moderation",
+      "neural-network",
+      "nlp",
+      "sentiment",
+      "sentiment-analysis"
+    ],
+    "Language": "JavaScript",
+    "Stars": 330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-10-02T18:40:40Z",
+    "UpdatedAt": "2026-01-24T21:35:06Z",
+    "Owner": "thisandagain",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cortictechnology/cep",
+    "Name": "cep",
+    "Url": "https://github.com/cortictechnology/cep",
+    "Description": "CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components. ",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "edge-computing",
+      "iot",
+      "lego-mindstorms",
+      "natural-language-processing",
+      "oak-d",
+      "opencv",
+      "raspberry-pi",
+      "smarthome",
+      "speech-generation",
+      "speech-recognition",
+      "visual-programming"
+    ],
+    "Language": "JavaScript",
+    "Stars": 173,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-04T01:43:03Z",
+    "UpdatedAt": "2025-10-07T23:47:34Z",
+    "Owner": "cortictechnology",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junchaoIU/CMRH-KG",
+    "Name": "CMRH-KG",
+    "Url": "https://github.com/junchaoIU/CMRH-KG",
+    "Description": "📚中国近代革命历史知识图谱系统 🌈提供了知识图谱可视化、知识检索、关系检索、时空检索、时空演化、语料检索、知识抽取、知识问答等丰富而有效的中国近代革命历史知识服务。",
+    "Topics": [
+      "ant-design",
+      "dvajs",
+      "echarts",
+      "jena",
+      "knowledge-graph",
+      "natural-language-processing",
+      "owl-ontology",
+      "react",
+      "springboot"
+    ],
+    "Language": "JavaScript",
+    "Stars": 74,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-24T01:04:40Z",
+    "UpdatedAt": "2026-03-29T14:03:27Z",
+    "Owner": "junchaoIU",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "swagger-api/swagger-ui",
+    "Name": "swagger-ui",
+    "Url": "https://github.com/swagger-api/swagger-ui",
+    "Description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "Topics": [
+      "hacktoberfest",
+      "oas",
+      "open-source",
+      "openapi",
+      "openapi-specification",
+      "openapi3",
+      "openapi31",
+      "rest",
+      "rest-api",
+      "swagger",
+      "swagger-api",
+      "swagger-js",
+      "swagger-oss",
+      "swagger-ui"
+    ],
+    "Language": "JavaScript",
+    "Stars": 28767,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-15T22:56:39Z",
+    "UpdatedAt": "2026-05-03T17:12:16Z",
+    "Owner": "swagger-api",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Laverna/laverna",
+    "Name": "laverna",
+    "Url": "https://github.com/Laverna/laverna",
+    "Description": "Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+    "Topics": [
+      "laverna",
+      "note-taking",
+      "peer-to-peer",
+      "socket-io",
+      "webrtc",
+      "websocket"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9194,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-21T08:24:17Z",
+    "UpdatedAt": "2026-04-29T21:55:54Z",
+    "Owner": "Laverna",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "muaz-khan/WebRTC-Experiment",
+    "Name": "WebRTC-Experiment",
+    "Url": "https://github.com/muaz-khan/WebRTC-Experiment",
+    "Description": "WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!",
+    "Topics": [
+      "webrtc",
+      "webrtc-demos",
+      "webrtc-examples",
+      "webrtc-experiments",
+      "webrtc-libraries",
+      "webrtc-samples",
+      "webrtc-tools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12047,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-11-14T05:53:13Z",
+    "UpdatedAt": "2026-04-29T13:52:07Z",
+    "Owner": "muaz-khan",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Oli51467/LoFS",
+    "Name": "LoFS",
+    "Url": "https://github.com/Oli51467/LoFS",
+    "Description": "LoFS 面向本地知识库的桌面级文件管理与信息检索和对话应用",
+    "Topics": [
+      "chatbot",
+      "electron-app",
+      "filesystem",
+      "image-retrieval",
+      "information-retrieval",
+      "large-language-models",
+      "maas",
+      "multimodal-learning",
+      "natural-language-processing",
+      "rag"
+    ],
+    "Language": "JavaScript",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-06T08:24:35Z",
+    "UpdatedAt": "2026-03-02T08:07:11Z",
+    "Owner": "Oli51467",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rabbitmq/rabbitmq-server",
+    "Name": "rabbitmq-server",
+    "Url": "https://github.com/rabbitmq/rabbitmq-server",
+    "Description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+    "Topics": [
+      "amqp",
+      "amqp-0-9-1",
+      "amqp1-0",
+      "message-broker",
+      "messaging",
+      "mqtt",
+      "rabbitmq",
+      "stomp",
+      "streaming",
+      "streams"
+    ],
+    "Language": "JavaScript",
+    "Stars": 13633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-09-20T10:29:16Z",
+    "UpdatedAt": "2026-05-03T13:20:02Z",
+    "Owner": "rabbitmq",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tobspr-games/shapez.io",
+    "Name": "shapez.io",
+    "Url": "https://github.com/tobspr-games/shapez.io",
+    "Description": "shapez is an open source base building game on Steam inspired by factorio!",
+    "Topics": [
+      "game",
+      "game-2d",
+      "game-development",
+      "gamedev",
+      "games",
+      "javascript-game"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6870,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-13T15:26:48Z",
+    "UpdatedAt": "2026-05-03T17:47:19Z",
+    "Owner": "tobspr-games",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ziahamza/webui-aria2",
+    "Name": "webui-aria2",
+    "Url": "https://github.com/ziahamza/webui-aria2",
+    "Description": "The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser. ",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 10303,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-05-01T09:15:18Z",
+    "UpdatedAt": "2026-05-02T15:10:09Z",
+    "Owner": "ziahamza",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hankcs/HanLP",
+    "Name": "HanLP",
+    "Url": "https://github.com/hankcs/HanLP",
+    "Description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
+    "Topics": [
+      "dependency-parser",
+      "hanlp",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pos-tagging",
+      "semantic-parsing",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 36293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-09T06:36:16Z",
+    "UpdatedAt": "2026-05-03T17:27:42Z",
+    "Owner": "hankcs",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ascoders/weekly",
+    "Name": "weekly",
+    "Url": "https://github.com/ascoders/weekly",
+    "Description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "Topics": [
+      "awesome",
+      "frontend",
+      "weekly"
+    ],
+    "Language": "JavaScript",
+    "Stars": 30970,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-20T06:10:04Z",
+    "UpdatedAt": "2026-05-03T14:39:16Z",
+    "Owner": "ascoders",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webtorrent/webtorrent-desktop",
+    "Name": "webtorrent-desktop",
+    "Url": "https://github.com/webtorrent/webtorrent-desktop",
+    "Description": "❤️ Streaming torrent app for Mac, Windows, and Linux",
+    "Topics": [
+      "bittorrent",
+      "electron",
+      "hacktoberfest",
+      "javascript",
+      "linux",
+      "macos",
+      "nodejs",
+      "p2p",
+      "streaming",
+      "webrtc",
+      "webtorrent",
+      "windows"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10053,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-04T05:21:35Z",
+    "UpdatedAt": "2026-05-03T16:01:26Z",
+    "Owner": "webtorrent",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "electerm/electerm",
+    "Name": "electerm",
+    "Url": "https://github.com/electerm/electerm",
+    "Description": "📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)",
+    "Topics": [
+      "ai",
+      "electerm",
+      "electron",
+      "file-manager",
+      "ftp",
+      "linux-app",
+      "macos-app",
+      "mcp",
+      "open-source",
+      "rdp",
+      "serialport",
+      "sftp",
+      "spice",
+      "ssh",
+      "telnet",
+      "terminal",
+      "vnc",
+      "windows-app",
+      "zmodem"
+    ],
+    "Language": "JavaScript",
+    "Stars": 14026,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-07T09:54:11Z",
+    "UpdatedAt": "2026-05-03T15:31:38Z",
+    "Owner": "electerm",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Z-Siqi/Clash-for-Windows_Chinese",
+    "Name": "Clash-for-Windows_Chinese",
+    "Url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese",
+    "Description": "clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序",
+    "Topics": [
+      "chinese",
+      "clash",
+      "clash-chinese",
+      "shadowsocks",
+      "windows",
+      "zh-cn"
+    ],
+    "Language": "JavaScript",
+    "Stars": 28152,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-19T08:13:23Z",
+    "UpdatedAt": "2026-05-03T15:23:19Z",
+    "Owner": "Z-Siqi",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mike182uk/timestring",
+    "Name": "timestring",
+    "Url": "https://github.com/mike182uk/timestring",
+    "Description": "Parse a human readable time string into a time based value",
+    "Topics": [
+      "natural-language-processing",
+      "time",
+      "time-parsing"
+    ],
+    "Language": "JavaScript",
+    "Stars": 82,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-15T21:06:47Z",
+    "UpdatedAt": "2025-11-20T10:39:27Z",
+    "Owner": "mike182uk",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AnchoringAI/anchoring-ai",
+    "Name": "anchoring-ai",
+    "Url": "https://github.com/AnchoringAI/anchoring-ai",
+    "Description": "An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.",
+    "Topics": [
+      "ai",
+      "anchoring",
+      "apache",
+      "artificial-intelligence",
+      "flask",
+      "langchain",
+      "language-model",
+      "large-language-models",
+      "mysql",
+      "natural-language-processing",
+      "ops",
+      "prompt-engineering",
+      "python",
+      "react"
+    ],
+    "Language": "JavaScript",
+    "Stars": 155,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-23T21:30:10Z",
+    "UpdatedAt": "2026-02-13T18:47:05Z",
+    "Owner": "AnchoringAI",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "adamlui/chatgpt-auto-refresh",
+    "Name": "chatgpt-auto-refresh",
+    "Url": "https://github.com/adamlui/chatgpt-auto-refresh",
+    "Description": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "chatgpt3",
+      "cloudflare",
+      "gpt",
+      "gpt-3",
+      "gpt-4",
+      "greasemonkey",
+      "javascript",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "openai",
+      "reloader",
+      "userscript",
+      "userscripts"
+    ],
+    "Language": "JavaScript",
+    "Stars": 208,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-28T23:10:13Z",
+    "UpdatedAt": "2026-04-30T07:36:02Z",
+    "Owner": "adamlui",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "idurar/idurar-erp-crm",
+    "Name": "idurar-erp-crm",
+    "Url": "https://github.com/idurar/idurar-erp-crm",
+    "Description": "Free Open Source ERP CRM Software Accounting Invoicing | Node Js React",
+    "Topics": [
+      "accounting",
+      "accounting-software",
+      "crm",
+      "crm-platform",
+      "crm-system",
+      "e-commerce",
+      "ecommerce",
+      "erp",
+      "erp-application",
+      "erp-software",
+      "invoice",
+      "invoice-software",
+      "invoicing",
+      "invoicing-application",
+      "invoicing-software",
+      "mern-project",
+      "mern-stack",
+      "mongoose",
+      "open-source-crm",
+      "open-source-erp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8381,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-17T22:38:36Z",
+    "UpdatedAt": "2026-05-03T11:32:59Z",
+    "Owner": "idurar",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "givanz/VvvebJs",
+    "Name": "VvvebJs",
+    "Url": "https://github.com/givanz/VvvebJs",
+    "Description": "Drag and drop page builder library written in vanilla javascript without dependencies or build tools.",
+    "Topics": [
+      "bootstrap",
+      "bootstrap5",
+      "builder",
+      "drag-and-drop",
+      "editor",
+      "free",
+      "javascript",
+      "low-code",
+      "no-code",
+      "nocode",
+      "nodejs",
+      "open-source",
+      "page-builder",
+      "scss",
+      "site-generator",
+      "ui",
+      "vanilla-javascript",
+      "website-builder",
+      "website-generation",
+      "wysiwyg"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-11T15:39:02Z",
+    "UpdatedAt": "2026-05-03T14:03:01Z",
+    "Owner": "givanz",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "4ian/GDevelop",
+    "Name": "GDevelop",
+    "Url": "https://github.com/4ian/GDevelop",
+    "Description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+    "Topics": [
+      "2d-game",
+      "2d-game-engine",
+      "3d",
+      "3d-game",
+      "3d-game-engine",
+      "game",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "gamemaker",
+      "gdevelop",
+      "hacktoberfest",
+      "html5",
+      "html5-game-engine",
+      "javascript",
+      "multiplayer",
+      "no-code",
+      "open-source",
+      "vibe-coding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 22582,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-29T19:58:38Z",
+    "UpdatedAt": "2026-05-03T17:23:05Z",
+    "Owner": "4ian",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rethinkdb/horizon",
+    "Name": "horizon",
+    "Url": "https://github.com/rethinkdb/horizon",
+    "Description": "Horizon is a realtime, open-source backend for JavaScript apps.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 6739,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-28T05:33:14Z",
+    "UpdatedAt": "2026-04-19T12:40:15Z",
+    "Owner": "rethinkdb",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T17:17:38Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenSignLabs/OpenSign",
+    "Name": "OpenSign",
+    "Url": "https://github.com/OpenSignLabs/OpenSign",
+    "Description": "🔥 The free & Open Source DocuSign alternative",
+    "Topics": [
+      "digital-signature",
+      "document-signing",
+      "docusign-alternative",
+      "docusign-free",
+      "e-signature",
+      "electronic-signature",
+      "electronic-signatures",
+      "esign",
+      "esignature",
+      "hacktoberfest",
+      "javascript",
+      "legaltech",
+      "mongodb",
+      "nodejs",
+      "open-source",
+      "pdf-sign",
+      "pdf-signature",
+      "reactjs",
+      "self-hosted",
+      "sign-pdf-files"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6255,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-02T15:53:30Z",
+    "UpdatedAt": "2026-05-03T15:14:40Z",
+    "Owner": "OpenSignLabs",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "winstonjs/winston",
+    "Name": "winston",
+    "Url": "https://github.com/winstonjs/winston",
+    "Description": "A logger for just about everything.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 24437,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-29T18:49:51Z",
+    "UpdatedAt": "2026-05-03T16:26:03Z",
+    "Owner": "winstonjs",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cerebroapp/cerebro",
+    "Name": "cerebro",
+    "Url": "https://github.com/cerebroapp/cerebro",
+    "Description": "🔵 Cerebro is an open-source launcher to improve your productivity and efficiency",
+    "Topics": [
+      "cerebro",
+      "electron",
+      "launcher",
+      "search"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8542,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-03T14:42:01Z",
+    "UpdatedAt": "2026-05-03T14:48:08Z",
+    "Owner": "cerebroapp",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Nozbe/WatermelonDB",
+    "Name": "WatermelonDB",
+    "Url": "https://github.com/Nozbe/WatermelonDB",
+    "Description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
+    "Topics": [
+      "database",
+      "hacktoberfest",
+      "persistence",
+      "react",
+      "react-native",
+      "reactive",
+      "rxjs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 11644,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-28T15:32:05Z",
+    "UpdatedAt": "2026-05-02T23:51:25Z",
+    "Owner": "Nozbe",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "adamlui/chatgpt-infinity",
+    "Name": "chatgpt-infinity",
+    "Url": "https://github.com/adamlui/chatgpt-infinity",
+    "Description": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!)",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "chrome-extension",
+      "experimental",
+      "firefox-addon",
+      "gpt-5",
+      "greasemonkey",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "trivia",
+      "userscripts"
+    ],
+    "Language": "JavaScript",
+    "Stars": 350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-28T08:00:23Z",
+    "UpdatedAt": "2026-05-01T14:08:12Z",
+    "Owner": "adamlui",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ines/spacy-js",
+    "Name": "spacy-js",
+    "Url": "https://github.com/ines/spacy-js",
+    "Description": "🎀 JavaScript API for spaCy with Python REST API",
+    "Topics": [
+      "javascript",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "rest-api",
+      "spacy"
+    ],
+    "Language": "JavaScript",
+    "Stars": 201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-25T12:06:55Z",
+    "UpdatedAt": "2026-04-22T18:27:54Z",
+    "Owner": "ines",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "videojs/video.js",
+    "Name": "video.js",
+    "Url": "https://github.com/videojs/video.js",
+    "Description": "Video.js - open source HTML5 video player",
+    "Topics": [
+      "dash",
+      "hls",
+      "html",
+      "html5",
+      "html5-audio",
+      "html5-video",
+      "javascript",
+      "player",
+      "video",
+      "video-player",
+      "videojs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 39723,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-05-14T18:45:10Z",
+    "UpdatedAt": "2026-05-03T14:17:39Z",
+    "Owner": "videojs",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Stremio/stremio-web",
+    "Name": "stremio-web",
+    "Url": "https://github.com/Stremio/stremio-web",
+    "Description": "Stremio - Freedom to Stream",
+    "Topics": [
+      "hacktoberfest",
+      "stremio"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10695,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-04T12:45:05Z",
+    "UpdatedAt": "2026-05-03T13:48:24Z",
+    "Owner": "Stremio",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "intelligo-mn/neuro",
+    "Name": "neuro",
+    "Url": "https://github.com/intelligo-mn/neuro",
+    "Description": "🔮 Neuro.js is machine learning library for building AI assistants and chat-bots.",
+    "Topics": [
+      "ai",
+      "ai-assistants",
+      "bot",
+      "chat-bot",
+      "chat-bots",
+      "chatbot",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "nodejs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 202,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-20T06:40:38Z",
+    "UpdatedAt": "2026-01-16T05:42:43Z",
+    "Owner": "intelligo-mn",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "poteto/hiring-without-whiteboards",
+    "Name": "hiring-without-whiteboards",
+    "Url": "https://github.com/poteto/hiring-without-whiteboards",
+    "Description": "⭐️  Companies that don't have a broken hiring process",
+    "Topics": [
+      "airtable",
+      "hiring",
+      "hiring-without-whiteboards",
+      "interview",
+      "jobs",
+      "tech",
+      "whiteboard"
+    ],
+    "Language": "JavaScript",
+    "Stars": 50592,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-15T05:09:01Z",
+    "UpdatedAt": "2026-05-03T17:46:07Z",
+    "Owner": "poteto",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KudoAI/bravegpt",
+    "Name": "bravegpt",
+    "Url": "https://github.com/KudoAI/bravegpt",
+    "Description": "🦁 AI chat & search summaries in Brave Search, powered by the latest LLMs",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "brave",
+      "brave-search",
+      "chat",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "gpt-5",
+      "greasemonkey",
+      "javascript",
+      "kudoai",
+      "machine-learning",
+      "nlp",
+      "openai",
+      "search",
+      "userscripts",
+      "web",
+      "websearch"
+    ],
+    "Language": "JavaScript",
+    "Stars": 209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-26T22:20:07Z",
+    "UpdatedAt": "2026-05-01T03:40:22Z",
+    "Owner": "KudoAI",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "andreekeberg/ml-classify-text-js",
+    "Name": "ml-classify-text-js",
+    "Url": "https://github.com/andreekeberg/ml-classify-text-js",
+    "Description": "Machine learning based text classification in JavaScript using n-grams and cosine similarity",
+    "Topics": [
+      "artificial-intelligence",
+      "classification",
+      "classifier",
+      "cosine-similarity",
+      "labels",
+      "library",
+      "machine-learning",
+      "n-gram",
+      "n-grams",
+      "natural-language-processing",
+      "predictions",
+      "sentiment-analysis",
+      "similarity",
+      "text-classification",
+      "text-classifier",
+      "training"
+    ],
+    "Language": "JavaScript",
+    "Stars": 136,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-26T20:27:29Z",
+    "UpdatedAt": "2026-04-29T07:32:23Z",
+    "Owner": "andreekeberg",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "swagger-api/swagger-editor",
+    "Name": "swagger-editor",
+    "Url": "https://github.com/swagger-api/swagger-editor",
+    "Description": "Swagger Editor",
+    "Topics": [
+      "hacktoberfest",
+      "open-source",
+      "openapi-specification",
+      "openapi3",
+      "openapi31",
+      "rest",
+      "rest-api",
+      "swagger",
+      "swagger-editor",
+      "swagger-oss",
+      "swagger-ui"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9433,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-02T22:47:10Z",
+    "UpdatedAt": "2026-05-02T11:08:50Z",
+    "Owner": "swagger-api",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kharazi/moujez",
+    "Name": "moujez",
+    "Url": "https://github.com/kharazi/moujez",
+    "Description": "Persian Text Summarization Agent",
+    "Topics": [
+      "natural-language-processing",
+      "persian",
+      "persian-nlp",
+      "text-summarization"
+    ],
+    "Language": "JavaScript",
+    "Stars": 68,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-22T20:26:15Z",
+    "UpdatedAt": "2024-09-05T15:49:08Z",
+    "Owner": "kharazi",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Foundry376/Mailspring",
+    "Name": "Mailspring",
+    "Url": "https://github.com/Foundry376/Mailspring",
+    "Description": ":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+    "Topics": [
+      "electron",
+      "electron-app",
+      "email",
+      "imap",
+      "linux",
+      "mail",
+      "osx",
+      "windows"
+    ],
+    "Language": "JavaScript",
+    "Stars": 17432,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-13T06:45:50Z",
+    "UpdatedAt": "2026-05-03T17:44:29Z",
+    "Owner": "Foundry376",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "winkjs/wink-nlp",
+    "Name": "wink-nlp",
+    "Url": "https://github.com/winkjs/wink-nlp",
+    "Description": "Developer friendly Natural Language Processing ✨",
+    "Topics": [
+      "bm25",
+      "chatbot",
+      "custom-entity-detection",
+      "hacktoberfest",
+      "named-entity-extraction",
+      "natural-language-processing",
+      "negation-handling",
+      "ner",
+      "nlp",
+      "pattern-matching",
+      "pos-tagging",
+      "sbd",
+      "sentence-boundary-detection",
+      "sentiment-analysis",
+      "tokenize",
+      "vectorizer",
+      "visualization",
+      "wink",
+      "wink-nlp",
+      "word-vectors"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1371,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-15T02:02:08Z",
+    "UpdatedAt": "2026-04-28T18:12:01Z",
+    "Owner": "winkjs",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apachecn/ailearning",
+    "Name": "ailearning",
+    "Url": "https://github.com/apachecn/ailearning",
+    "Description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "Topics": [
+      "adaboost",
+      "apriori",
+      "deeplearning",
+      "dnn",
+      "fp-growth",
+      "kmeans",
+      "logistic",
+      "lstm",
+      "mahchine-leaning",
+      "naivebayes",
+      "nlp",
+      "pca",
+      "python",
+      "recommendedsystem",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "sklearn",
+      "svd",
+      "svm"
+    ],
+    "Language": "Python",
+    "Stars": 42221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-25T08:53:02Z",
+    "UpdatedAt": "2026-05-03T13:46:54Z",
+    "Owner": "apachecn",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "amark/gun",
+    "Name": "gun",
+    "Url": "https://github.com/amark/gun",
+    "Description": "An open source cybersecurity protocol for syncing decentralized graph data.",
+    "Topics": [
+      "artificial-intelligence",
+      "big-data",
+      "blockchain",
+      "crdt",
+      "crypto",
+      "cryptography",
+      "dapp",
+      "database",
+      "decentralized",
+      "dweb",
+      "encryption",
+      "end-to-end",
+      "graph",
+      "machine-learning",
+      "metaverse",
+      "offline-first",
+      "p2p",
+      "protocol",
+      "realtime",
+      "web3"
+    ],
+    "Language": "JavaScript",
+    "Stars": 19031,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-31T15:52:10Z",
+    "UpdatedAt": "2026-05-03T13:46:46Z",
+    "Owner": "amark",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neuml/txtai.js",
+    "Name": "txtai.js",
+    "Url": "https://github.com/neuml/txtai.js",
+    "Description": "JavaScript client for txtai",
+    "Topics": [
+      "ai",
+      "javascript",
+      "nlp",
+      "search",
+      "txtai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-21T00:16:21Z",
+    "UpdatedAt": "2026-04-29T17:12:20Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmarman/lorca",
+    "Name": "lorca",
+    "Url": "https://github.com/dmarman/lorca",
+    "Description": "Natural Language Processing for Spanish in Node.js. Stemmer, sentiment analysis, readability, tf-idf with batteries, concordance and more!",
+    "Topics": [
+      "concordance",
+      "javascript",
+      "language",
+      "natural-language-processing",
+      "nlp",
+      "nodejs",
+      "readability",
+      "sentiment-analysis",
+      "spanish",
+      "stemmer",
+      "tf-idf"
+    ],
+    "Language": "JavaScript",
+    "Stars": 111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-11T09:36:47Z",
+    "UpdatedAt": "2024-12-11T14:52:02Z",
+    "Owner": "dmarman",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dair-ai/AI-Papers-of-the-Week",
+    "Name": "AI-Papers-of-the-Week",
+    "Url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+    "Description": "🔥Highlighting the top ML papers every week.",
+    "Topics": [
+      "ai",
+      "data-science",
+      "deeplearning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "",
+    "Stars": 12377,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-08T19:26:35Z",
+    "UpdatedAt": "2026-05-03T16:50:52Z",
+    "Owner": "dair-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bgstaal/multipleWindow3dScene",
+    "Name": "multipleWindow3dScene",
+    "Url": "https://github.com/bgstaal/multipleWindow3dScene",
+    "Description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 18987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-23T11:03:22Z",
+    "UpdatedAt": "2026-05-03T03:27:51Z",
+    "Owner": "bgstaal",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DukeEnglish/cs224n_learning_note",
+    "Name": "cs224n_learning_note",
+    "Url": "https://github.com/DukeEnglish/cs224n_learning_note",
+    "Description": "Stanford cs224n. 斯坦福2019最新cs224n学习资料 个人学习笔记和解读以及作业解答。 http://web.stanford.edu/class/cs224n/",
+    "Topics": [
+      "cs224n",
+      "machine-translation",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "stanford"
+    ],
+    "Language": "JavaScript",
+    "Stars": 53,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-18T23:40:07Z",
+    "UpdatedAt": "2025-09-01T13:53:49Z",
+    "Owner": "DukeEnglish",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanford-oval/genie-server",
+    "Name": "genie-server",
+    "Url": "https://github.com/stanford-oval/genie-server",
+    "Description": "The home server version of Almond",
+    "Topics": [
+      "hacktoberfest",
+      "nlp",
+      "raspberrypi",
+      "voice"
+    ],
+    "Language": "JavaScript",
+    "Stars": 271,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-11T20:57:41Z",
+    "UpdatedAt": "2025-10-27T11:01:15Z",
+    "Owner": "stanford-oval",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MagicMirrorOrg/MagicMirror",
+    "Name": "MagicMirror",
+    "Url": "https://github.com/MagicMirrorOrg/MagicMirror",
+    "Description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+    "Topics": [
+      "domotics",
+      "javascript",
+      "magicmirror",
+      "mirror",
+      "raspberry-pi",
+      "smarthome"
+    ],
+    "Language": "JavaScript",
+    "Stars": 23494,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-02-19T15:48:09Z",
+    "UpdatedAt": "2026-05-03T05:47:16Z",
+    "Owner": "MagicMirrorOrg",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GoogleChrome/workbox",
+    "Name": "workbox",
+    "Url": "https://github.com/GoogleChrome/workbox",
+    "Description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
+    "Topics": [
+      "offline-first",
+      "progressive-web-app",
+      "service-worker",
+      "service-workers",
+      "sw-precache",
+      "sw-toolbox"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12938,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-04-04T15:55:19Z",
+    "UpdatedAt": "2026-05-03T08:47:09Z",
+    "Owner": "GoogleChrome",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webpack/webpack",
+    "Name": "webpack",
+    "Url": "https://github.com/webpack/webpack",
+    "Description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "Topics": [
+      "amd",
+      "build-tool",
+      "commonjs",
+      "compiler",
+      "es2015",
+      "es6",
+      "esm",
+      "javascript",
+      "javascript-compiler",
+      "javascript-modules",
+      "loaders",
+      "module-bundler",
+      "plugins",
+      "web",
+      "web-performance",
+      "webpack"
+    ],
+    "Language": "JavaScript",
+    "Stars": 65775,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-03-10T10:08:14Z",
+    "UpdatedAt": "2026-05-03T13:46:10Z",
+    "Owner": "webpack",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Freeboard/freeboard",
+    "Name": "freeboard",
+    "Url": "https://github.com/Freeboard/freeboard",
+    "Description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 6497,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-07-28T21:46:36Z",
+    "UpdatedAt": "2026-04-29T18:11:34Z",
+    "Owner": "Freeboard",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "chatopera/node-synonyms",
+    "Name": "node-synonyms",
+    "Url": "https://github.com/chatopera/node-synonyms",
+    "Description": ":ferris_wheel: 中文近义词工具包，聊天机器人",
+    "Topics": [
+      "chatbot",
+      "natural-language-generation",
+      "natural-language-processing",
+      "natural-language-understanding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-15T00:51:48Z",
+    "UpdatedAt": "2024-12-18T17:52:33Z",
+    "Owner": "chatopera",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "welldone-software/why-did-you-render",
+    "Name": "why-did-you-render",
+    "Url": "https://github.com/welldone-software/why-did-you-render",
+    "Description": "why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)",
+    "Topics": [
+      "component",
+      "hooks-tracking",
+      "performance",
+      "pure",
+      "purecomponent",
+      "react",
+      "react-native",
+      "render",
+      "tool",
+      "update"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-10T19:31:09Z",
+    "UpdatedAt": "2026-05-03T14:40:47Z",
+    "Owner": "welldone-software",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scofield7419/sequence-labeling-BiLSTM-CRF",
+    "Name": "sequence-labeling-BiLSTM-CRF",
+    "Url": "https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF",
+    "Description": "The BiLSTM-CRF model implementation in Tensorflow, for sequence labeling tasks.",
+    "Topics": [
+      "bilstm-crf",
+      "ner",
+      "nlp",
+      "python35",
+      "sequence-labeling",
+      "tensorflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 703,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-14T14:55:40Z",
+    "UpdatedAt": "2026-01-22T08:04:04Z",
+    "Owner": "scofield7419",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "axa-group/nlp.js",
+    "Name": "nlp.js",
+    "Url": "https://github.com/axa-group/nlp.js",
+    "Description": "An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more",
+    "Topics": [
+      "bot",
+      "bots",
+      "chatbot",
+      "classifier",
+      "conversational-ai",
+      "entity-extraction",
+      "hacktoberfest",
+      "javascript",
+      "natural-language-processing",
+      "nlp",
+      "nlu",
+      "nodejs",
+      "sentiment-analysis"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6563,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-30T17:46:04Z",
+    "UpdatedAt": "2026-05-03T16:54:24Z",
+    "Owner": "axa-group",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shimohq/chinese-programmer-wrong-pronunciation",
+    "Name": "chinese-programmer-wrong-pronunciation",
+    "Url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "Description": "中国程序员容易发音错误的单词",
+    "Topics": [
+      "chinese-programmers",
+      "documentation",
+      "pronunciation",
+      "spelling"
+    ],
+    "Language": "JavaScript",
+    "Stars": 23177,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-15T09:02:40Z",
+    "UpdatedAt": "2026-05-03T13:51:17Z",
+    "Owner": "shimohq",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mattdelacdev/WOW",
+    "Name": "WOW",
+    "Url": "https://github.com/mattdelacdev/WOW",
+    "Description": "Reveal CSS animation as you scroll down a page",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 9909,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-12-29T07:53:44Z",
+    "UpdatedAt": "2026-05-03T10:45:00Z",
+    "Owner": "mattdelacdev",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "paschmann/rasa-ui",
+    "Name": "rasa-ui",
+    "Url": "https://github.com/paschmann/rasa-ui",
+    "Description": "Rasa UI is a frontend for the Rasa Framework",
+    "Topics": [
+      "angular",
+      "manage-bots",
+      "nlp",
+      "nlp-apis",
+      "nlp-machine-learning",
+      "nlu",
+      "nodejs",
+      "rasa",
+      "rasa-nlu"
+    ],
+    "Language": "JavaScript",
+    "Stars": 965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-09T19:48:50Z",
+    "UpdatedAt": "2026-04-30T10:31:20Z",
+    "Owner": "paschmann",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "linonetwo/segmentit",
+    "Name": "segmentit",
+    "Url": "https://github.com/linonetwo/segmentit",
+    "Description": "任何 JS 环境可用的中文分词包，fork from leizongmin/node-segment",
+    "Topics": [
+      "chinese",
+      "chinese-nlp",
+      "nlp",
+      "segmentation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 313,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-07T08:26:24Z",
+    "UpdatedAt": "2026-04-23T13:02:30Z",
+    "Owner": "linonetwo",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wooorm/franc",
+    "Name": "franc",
+    "Url": "https://github.com/wooorm/franc",
+    "Description": "Natural language detection",
+    "Topics": [
+      "classification",
+      "classify",
+      "detect",
+      "detection",
+      "javascript",
+      "language",
+      "language-detection",
+      "natural",
+      "natural-language",
+      "nlp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4392,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-19T14:50:53Z",
+    "UpdatedAt": "2026-05-03T17:25:26Z",
+    "Owner": "wooorm",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "r-spacex/SpaceX-API",
+    "Name": "SpaceX-API",
+    "Url": "https://github.com/r-spacex/SpaceX-API",
+    "Description": ":rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.",
+    "Topics": [
+      "api",
+      "capsule",
+      "docker",
+      "koa",
+      "launchpad",
+      "nasa",
+      "nodejs",
+      "rest-api",
+      "restful-api",
+      "rocket",
+      "space",
+      "space-program",
+      "spacex",
+      "spacex-api",
+      "starlink"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10851,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-19T19:04:23Z",
+    "UpdatedAt": "2026-05-03T15:19:07Z",
+    "Owner": "r-spacex",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bigscience-workshop/petals",
+    "Name": "petals",
+    "Url": "https://github.com/bigscience-workshop/petals",
+    "Description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "Topics": [
+      "bloom",
+      "chatbot",
+      "deep-learning",
+      "distributed-systems",
+      "falcon",
+      "gpt",
+      "guanaco",
+      "language-models",
+      "large-language-models",
+      "llama",
+      "machine-learning",
+      "mixtral",
+      "neural-networks",
+      "nlp",
+      "pipeline-parallelism",
+      "pretrained-models",
+      "pytorch",
+      "tensor-parallelism",
+      "transformer",
+      "volunteer-computing"
+    ],
+    "Language": "Python",
+    "Stars": 10112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-12T00:10:27Z",
+    "UpdatedAt": "2026-05-03T17:15:38Z",
+    "Owner": "bigscience-workshop",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "victorqribeiro/hntitlenator",
+    "Name": "hntitlenator",
+    "Url": "https://github.com/victorqribeiro/hntitlenator",
+    "Description": "Test your HN title against a neural network",
+    "Topics": [
+      "javascript",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "nlp-machine-learning"
+    ],
+    "Language": "JavaScript",
+    "Stars": 181,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-12T09:27:21Z",
+    "UpdatedAt": "2025-11-14T22:10:57Z",
+    "Owner": "victorqribeiro",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Luvata/CS224N-2019",
+    "Name": "CS224N-2019",
+    "Url": "https://github.com/Luvata/CS224N-2019",
+    "Description": "My completed solutions for CS224N 2021 & 2019",
+    "Topics": [
+      "cs224n",
+      "cs224n-assignment-solutions",
+      "deep-learning",
+      "natural-language-processing",
+      "pytorch",
+      "stanford",
+      "synthesizer",
+      "transformer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 329,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-04T11:58:54Z",
+    "UpdatedAt": "2026-03-16T12:14:20Z",
+    "Owner": "Luvata",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tangyudi/Ai-Learn",
+    "Name": "Ai-Learn",
+    "Url": "https://github.com/tangyudi/Ai-Learn",
+    "Description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
+    "Topics": [
+      "algorithm",
+      "artificial-intelligence",
+      "caffe",
+      "cv",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "keras",
+      "machine-learning",
+      "mathematics",
+      "matplotlib",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "seaborn",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "Language": "",
+    "Stars": 12947,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-28T01:55:06Z",
+    "UpdatedAt": "2026-05-03T10:42:10Z",
+    "Owner": "tangyudi",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "avwo/whistle",
+    "Name": "whistle",
+    "Url": "https://github.com/avwo/whistle",
+    "Description": "HTTP, HTTP2, HTTPS, Websocket debugging proxy",
+    "Topics": [
+      "charles",
+      "debug",
+      "fiddler",
+      "hosts",
+      "node",
+      "nodejs",
+      "proxy",
+      "web",
+      "weinre"
+    ],
+    "Language": "JavaScript",
+    "Stars": 15494,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-13T05:42:01Z",
+    "UpdatedAt": "2026-05-02T13:40:06Z",
+    "Owner": "avwo",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "666ghj/BettaFish",
+    "Name": "BettaFish",
+    "Url": "https://github.com/666ghj/BettaFish",
+    "Description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "Topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 40729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-01T13:11:38Z",
+    "UpdatedAt": "2026-05-03T17:26:47Z",
+    "Owner": "666ghj",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-BERT-wwm",
+    "Name": "Chinese-BERT-wwm",
+    "Url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "Description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "Topics": [
+      "bert",
+      "bert-wwm",
+      "bert-wwm-ext",
+      "chinese-bert",
+      "nlp",
+      "pytorch",
+      "rbt",
+      "roberta",
+      "roberta-wwm",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 10202,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-19T22:55:01Z",
+    "UpdatedAt": "2026-05-03T07:05:33Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "robotroutine/scriptum",
+    "Name": "scriptum",
+    "Url": "https://github.com/robotroutine/scriptum",
+    "Description": "No-Frills Functional Programming Lib Augmenting Javascript/Node.js",
+    "Topics": [
+      "composition",
+      "fold",
+      "folding",
+      "function-composition",
+      "functional-programming",
+      "javascript",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "persistent-data-structure",
+      "pure-function",
+      "purity",
+      "recursion",
+      "structural-sharing"
+    ],
+    "Language": "JavaScript",
+    "Stars": 381,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-21T16:57:59Z",
+    "UpdatedAt": "2026-04-23T04:20:27Z",
+    "Owner": "robotroutine",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dataqa/nlp-labelling",
+    "Name": "nlp-labelling",
+    "Url": "https://github.com/dataqa/nlp-labelling",
+    "Description": "Labelling platform for text using weak supervision.",
+    "Topics": [
+      "annotation-tool",
+      "data-labeling",
+      "data-science",
+      "learning-with-limited-labeled-data",
+      "learning-with-noisy-labels",
+      "natural-language-processing",
+      "ner",
+      "nlp",
+      "nlp-machine-learning",
+      "pseudo-labeling",
+      "search-engine",
+      "text-annotation-tool",
+      "text-classification",
+      "text-mining",
+      "weak-supervision"
+    ],
+    "Language": "JavaScript",
+    "Stars": 260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-06T08:49:10Z",
+    "UpdatedAt": "2026-04-27T08:19:46Z",
+    "Owner": "dataqa",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50",
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "frappe/gantt",
+    "Name": "gantt",
+    "Url": "https://github.com/frappe/gantt",
+    "Description": "Open Source Javascript Gantt",
+    "Topics": [
+      "frappe-gantt",
+      "gantt",
+      "gantt-chart",
+      "ganttjs",
+      "javascript-gantt"
+    ],
+    "Language": "JavaScript",
+    "Stars": 5955,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-26T12:17:58Z",
+    "UpdatedAt": "2026-05-03T03:24:32Z",
+    "Owner": "frappe",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HeyHeyChicken/NOVA-NodeJS",
+    "Name": "NOVA-NodeJS",
+    "Url": "https://github.com/HeyHeyChicken/NOVA-NodeJS",
+    "Description": "NOVA is a customizable voice assistant made with Node.js.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "assistant",
+      "bot",
+      "chatbot",
+      "natural-language-processing",
+      "nodejs",
+      "offline",
+      "open-source",
+      "personal-assistant",
+      "privacy",
+      "raspberry-pi",
+      "skills",
+      "speech-recognition",
+      "speech-synthesis",
+      "speech-to-text",
+      "text-to-speech",
+      "virtual-assistant",
+      "voice-as-an-interface",
+      "voice-assistant"
+    ],
+    "Language": "JavaScript",
+    "Stars": 86,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-05T13:05:30Z",
+    "UpdatedAt": "2026-04-22T11:10:29Z",
+    "Owner": "HeyHeyChicken",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neuml/txtai",
+    "Name": "txtai",
+    "Url": "https://github.com/neuml/txtai",
+    "Description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "embeddings",
+      "information-retrieval",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "search",
+      "search-engine",
+      "semantic-search",
+      "sentence-embeddings",
+      "transformers",
+      "txtai",
+      "vector-database",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 12454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-09T19:14:59Z",
+    "UpdatedAt": "2026-05-03T17:36:29Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "typekit/webfontloader",
+    "Name": "webfontloader",
+    "Url": "https://github.com/typekit/webfontloader",
+    "Description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 9260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-04-21T00:54:16Z",
+    "UpdatedAt": "2026-04-30T17:41:16Z",
+    "Owner": "typekit",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OHNLP/MedTator",
+    "Name": "MedTator",
+    "Url": "https://github.com/OHNLP/MedTator",
+    "Description": "A Serverless Text Annotation Tool for Corpus Development",
+    "Topics": [
+      "corpus-processing",
+      "natural-language-processing",
+      "nlp",
+      "serverless",
+      "text-annotation-tool"
+    ],
+    "Language": "JavaScript",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-13T19:08:59Z",
+    "UpdatedAt": "2026-04-24T03:10:14Z",
+    "Owner": "OHNLP",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jinglescode/demos",
+    "Name": "demos",
+    "Url": "https://github.com/jinglescode/demos",
+    "Description": "Some JavaScript works published as demos, mostly ML or DS",
+    "Topics": [
+      "javascript",
+      "machine-learning",
+      "natural-language-processing",
+      "nodejs",
+      "reinforcement-learning",
+      "tensorflowjs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 66,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-29T05:16:27Z",
+    "UpdatedAt": "2026-03-11T05:47:29Z",
+    "Owner": "jinglescode",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alexcasalboni/aws-lambda-power-tuning",
+    "Name": "aws-lambda-power-tuning",
+    "Url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
+    "Description": "AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.",
+    "Topics": [
+      "aws",
+      "aws-lambda",
+      "cloud",
+      "cost",
+      "lambda",
+      "performance",
+      "serverless",
+      "stepfunctions"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6005,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-27T15:18:12Z",
+    "UpdatedAt": "2026-05-03T17:24:00Z",
+    "Owner": "alexcasalboni",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "developersdigest/function-chain",
+    "Name": "function-chain",
+    "Url": "https://github.com/developersdigest/function-chain",
+    "Description": "The FunctionChain is a tool that simplifies and organizes the process of invoking OpenAI functions in your Node.js applications. With this toolkit, you can easily scaffold out and isolate all the OpenAI function calls you need, making your code more modular, maintainable, and scalable.",
+    "Topics": [
+      "alpha-vantage",
+      "artificial-intelligence",
+      "automation",
+      "function-calling",
+      "functionchain",
+      "langchain",
+      "machine-learning",
+      "natural-language",
+      "natural-language-processing",
+      "nlp",
+      "openai",
+      "pinecone"
+    ],
+    "Language": "JavaScript",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-29T16:38:26Z",
+    "UpdatedAt": "2026-04-25T10:41:20Z",
+    "Owner": "developersdigest",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Mihaiii/semantic-autocomplete",
+    "Name": "semantic-autocomplete",
+    "Url": "https://github.com/Mihaiii/semantic-autocomplete",
+    "Description": "A blazing-fast semantic search React component. Match by meaning, not just by letters. Search as you type without waiting (no debounce needed). Rank by cosine similarity.",
+    "Topics": [
+      "cosine-similarity",
+      "material-ui",
+      "muiv5",
+      "muiv6",
+      "nlp",
+      "nlp-machine-learning",
+      "react",
+      "semantic",
+      "semantic-search"
+    ],
+    "Language": "JavaScript",
+    "Stars": 229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-19T16:22:34Z",
+    "UpdatedAt": "2026-04-07T05:04:00Z",
+    "Owner": "Mihaiii",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flairNLP/flair",
+    "Name": "flair",
+    "Url": "https://github.com/flairNLP/flair",
+    "Description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "Topics": [
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pytorch",
+      "semantic-role-labeling",
+      "sequence-labeling",
+      "word-embeddings"
+    ],
+    "Language": "Python",
+    "Stars": 14373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-11T11:04:18Z",
+    "UpdatedAt": "2026-05-02T18:37:18Z",
+    "Owner": "flairNLP",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "thisandagain/sentiment",
+    "Name": "sentiment",
+    "Url": "https://github.com/thisandagain/sentiment",
+    "Description": "AFINN-based sentiment analysis for Node.js.",
+    "Topics": [
+      "afinn",
+      "analysis",
+      "javascript",
+      "nlp",
+      "sentiment",
+      "sentiment-analysis"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2676,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-10-08T03:45:22Z",
+    "UpdatedAt": "2026-04-26T14:49:19Z",
+    "Owner": "thisandagain",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "EastWorld/wechat-app-mall",
+    "Name": "wechat-app-mall",
+    "Url": "https://github.com/EastWorld/wechat-app-mall",
+    "Description": "微信小程序商城，微信小程序微店",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 21612,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-30T09:16:15Z",
+    "UpdatedAt": "2026-05-03T08:26:33Z",
+    "Owner": "EastWorld",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wangrongding/wechat-bot",
+    "Name": "wechat-bot",
+    "Url": "https://github.com/wangrongding/wechat-bot",
+    "Description": "🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...",
+    "Topics": [
+      "chatgpt",
+      "openai",
+      "wechat",
+      "wechatbot",
+      "wechaty"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10393,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-15T06:04:18Z",
+    "UpdatedAt": "2026-05-03T14:57:58Z",
+    "Owner": "wangrongding",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WebKit/WebKit",
+    "Name": "WebKit",
+    "Url": "https://github.com/WebKit/WebKit",
+    "Description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+    "Topics": [
+      "browser",
+      "gtk",
+      "ios",
+      "javascript",
+      "macos",
+      "web",
+      "webkit"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9785,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T17:11:43Z",
+    "UpdatedAt": "2026-05-03T16:51:50Z",
+    "Owner": "WebKit",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jantimon/html-webpack-plugin",
+    "Name": "html-webpack-plugin",
+    "Url": "https://github.com/jantimon/html-webpack-plugin",
+    "Description": "Simplifies creation of HTML files to serve your webpack bundles",
+    "Topics": [
+      "html-webpack-plugin",
+      "webpack"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10733,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-08T03:19:15Z",
+    "UpdatedAt": "2026-05-01T15:55:57Z",
+    "Owner": "jantimon",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LingDong-/cope",
+    "Name": "cope",
+    "Url": "https://github.com/LingDong-/cope",
+    "Description": "A modern IDE for writing classical Chinese poetry 格律诗编辑程序",
+    "Topics": [
+      "bag-of-words",
+      "chinese",
+      "chinese-poetry",
+      "editor",
+      "electron",
+      "ide",
+      "nlp",
+      "poetry"
+    ],
+    "Language": "JavaScript",
+    "Stars": 475,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-01T20:08:42Z",
+    "UpdatedAt": "2026-04-10T06:13:40Z",
+    "Owner": "LingDong-",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "imakewebthings/waypoints",
+    "Name": "waypoints",
+    "Url": "https://github.com/imakewebthings/waypoints",
+    "Description": "Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 10321,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-01-25T07:46:22Z",
+    "UpdatedAt": "2026-04-30T22:32:49Z",
+    "Owner": "imakewebthings",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "youzan/vant-weapp",
+    "Name": "vant-weapp",
+    "Url": "https://github.com/youzan/vant-weapp",
+    "Description": "轻量、可靠的小程序 UI 组件库",
+    "Topics": [
+      "miniprogram",
+      "ui",
+      "vant",
+      "weapp",
+      "weixin"
+    ],
+    "Language": "JavaScript",
+    "Stars": 18368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-23T07:05:54Z",
+    "UpdatedAt": "2026-05-02T16:49:00Z",
+    "Owner": "youzan",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pandao/editor.md",
+    "Name": "editor.md",
+    "Url": "https://github.com/pandao/editor.md",
+    "Description": "The open source embeddable online markdown editor (component).",
+    "Topics": [
+      "codemirror",
+      "commonmark",
+      "documentation",
+      "editor",
+      "flowchart",
+      "gfm",
+      "javascript",
+      "jquery",
+      "katex",
+      "markdown",
+      "markdown-editor",
+      "markdown-writer",
+      "marked",
+      "sequence-diagram",
+      "toc"
+    ],
+    "Language": "JavaScript",
+    "Stars": 14305,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-01T04:24:14Z",
+    "UpdatedAt": "2026-04-30T16:04:54Z",
+    "Owner": "pandao",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ART-Group-it/KERMIT",
+    "Name": "KERMIT",
+    "Url": "https://github.com/ART-Group-it/KERMIT",
+    "Description": "🐸  KERMIT - A lightweight library to encode and interpret Universal Syntactic Embeddings",
+    "Topics": [
+      "embedding-models",
+      "embeddings",
+      "kermit",
+      "kernel",
+      "machine-learning",
+      "machinelearning",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "nlp-library",
+      "nlp-machine-learning",
+      "syntax",
+      "syntax-embeddings",
+      "tree-kernel"
+    ],
+    "Language": "JavaScript",
+    "Stars": 57,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-20T16:26:08Z",
+    "UpdatedAt": "2026-03-17T10:27:24Z",
+    "Owner": "ART-Group-it",
+    "SourceQueries": [
+      "topic:natural-language-processing language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmitrizzle/chat-bubble",
+    "Name": "chat-bubble",
+    "Url": "https://github.com/dmitrizzle/chat-bubble",
+    "Description": "Simple chatbot UI for the Web with JSON scripting 👋🤖🤙",
+    "Topics": [
+      "bot",
+      "bot-framework",
+      "chat-bots",
+      "chatbot",
+      "chatbot-ui",
+      "javascript",
+      "natural-language-classifiers",
+      "nlp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 600,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-22T10:30:21Z",
+    "UpdatedAt": "2026-04-02T17:07:04Z",
+    "Owner": "dmitrizzle",
+    "SourceQueries": [
+      "topic:nlp language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "petehunt/webpack-howto",
+    "Name": "webpack-howto",
+    "Url": "https://github.com/petehunt/webpack-howto",
+    "Description": "",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 10019,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-17T06:55:48Z",
+    "UpdatedAt": "2026-04-30T09:20:44Z",
+    "Owner": "petehunt",
+    "SourceQueries": [
+      "w language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "plotly/plotly.js",
+    "Name": "plotly.js",
+    "Url": "https://github.com/plotly/plotly.js",
+    "Description": "Open-source JavaScript charting library behind Plotly and Dash",
+    "Topics": [
+      "charting-library",
+      "charts",
+      "d3",
+      "data-visualization",
+      "plotly",
+      "plotly-dash",
+      "regl",
+      "visualization",
+      "webgl"
+    ],
+    "Language": "JavaScript",
+    "Stars": 18178,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-05T23:27:17Z",
+    "UpdatedAt": "2026-05-03T10:55:54Z",
+    "Owner": "plotly",
+    "SourceQueries": [
+      "open-source language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T17:37:42Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  }
+]

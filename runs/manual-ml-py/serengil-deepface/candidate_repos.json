@@ -1,0 +1,4422 @@
+[
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lsdefine/GenericAgent",
+    "Name": "GenericAgent",
+    "Url": "https://github.com/lsdefine/GenericAgent",
+    "Description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "Topics": [
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "browser-automation",
+      "claude",
+      "computer-control",
+      "desktop-automation",
+      "gemini",
+      "lightweight",
+      "llm-agent",
+      "memory-system",
+      "python",
+      "self-evolving",
+      "skill-tree",
+      "task-automation"
+    ],
+    "Language": "Python",
+    "Stars": 8919,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-16T15:45:24Z",
+    "UpdatedAt": "2026-05-03T18:56:44Z",
+    "Owner": "lsdefine",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42248,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-03T18:01:59Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "plotly/dash",
+    "Name": "dash",
+    "Url": "https://github.com/plotly/dash",
+    "Description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+    "Topics": [
+      "bioinformatics",
+      "charting",
+      "dash",
+      "data-science",
+      "data-visualization",
+      "finance",
+      "flask",
+      "gui-framework",
+      "jupyter",
+      "modeling",
+      "plotly",
+      "plotly-dash",
+      "productivity",
+      "python",
+      "react",
+      "rstats",
+      "technical-computing",
+      "web-app"
+    ],
+    "Language": "Python",
+    "Stars": 24170,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-04-10T01:53:08Z",
+    "UpdatedAt": "2026-05-03T18:38:25Z",
+    "Owner": "plotly",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuadraV-Speech/AESRC2020",
+    "Name": "AESRC2020",
+    "Url": "https://github.com/QuadraV-Speech/AESRC2020",
+    "Description": "a deep accent recognition network",
+    "Topics": [
+      "accent-recognition",
+      "arcface",
+      "asr",
+      "circle-loss",
+      "cosface",
+      "crnn",
+      "ctc",
+      "ghostvlad",
+      "interspeech",
+      "keras",
+      "mtl",
+      "netvlad",
+      "resnet",
+      "speaker-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-26T13:19:39Z",
+    "UpdatedAt": "2026-03-09T11:01:08Z",
+    "Owner": "QuadraV-Speech",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "emmabostian/developer-portfolios",
+    "Name": "developer-portfolios",
+    "Url": "https://github.com/emmabostian/developer-portfolios",
+    "Description": "A list of developer portfolios for your inspiration",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 22363,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-13T14:18:58Z",
+    "UpdatedAt": "2026-05-03T18:19:17Z",
+    "Owner": "emmabostian",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cavalleria/cavaface",
+    "Name": "cavaface",
+    "Url": "https://github.com/cavalleria/cavaface",
+    "Description": "face recognition training project(pytorch)",
+    "Topics": [
+      "amsoftmax",
+      "apex",
+      "arcface",
+      "arcnegface",
+      "attention-irse",
+      "circleloss",
+      "cosface",
+      "curricularface",
+      "dataparallel",
+      "efficientnet",
+      "face-recognition",
+      "ghostnet",
+      "loss",
+      "mixup",
+      "model-parallel",
+      "network",
+      "pytorch",
+      "randaugment",
+      "resnest",
+      "resnet-irse"
+    ],
+    "Language": "Python",
+    "Stars": 485,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-15T07:39:58Z",
+    "UpdatedAt": "2026-04-16T01:21:25Z",
+    "Owner": "cavalleria",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "peteryuX/arcface-tf2",
+    "Name": "arcface-tf2",
+    "Url": "https://github.com/peteryuX/arcface-tf2",
+    "Description": "ArcFace unofficial Implemented in Tensorflow 2.0+ (ResNet50, MobileNetV2). \"ArcFace: Additive Angular Margin Loss for Deep Face Recognition\" Published in CVPR 2019. With Colab.",
+    "Topics": [
+      "arcface",
+      "arcface-tf2",
+      "colab",
+      "colab-notebook",
+      "deep-face-recognition",
+      "face-recognition",
+      "tensorflow",
+      "tf2"
+    ],
+    "Language": "Python",
+    "Stars": 274,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T03:11:22Z",
+    "UpdatedAt": "2026-03-29T15:56:07Z",
+    "Owner": "peteryuX",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZuzooVn/machine-learning-for-software-engineers",
+    "Name": "machine-learning-for-software-engineers",
+    "Url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "Description": "A complete daily plan for studying to become a machine learning engineer.",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "software-engineer"
+    ],
+    "Language": "",
+    "Stars": 28760,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-09T21:20:25Z",
+    "UpdatedAt": "2026-05-03T17:45:26Z",
+    "Owner": "ZuzooVn",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Forethought-Technologies/AutoChain",
+    "Name": "AutoChain",
+    "Url": "https://github.com/Forethought-Technologies/AutoChain",
+    "Description": "AutoChain: Build lightweight, extensible, and testable LLM Agents",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1877,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-19T17:49:27Z",
+    "UpdatedAt": "2026-04-24T19:18:04Z",
+    "Owner": "Forethought-Technologies",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/ChatDev",
+    "Name": "ChatDev",
+    "Url": "https://github.com/OpenBMB/ChatDev",
+    "Description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 32965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-28T02:18:13Z",
+    "UpdatedAt": "2026-05-03T17:30:22Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "msiemens/tinydb",
+    "Name": "tinydb",
+    "Url": "https://github.com/msiemens/tinydb",
+    "Description": "TinyDB is a lightweight document oriented database optimized for your happiness :)",
+    "Topics": [
+      "database",
+      "documentdb",
+      "json",
+      "nosql",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 7502,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-07-12T23:31:13Z",
+    "UpdatedAt": "2026-05-03T16:34:19Z",
+    "Owner": "msiemens",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "Name": "HunyuanVideo-1.5",
+    "Url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
+    "Description": "HunyuanVideo-1.5: A leading lightweight video generation model",
+    "Topics": [
+      "image-to-video",
+      "text-to-video",
+      "video-generation"
+    ],
+    "Language": "Python",
+    "Stars": 4427,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-20T06:15:42Z",
+    "UpdatedAt": "2026-05-03T18:22:04Z",
+    "Owner": "Tencent-Hunyuan",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CharlesPikachu/musicdl",
+    "Name": "musicdl",
+    "Url": "https://github.com/CharlesPikachu/musicdl",
+    "Description": "Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)",
+    "Topics": [
+      "apple-music",
+      "bilibili",
+      "deezer",
+      "downloader",
+      "joox",
+      "kugou-music",
+      "kuwo",
+      "music",
+      "music-downloader",
+      "netease",
+      "netease-cloud-music",
+      "qianqian-music",
+      "qqmusic",
+      "soundcloud",
+      "tencent",
+      "tidal",
+      "tidal-api",
+      "tidalapi",
+      "youtube"
+    ],
+    "Language": "Python",
+    "Stars": 4465,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-26T21:38:42Z",
+    "UpdatedAt": "2026-05-03T16:23:01Z",
+    "Owner": "CharlesPikachu",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spotify/basic-pitch",
+    "Name": "basic-pitch",
+    "Url": "https://github.com/spotify/basic-pitch",
+    "Description": "A lightweight yet powerful audio-to-MIDI converter with pitch bend detection",
+    "Topics": [
+      "audio",
+      "lightweight",
+      "machine-learning",
+      "midi",
+      "music",
+      "pitch-detection",
+      "polyphonic",
+      "python",
+      "transcription",
+      "typescript"
+    ],
+    "Language": "Python",
+    "Stars": 4968,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-03T09:10:03Z",
+    "UpdatedAt": "2026-05-03T18:25:18Z",
+    "Owner": "spotify",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gradio-app/gradio",
+    "Name": "gradio",
+    "Url": "https://github.com/gradio-app/gradio",
+    "Description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "deploy",
+      "gradio",
+      "gradio-interface",
+      "interface",
+      "machine-learning",
+      "models",
+      "python",
+      "python-notebook",
+      "ui",
+      "ui-components"
+    ],
+    "Language": "Python",
+    "Stars": 42495,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T08:24:04Z",
+    "UpdatedAt": "2026-05-03T17:33:59Z",
+    "Owner": "gradio-app",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-V3",
+    "Name": "DeepSeek-V3",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "Description": "",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 103362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-26T09:52:40Z",
+    "UpdatedAt": "2026-05-03T16:51:01Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T18:29:42Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "urchade/GLiNER",
+    "Name": "GLiNER",
+    "Url": "https://github.com/urchade/GLiNER",
+    "Description": "Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)",
+    "Topics": [
+      "information-extraction",
+      "large-language-models",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "prompt-tuning"
+    ],
+    "Language": "Python",
+    "Stars": 3133,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-14T18:11:11Z",
+    "UpdatedAt": "2026-05-03T14:27:14Z",
+    "Owner": "urchade",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/ElegantRL",
+    "Name": "ElegantRL",
+    "Url": "https://github.com/AI4Finance-Foundation/ElegantRL",
+    "Description": "Massively Parallel Deep Reinforcement Learning. 🔥",
+    "Topics": [
+      "a2c",
+      "bipedalwalkerhardcore",
+      "ddpg",
+      "dqn",
+      "drl-pytorch",
+      "efficient",
+      "gae",
+      "lightweight",
+      "model-free-rl",
+      "multiple-gpu",
+      "per",
+      "ppo",
+      "pytorch",
+      "reinforcement-learning",
+      "sac",
+      "stable",
+      "td3"
+    ],
+    "Language": "Python",
+    "Stars": 4321,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-12T03:18:05Z",
+    "UpdatedAt": "2026-05-02T02:48:30Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spotDL/spotify-downloader",
+    "Name": "spotify-downloader",
+    "Url": "https://github.com/spotDL/spotify-downloader",
+    "Description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "Topics": [
+      "download-music",
+      "hacktoberfest",
+      "mp3",
+      "music",
+      "playlists",
+      "python",
+      "song",
+      "song-lyrics",
+      "spotdl",
+      "spotdl-cli",
+      "spotify",
+      "youtube-music"
+    ],
+    "Language": "Python",
+    "Stars": 24625,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-06T18:19:20Z",
+    "UpdatedAt": "2026-05-03T17:46:37Z",
+    "Owner": "spotDL",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "paul-pias/Face-Recognition",
+    "Name": "Face-Recognition",
+    "Url": "https://github.com/paul-pias/Face-Recognition",
+    "Description": "Face Recognition using pre-trained model built-on Arcface was implemented on Pytorch. ",
+    "Topics": [
+      "arcface",
+      "arcface-pytorch",
+      "face-recognition",
+      "face-recogniton-arcface",
+      "facerecognition",
+      "insightface-pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-05T23:52:27Z",
+    "UpdatedAt": "2026-04-22T09:21:51Z",
+    "Owner": "paul-pias",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "numba/llvmlite",
+    "Name": "llvmlite",
+    "Url": "https://github.com/numba/llvmlite",
+    "Description": "A lightweight LLVM python binding for writing JIT compilers",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2254,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-07T14:51:28Z",
+    "UpdatedAt": "2026-05-02T00:14:55Z",
+    "Owner": "numba",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 25104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-03T15:08:42Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qdrant/fastembed",
+    "Name": "fastembed",
+    "Url": "https://github.com/qdrant/fastembed",
+    "Description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+    "Topics": [
+      "embeddings",
+      "openai",
+      "rag",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 2917,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-14T04:59:33Z",
+    "UpdatedAt": "2026-05-03T17:01:19Z",
+    "Owner": "qdrant",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "encode/django-rest-framework",
+    "Name": "django-rest-framework",
+    "Url": "https://github.com/encode/django-rest-framework",
+    "Description": "Web APIs for Django. 🎸",
+    "Topics": [
+      "api",
+      "django",
+      "python",
+      "rest"
+    ],
+    "Language": "Python",
+    "Stars": 29991,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-03-02T17:13:56Z",
+    "UpdatedAt": "2026-05-03T15:15:18Z",
+    "Owner": "encode",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SYSTRAN/faster-whisper",
+    "Name": "faster-whisper",
+    "Url": "https://github.com/SYSTRAN/faster-whisper",
+    "Description": "Faster Whisper transcription with CTranslate2",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "openai",
+      "quantization",
+      "speech-recognition",
+      "speech-to-text",
+      "transformer",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 22590,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T09:17:27Z",
+    "UpdatedAt": "2026-05-03T16:41:25Z",
+    "Owner": "SYSTRAN",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "naptha/tesseract.js",
+    "Name": "tesseract.js",
+    "Url": "https://github.com/naptha/tesseract.js",
+    "Description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "Topics": [
+      "deep-learning",
+      "javascript",
+      "ocr",
+      "tesseract",
+      "webassembly"
+    ],
+    "Language": "JavaScript",
+    "Stars": 38045,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-24T02:49:52Z",
+    "UpdatedAt": "2026-05-03T15:53:58Z",
+    "Owner": "naptha",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44432,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-03T18:55:12Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Zeyi-Lin/HivisionIDPhotos",
+    "Name": "HivisionIDPhotos",
+    "Url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+    "Description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+    "Topics": [
+      "cnn",
+      "demo",
+      "docker",
+      "face-recognition",
+      "fastapi",
+      "gradio",
+      "idphoto",
+      "machine-learning",
+      "matting",
+      "mtcnn",
+      "tools",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 21054,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-18T20:17:56Z",
+    "UpdatedAt": "2026-05-03T15:54:18Z",
+    "Owner": "Zeyi-Lin",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yeyupiaoling/VoiceprintRecognition-Tensorflow",
+    "Name": "VoiceprintRecognition-Tensorflow",
+    "Url": "https://github.com/yeyupiaoling/VoiceprintRecognition-Tensorflow",
+    "Description": "使用Tensorflow实现声纹识别",
+    "Topics": [
+      "arcface",
+      "speaker-recognition",
+      "tensorflow",
+      "voice-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 334,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-29T06:05:38Z",
+    "UpdatedAt": "2026-04-10T08:37:47Z",
+    "Owner": "yeyupiaoling",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TomBadash/Mouser",
+    "Name": "Mouser",
+    "Url": "https://github.com/TomBadash/Mouser",
+    "Description": "A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.",
+    "Topics": [
+      "automation",
+      "controler",
+      "free",
+      "linux",
+      "linux-app",
+      "logi",
+      "logitech",
+      "logitech-options",
+      "macos",
+      "macos-app",
+      "mouse",
+      "mouse-remapping",
+      "mx-master",
+      "mx-master-3s",
+      "mx-master-4",
+      "open-source",
+      "productivity",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 3711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-24T23:54:14Z",
+    "UpdatedAt": "2026-05-03T18:47:20Z",
+    "Owner": "TomBadash",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-OCR",
+    "Name": "DeepSeek-OCR",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "Description": "Contexts Optical Compression",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23039,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-17T06:14:27Z",
+    "UpdatedAt": "2026-05-03T18:59:58Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stitionai/devika",
+    "Name": "devika",
+    "Url": "https://github.com/stitionai/devika",
+    "Description": "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 19505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-21T03:03:21Z",
+    "UpdatedAt": "2026-05-03T15:37:24Z",
+    "Owner": "stitionai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Vonng/ddia",
+    "Name": "ddia",
+    "Url": "https://github.com/Vonng/ddia",
+    "Description": "《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译",
+    "Topics": [
+      "book",
+      "database",
+      "ddia",
+      "distributed-systems"
+    ],
+    "Language": "Python",
+    "Stars": 22988,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-08T04:26:52Z",
+    "UpdatedAt": "2026-05-03T16:31:18Z",
+    "Owner": "Vonng",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33845,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-03T18:52:21Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyeve/cerberus",
+    "Name": "cerberus",
+    "Url": "https://github.com/pyeve/cerberus",
+    "Description": "Lightweight, extensible data validation library for Python",
+    "Topics": [
+      "data-validation",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 3277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-10-10T10:03:49Z",
+    "UpdatedAt": "2026-05-01T03:04:46Z",
+    "Owner": "pyeve",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Alibaba-NLP/DeepResearch",
+    "Name": "DeepResearch",
+    "Url": "https://github.com/Alibaba-NLP/DeepResearch",
+    "Description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+    "Topics": [
+      "agent",
+      "alibaba",
+      "artificial-intelligence",
+      "deep-research",
+      "deepresearch",
+      "information-seeking",
+      "llm",
+      "tongyi",
+      "web-agent"
+    ],
+    "Language": "Python",
+    "Stars": 18784,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-09T11:07:35Z",
+    "UpdatedAt": "2026-05-03T17:21:38Z",
+    "Owner": "Alibaba-NLP",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mara/mara-pipelines",
+    "Name": "mara-pipelines",
+    "Url": "https://github.com/mara/mara-pipelines",
+    "Description": "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow",
+    "Topics": [
+      "data",
+      "data-integration",
+      "etl",
+      "pipeline",
+      "postgresql",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 2085,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-31T20:37:22Z",
+    "UpdatedAt": "2026-04-08T22:45:14Z",
+    "Owner": "mara",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-03T09:19:26Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jina-ai/serve",
+    "Name": "serve",
+    "Url": "https://github.com/jina-ai/serve",
+    "Description": "☁️ Build multimodal AI applications with cloud-native stack",
+    "Topics": [
+      "cloud-native",
+      "cncf",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "framework",
+      "generative-ai",
+      "grpc",
+      "jaeger",
+      "kubernetes",
+      "llmops",
+      "machine-learning",
+      "microservice",
+      "mlops",
+      "multimodal",
+      "neural-search",
+      "opentelemetry",
+      "orchestration",
+      "pipeline",
+      "prometheus"
+    ],
+    "Language": "Python",
+    "Stars": 21872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-13T17:04:44Z",
+    "UpdatedAt": "2026-05-03T08:33:46Z",
+    "Owner": "jina-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160213,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T18:57:29Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nari-labs/dia",
+    "Name": "dia",
+    "Url": "https://github.com/nari-labs/dia",
+    "Description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "Topics": [
+      "ai",
+      "open-weight",
+      "text-to-speech"
+    ],
+    "Language": "Python",
+    "Stars": 19294,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-19T07:15:57Z",
+    "UpdatedAt": "2026-05-03T13:19:14Z",
+    "Owner": "nari-labs",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/openai-agents-python",
+    "Name": "openai-agents-python",
+    "Url": "https://github.com/openai/openai-agents-python",
+    "Description": "A lightweight, powerful framework for multi-agent workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 25819,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T03:42:36Z",
+    "UpdatedAt": "2026-05-03T18:55:31Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leondgarse/Keras_insightface",
+    "Name": "Keras_insightface",
+    "Url": "https://github.com/leondgarse/Keras_insightface",
+    "Description": "Insightface Keras implementation",
+    "Topics": [
+      "arcface",
+      "curricularface",
+      "distillation",
+      "efficientnet",
+      "ghostnet",
+      "insightface",
+      "keras",
+      "magface",
+      "subcenter-arcface",
+      "tensorflow",
+      "tensorflow2",
+      "tf",
+      "triplet",
+      "vargface"
+    ],
+    "Language": "Python",
+    "Stars": 261,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-21T14:12:48Z",
+    "UpdatedAt": "2026-04-04T12:32:49Z",
+    "Owner": "leondgarse",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lukas-blecher/LaTeX-OCR",
+    "Name": "LaTeX-OCR",
+    "Url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "Description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "Topics": [
+      "dataset",
+      "deep-learning",
+      "im2latex",
+      "im2markup",
+      "im2text",
+      "image-processing",
+      "image2text",
+      "latex",
+      "latex-ocr",
+      "machine-learning",
+      "math-ocr",
+      "ocr",
+      "python",
+      "pytorch",
+      "transformer",
+      "vision-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 16357,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T16:35:13Z",
+    "UpdatedAt": "2026-05-03T15:54:09Z",
+    "Owner": "lukas-blecher",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytorch/pytorch",
+    "Name": "pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 99600,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-13T05:26:41Z",
+    "UpdatedAt": "2026-05-03T19:02:45Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openai/CLIP",
+    "Name": "CLIP",
+    "Url": "https://github.com/openai/CLIP",
+    "Description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "Topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 33391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-16T11:24:42Z",
+    "UpdatedAt": "2026-05-03T17:39:20Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20762,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-03T18:27:35Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "Name": "Auto-claude-code-research-in-sleep",
+    "Url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "Description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+    "Topics": [
+      "ai-research",
+      "ai-tools",
+      "aris",
+      "autonomous-agent",
+      "claude",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "deep-learning",
+      "gpt",
+      "idea-generation",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "ml-research",
+      "openai",
+      "paper-review",
+      "paper-writing",
+      "research-automation"
+    ],
+    "Language": "Python",
+    "Stars": 7978,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-10T07:31:45Z",
+    "UpdatedAt": "2026-05-03T17:46:31Z",
+    "Owner": "wanshuiyin",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56706,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-03T18:38:41Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-03T13:23:48Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "antonior92/ecg-age-prediction",
+    "Name": "ecg-age-prediction",
+    "Url": "https://github.com/antonior92/ecg-age-prediction",
+    "Description": "Scripts and modules for training and testing neural network for age prediction from the ECG. Companion code to the paper \"Deep neural network-estimated electrocardiographic age as a mortality predictor\".",
+    "Topics": [
+      "age-prediction",
+      "biological-age",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "ecg",
+      "ecg-records",
+      "ecg-signal",
+      "machine-learning",
+      "neural-networks",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 91,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-12T17:37:40Z",
+    "UpdatedAt": "2026-04-24T19:25:04Z",
+    "Owner": "antonior92",
+    "SourceQueries": [
+      "topic:age-prediction language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvqluu/Angular-Penalty-Softmax-Losses-Pytorch",
+    "Name": "Angular-Penalty-Softmax-Losses-Pytorch",
+    "Url": "https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch",
+    "Description": "Angular penalty loss functions in Pytorch (ArcFace, SphereFace, Additive Margin, CosFace) ",
+    "Topics": [
+      "am-softmax",
+      "arcface",
+      "embedding",
+      "face-recognition",
+      "face-verification",
+      "fashion-mnist",
+      "fmnist-dataset",
+      "loss-function",
+      "loss-functions",
+      "metric-learning",
+      "normface",
+      "pytorch",
+      "speaker-recognition",
+      "sphereface"
+    ],
+    "Language": "Python",
+    "Stars": 498,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T17:09:43Z",
+    "UpdatedAt": "2026-04-14T06:29:33Z",
+    "Owner": "cvqluu",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scrapinghub/splash",
+    "Name": "splash",
+    "Url": "https://github.com/scrapinghub/splash",
+    "Description": "Lightweight, scriptable browser as a service with an HTTP API",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 4196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-05-20T21:20:33Z",
+    "UpdatedAt": "2026-04-23T23:15:16Z",
+    "Owner": "scrapinghub",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xbpeng/MimicKit",
+    "Name": "MimicKit",
+    "Url": "https://github.com/xbpeng/MimicKit",
+    "Description": "A lightweight suite of motion imitation methods for training controllers.",
+    "Topics": [
+      "animation",
+      "motion-imitation",
+      "reinforcement-learning",
+      "robotics"
+    ],
+    "Language": "Python",
+    "Stars": 1922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-08T15:33:01Z",
+    "UpdatedAt": "2026-05-03T17:50:16Z",
+    "Owner": "xbpeng",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatdoc-com/OCRFlux",
+    "Name": "OCRFlux",
+    "Url": "https://github.com/chatdoc-com/OCRFlux",
+    "Description": "OCRFlux is a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2494,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-04T03:36:43Z",
+    "UpdatedAt": "2026-05-01T16:36:55Z",
+    "Owner": "chatdoc-com",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "InternLM/lagent",
+    "Name": "lagent",
+    "Url": "https://github.com/InternLM/lagent",
+    "Description": "A lightweight framework for building LLM-based agents",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 2243,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-20T12:45:45Z",
+    "UpdatedAt": "2026-05-02T05:05:18Z",
+    "Owner": "InternLM",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytube/pytube",
+    "Name": "pytube",
+    "Url": "https://github.com/pytube/pytube",
+    "Description": "Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.",
+    "Topics": [
+      "python",
+      "youtube",
+      "youtube-downloader"
+    ],
+    "Language": "Python",
+    "Stars": 13101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-03-18T19:33:44Z",
+    "UpdatedAt": "2026-05-03T13:50:35Z",
+    "Owner": "pytube",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/smallpond",
+    "Name": "smallpond",
+    "Url": "https://github.com/deepseek-ai/smallpond",
+    "Description": "A lightweight data processing framework built on DuckDB and 3FS.",
+    "Topics": [
+      "data-processing",
+      "duckdb"
+    ],
+    "Language": "Python",
+    "Stars": 4950,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-24T09:28:17Z",
+    "UpdatedAt": "2026-05-02T02:13:26Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arc53/DocsGPT",
+    "Name": "DocsGPT",
+    "Url": "https://github.com/arc53/DocsGPT",
+    "Description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+    "Topics": [
+      "agent-builder",
+      "agents",
+      "ai",
+      "chatgpt",
+      "docsgpt",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "information-retrieval",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "rag",
+      "react",
+      "search",
+      "semantic-search",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 17869,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-02T11:03:23Z",
+    "UpdatedAt": "2026-05-03T15:54:16Z",
+    "Owner": "arc53",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yt-dlp/yt-dlp",
+    "Name": "yt-dlp",
+    "Url": "https://github.com/yt-dlp/yt-dlp",
+    "Description": "A feature-rich command-line audio/video downloader",
+    "Topics": [
+      "cli",
+      "downloader",
+      "python",
+      "sponsorblock",
+      "youtube-dl",
+      "youtube-downloader",
+      "yt-dlp"
+    ],
+    "Language": "Python",
+    "Stars": 160368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-26T04:22:55Z",
+    "UpdatedAt": "2026-05-03T18:57:52Z",
+    "Owner": "yt-dlp",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T18:40:53Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/gin-config",
+    "Name": "gin-config",
+    "Url": "https://github.com/google/gin-config",
+    "Description": "Gin provides a lightweight configuration framework for Python",
+    "Topics": [
+      "configuration-management",
+      "python",
+      "tensorflow",
+      "tensorflow-experiments"
+    ],
+    "Language": "Python",
+    "Stars": 2151,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-27T20:21:12Z",
+    "UpdatedAt": "2026-04-25T16:08:25Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Avik-Jain/100-Days-Of-ML-Code",
+    "Name": "100-Days-Of-ML-Code",
+    "Url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "Description": "100 Days of ML Coding",
+    "Topics": [
+      "100-days-of-code-log",
+      "100daysofcode",
+      "deep-learning",
+      "implementation",
+      "infographics",
+      "linear-algebra",
+      "linear-regression",
+      "logistic-regression",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "naive-bayes-classifier",
+      "python",
+      "scikit-learn",
+      "siraj-raval",
+      "siraj-raval-challenge",
+      "support-vector-machines",
+      "svm",
+      "tutorial"
+    ],
+    "Language": "",
+    "Stars": 50832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-05T09:11:43Z",
+    "UpdatedAt": "2026-05-03T18:28:59Z",
+    "Owner": "Avik-Jain",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "msed-Ebrahimi/ARoFace",
+    "Name": "ARoFace",
+    "Url": "https://github.com/msed-Ebrahimi/ARoFace",
+    "Description": "Official repository for \"ARoFace: Alignment Robustness to Improve Low-Quality Face Recognition\" ECCV24",
+    "Topics": [
+      "adaface",
+      "arcface",
+      "computer-vision",
+      "face",
+      "face-alignment",
+      "face-detection",
+      "face-recognition",
+      "low-quality",
+      "pytorch",
+      "unconstrained"
+    ],
+    "Language": "Python",
+    "Stars": 67,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-05T18:04:00Z",
+    "UpdatedAt": "2026-04-19T04:53:29Z",
+    "Owner": "msed-Ebrahimi",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eugeneyan/applied-ml",
+    "Name": "applied-ml",
+    "Url": "https://github.com/eugeneyan/applied-ml",
+    "Description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "Topics": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "production",
+      "recsys",
+      "reinforcement-learning",
+      "search"
+    ],
+    "Language": "",
+    "Stars": 28793,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-04T18:57:47Z",
+    "UpdatedAt": "2026-05-03T08:03:53Z",
+    "Owner": "eugeneyan",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/deepagents",
+    "Name": "deepagents",
+    "Url": "https://github.com/langchain-ai/deepagents",
+    "Description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "Topics": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
+    ],
+    "Language": "Python",
+    "Stars": 22182,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-27T23:07:53Z",
+    "UpdatedAt": "2026-05-03T19:00:50Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SthPhoenix/InsightFace-REST",
+    "Name": "InsightFace-REST",
+    "Url": "https://github.com/SthPhoenix/InsightFace-REST",
+    "Description": "InsightFace REST API for easy deployment of face recognition services with TensorRT in Docker.",
+    "Topics": [
+      "adaface",
+      "arcface",
+      "centerface",
+      "docker",
+      "face-detection",
+      "face-recognition",
+      "fastapi",
+      "fp16",
+      "gpu",
+      "insightface",
+      "mask-detection",
+      "onnx",
+      "retinaface",
+      "scrfd",
+      "tensorrt",
+      "tensorrt-conversion",
+      "yolov5-face"
+    ],
+    "Language": "Python",
+    "Stars": 613,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-15T14:55:43Z",
+    "UpdatedAt": "2026-04-30T21:40:15Z",
+    "Owner": "SthPhoenix",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Daniil-Osokin/lightweight-human-pose-estimation.pytorch",
+    "Name": "lightweight-human-pose-estimation.pytorch",
+    "Url": "https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch",
+    "Description": "Fast and accurate human pose estimation in PyTorch. Contains implementation of \"Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose\" paper.",
+    "Topics": [
+      "coco-keypoints-detection",
+      "deep-learning",
+      "human-pose-estimation",
+      "lightweight",
+      "lightweight-openpose",
+      "mscoco-keypoint",
+      "openpose",
+      "openvino",
+      "pose-estimation",
+      "pytorch",
+      "real-time"
+    ],
+    "Language": "Python",
+    "Stars": 2239,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-02T20:57:11Z",
+    "UpdatedAt": "2026-04-23T19:50:25Z",
+    "Owner": "Daniil-Osokin",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "modelscope/ms-agent",
+    "Name": "ms-agent",
+    "Url": "https://github.com/modelscope/ms-agent",
+    "Description": "MS-Agent: a lightweight framework to empower agentic execution of complex tasks",
+    "Topics": [
+      "agentic-insight",
+      "agentic-search",
+      "chat-bot",
+      "code-generation",
+      "deep-research",
+      "memory"
+    ],
+    "Language": "Python",
+    "Stars": 4224,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-03T09:06:03Z",
+    "UpdatedAt": "2026-05-03T12:06:56Z",
+    "Owner": "modelscope",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorflow/tensorflow",
+    "Name": "tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "Language": "C++",
+    "Stars": 194980,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T01:19:20Z",
+    "UpdatedAt": "2026-05-03T18:57:25Z",
+    "Owner": "tensorflow",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mingrammer/diagrams",
+    "Name": "diagrams",
+    "Url": "https://github.com/mingrammer/diagrams",
+    "Description": ":art: Diagram as Code for prototyping cloud system architectures",
+    "Topics": [
+      "architecture",
+      "diagram",
+      "diagram-as-code",
+      "graphviz"
+    ],
+    "Language": "Python",
+    "Stars": 42237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-02T15:23:24Z",
+    "UpdatedAt": "2026-05-03T19:02:10Z",
+    "Owner": "mingrammer",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yeyupiaoling/VoiceprintRecognition-Pytorch",
+    "Name": "VoiceprintRecognition-Pytorch",
+    "Url": "https://github.com/yeyupiaoling/VoiceprintRecognition-Pytorch",
+    "Description": "This project uses a variety of advanced voiceprint recognition models such as EcapaTdnn, ResNetSE, ERes2Net, CAM++, etc. It is not excluded that more models will be supported in the future. At the same time, this project also supports MelSpectrogram, Spectrogram data preprocessing methods",
+    "Topics": [
+      "arcface",
+      "ecapa-tdnn",
+      "pytorch",
+      "speaker-recognition",
+      "voice-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 1276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-28T03:44:07Z",
+    "UpdatedAt": "2026-05-02T14:24:16Z",
+    "Owner": "yeyupiaoling",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleOCR",
+    "Name": "PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "Topics": [
+      "ai4science",
+      "chineseocr",
+      "document-parsing",
+      "document-translation",
+      "kie",
+      "ocr",
+      "paddleocr-vl",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pdf2markdown",
+      "pp-ocr",
+      "pp-structure",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 77008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-08T10:38:16Z",
+    "UpdatedAt": "2026-05-03T18:51:17Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhouyuchong/face-recognition-deepstream",
+    "Name": "face-recognition-deepstream",
+    "Url": "https://github.com/zhouyuchong/face-recognition-deepstream",
+    "Description": "Deepstream app use retinaface and arcface for face recognition.",
+    "Topics": [
+      "arcface",
+      "deepstream",
+      "face-recognition",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 80,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-24T09:21:02Z",
+    "UpdatedAt": "2026-04-15T13:02:40Z",
+    "Owner": "zhouyuchong",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "camel-ai/camel",
+    "Name": "camel",
+    "Url": "https://github.com/camel-ai/camel",
+    "Description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "Topics": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence",
+      "communicative-ai",
+      "cooperative-ai",
+      "deep-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "natural-language-processing"
+    ],
+    "Language": "Python",
+    "Stars": 16863,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-17T21:41:54Z",
+    "UpdatedAt": "2026-05-03T14:02:51Z",
+    "Owner": "camel-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RangiLyu/nanodet",
+    "Name": "nanodet",
+    "Url": "https://github.com/RangiLyu/nanodet",
+    "Description": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+    "Topics": [
+      "anchor-free",
+      "android",
+      "deep-learning",
+      "deep-neural-networks",
+      "efficientnet",
+      "mnn",
+      "model-zoo",
+      "nanodet",
+      "nanodet-plus",
+      "ncnn",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "repvgg",
+      "shufflenet"
+    ],
+    "Language": "Python",
+    "Stars": 6197,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-19T08:36:25Z",
+    "UpdatedAt": "2026-05-02T17:21:17Z",
+    "Owner": "RangiLyu",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/diffusers",
+    "Name": "diffusers",
+    "Url": "https://github.com/huggingface/diffusers",
+    "Description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "Topics": [
+      "deep-learning",
+      "diffusion",
+      "flux",
+      "image-generation",
+      "image2image",
+      "image2video",
+      "latent-diffusion-models",
+      "pytorch",
+      "qwen-image",
+      "score-based-generative-modeling",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text2image",
+      "text2video",
+      "video2video"
+    ],
+    "Language": "Python",
+    "Stars": 33529,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T16:04:02Z",
+    "UpdatedAt": "2026-05-03T12:04:57Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kroitor/asciichart",
+    "Name": "asciichart",
+    "Url": "https://github.com/kroitor/asciichart",
+    "Description": "Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies",
+    "Topics": [
+      "ansi",
+      "ascii",
+      "ascii-chart",
+      "browser",
+      "chart",
+      "charting",
+      "charting-library",
+      "charts",
+      "console",
+      "console-log",
+      "graph",
+      "javascript",
+      "js",
+      "line-charts",
+      "lines",
+      "node-js",
+      "nodejs",
+      "plot",
+      "terminal",
+      "text-chart"
+    ],
+    "Language": "Python",
+    "Stars": 2076,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-10T06:48:14Z",
+    "UpdatedAt": "2026-04-28T18:38:38Z",
+    "Owner": "kroitor",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Asabeneh/30-Days-Of-Python",
+    "Name": "30-Days-Of-Python",
+    "Url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "Description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "Topics": [
+      "30-days-of-python",
+      "data",
+      "data-science",
+      "database",
+      "flask",
+      "fullstack",
+      "github",
+      "heroku",
+      "matplotlib",
+      "ml",
+      "mongodb",
+      "numpy",
+      "pandas",
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 62000,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-19T17:24:16Z",
+    "UpdatedAt": "2026-05-03T19:04:09Z",
+    "Owner": "Asabeneh",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SamYuen101234/Masked_Face_Recognition",
+    "Name": "Masked_Face_Recognition",
+    "Url": "https://github.com/SamYuen101234/Masked_Face_Recognition",
+    "Description": "2020/2021 HKUST CSE FYP Masked Facial Recognition, developer: Sam Yuen, Alex Xie, Tony Cheng",
+    "Topics": [
+      "arcface",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "efficientnet",
+      "face-alignment",
+      "facial-recognition",
+      "hkust",
+      "inceptionresnet",
+      "machine-learning",
+      "masked-face-recognition",
+      "mtcnn",
+      "online-triplet-mining",
+      "pytorch",
+      "se-resnext",
+      "transfer-learining",
+      "triplet-loss",
+      "triplet-mining-sampler"
+    ],
+    "Language": "Python",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-10T07:02:02Z",
+    "UpdatedAt": "2026-04-21T16:18:39Z",
+    "Owner": "SamYuen101234",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-Coder",
+    "Name": "DeepSeek-Coder",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+    "Description": "DeepSeek Coder: Let the Code Write Itself",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-20T06:38:01Z",
+    "UpdatedAt": "2026-05-03T16:52:38Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+    "Name": "Ultra-Light-Fast-Generic-Face-Detector-1MB",
+    "Url": "https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB",
+    "Description": " 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)",
+    "Topics": [
+      "arm",
+      "face-detection",
+      "inference",
+      "mnn",
+      "ncnn"
+    ],
+    "Language": "Python",
+    "Stars": 7524,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-10T07:40:48Z",
+    "UpdatedAt": "2026-05-01T18:18:09Z",
+    "Owner": "Linzaer",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55204,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-03T13:10:29Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15813,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-03T15:08:55Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "XingangPan/DragGAN",
+    "Name": "DragGAN",
+    "Url": "https://github.com/XingangPan/DragGAN",
+    "Description": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "Topics": [
+      "artificial-intelligence",
+      "generative-adversarial-network",
+      "generative-models",
+      "image-manipulation"
+    ],
+    "Language": "Python",
+    "Stars": 35886,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-18T10:08:02Z",
+    "UpdatedAt": "2026-05-03T04:45:42Z",
+    "Owner": "XingangPan",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yakhyo/uniface",
+    "Name": "uniface",
+    "Url": "https://github.com/yakhyo/uniface",
+    "Description": "UniFace: A Unified Face Analysis Library for Python",
+    "Topics": [
+      "age-gender-estimation",
+      "arcface",
+      "face-alignment",
+      "face-analysis",
+      "face-detection",
+      "face-emotion-detection",
+      "face-landmark-detection",
+      "face-mask",
+      "face-parsing",
+      "face-recognition",
+      "face-segmentation",
+      "gaze-estimation",
+      "headpose-estimation",
+      "onnxruntime",
+      "retinaface",
+      "scrfd",
+      "sphereface",
+      "yoloface"
+    ],
+    "Language": "Python",
+    "Stars": 682,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-14T06:12:34Z",
+    "UpdatedAt": "2026-05-02T02:23:17Z",
+    "Owner": "yakhyo",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hacksider/Deep-Live-Cam",
+    "Name": "Deep-Live-Cam",
+    "Url": "https://github.com/hacksider/Deep-Live-Cam",
+    "Description": "real time face swap and one-click video deepfake with only a single image",
+    "Topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "Language": "Python",
+    "Stars": 92583,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-24T13:19:31Z",
+    "UpdatedAt": "2026-05-03T18:47:46Z",
+    "Owner": "hacksider",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T19:01:51Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepinsight/insightface",
+    "Name": "insightface",
+    "Url": "https://github.com/deepinsight/insightface",
+    "Description": "State-of-the-art 2D and 3D Face Analysis Project",
+    "Topics": [
+      "age-estimation",
+      "arcface",
+      "face-alignment",
+      "face-detection",
+      "face-recognition",
+      "mxnet",
+      "oneflow",
+      "paddlepaddle",
+      "pytorch",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 28583,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-01T00:36:51Z",
+    "UpdatedAt": "2026-05-03T17:45:35Z",
+    "Owner": "deepinsight",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytransitions/transitions",
+    "Name": "transitions",
+    "Url": "https://github.com/pytransitions/transitions",
+    "Description": "A lightweight, object-oriented finite state machine implementation in Python with many extensions",
+    "Topics": [
+      "hierarchical-state-machine",
+      "nested-states",
+      "python",
+      "state-diagram",
+      "state-machine"
+    ],
+    "Language": "Python",
+    "Stars": 6501,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-12T20:59:09Z",
+    "UpdatedAt": "2026-05-02T01:43:58Z",
+    "Owner": "pytransitions",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyg-team/pytorch_geometric",
+    "Name": "pytorch_geometric",
+    "Url": "https://github.com/pyg-team/pytorch_geometric",
+    "Description": "Graph Neural Network Library for PyTorch",
+    "Topics": [
+      "deep-learning",
+      "geometric-deep-learning",
+      "graph-convolutional-networks",
+      "graph-neural-networks",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 23718,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-06T16:03:03Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "pyg-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chonkie-inc/chonkie",
+    "Name": "chonkie",
+    "Url": "https://github.com/chonkie-inc/chonkie",
+    "Description": "🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines",
+    "Topics": [
+      "ai",
+      "chonkie",
+      "chunker",
+      "chunking-algorithm",
+      "llms",
+      "rag",
+      "retrieval-systems",
+      "semantic-chunker",
+      "similarity-search",
+      "splitting-algorithms",
+      "text-splitter"
+    ],
+    "Language": "Python",
+    "Stars": 3989,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-29T05:10:03Z",
+    "UpdatedAt": "2026-05-03T18:40:07Z",
+    "Owner": "chonkie-inc",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T18:37:28Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CMU-Perceptual-Computing-Lab/openpose",
+    "Name": "openpose",
+    "Url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "Description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "Topics": [
+      "caffe",
+      "computer-vision",
+      "cpp",
+      "cvpr-2017",
+      "deep-learning",
+      "face",
+      "foot-estimation",
+      "hand-estimation",
+      "human-behavior-understanding",
+      "human-pose",
+      "human-pose-estimation",
+      "keypoint-detection",
+      "keypoints",
+      "machine-learning",
+      "multi-person",
+      "opencv",
+      "openpose",
+      "pose",
+      "pose-estimation",
+      "real-time"
+    ],
+    "Language": "C++",
+    "Stars": 34060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-24T14:06:31Z",
+    "UpdatedAt": "2026-05-03T13:59:40Z",
+    "Owner": "CMU-Perceptual-Computing-Lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google-gemini/genai-processors",
+    "Name": "genai-processors",
+    "Url": "https://github.com/google-gemini/genai-processors",
+    "Description": "GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.",
+    "Topics": [
+      "agent",
+      "ai",
+      "asyncio",
+      "gemini",
+      "genai",
+      "generative-ai",
+      "language-model",
+      "multimodal",
+      "python",
+      "realtime"
+    ],
+    "Language": "Python",
+    "Stars": 2116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-29T17:38:09Z",
+    "UpdatedAt": "2026-05-01T08:44:07Z",
+    "Owner": "google-gemini",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mvanhorn/last30days-skill",
+    "Name": "last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ],
+    "Language": "Python",
+    "Stars": 24651,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-23T20:37:37Z",
+    "UpdatedAt": "2026-05-03T18:36:39Z",
+    "Owner": "mvanhorn",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "abhinavsingh/proxy.py",
+    "Name": "proxy.py",
+    "Url": "https://github.com/abhinavsingh/proxy.py",
+    "Description": "💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 \"Proxy Server\" framework • 🌐 \"Web Server\" framework • ➵ ➶ ➷ ➠ \"PubSub\" framework • 👷 \"Work\" acceptor & executor framework",
+    "Topics": [
+      "dns-over-https",
+      "gfw",
+      "http-proxy",
+      "http-server",
+      "https-proxy",
+      "man-in-the-middle",
+      "mitm",
+      "mitmproxy",
+      "ngrok",
+      "ngrok-alternative",
+      "ngrok-replacement",
+      "proxy",
+      "proxy-server",
+      "python3",
+      "reverse-proxy",
+      "tls-interception",
+      "tunnel",
+      "vpn",
+      "web-server",
+      "webserver"
+    ],
+    "Language": "Python",
+    "Stars": 3521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-08-19T21:33:51Z",
+    "UpdatedAt": "2026-05-02T15:08:41Z",
+    "Owner": "abhinavsingh",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/JARVIS",
+    "Name": "JARVIS",
+    "Url": "https://github.com/microsoft/JARVIS",
+    "Description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "Topics": [
+      "deep-learning",
+      "platform",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 24688,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-30T02:57:12Z",
+    "UpdatedAt": "2026-05-03T17:25:45Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alirezamika/autoscraper",
+    "Name": "autoscraper",
+    "Url": "https://github.com/alirezamika/autoscraper",
+    "Description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "crawler",
+      "machine-learning",
+      "python",
+      "scrape",
+      "scraper",
+      "scraping",
+      "web-scraping",
+      "webautomation",
+      "webscraping"
+    ],
+    "Language": "Python",
+    "Stars": 7149,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-31T12:02:19Z",
+    "UpdatedAt": "2026-05-03T13:49:17Z",
+    "Owner": "alirezamika",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TachibanaYoshino/AnimeGAN",
+    "Name": "AnimeGAN",
+    "Url": "https://github.com/TachibanaYoshino/AnimeGAN",
+    "Description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+    "Topics": [
+      "anime-images",
+      "animegan",
+      "hayao-style",
+      "photo-animation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 4600,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-15T08:43:32Z",
+    "UpdatedAt": "2026-05-01T10:52:46Z",
+    "Owner": "TachibanaYoshino",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AIInAi/tf-insightface",
+    "Name": "tf-insightface",
+    "Url": "https://github.com/AIInAi/tf-insightface",
+    "Description": "A better tensorflow implementation of deepinsight, aiming at smoothly production ready for cross-platforms. Currently only with inference, training code later.",
+    "Topics": [
+      "arcface",
+      "face-recognition",
+      "face-tracking",
+      "face-verification",
+      "insightface",
+      "tensorflow",
+      "tf-insightface"
+    ],
+    "Language": "Python",
+    "Stars": 217,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-31T05:09:53Z",
+    "UpdatedAt": "2026-04-04T12:32:47Z",
+    "Owner": "AIInAi",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zheshipinyinMc/arcface_retinaface_mxnet2onnx",
+    "Name": "arcface_retinaface_mxnet2onnx",
+    "Url": "https://github.com/zheshipinyinMc/arcface_retinaface_mxnet2onnx",
+    "Description": "arcface and retinaface model convert mxnet to onnx.",
+    "Topics": [
+      "arcface",
+      "caffe",
+      "mxnet",
+      "onnx",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-03T06:31:21Z",
+    "UpdatedAt": "2025-08-08T03:44:09Z",
+    "Owner": "zheshipinyinMc",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "4uiiurz1/keras-arcface",
+    "Name": "keras-arcface",
+    "Url": "https://github.com/4uiiurz1/keras-arcface",
+    "Description": "Keras implementation of ArcFace, CosFace, and SphereFace",
+    "Topics": [
+      "arcface",
+      "deep-learning",
+      "keras"
+    ],
+    "Language": "Python",
+    "Stars": 285,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-17T11:43:15Z",
+    "UpdatedAt": "2026-01-24T03:20:42Z",
+    "Owner": "4uiiurz1",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/tunix",
+    "Name": "tunix",
+    "Url": "https://github.com/google/tunix",
+    "Description": "A Lightweight LLM Post-Training Library",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2250,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-02T22:19:15Z",
+    "UpdatedAt": "2026-05-03T12:19:42Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DuyNguDao/Identity-Action",
+    "Name": "Identity-Action",
+    "Url": "https://github.com/DuyNguDao/Identity-Action",
+    "Description": "The combination of face identification and action recognition for fall detection (ICT Journal)",
+    "Topics": [
+      "arcface",
+      "cnn",
+      "deep-learning",
+      "face-detection",
+      "face-recognition",
+      "lstm",
+      "pytorch",
+      "retinaface",
+      "sort",
+      "st-gcn",
+      "strongsort",
+      "yolo",
+      "yolo-pose",
+      "yolo5face",
+      "yolov5",
+      "yolov7"
+    ],
+    "Language": "Python",
+    "Stars": 57,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-20T10:56:49Z",
+    "UpdatedAt": "2026-04-28T06:02:32Z",
+    "Owner": "DuyNguDao",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tryolabs/norfair",
+    "Name": "norfair",
+    "Url": "https://github.com/tryolabs/norfair",
+    "Description": "Lightweight Python library for adding real-time multi-object tracking to any detector.",
+    "Topics": [
+      "deepsort",
+      "kalman-filter",
+      "multi-object-tracking",
+      "object-detection",
+      "object-tracking",
+      "pose-estimation",
+      "python",
+      "re-id",
+      "re-identification",
+      "tracking",
+      "tracking-algorithm",
+      "video-inference-loop",
+      "video-tracking"
+    ],
+    "Language": "Python",
+    "Stars": 2640,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-01T20:15:44Z",
+    "UpdatedAt": "2026-05-01T02:20:48Z",
+    "Owner": "tryolabs",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/magika",
+    "Name": "magika",
+    "Url": "https://github.com/google/magika",
+    "Description": "Fast and accurate AI powered file content types detection ",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "filetype",
+      "keras-classification-models",
+      "keras-models",
+      "mime-types",
+      "onnx"
+    ],
+    "Language": "Python",
+    "Stars": 16877,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-22T09:36:55Z",
+    "UpdatedAt": "2026-05-03T19:04:54Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mli/paper-reading",
+    "Name": "paper-reading",
+    "Url": "https://github.com/mli/paper-reading",
+    "Description": "深度学习经典、新论文逐段精读",
+    "Topics": [
+      "deep-learning",
+      "paper",
+      "reading-list"
+    ],
+    "Language": "",
+    "Stars": 32952,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-22T06:34:51Z",
+    "UpdatedAt": "2026-05-03T15:54:12Z",
+    "Owner": "mli",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ModelTC/LightLLM",
+    "Name": "LightLLM",
+    "Url": "https://github.com/ModelTC/LightLLM",
+    "Description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+    "Topics": [
+      "deep-learning",
+      "gpt",
+      "llama",
+      "llm",
+      "model-serving",
+      "nlp",
+      "openai-triton"
+    ],
+    "Language": "Python",
+    "Stars": 4038,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-22T08:11:15Z",
+    "UpdatedAt": "2026-05-03T18:53:09Z",
+    "Owner": "ModelTC",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "smahesh29/Gender-and-Age-Detection",
+    "Name": "Gender-and-Age-Detection",
+    "Url": "https://github.com/smahesh29/Gender-and-Age-Detection",
+    "Description": "A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.",
+    "Topics": [
+      "age",
+      "age-detection",
+      "age-prediction",
+      "gender",
+      "gender-detection",
+      "gender-prediction",
+      "opencv",
+      "opencv-python",
+      "python",
+      "webcam"
+    ],
+    "Language": "Python",
+    "Stars": 569,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-07T20:49:21Z",
+    "UpdatedAt": "2026-04-21T08:30:21Z",
+    "Owner": "smahesh29",
+    "SourceQueries": [
+      "topic:age-prediction language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GokuMohandas/Made-With-ML",
+    "Name": "Made-With-ML",
+    "Url": "https://github.com/GokuMohandas/Made-With-ML",
+    "Description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+    "Topics": [
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "distributed-ml",
+      "distributed-training",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "ray"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-05T03:44:27Z",
+    "UpdatedAt": "2026-05-03T18:46:16Z",
+    "Owner": "GokuMohandas",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "marshmallow-code/marshmallow",
+    "Name": "marshmallow",
+    "Url": "https://github.com/marshmallow-code/marshmallow",
+    "Description": "A lightweight library for converting complex objects to and from simple Python datatypes.",
+    "Topics": [
+      "deserialization",
+      "marshalling",
+      "python",
+      "schema",
+      "serde",
+      "serialization",
+      "validation"
+    ],
+    "Language": "Python",
+    "Stars": 7234,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-11-10T21:32:24Z",
+    "UpdatedAt": "2026-05-01T19:45:25Z",
+    "Owner": "marshmallow-code",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "1996scarlet/ArcFace-Multiplex-Recognition",
+    "Name": "ArcFace-Multiplex-Recognition",
+    "Url": "https://github.com/1996scarlet/ArcFace-Multiplex-Recognition",
+    "Description": "适用于复杂场景的人脸识别身份认证系统",
+    "Topics": [
+      "arcface",
+      "face-detection",
+      "face-recognition",
+      "mxnet",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-08T06:40:28Z",
+    "UpdatedAt": "2026-04-07T05:40:00Z",
+    "Owner": "1996scarlet",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenMOSS/MOSS-TTS-Nano",
+    "Name": "MOSS-TTS-Nano",
+    "Url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "Description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+    "Topics": [
+      "audio-tokenizer",
+      "chinese",
+      "english",
+      "multi-modality",
+      "multilingual",
+      "realtime",
+      "streaming-audio",
+      "tts",
+      "voice-clone"
+    ],
+    "Language": "Python",
+    "Stars": 2650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-10T16:25:07Z",
+    "UpdatedAt": "2026-05-03T18:33:15Z",
+    "Owner": "OpenMOSS",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PLSC",
+    "Name": "PLSC",
+    "Url": "https://github.com/PaddlePaddle/PLSC",
+    "Description": "Paddle Large Scale Classification Tools，supports ArcFace, CosFace, PartialFC, Data Parallel + Model Parallel. Model includes ResNet, ViT, Swin, DeiT, CaiT, FaceViT, MoCo, MAE, ConvMAE, CAE.",
+    "Topics": [
+      "arcface",
+      "cait",
+      "convmae",
+      "cosface",
+      "data-parallel",
+      "deit",
+      "distributed-training",
+      "face-recognition",
+      "facevit",
+      "hight-speed",
+      "large-scale",
+      "mae",
+      "moco-v3",
+      "model-parallel",
+      "paddle",
+      "paddlepaddle",
+      "partial-fc",
+      "resnet",
+      "swin-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-13T16:30:59Z",
+    "UpdatedAt": "2026-03-26T05:18:50Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentARC/GFPGAN",
+    "Name": "GFPGAN",
+    "Url": "https://github.com/TencentARC/GFPGAN",
+    "Description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "Topics": [
+      "deep-learning",
+      "face-restoration",
+      "gan",
+      "gfpgan",
+      "image-restoration",
+      "pytorch",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 37445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-19T06:18:20Z",
+    "UpdatedAt": "2026-05-03T15:03:06Z",
+    "Owner": "TencentARC",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Gsllchb/Handright",
+    "Name": "Handright",
+    "Url": "https://github.com/Gsllchb/Handright",
+    "Description": "A lightweight Python library for simulating Chinese handwriting",
+    "Topics": [
+      "chinese",
+      "handwriting",
+      "image",
+      "library",
+      "lightweight",
+      "simulation"
+    ],
+    "Language": "Python",
+    "Stars": 2225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-15T01:13:14Z",
+    "UpdatedAt": "2026-04-30T16:09:01Z",
+    "Owner": "Gsllchb",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepcam-cn/yolov5-face",
+    "Name": "yolov5-face",
+    "Url": "https://github.com/deepcam-cn/yolov5-face",
+    "Description": "YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)       ECCV Workshops 2022)",
+    "Topics": [
+      "arcface",
+      "blazeface",
+      "pytorch",
+      "retinaface",
+      "scrfd",
+      "shufflenet",
+      "tensorrt",
+      "tinaface",
+      "yolo",
+      "yolov5",
+      "yolov7"
+    ],
+    "Language": "Python",
+    "Stars": 2390,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-26T06:55:59Z",
+    "UpdatedAt": "2026-04-28T08:27:43Z",
+    "Owner": "deepcam-cn",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/DeepTutor",
+    "Name": "DeepTutor",
+    "Url": "https://github.com/HKUDS/DeepTutor",
+    "Description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "Topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 23090,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-28T15:35:54Z",
+    "UpdatedAt": "2026-05-03T18:45:24Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-team/keras",
+    "Name": "keras",
+    "Url": "https://github.com/keras-team/keras",
+    "Description": "Deep Learning for humans",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 64057,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T00:35:42Z",
+    "UpdatedAt": "2026-05-03T18:45:46Z",
+    "Owner": "keras-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yeyupiaoling/VoiceprintRecognition-PaddlePaddle",
+    "Name": "VoiceprintRecognition-PaddlePaddle",
+    "Url": "https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle",
+    "Description": "本项目使用了EcapaTdnn、ResNetSE、ERes2Net、CAM++等多种先进的声纹识别模型，同时本项目也支持了MelSpectrogram、Spectrogram、MFCC、Fbank等多种数据预处理方法",
+    "Topics": [
+      "arcface",
+      "ecapa-tdnn",
+      "paddlepaddle",
+      "speaker-recognition",
+      "voice-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 312,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-29T04:10:20Z",
+    "UpdatedAt": "2026-04-21T07:21:50Z",
+    "Owner": "yeyupiaoling",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "recommenders-team/recommenders",
+    "Name": "recommenders",
+    "Url": "https://github.com/recommenders-team/recommenders",
+    "Description": "Best Practices on Recommendation Systems",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "operationalization",
+      "python",
+      "ranking",
+      "rating",
+      "recommendation",
+      "recommendation-algorithm",
+      "recommendation-engine",
+      "recommendation-system",
+      "recommender",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 21666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-19T10:06:07Z",
+    "UpdatedAt": "2026-05-03T19:00:17Z",
+    "Owner": "recommenders-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "notAI-tech/NudeNet",
+    "Name": "NudeNet",
+    "Url": "https://github.com/notAI-tech/NudeNet",
+    "Description": "Lightweight nudity detection",
+    "Topics": [
+      "censorship",
+      "javascript",
+      "keras",
+      "machinelearning",
+      "nsfw",
+      "nsfw-data",
+      "nsfw-recognition",
+      "nudity",
+      "nudity-detection",
+      "nudity-detector",
+      "object-detection",
+      "onnxruntime"
+    ],
+    "Language": "Python",
+    "Stars": 2337,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-28T17:15:06Z",
+    "UpdatedAt": "2026-05-03T15:31:08Z",
+    "Owner": "notAI-tech",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deezer/spleeter",
+    "Name": "spleeter",
+    "Url": "https://github.com/deezer/spleeter",
+    "Description": "Deezer source separation library including pretrained models.",
+    "Topics": [
+      "audio-processing",
+      "bass",
+      "deep-learning",
+      "deezer",
+      "drums",
+      "model",
+      "pretrained-models",
+      "python",
+      "tensorflow",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 28198,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-26T15:40:46Z",
+    "UpdatedAt": "2026-05-03T07:49:41Z",
+    "Owner": "deezer",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CorentinJ/Real-Time-Voice-Cloning",
+    "Name": "Real-Time-Voice-Cloning",
+    "Url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "Description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "deep-learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tts",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 59711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T08:56:15Z",
+    "UpdatedAt": "2026-05-03T18:01:13Z",
+    "Owner": "CorentinJ",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "coqui-ai/TTS",
+    "Name": "TTS",
+    "Url": "https://github.com/coqui-ai/TTS",
+    "Description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "Topics": [
+      "deep-learning",
+      "glow-tts",
+      "hifigan",
+      "melgan",
+      "multi-speaker-tts",
+      "python",
+      "pytorch",
+      "speaker-encoder",
+      "speaker-encodings",
+      "speech",
+      "speech-synthesis",
+      "tacotron",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "vocoder",
+      "voice-cloning",
+      "voice-conversion",
+      "voice-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 45211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T15:45:28Z",
+    "UpdatedAt": "2026-05-03T15:53:02Z",
+    "Owner": "coqui-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-ai-edge/mediapipe",
+    "Name": "mediapipe",
+    "Url": "https://github.com/google-ai-edge/mediapipe",
+    "Description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "Topics": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "machine-learning",
+      "mediapipe",
+      "mobile-development",
+      "perception",
+      "pipeline-framework",
+      "stream-processing",
+      "video-processing"
+    ],
+    "Language": "C++",
+    "Stars": 35048,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T19:16:41Z",
+    "UpdatedAt": "2026-05-03T16:12:46Z",
+    "Owner": "google-ai-edge",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/qlib",
+    "Name": "qlib",
+    "Url": "https://github.com/microsoft/qlib",
+    "Description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "Topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "Language": "Python",
+    "Stars": 41915,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-14T06:46:00Z",
+    "UpdatedAt": "2026-05-03T18:01:55Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "docling-project/docling",
+    "Name": "docling",
+    "Url": "https://github.com/docling-project/docling",
+    "Description": "Get your documents ready for gen AI",
+    "Topics": [
+      "ai",
+      "convert",
+      "document-parser",
+      "document-parsing",
+      "documents",
+      "docx",
+      "html",
+      "markdown",
+      "pdf",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "tables",
+      "xlsx"
+    ],
+    "Language": "Python",
+    "Stars": 59067,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-09T07:50:26Z",
+    "UpdatedAt": "2026-05-03T17:47:58Z",
+    "Owner": "docling-project",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "apple/ml-stable-diffusion",
+    "Name": "ml-stable-diffusion",
+    "Url": "https://github.com/apple/ml-stable-diffusion",
+    "Description": "Stable Diffusion with Core ML on Apple Silicon",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 17847,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-16T00:48:18Z",
+    "UpdatedAt": "2026-05-03T07:17:55Z",
+    "Owner": "apple",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BVLC/caffe",
+    "Name": "caffe",
+    "Url": "https://github.com/BVLC/caffe",
+    "Description": "Caffe: a fast open framework for deep learning.",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "vision"
+    ],
+    "Language": "C++",
+    "Stars": 34624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-12T18:39:48Z",
+    "UpdatedAt": "2026-05-03T03:13:57Z",
+    "Owner": "BVLC",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/dspy",
+    "Name": "dspy",
+    "Url": "https://github.com/stanfordnlp/dspy",
+    "Description": "DSPy: The framework for programming—not prompting—language models",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 34174,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-09T21:01:51Z",
+    "UpdatedAt": "2026-05-03T17:54:19Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30257,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-03T15:50:40Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41568,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-03T19:05:29Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vectornguyen76/face-recognition",
+    "Name": "face-recognition",
+    "Url": "https://github.com/vectornguyen76/face-recognition",
+    "Description": "Real-Time Face Recognition use SCRFD, ArcFace, ByteTrack and Similarity Measure ",
+    "Topics": [
+      "arcface",
+      "bytetrack",
+      "cosine-similarity",
+      "face-alignment",
+      "face-detection",
+      "face-recognition",
+      "insightface",
+      "multithreading",
+      "real-time",
+      "scrfd",
+      "yolov5-face"
+    ],
+    "Language": "Python",
+    "Stars": 196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-27T06:14:32Z",
+    "UpdatedAt": "2026-04-15T10:56:58Z",
+    "Owner": "vectornguyen76",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ytdl-org/youtube-dl",
+    "Name": "youtube-dl",
+    "Url": "https://github.com/ytdl-org/youtube-dl",
+    "Description": "Command-line program to download videos from YouTube.com and other video sites",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 140185,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-10-31T14:35:07Z",
+    "UpdatedAt": "2026-05-03T17:47:32Z",
+    "Owner": "ytdl-org",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-03T17:38:10Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "django/django",
+    "Name": "django",
+    "Url": "https://github.com/django/django",
+    "Description": "The Web framework for perfectionists with deadlines.",
+    "Topics": [
+      "apps",
+      "django",
+      "framework",
+      "models",
+      "orm",
+      "python",
+      "templates",
+      "views",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 87391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-04-28T02:47:18Z",
+    "UpdatedAt": "2026-05-03T15:14:40Z",
+    "Owner": "django",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mikf/gallery-dl",
+    "Name": "gallery-dl",
+    "Url": "https://github.com/mikf/gallery-dl",
+    "Description": "Command-line program to download image galleries and collections from several image hosting sites",
+    "Topics": [
+      "danbooru",
+      "deviantart",
+      "downloader",
+      "gallery",
+      "kemono",
+      "mangadex",
+      "pixiv",
+      "tumblr",
+      "twitter"
+    ],
+    "Language": "Python",
+    "Stars": 18035,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-12T19:38:05Z",
+    "UpdatedAt": "2026-05-03T18:30:01Z",
+    "Owner": "mikf",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jmbannon/ytdl-sub",
+    "Name": "ytdl-sub",
+    "Url": "https://github.com/jmbannon/ytdl-sub",
+    "Description": "Lightweight tool to automate downloading and metadata generation with yt-dlp",
+    "Topics": [
+      "emby",
+      "jellyfin",
+      "kodi",
+      "lidarr",
+      "nfo",
+      "plex",
+      "radarr",
+      "servarr",
+      "sonarr",
+      "youtube",
+      "yt-dlp",
+      "yt-dlp-wrapper",
+      "ytdl"
+    ],
+    "Language": "Python",
+    "Stars": 2801,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-09T04:44:33Z",
+    "UpdatedAt": "2026-05-03T00:09:35Z",
+    "Owner": "jmbannon",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opencv/opencv",
+    "Name": "opencv",
+    "Url": "https://github.com/opencv/opencv",
+    "Description": "Open Source Computer Vision Library",
+    "Topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "Language": "C++",
+    "Stars": 87330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-19T09:40:17Z",
+    "UpdatedAt": "2026-05-03T16:50:32Z",
+    "Owner": "opencv",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eosphoros-ai/DB-GPT",
+    "Name": "DB-GPT",
+    "Url": "https://github.com/eosphoros-ai/DB-GPT",
+    "Description": "open-source agentic AI data assistant for the next generation of AI + Data products.",
+    "Topics": [
+      "agents",
+      "bgi",
+      "database",
+      "deepseek",
+      "gpt",
+      "gpt-4",
+      "hacktoberfest",
+      "llm",
+      "private",
+      "rag",
+      "security",
+      "vicuna"
+    ],
+    "Language": "Python",
+    "Stars": 18650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-13T14:52:43Z",
+    "UpdatedAt": "2026-05-03T15:37:16Z",
+    "Owner": "eosphoros-ai",
+    "SourceQueries": [
+      "d language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29395,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-03T16:59:12Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162703,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T18:53:50Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openai/swarm",
+    "Name": "swarm",
+    "Url": "https://github.com/openai/swarm",
+    "Description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 21424,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-22T20:53:54Z",
+    "UpdatedAt": "2026-05-03T15:37:24Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lukaszbinden/pediatric-bone-age-prediction",
+    "Name": "pediatric-bone-age-prediction",
+    "Url": "https://github.com/lukaszbinden/pediatric-bone-age-prediction",
+    "Description": "Based on kaggle RSNA Pediatric Bone Age Prediction from X-Rays",
+    "Topics": [
+      "age-prediction",
+      "deep-learning",
+      "machine-learning",
+      "transfer-learning",
+      "x-rays"
+    ],
+    "Language": "Python",
+    "Stars": 51,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-20T12:11:36Z",
+    "UpdatedAt": "2026-02-02T08:34:56Z",
+    "Owner": "lukaszbinden",
+    "SourceQueries": [
+      "topic:age-prediction language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Yuliang-Liu/MonkeyOCR",
+    "Name": "MonkeyOCR",
+    "Url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "Description": "A lightweight LMM-based Document Parsing Model",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6591,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-03T06:25:31Z",
+    "UpdatedAt": "2026-05-02T04:20:10Z",
+    "Owner": "Yuliang-Liu",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77606,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-03T18:06:54Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "d language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Lasagne/Lasagne",
+    "Name": "Lasagne",
+    "Url": "https://github.com/Lasagne/Lasagne",
+    "Description": "Lightweight library to build and train neural networks in Theano",
+    "Topics": [
+      "deep-learning-library",
+      "neural-networks",
+      "python",
+      "theano"
+    ],
+    "Language": "Python",
+    "Stars": 3864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-11T15:31:41Z",
+    "UpdatedAt": "2026-04-24T17:20:11Z",
+    "Owner": "Lasagne",
+    "SourceQueries": [
+      "lightweight language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "THUFutureLab/gluon-face",
+    "Name": "gluon-face",
+    "Url": "https://github.com/THUFutureLab/gluon-face",
+    "Description": "An unofficial Gluon FR Toolkit for face recognition. https://gluon-face.readthedocs.io",
+    "Topics": [
+      "arcface",
+      "center-loss",
+      "cosine-loss",
+      "face-recognition",
+      "gluon",
+      "gluoncv",
+      "loss-functions",
+      "mxnet",
+      "pretrained-models",
+      "sphereface"
+    ],
+    "Language": "Python",
+    "Stars": 267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T10:24:15Z",
+    "UpdatedAt": "2024-08-20T03:03:38Z",
+    "Owner": "THUFutureLab",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lutzroeder/netron",
+    "Name": "netron",
+    "Url": "https://github.com/lutzroeder/netron",
+    "Description": "Visualizer for neural network, deep learning and machine learning models",
+    "Topics": [
+      "ai",
+      "coreml",
+      "deep-learning",
+      "deeplearning",
+      "keras",
+      "machine-learning",
+      "machinelearning",
+      "ml",
+      "neural-network",
+      "numpy",
+      "onnx",
+      "pytorch",
+      "safetensors",
+      "tensorflow",
+      "tensorflow-lite",
+      "visualizer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 32832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-26T12:53:43Z",
+    "UpdatedAt": "2026-05-03T18:11:05Z",
+    "Owner": "lutzroeder",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dmonterom/face_recognition_TF2",
+    "Name": "face_recognition_TF2",
+    "Url": "https://github.com/dmonterom/face_recognition_TF2",
+    "Description": "Training a face Recognizer using ResNet50 + ArcFace in TensorFlow 2.0",
+    "Topics": [
+      "arcface",
+      "facerecognition",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 53,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-21T16:49:48Z",
+    "UpdatedAt": "2025-11-07T07:38:03Z",
+    "Owner": "dmonterom",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wujiyang/Face_Pytorch",
+    "Name": "Face_Pytorch",
+    "Url": "https://github.com/wujiyang/Face_Pytorch",
+    "Description": "face recognition algorithms  in pytorch framework, including arcface, cosface, sphereface and so on",
+    "Topics": [
+      "arcface",
+      "cosface",
+      "face-recognition",
+      "pytorch",
+      "sphereface"
+    ],
+    "Language": "Python",
+    "Stars": 831,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-21T08:23:55Z",
+    "UpdatedAt": "2026-05-03T15:14:22Z",
+    "Owner": "wujiyang",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Xiaoccer/MobileFaceNet_Pytorch",
+    "Name": "MobileFaceNet_Pytorch",
+    "Url": "https://github.com/Xiaoccer/MobileFaceNet_Pytorch",
+    "Description": " MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices",
+    "Topics": [
+      "arcface",
+      "face-recognition",
+      "mobileface",
+      "mobilefacenet",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 406,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-05T11:45:14Z",
+    "UpdatedAt": "2026-04-29T01:39:08Z",
+    "Owner": "Xiaoccer",
+    "SourceQueries": [
+      "topic:arcface language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/yolov5",
+    "Name": "yolov5",
+    "Url": "https://github.com/ultralytics/yolov5",
+    "Description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "Topics": [
+      "coreml",
+      "deep-learning",
+      "ios",
+      "machine-learning",
+      "ml",
+      "object-detection",
+      "onnx",
+      "pytorch",
+      "tflite",
+      "ultralytics",
+      "yolo",
+      "yolov3",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 57330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-18T03:45:11Z",
+    "UpdatedAt": "2026-05-03T15:06:59Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  }
+]

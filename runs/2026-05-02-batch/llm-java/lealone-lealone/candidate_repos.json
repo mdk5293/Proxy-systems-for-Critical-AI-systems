@@ -1,0 +1,4675 @@
+[
+  {
+    "FullName": "uber-common/jvm-profiler",
+    "Name": "jvm-profiler",
+    "Url": "https://github.com/uber-common/jvm-profiler",
+    "Description": "JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter",
+    "Topics": [
+      "agent",
+      "java",
+      "performance",
+      "profiler"
+    ],
+    "Language": "Java",
+    "Stars": 1807,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-05T22:19:29Z",
+    "UpdatedAt": "2026-04-05T12:39:28Z",
+    "Owner": "uber-common",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "logisim-evolution/logisim-evolution",
+    "Name": "logisim-evolution",
+    "Url": "https://github.com/logisim-evolution/logisim-evolution",
+    "Description": "Digital logic design tool and simulator",
+    "Topics": [
+      "circuit",
+      "circuits",
+      "digital-circuit",
+      "digital-circuits",
+      "digital-logic",
+      "digital-logic-design",
+      "education",
+      "fpga",
+      "logic",
+      "logisim",
+      "logisim-evolution",
+      "simulator",
+      "timing-diagram",
+      "verilog",
+      "vhdl"
+    ],
+    "Language": "Java",
+    "Stars": 7056,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-19T05:23:24Z",
+    "UpdatedAt": "2026-05-02T16:16:54Z",
+    "Owner": "logisim-evolution",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opennars/opennars",
+    "Name": "opennars",
+    "Url": "https://github.com/opennars/opennars",
+    "Description": "OpenNARS for Research 3.0+",
+    "Topics": [
+      "agent",
+      "agi",
+      "ai",
+      "aikr",
+      "artificial-general-intelligence",
+      "database",
+      "graph",
+      "inference",
+      "java",
+      "learning",
+      "logic",
+      "nal",
+      "nars",
+      "realtime",
+      "reasoner",
+      "reasoning",
+      "reinforcement",
+      "rl",
+      "semantic",
+      "solver"
+    ],
+    "Language": "Java",
+    "Stars": 416,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-18T18:36:28Z",
+    "UpdatedAt": "2026-04-18T13:52:23Z",
+    "Owner": "opennars",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scwang90/SmartRefreshLayout",
+    "Name": "SmartRefreshLayout",
+    "Url": "https://github.com/scwang90/SmartRefreshLayout",
+    "Description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+    "Topics": [
+      "android",
+      "android-ui",
+      "footer",
+      "header",
+      "overscroll",
+      "pull-to-refresh",
+      "pulltorefresh",
+      "refreshlayout"
+    ],
+    "Language": "Java",
+    "Stars": 25163,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-02T09:52:50Z",
+    "UpdatedAt": "2026-05-02T10:00:39Z",
+    "Owner": "scwang90",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "didi/KnowAgent",
+    "Name": "KnowAgent",
+    "Url": "https://github.com/didi/KnowAgent",
+    "Description": "基于日志模板构建，采集任务动态管控、数据质量精确度量，一站式日志采集平台",
+    "Topics": [
+      "agent",
+      "filebeat",
+      "fluentd",
+      "log",
+      "logagent",
+      "logtail"
+    ],
+    "Language": "Java",
+    "Stars": 277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-22T13:06:35Z",
+    "UpdatedAt": "2026-03-19T08:23:55Z",
+    "Owner": "didi",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160181,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-02T18:13:27Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Canner/wren-engine",
+    "Name": "wren-engine",
+    "Url": "https://github.com/Canner/wren-engine",
+    "Description": "The open context engine for AI agents support 15+ data sources. Built on Rust and Apache DataFusion.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "business-intelligence",
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-lake",
+      "data-warehouse",
+      "hacktoberfest",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "semantic",
+      "semantic-layer",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 659,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-09T07:07:45Z",
+    "UpdatedAt": "2026-05-01T04:27:48Z",
+    "Owner": "Canner",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airbnb/lottie-android",
+    "Name": "lottie-android",
+    "Url": "https://github.com/airbnb/lottie-android",
+    "Description": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+    "Topics": [
+      "after-effects",
+      "airbnb",
+      "android",
+      "animation",
+      "lottie"
+    ],
+    "Language": "Java",
+    "Stars": 35610,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-06T22:42:42Z",
+    "UpdatedAt": "2026-05-02T13:04:10Z",
+    "Owner": "airbnb",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ageerle/ruoyi-ai",
+    "Name": "ruoyi-ai",
+    "Url": "https://github.com/ageerle/ruoyi-ai",
+    "Description": "面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。",
+    "Topics": [
+      "agent",
+      "ai",
+      "knowledge",
+      "mcp",
+      "rag"
+    ],
+    "Language": "Java",
+    "Stars": 5213,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-16T04:16:41Z",
+    "UpdatedAt": "2026-05-02T16:07:13Z",
+    "Owner": "ageerle",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ikew0ng/SwipeBackLayout",
+    "Name": "SwipeBackLayout",
+    "Url": "https://github.com/ikew0ng/SwipeBackLayout",
+    "Description": "An Android library that help you to build app with swipe back gesture.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6098,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-08-25T03:36:12Z",
+    "UpdatedAt": "2026-04-29T17:23:05Z",
+    "Owner": "ikew0ng",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qunarcorp/bistoury",
+    "Name": "bistoury",
+    "Url": "https://github.com/qunarcorp/bistoury",
+    "Description": "Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案",
+    "Topics": [
+      "agent",
+      "bistoury",
+      "cpu",
+      "debug",
+      "debugging",
+      "java",
+      "jvm",
+      "monitor",
+      "trouble-shooting"
+    ],
+    "Language": "Java",
+    "Stars": 4085,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-01T07:54:25Z",
+    "UpdatedAt": "2026-04-29T20:40:39Z",
+    "Owner": "qunarcorp",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "trello-archive/RxLifecycle",
+    "Name": "RxLifecycle",
+    "Url": "https://github.com/trello-archive/RxLifecycle",
+    "Description": "Lifecycle handling APIs for Android apps using RxJava",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 7661,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-20T13:32:23Z",
+    "UpdatedAt": "2026-05-02T09:59:58Z",
+    "Owner": "trello-archive",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "orhanobut/logger",
+    "Name": "logger",
+    "Url": "https://github.com/orhanobut/logger",
+    "Description": "✔️ Simple, pretty and powerful logger for android",
+    "Topics": [
+      "android",
+      "java",
+      "json-logging",
+      "log",
+      "logcat",
+      "logger",
+      "pretty-printer",
+      "timber"
+    ],
+    "Language": "Java",
+    "Stars": 13862,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-20T22:30:12Z",
+    "UpdatedAt": "2026-05-02T09:59:49Z",
+    "Owner": "orhanobut",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-02T18:18:05Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "meefik/linuxdeploy",
+    "Name": "linuxdeploy",
+    "Url": "https://github.com/meefik/linuxdeploy",
+    "Description": "Install and run GNU/Linux on Android",
+    "Topics": [
+      "android",
+      "chroot",
+      "containers",
+      "deployment",
+      "linux"
+    ],
+    "Language": "Java",
+    "Stars": 5828,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-21T04:49:14Z",
+    "UpdatedAt": "2026-05-02T16:08:01Z",
+    "Owner": "meefik",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhisheng17/flink-learning",
+    "Name": "flink-learning",
+    "Url": "https://github.com/zhisheng17/flink-learning",
+    "Description": "flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》",
+    "Topics": [
+      "clickhouse",
+      "elasticsearch",
+      "flink",
+      "hbase",
+      "influxdb",
+      "kafka",
+      "loki",
+      "mysql",
+      "opentsdb",
+      "rabbitmq",
+      "redis",
+      "rocketmq",
+      "spark",
+      "stream-processing",
+      "streaming"
+    ],
+    "Language": "Java",
+    "Stars": 15053,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-01T07:38:28Z",
+    "UpdatedAt": "2026-05-02T15:14:51Z",
+    "Owner": "zhisheng17",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Meituan-Dianping/Leaf",
+    "Name": "Leaf",
+    "Url": "https://github.com/Meituan-Dianping/Leaf",
+    "Description": "Distributed ID Generate Service",
+    "Topics": [
+      "distributed-id-generator",
+      "leaf"
+    ],
+    "Language": "Java",
+    "Stars": 6745,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-11T07:41:35Z",
+    "UpdatedAt": "2026-05-02T06:28:54Z",
+    "Owner": "Meituan-Dianping",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37950,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-02T13:34:33Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cojen/TuplDB",
+    "Name": "TuplDB",
+    "Url": "https://github.com/cojen/TuplDB",
+    "Description": "TuplDB is a high-performance, concurrent, transactional, scalable, low-level embedded database.",
+    "Topics": [
+      "acid",
+      "btree",
+      "concurrency",
+      "cursor",
+      "database",
+      "durable",
+      "embedded-database",
+      "java",
+      "key-value-store",
+      "nosql",
+      "persistence",
+      "raft",
+      "replication",
+      "sorting",
+      "storage-engine",
+      "transaction",
+      "transactional",
+      "transactions"
+    ],
+    "Language": "Java",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-07T19:30:36Z",
+    "UpdatedAt": "2026-03-22T09:56:11Z",
+    "Owner": "cojen",
+    "SourceQueries": [
+      "topic:acid language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "singwhatiwanna/dynamic-load-apk",
+    "Name": "dynamic-load-apk",
+    "Url": "https://github.com/singwhatiwanna/dynamic-load-apk",
+    "Description": "DL : dynamic load framework in android",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6014,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-30T11:51:00Z",
+    "UpdatedAt": "2026-05-02T09:59:30Z",
+    "Owner": "singwhatiwanna",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "magefree/mage",
+    "Name": "mage",
+    "Url": "https://github.com/magefree/mage",
+    "Description": "XMage - Magic Another Game Engine",
+    "Topics": [
+      "ai",
+      "card",
+      "ccg",
+      "client-server",
+      "computer-opponents",
+      "deck",
+      "game",
+      "game-engine",
+      "java",
+      "linux",
+      "macos",
+      "magic",
+      "magic-the-gathering",
+      "mtg",
+      "mtgjson",
+      "multiplayer",
+      "scryfall",
+      "windows",
+      "xmage"
+    ],
+    "Language": "Java",
+    "Stars": 2255,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-04-27T13:18:34Z",
+    "UpdatedAt": "2026-05-02T04:46:08Z",
+    "Owner": "magefree",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bytechefhq/bytechef",
+    "Name": "bytechef",
+    "Url": "https://github.com/bytechefhq/bytechef",
+    "Description": "Open-source, AI-native, low-code platform for API orchestration, workflow automation, and AI agent integration across internal systems and SaaS products.",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "api",
+      "automation",
+      "embedded-ipaas",
+      "hacktoberfest",
+      "integrations",
+      "ipaas",
+      "java",
+      "llm",
+      "low-code",
+      "mcp",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workato",
+      "workflow",
+      "workflow-automation",
+      "zapier"
+    ],
+    "Language": "Java",
+    "Stars": 754,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-30T03:39:20Z",
+    "UpdatedAt": "2026-05-01T14:05:00Z",
+    "Owner": "bytechefhq",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "elastic/logstash",
+    "Name": "logstash",
+    "Url": "https://github.com/elastic/logstash",
+    "Description": "Logstash - transport and process your logs, events, or other data",
+    "Topics": [
+      "etl-framework",
+      "java",
+      "jruby",
+      "logging",
+      "real-time-processing",
+      "streaming"
+    ],
+    "Language": "Java",
+    "Stars": 14845,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-11-18T01:31:50Z",
+    "UpdatedAt": "2026-05-01T01:00:54Z",
+    "Owner": "elastic",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "weirdmachine64/GhidraGPT",
+    "Name": "GhidraGPT",
+    "Url": "https://github.com/weirdmachine64/GhidraGPT",
+    "Description": "Integrate LLM models directly into Ghidra for automated code refactoring and analysis.",
+    "Topics": [
+      "agent",
+      "ghidra",
+      "ghidra-extension",
+      "ghidra-plugin",
+      "gpt",
+      "java",
+      "reverse-engineering"
+    ],
+    "Language": "Java",
+    "Stars": 260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-12T19:40:05Z",
+    "UpdatedAt": "2026-04-28T11:24:09Z",
+    "Owner": "weirdmachine64",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "upstash/context7",
+    "Name": "context7",
+    "Url": "https://github.com/upstash/context7",
+    "Description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "Topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "Language": "TypeScript",
+    "Stars": 54293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-26T23:40:39Z",
+    "UpdatedAt": "2026-05-02T18:22:27Z",
+    "Owner": "upstash",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34353,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-02T16:57:11Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jenkinsci/kubernetes-plugin",
+    "Name": "kubernetes-plugin",
+    "Url": "https://github.com/jenkinsci/kubernetes-plugin",
+    "Description": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment",
+    "Topics": [
+      "agent",
+      "cloud",
+      "kubernetes"
+    ],
+    "Language": "Java",
+    "Stars": 2306,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-16T09:02:22Z",
+    "UpdatedAt": "2026-04-29T20:09:45Z",
+    "Owner": "jenkinsci",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asgeirtj/system_prompts_leaks",
+    "Name": "system_prompts_leaks",
+    "Url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "Description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+    "Topics": [
+      "ai",
+      "ai-transparency",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "gemini",
+      "generative-ai",
+      "gpt-5",
+      "grok",
+      "large-language-models",
+      "llm",
+      "openai",
+      "perplexity",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts",
+      "xai"
+    ],
+    "Language": "",
+    "Stars": 39382,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-03T02:43:56Z",
+    "UpdatedAt": "2026-05-02T18:14:25Z",
+    "Owner": "asgeirtj",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/adk-java",
+    "Name": "adk-java",
+    "Url": "https://github.com/google/adk-java",
+    "Description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "Topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "genai-chatbot",
+      "llm",
+      "llms",
+      "multi-agent",
+      "multi-agent-system",
+      "multi-agent-systems",
+      "multi-agents",
+      "multi-agents-collaboration"
+    ],
+    "Language": "Java",
+    "Stars": 1528,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-05T17:16:25Z",
+    "UpdatedAt": "2026-05-01T18:19:36Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milvus-io/milvus",
+    "Name": "milvus",
+    "Url": "https://github.com/milvus-io/milvus",
+    "Description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "Topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "Language": "Go",
+    "Stars": 44093,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-16T06:43:43Z",
+    "UpdatedAt": "2026-05-02T17:51:28Z",
+    "Owner": "milvus-io",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dyc87112/SpringBoot-Learning",
+    "Name": "SpringBoot-Learning",
+    "Url": "https://github.com/dyc87112/SpringBoot-Learning",
+    "Description": "《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！",
+    "Topics": [
+      "dubbo",
+      "jdbctemplate",
+      "log4j",
+      "mybatis",
+      "redis",
+      "spring-boot",
+      "spring-cloud",
+      "spring-data-jpa"
+    ],
+    "Language": "Java",
+    "Stars": 15763,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-21T03:39:06Z",
+    "UpdatedAt": "2026-05-01T04:42:57Z",
+    "Owner": "dyc87112",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hongyangAndroid/AndroidAutoLayout",
+    "Name": "AndroidAutoLayout",
+    "Url": "https://github.com/hongyangAndroid/AndroidAutoLayout",
+    "Description": "[停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6657,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-19T02:09:11Z",
+    "UpdatedAt": "2026-04-27T06:36:24Z",
+    "Owner": "hongyangAndroid",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "weibocom/rill-flow",
+    "Name": "rill-flow",
+    "Url": "https://github.com/weibocom/rill-flow",
+    "Description": " Rill Flow is a high-performance, scalable workflow orchestration engine for distributed workloads and LLMs",
+    "Topics": [
+      "agent",
+      "ai",
+      "backend-as-a-service",
+      "cloud-native",
+      "dag",
+      "job-scheduler",
+      "llm",
+      "orchestration",
+      "task-scheduler",
+      "workflow"
+    ],
+    "Language": "Java",
+    "Stars": 409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-03T03:46:01Z",
+    "UpdatedAt": "2026-04-24T20:32:46Z",
+    "Owner": "weibocom",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "smartloli/EFAK",
+    "Name": "EFAK",
+    "Url": "https://github.com/smartloli/EFAK",
+    "Description": "A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.",
+    "Topics": [
+      "ai",
+      "consumer-group",
+      "kafka",
+      "kafka-eagle",
+      "offsets"
+    ],
+    "Language": "Java",
+    "Stars": 3177,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-04T08:52:23Z",
+    "UpdatedAt": "2026-04-25T15:21:32Z",
+    "Owner": "smartloli",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vespa-engine/vespa",
+    "Name": "vespa",
+    "Url": "https://github.com/vespa-engine/vespa",
+    "Description": "AI + Data, online. https://vespa.ai",
+    "Topics": [
+      "ai",
+      "big-data",
+      "java",
+      "machine-learning",
+      "rag",
+      "search",
+      "search-engine",
+      "server",
+      "serving-recommendation",
+      "tensor",
+      "vector",
+      "vector-database",
+      "vector-search",
+      "vespa"
+    ],
+    "Language": "Java",
+    "Stars": 6904,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-06-03T20:54:20Z",
+    "UpdatedAt": "2026-05-02T17:54:33Z",
+    "Owner": "vespa-engine",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jason-lang/jason",
+    "Name": "jason",
+    "Url": "https://github.com/jason-lang/jason",
+    "Description": "Jason is a fully-fledged interpreter for an extended version of AgentSpeak, a BDI agent-oriented logic programming language.",
+    "Topics": [
+      "agent",
+      "agent-oriented-programming",
+      "agentspeak",
+      "bdi",
+      "programming-language"
+    ],
+    "Language": "Java",
+    "Stars": 251,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-16T12:58:46Z",
+    "UpdatedAt": "2026-04-30T14:07:47Z",
+    "Owner": "jason-lang",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AidanPark/openclaw-android",
+    "Name": "openclaw-android",
+    "Url": "https://github.com/AidanPark/openclaw-android",
+    "Description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "android",
+      "homelab",
+      "low-power",
+      "nodejs",
+      "openclaw",
+      "repurpose-phone",
+      "self-hosted",
+      "termux"
+    ],
+    "Language": "Java",
+    "Stars": 1443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-11T05:48:53Z",
+    "UpdatedAt": "2026-05-02T08:58:41Z",
+    "Owner": "AidanPark",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall-learning",
+    "Name": "mall-learning",
+    "Url": "https://github.com/macrozheng/mall-learning",
+    "Description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。",
+    "Topics": [
+      "docker",
+      "elasticsearch",
+      "mongodb",
+      "mybatis",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "springboot",
+      "springcloud"
+    ],
+    "Language": "Java",
+    "Stars": 13378,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-12T13:20:31Z",
+    "UpdatedAt": "2026-05-02T10:01:10Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33673,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-02T18:31:19Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mudler/LocalAI",
+    "Name": "LocalAI",
+    "Url": "https://github.com/mudler/LocalAI",
+    "Description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "Topics": [
+      "agents",
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ],
+    "Language": "Go",
+    "Stars": 46010,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-18T22:58:02Z",
+    "UpdatedAt": "2026-05-02T17:55:14Z",
+    "Owner": "mudler",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "liyupi/yu-ai-code-mother",
+    "Name": "yu-ai-code-mother",
+    "Url": "https://github.com/liyupi/yu-ai-code-mother",
+    "Description": "编程导航 AI + 微服务全栈新项目，基于 Spring Boot 3 + LangChain4j 的大厂 AI 应用生成平台，支持多种模式的智能代码生成、可视化编辑预览、一键部署分享、应用管理、AI 智能路由等。覆盖 AI 智能体开发、LangGraph4j 工作流、Tool Calling、SSE、Vue 3 全栈开发、Spring Cloud 微服务架构、MySQL / Redis / COS / Caffeine 存储、Nginx、多种设计模式、ARMS + Prometheus + Grafana 监控、Cursor Vibe Coding 等核心技术。 用一套教程掌握大厂级 AI 智能体开发+前后端核心技术，成为 AI 时代企业的香饽饽，给你的简历增加竞争力",
+    "Topics": [
+      "ai",
+      "backend",
+      "deepseek",
+      "frontend",
+      "java",
+      "langchain4j",
+      "langgraph4j",
+      "mysql",
+      "nginx",
+      "project",
+      "redis",
+      "springboot",
+      "springcloud",
+      "vue"
+    ],
+    "Language": "Java",
+    "Stars": 1650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-24T04:14:10Z",
+    "UpdatedAt": "2026-05-02T10:41:08Z",
+    "Owner": "liyupi",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "daimajia/AndroidSwipeLayout",
+    "Name": "AndroidSwipeLayout",
+    "Url": "https://github.com/daimajia/AndroidSwipeLayout",
+    "Description": "The Most Powerful Swipe Layout!",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 12375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-25T04:09:33Z",
+    "UpdatedAt": "2026-04-29T13:43:37Z",
+    "Owner": "daimajia",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/nacos",
+    "Name": "nacos",
+    "Url": "https://github.com/alibaba/nacos",
+    "Description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+    "Topics": [
+      "a2a-registry",
+      "agent",
+      "ai-registry",
+      "configuration-management",
+      "distributed-configuration",
+      "dubbo",
+      "istio",
+      "kubernetes",
+      "mcp",
+      "mcp-management",
+      "mcp-registry",
+      "microservices",
+      "nacos",
+      "prompt",
+      "skills",
+      "spring-cloud"
+    ],
+    "Language": "Java",
+    "Stars": 32906,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-15T06:49:27Z",
+    "UpdatedAt": "2026-05-02T03:30:20Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/flink-agents",
+    "Name": "flink-agents",
+    "Url": "https://github.com/apache/flink-agents",
+    "Description": "Flink Agents is an Agentic AI framework based on Apache Flink",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "ai",
+      "distributed",
+      "event-driven",
+      "flink",
+      "framework",
+      "java",
+      "multi-agents",
+      "python",
+      "real-time"
+    ],
+    "Language": "Java",
+    "Stars": 366,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-08T11:45:47Z",
+    "UpdatedAt": "2026-05-02T08:23:29Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langgenius/dify",
+    "Name": "dify",
+    "Url": "https://github.com/langgenius/dify",
+    "Description": "Production-ready platform for agentic workflow development.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "Language": "TypeScript",
+    "Stars": 139873,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T07:40:24Z",
+    "UpdatedAt": "2026-05-02T18:26:42Z",
+    "Owner": "langgenius",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jitlogic/zorka",
+    "Name": "zorka",
+    "Url": "https://github.com/jitlogic/zorka",
+    "Description": "Sophisticated monitoring agent for Java",
+    "Topics": [
+      "agent",
+      "bytecode-instrumentation",
+      "instrumentation",
+      "java",
+      "monitoring",
+      "zabbix",
+      "zorka"
+    ],
+    "Language": "Java",
+    "Stars": 189,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-03-20T12:45:11Z",
+    "UpdatedAt": "2026-04-02T08:30:31Z",
+    "Owner": "jitlogic",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TimefoldAI/timefold-solver",
+    "Name": "timefold-solver",
+    "Url": "https://github.com/TimefoldAI/timefold-solver",
+    "Description": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "constraint-programming",
+      "constraint-solver",
+      "cvrp",
+      "employee-scheduling",
+      "java",
+      "kotlin",
+      "maintenance-scheduling",
+      "operations-research",
+      "optimization-algorithms",
+      "planning-algorithms",
+      "resource-allocation",
+      "solver",
+      "solver-library",
+      "vehicle-routing",
+      "vehicle-routing-problem",
+      "vrp",
+      "vrptw"
+    ],
+    "Language": "Java",
+    "Stars": 1644,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-28T14:33:35Z",
+    "UpdatedAt": "2026-05-01T16:30:08Z",
+    "Owner": "TimefoldAI",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "inspectIT/inspectIT",
+    "Name": "inspectIT",
+    "Url": "https://github.com/inspectIT/inspectIT",
+    "Description": "(UNMAINTAINED) inspectIT is the leading Open Source APM (Application Performance Management) tool for analyzing your Java (EE) applications.",
+    "Topics": [
+      "agent",
+      "apm",
+      "bytecode-manipulation",
+      "diagnosis",
+      "end-to-end",
+      "end-user-monitoring",
+      "inspectit",
+      "instrumentation",
+      "java",
+      "metrics",
+      "monitor-performance",
+      "monitoring",
+      "opentracing",
+      "performance",
+      "performance-analysis",
+      "performance-dashboard",
+      "performance-metrics",
+      "performance-testing",
+      "performance-tuning",
+      "trace"
+    ],
+    "Language": "Java",
+    "Stars": 541,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-19T15:14:27Z",
+    "UpdatedAt": "2026-04-17T06:54:39Z",
+    "Owner": "inspectIT",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70844,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-02T18:00:59Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "H07000223/FlycoTabLayout",
+    "Name": "FlycoTabLayout",
+    "Url": "https://github.com/H07000223/FlycoTabLayout",
+    "Description": "An Android TabLayout Lib",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 11108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-09T01:53:19Z",
+    "UpdatedAt": "2026-05-02T10:00:05Z",
+    "Owner": "H07000223",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/jimureport",
+    "Name": "jimureport",
+    "Url": "https://github.com/jeecgboot/jimureport",
+    "Description": "开源的报表工具与BI大屏，完美替代帆软和Tableau，提供强大的报表能力。一款类似Excel的报表设计器和大屏设计！完全在线傻瓜式拖拽设计，高效降低报表开发难度，解决各类报表难题。",
+    "Topics": [
+      "ai",
+      "bi",
+      "bigscreen",
+      "birt",
+      "data-analysis",
+      "data-visualization",
+      "dataease",
+      "datav",
+      "echart",
+      "finereport",
+      "highcharts",
+      "ireport",
+      "jasperreport",
+      "metabase",
+      "print",
+      "redash",
+      "report",
+      "superset",
+      "tableau",
+      "text2sql"
+    ],
+    "Language": "Java",
+    "Stars": 7931,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-05T12:25:59Z",
+    "UpdatedAt": "2026-04-30T06:38:18Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "liyupi/yu-auto-reply",
+    "Name": "yu-auto-reply",
+    "Url": "https://github.com/liyupi/yu-auto-reply",
+    "Description": "AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答",
+    "Topics": [
+      "ai",
+      "chatgpt",
+      "java",
+      "openai",
+      "springboot"
+    ],
+    "Language": "Java",
+    "Stars": 889,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-24T14:36:19Z",
+    "UpdatedAt": "2026-04-30T08:12:56Z",
+    "Owner": "liyupi",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ModelEngine-Group/app-platform",
+    "Name": "app-platform",
+    "Url": "https://github.com/ModelEngine-Group/app-platform",
+    "Description": "AppPlatform 是一个前沿的大模型应用工程，旨在通过集成的声明式编程和低代码配置工具，简化和优化大模型的训练与推理应用的开发过程。本工程为软件工程师和产品经理提供一个强大的、可扩展的环境，以支持从概念到部署的全流程 AI 应用开发。",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "java",
+      "low-code"
+    ],
+    "Language": "Java",
+    "Stars": 1433,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-31T07:11:30Z",
+    "UpdatedAt": "2026-04-29T00:25:44Z",
+    "Owner": "ModelEngine-Group",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CodePhiliaX/Chat2DB",
+    "Name": "Chat2DB",
+    "Url": "https://github.com/CodePhiliaX/Chat2DB",
+    "Description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "Topics": [
+      "ai",
+      "bi",
+      "chatgpt",
+      "clickhouse",
+      "clickhouse-client",
+      "database",
+      "datagrip",
+      "db2",
+      "dbeaver",
+      "gpt",
+      "hive",
+      "mysql",
+      "navicat",
+      "oracle",
+      "postgresql",
+      "redis",
+      "redis-client",
+      "sqlserver",
+      "text2sql"
+    ],
+    "Language": "Java",
+    "Stars": 25463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T14:05:26Z",
+    "UpdatedAt": "2026-05-02T17:16:31Z",
+    "Owner": "CodePhiliaX",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MisterBooo/LeetCodeAnimation",
+    "Name": "LeetCodeAnimation",
+    "Url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "Description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "Topics": [
+      "animation",
+      "leetcode",
+      "leetcode-c",
+      "leetcode-java",
+      "leetcode-solutions"
+    ],
+    "Language": "Java",
+    "Stars": 76641,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-06T08:01:22Z",
+    "UpdatedAt": "2026-05-02T15:18:13Z",
+    "Owner": "MisterBooo",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/springcloud-learning",
+    "Name": "springcloud-learning",
+    "Url": "https://github.com/macrozheng/springcloud-learning",
+    "Description": "2024最新微服务实战教程，Spring Cloud组件、微服务项目实战、Kubernetes容器化部署全方位解析。技术栈：Spring Cloud Alibaba + Spring Boot 3.2 + JDK 17。",
+    "Topics": [
+      "java",
+      "springboot",
+      "springcloud"
+    ],
+    "Language": "Java",
+    "Stars": 6926,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-07T02:36:16Z",
+    "UpdatedAt": "2026-05-02T15:14:06Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tianshiyeben/wgcloud",
+    "Name": "wgcloud",
+    "Url": "https://github.com/tianshiyeben/wgcloud",
+    "Description": "Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记",
+    "Topics": [
+      "agent",
+      "cpu",
+      "devops",
+      "grafana-dashboard",
+      "linux",
+      "memory",
+      "monitoring",
+      "monitoring-systems",
+      "nagios",
+      "prometheus",
+      "snmp",
+      "snmp-agent",
+      "springboot",
+      "springboot2",
+      "sysstat",
+      "webssh2",
+      "wgcloud",
+      "zabbix"
+    ],
+    "Language": "Java",
+    "Stars": 5131,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-15T02:02:21Z",
+    "UpdatedAt": "2026-04-30T20:51:08Z",
+    "Owner": "tianshiyeben",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-02T18:16:06Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "projectlombok/lombok",
+    "Name": "lombok",
+    "Url": "https://github.com/projectlombok/lombok",
+    "Description": "Very spicy additions to the Java programming language.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 13439,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-06-08T19:46:41Z",
+    "UpdatedAt": "2026-05-01T19:52:12Z",
+    "Owner": "projectlombok",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "iflytek/astron-agent",
+    "Name": "astron-agent",
+    "Url": "https://github.com/iflytek/astron-agent",
+    "Description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+    "Topics": [
+      "agent",
+      "agentic-workflow",
+      "ai",
+      "enterprise",
+      "iflytek-astron",
+      "llm",
+      "low-code",
+      "mcp",
+      "multi-agent",
+      "next-gen",
+      "orchestration",
+      "python",
+      "superagent",
+      "workflow"
+    ],
+    "Language": "Java",
+    "Stars": 8838,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-19T08:46:01Z",
+    "UpdatedAt": "2026-05-02T18:17:37Z",
+    "Owner": "iflytek",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DragonKingpin/Hydra",
+    "Name": "Hydra",
+    "Url": "https://github.com/DragonKingpin/Hydra",
+    "Description": "为超级个体和一个人公司打造一个人的中台，Hydra九头龙构筑大规模AI调度、数据采集、情报系统、数据平台、分析决策、产品生产的'军事'工业基座。",
+    "Topics": [
+      "agent",
+      "ai",
+      "architecture",
+      "bigdata",
+      "crawler",
+      "distributed-systems",
+      "infrastructure",
+      "microservice",
+      "operating-system"
+    ],
+    "Language": "Java",
+    "Stars": 333,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-10T10:11:33Z",
+    "UpdatedAt": "2026-04-29T14:55:01Z",
+    "Owner": "DragonKingpin",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zinja-coder/jadx-ai-mcp",
+    "Name": "jadx-ai-mcp",
+    "Url": "https://github.com/zinja-coder/jadx-ai-mcp",
+    "Description": "Plugin for JADX to integrate MCP server",
+    "Topics": [
+      "ai",
+      "java",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "mobile",
+      "model-context-protocol",
+      "model-context-protocol-servers",
+      "pentesting",
+      "reverse-engineering",
+      "sast",
+      "vapt"
+    ],
+    "Language": "Java",
+    "Stars": 1924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-07T17:28:54Z",
+    "UpdatedAt": "2026-05-02T14:20:52Z",
+    "Owner": "zinja-coder",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52402,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-02T18:27:36Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JabRef/jabref",
+    "Name": "jabref",
+    "Url": "https://github.com/JabRef/jabref",
+    "Description": "Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases",
+    "Topics": [
+      "academia",
+      "academic-publications",
+      "ai",
+      "biblatex",
+      "bibliography",
+      "bibtex",
+      "citation",
+      "citation-generator",
+      "citation-style-language",
+      "citation-styles",
+      "hacktoberfest",
+      "jabref",
+      "java",
+      "javafx",
+      "javafx-application",
+      "javafx-desktop-apps",
+      "javafx-gui",
+      "latex",
+      "reference-manager",
+      "research-tool"
+    ],
+    "Language": "Java",
+    "Stars": 4329,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-11T14:48:42Z",
+    "UpdatedAt": "2026-05-02T18:15:48Z",
+    "Owner": "JabRef",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ModelEngine-Group/fit-framework",
+    "Name": "fit-framework",
+    "Url": "https://github.com/ModelEngine-Group/fit-framework",
+    "Description": "FIT: 企业级AI开发框架，提供多语言函数引擎（FIT）、流式编排引擎（WaterFlow）及Java生态的LangChain替代方案（FEL）。原生/Spring双模运行，支持插件热插拔与智能聚散部署，无缝统一大模型与业务系统。",
+    "Topics": [
+      "agentic-ai",
+      "ai",
+      "java",
+      "plugin",
+      "plugin-system",
+      "python"
+    ],
+    "Language": "Java",
+    "Stars": 2111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-22T08:20:15Z",
+    "UpdatedAt": "2026-04-23T15:40:25Z",
+    "Owner": "ModelEngine-Group",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "techa03/goodsKill",
+    "Name": "goodsKill",
+    "Url": "https://github.com/techa03/goodsKill",
+    "Description": "🐎基于SpringCloud 2023.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件",
+    "Topics": [
+      "ai",
+      "java",
+      "oauth2",
+      "sharding-jdbc",
+      "spring-boot",
+      "springcloud",
+      "springcloudalibaba"
+    ],
+    "Language": "Java",
+    "Stars": 2369,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-10T05:40:34Z",
+    "UpdatedAt": "2026-05-02T07:49:42Z",
+    "Owner": "techa03",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "iflytek/astron-rpa",
+    "Name": "astron-rpa",
+    "Url": "https://github.com/iflytek/astron-rpa",
+    "Description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.",
+    "Topics": [
+      "agent",
+      "ai",
+      "astron",
+      "automation",
+      "enterprise",
+      "iflytek-astron",
+      "llm",
+      "low-code",
+      "mcp",
+      "no-code",
+      "python",
+      "rpa"
+    ],
+    "Language": "Java",
+    "Stars": 5878,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-20T08:51:40Z",
+    "UpdatedAt": "2026-05-02T02:20:43Z",
+    "Owner": "iflytek",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-02T17:22:42Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "browser-use/browser-use",
+    "Name": "browser-use",
+    "Url": "https://github.com/browser-use/browser-use",
+    "Description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 91695,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T16:00:56Z",
+    "UpdatedAt": "2026-05-02T18:33:22Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mymagicpower/AIAS",
+    "Name": "AIAS",
+    "Url": "https://github.com/mymagicpower/AIAS",
+    "Description": "提供产品级IOCR自定义模板识别，以图搜图，人像搜索等，免费，可商用，Java AI 人工智能一站式解决方案，为工作减负，为产品研发加速。项目类别包括：以及Java版 Pytorch 训练引擎，AI SDK，web应用等。",
+    "Topics": [
+      "ai",
+      "aigc",
+      "llm",
+      "webapp"
+    ],
+    "Language": "Java",
+    "Stars": 976,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-04T06:13:06Z",
+    "UpdatedAt": "2026-04-29T20:40:46Z",
+    "Owner": "mymagicpower",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "liyupi/yu-ai-agent",
+    "Name": "yu-ai-agent",
+    "Url": "https://github.com/liyupi/yu-ai-agent",
+    "Description": "编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、RAG 检索增强、向量数据库、Tool Calling 工具调用、MCP 模型上下文协议、AI Agent 开发（Manas Java 实现）、Cursor AI 工具等核心知识。用一套教程将程序员必知必会的 AI 技术一网打尽，帮你成为 AI 时代企业的香饽饽，给你的简历和求职大幅增加竞争力。",
+    "Topics": [
+      "ai",
+      "ai-model",
+      "backend",
+      "frontend",
+      "java",
+      "langchain4j",
+      "mcp",
+      "rag",
+      "spring-ai",
+      "springboot",
+      "springmvc",
+      "vector-database"
+    ],
+    "Language": "Java",
+    "Stars": 2190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-22T08:13:58Z",
+    "UpdatedAt": "2026-05-02T14:25:23Z",
+    "Owner": "liyupi",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BerriAI/litellm",
+    "Name": "litellm",
+    "Url": "https://github.com/BerriAI/litellm",
+    "Description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "Topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "Language": "Python",
+    "Stars": 45485,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-27T00:09:52Z",
+    "UpdatedAt": "2026-05-02T18:29:10Z",
+    "Owner": "BerriAI",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nageoffer/ragent",
+    "Name": "ragent",
+    "Url": "https://github.com/nageoffer/ragent",
+    "Description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+    "Topics": [
+      "agent",
+      "agentic-rag",
+      "ai",
+      "llm",
+      "mcp",
+      "rag",
+      "springai"
+    ],
+    "Language": "Java",
+    "Stars": 1859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-20T07:22:53Z",
+    "UpdatedAt": "2026-05-02T14:50:54Z",
+    "Owner": "nageoffer",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aress31/burpgpt",
+    "Name": "burpgpt",
+    "Url": "https://github.com/aress31/burpgpt",
+    "Description": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.",
+    "Topics": [
+      "ai",
+      "burp-extensions",
+      "burp-plugin",
+      "burpsuite",
+      "burpsuite-extender",
+      "cybersecurity",
+      "gpt",
+      "gpt-3",
+      "openai",
+      "openai-api",
+      "pentesting",
+      "security",
+      "security-automation",
+      "webapp"
+    ],
+    "Language": "Java",
+    "Stars": 2290,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-08T17:58:26Z",
+    "UpdatedAt": "2026-05-01T10:48:27Z",
+    "Owner": "aress31",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/doris",
+    "Name": "doris",
+    "Url": "https://github.com/apache/doris",
+    "Description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "Topics": [
+      "agent",
+      "ai",
+      "bigquery",
+      "database",
+      "dbt",
+      "delta-lake",
+      "elt",
+      "hudi",
+      "iceberg",
+      "lakehouse",
+      "olap",
+      "paimon",
+      "query-engine",
+      "real-time",
+      "redshift",
+      "snowflake",
+      "spark",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 15281,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-10T12:13:30Z",
+    "UpdatedAt": "2026-05-02T16:09:51Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Col-E/Recaf",
+    "Name": "Recaf",
+    "Url": "https://github.com/Col-E/Recaf",
+    "Description": "The modern Java bytecode editor",
+    "Topics": [
+      "agent",
+      "asm",
+      "bytecode",
+      "bytecode-engineering",
+      "bytecode-manipulation",
+      "decompile",
+      "decompiler",
+      "java",
+      "java-decompiler",
+      "javafx",
+      "javafx-application",
+      "jvm-bytecode",
+      "reverse-engineering",
+      "static-analysis"
+    ],
+    "Language": "Java",
+    "Stars": 7151,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-07-27T06:01:10Z",
+    "UpdatedAt": "2026-05-02T14:00:36Z",
+    "Owner": "Col-E",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91824,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-02T15:32:05Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "LnYo-Cly/ai4j",
+    "Name": "ai4j",
+    "Url": "https://github.com/LnYo-Cly/ai4j",
+    "Description": "一款JavaSDK用于快速接入AI大模型应用，整合多平台大模型，如OpenAi、智谱Zhipu(ChatGLM)、深度求索DeepSeek、月之暗面Moonshot(Kimi)、腾讯混元Hunyuan、零一万物(01)等等，提供统一的输入输出(对齐OpenAi)消除差异化，优化函数调用(Tool Call)，优化RAG调用、支持向量数据库(Pinecone)、内置联网增强，并且支持JDK1.8，为用户提供快速整合AI的能力。",
+    "Topics": [
+      "agent",
+      "chatglm",
+      "chatgpt",
+      "coding-agent",
+      "deepseek",
+      "embedding",
+      "hunyuan",
+      "java",
+      "mcp",
+      "ollama",
+      "openai",
+      "rag",
+      "runtime",
+      "sdk",
+      "whisper"
+    ],
+    "Language": "Java",
+    "Stars": 399,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-17T08:59:56Z",
+    "UpdatedAt": "2026-04-30T13:41:40Z",
+    "Owner": "LnYo-Cly",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dyc87112/SpringCloud-Learning",
+    "Name": "SpringCloud-Learning",
+    "Url": "https://github.com/dyc87112/SpringCloud-Learning",
+    "Description": "Spring Cloud基础教程，持续连载更新中",
+    "Topics": [
+      "consul",
+      "eureka",
+      "hystrix",
+      "nacos",
+      "rabbitmq",
+      "ribbon",
+      "sentinel",
+      "spring-boot",
+      "spring-cloud",
+      "stream",
+      "zipkin",
+      "zuul"
+    ],
+    "Language": "Java",
+    "Stars": 7391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-21T03:39:52Z",
+    "UpdatedAt": "2026-05-02T14:29:39Z",
+    "Owner": "dyc87112",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doocs/leetcode",
+    "Name": "leetcode",
+    "Url": "https://github.com/doocs/leetcode",
+    "Description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "Topics": [
+      "algorithms",
+      "cpp",
+      "csharp",
+      "golang",
+      "java",
+      "javascript",
+      "leetcode",
+      "python3"
+    ],
+    "Language": "Java",
+    "Stars": 35963,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-16T14:03:03Z",
+    "UpdatedAt": "2026-05-02T14:51:23Z",
+    "Owner": "doocs",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/JeecgBoot",
+    "Name": "JeecgBoot",
+    "Url": "https://github.com/jeecgboot/JeecgBoot",
+    "Description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+    "Topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "Language": "Java",
+    "Stars": 46068,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T10:40:00Z",
+    "UpdatedAt": "2026-05-02T16:43:16Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nostra13/Android-Universal-Image-Loader",
+    "Name": "Android-Universal-Image-Loader",
+    "Url": "https://github.com/nostra13/Android-Universal-Image-Loader",
+    "Description": "Powerful and flexible library for loading, caching and displaying images on Android.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 16885,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-11-27T18:48:23Z",
+    "UpdatedAt": "2026-05-02T09:59:11Z",
+    "Owner": "nostra13",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "inspectIT/inspectit-ocelot",
+    "Name": "inspectit-ocelot",
+    "Url": "https://github.com/inspectIT/inspectit-ocelot",
+    "Description": "inspectIT Ocelot - Java agent for collecting application performance, tracing and behavior data",
+    "Topics": [
+      "agent",
+      "apm",
+      "application-monitoring",
+      "configuration-server",
+      "java-agent",
+      "jvm",
+      "monitoring",
+      "observability",
+      "openapm",
+      "opencensus",
+      "opentelemetry"
+    ],
+    "Language": "Java",
+    "Stars": 217,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-03T07:19:51Z",
+    "UpdatedAt": "2026-03-30T06:50:03Z",
+    "Owner": "inspectIT",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SummerSec/AgentInjectTool",
+    "Name": "AgentInjectTool",
+    "Url": "https://github.com/SummerSec/AgentInjectTool",
+    "Description": "改造BeichenDream/InjectJDBC加入shiro获取key和修改key功能",
+    "Topics": [
+      "agent",
+      "inject",
+      "key",
+      "shiro",
+      "shiro-vul",
+      "shirokey",
+      "tool"
+    ],
+    "Language": "Java",
+    "Stars": 280,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-08T13:22:19Z",
+    "UpdatedAt": "2026-04-02T16:16:03Z",
+    "Owner": "SummerSec",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183941,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-02T18:03:19Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "langgraph4j/langgraph4j",
+    "Name": "langgraph4j",
+    "Url": "https://github.com/langgraph4j/langgraph4j",
+    "Description": "🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.",
+    "Topics": [
+      "agents",
+      "ai",
+      "langchain4j",
+      "langgraph",
+      "spring-ai",
+      "workflow"
+    ],
+    "Language": "Java",
+    "Stars": 1596,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-18T19:38:47Z",
+    "UpdatedAt": "2026-05-02T07:22:11Z",
+    "Owner": "langgraph4j",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HXSecurity/DongTai-agent-java",
+    "Name": "DongTai-agent-java",
+    "Url": "https://github.com/HXSecurity/DongTai-agent-java",
+    "Description": "Java Agent is a Java application probe of DongTai IAST, which collects method invocation data during runtime of Java application by dynamic hooks.",
+    "Topics": [
+      "agent",
+      "applicationsecuritymonitoring",
+      "appsec-tutorials",
+      "devsecops",
+      "dongtai-iast",
+      "iast",
+      "java",
+      "security-scan"
+    ],
+    "Language": "Java",
+    "Stars": 695,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-22T04:03:11Z",
+    "UpdatedAt": "2026-04-30T02:19:02Z",
+    "Owner": "HXSecurity",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LawnchairLauncher/lawnchair",
+    "Name": "lawnchair",
+    "Url": "https://github.com/LawnchairLauncher/lawnchair",
+    "Description": "No clever tagline needed.",
+    "Topics": [
+      "android",
+      "app",
+      "hacktoberfest",
+      "java",
+      "kotlin",
+      "launcher",
+      "launcher3"
+    ],
+    "Language": "Java",
+    "Stars": 12700,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-03T13:12:58Z",
+    "UpdatedAt": "2026-05-02T12:56:08Z",
+    "Owner": "LawnchairLauncher",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "run-llama/llama_index",
+    "Name": "llama_index",
+    "Url": "https://github.com/run-llama/llama_index",
+    "Description": "LlamaIndex is the leading document agent and OCR platform",
+    "Topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 49098,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-02T04:24:54Z",
+    "UpdatedAt": "2026-05-02T18:32:22Z",
+    "Owner": "run-llama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yudaocode/SpringBoot-Labs",
+    "Name": "SpringBoot-Labs",
+    "Url": "https://github.com/yudaocode/SpringBoot-Labs",
+    "Description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "Topics": [
+      "activemq",
+      "dubbo",
+      "kafka",
+      "rabbitmq",
+      "rocketmq",
+      "spring-boot",
+      "spring-cloud",
+      "spring-cloud-alibaba"
+    ],
+    "Language": "Java",
+    "Stars": 20091,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-12T14:51:46Z",
+    "UpdatedAt": "2026-05-02T11:25:19Z",
+    "Owner": "yudaocode",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/arthas",
+    "Name": "arthas",
+    "Url": "https://github.com/alibaba/arthas",
+    "Description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "Topics": [
+      "agent",
+      "alibaba",
+      "arthas",
+      "classloader",
+      "diagnosis",
+      "java",
+      "jvm",
+      "trace",
+      "trouble-shooting"
+    ],
+    "Language": "Java",
+    "Stars": 37289,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-29T17:15:57Z",
+    "UpdatedAt": "2026-05-01T16:32:32Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "janhq/jan",
+    "Name": "jan",
+    "Url": "https://github.com/janhq/jan",
+    "Description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "Topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "Language": "TypeScript",
+    "Stars": 42329,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T02:17:10Z",
+    "UpdatedAt": "2026-05-02T18:12:53Z",
+    "Owner": "janhq",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ffay/lanproxy",
+    "Name": "lanproxy",
+    "Url": "https://github.com/ffay/lanproxy",
+    "Description": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209",
+    "Topics": [
+      "firewall",
+      "frp",
+      "java",
+      "lanproxy",
+      "nat",
+      "ngrok",
+      "proxy",
+      "reverse-proxy",
+      "tunnel"
+    ],
+    "Language": "Java",
+    "Stars": 5855,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-20T08:12:10Z",
+    "UpdatedAt": "2026-05-02T13:20:26Z",
+    "Owner": "ffay",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56041,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-02T18:07:20Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JeffLi1993/springboot-learning-example",
+    "Name": "springboot-learning-example",
+    "Url": "https://github.com/JeffLi1993/springboot-learning-example",
+    "Description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。",
+    "Topics": [
+      "dubbo",
+      "elasticsearch",
+      "jpa",
+      "mybatis",
+      "redis",
+      "springboot",
+      "webflux"
+    ],
+    "Language": "Java",
+    "Stars": 16579,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-06T07:02:25Z",
+    "UpdatedAt": "2026-05-02T05:20:34Z",
+    "Owner": "JeffLi1993",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-02T16:48:49Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 61861,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-02T18:32:47Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HOPPINZQ/hoppinai-agent",
+    "Name": "hoppinai-agent",
+    "Url": "https://github.com/HOPPINZQ/hoppinai-agent",
+    "Description": "用Java编写一个ai智能体，从0完整实现一个Claude Code",
+    "Topics": [
+      "agent",
+      "ai",
+      "claude",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 172,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-29T15:55:39Z",
+    "UpdatedAt": "2026-04-29T09:06:16Z",
+    "Owner": "HOPPINZQ",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50761,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-02T17:28:48Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jd-opensource/joylive-agent",
+    "Name": "joylive-agent",
+    "Url": "https://github.com/jd-opensource/joylive-agent",
+    "Description": "A bytecode-enhanced microservice governance framework that supports multi-active application traffic management. 基于字节码增强的微服务治理框架，支持应用多活流量治理",
+    "Topics": [
+      "active-active",
+      "agent",
+      "enhancement",
+      "flowcontrol",
+      "governance",
+      "mesh",
+      "microservice",
+      "multi-live",
+      "proxyless",
+      "swimlane"
+    ],
+    "Language": "Java",
+    "Stars": 277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-25T01:08:49Z",
+    "UpdatedAt": "2026-04-27T04:23:51Z",
+    "Owner": "jd-opensource",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42401,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-02T15:14:53Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "rtk-ai/rtk",
+    "Name": "rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "Language": "Rust",
+    "Stars": 39923,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T16:54:16Z",
+    "UpdatedAt": "2026-05-02T18:30:42Z",
+    "Owner": "rtk-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "opentracing-contrib/java-specialagent",
+    "Name": "java-specialagent",
+    "Url": "https://github.com/opentracing-contrib/java-specialagent",
+    "Description": "Automatic instrumentation for 3rd-party libraries in Java applications with OpenTracing.",
+    "Topics": [
+      "agent",
+      "aws",
+      "bytebuddy",
+      "camel",
+      "cassandra",
+      "concurrent",
+      "elasticsearch",
+      "instrumentation",
+      "java",
+      "jdbc",
+      "jms",
+      "kafka-client",
+      "mongodb-driver",
+      "okhttp",
+      "opentracing",
+      "rxjava2",
+      "specialagent",
+      "spring",
+      "spring-boot",
+      "tracing"
+    ],
+    "Language": "Java",
+    "Stars": 190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T20:31:40Z",
+    "UpdatedAt": "2026-04-24T09:40:06Z",
+    "Owner": "opentracing-contrib",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dromara/lamp-cloud",
+    "Name": "lamp-cloud",
+    "Url": "https://github.com/dromara/lamp-cloud",
+    "Description": "[灯灯]微服务中后台快速开发平台，支持jdk21、jdk17、jdk8，专注于多租户、开放平台解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。",
+    "Topics": [
+      "admin",
+      "cloud",
+      "eureka",
+      "gateway",
+      "hystrix",
+      "java",
+      "jwt",
+      "mybatis",
+      "nacos",
+      "seata",
+      "spring",
+      "spring-cloud",
+      "springboot",
+      "springcloud",
+      "xss",
+      "zuul"
+    ],
+    "Language": "Java",
+    "Stars": 5742,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-17T02:51:04Z",
+    "UpdatedAt": "2026-04-30T03:04:53Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scouter-project/scouter",
+    "Name": "scouter",
+    "Url": "https://github.com/scouter-project/scouter",
+    "Description": "Scouter is an open source APM (Application Performance Management) tool.",
+    "Topics": [
+      "agent",
+      "apm",
+      "asm",
+      "bci",
+      "bytecode",
+      "java-application",
+      "metrics",
+      "monitoring",
+      "performance",
+      "performance-metrics",
+      "performance-monitoring",
+      "scouter",
+      "scouter-series",
+      "tomcat"
+    ],
+    "Language": "Java",
+    "Stars": 2173,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-04T01:19:31Z",
+    "UpdatedAt": "2026-04-29T05:32:35Z",
+    "Owner": "scouter-project",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "linlinjava/litemall",
+    "Name": "litemall",
+    "Url": "https://github.com/linlinjava/litemall",
+    "Description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+    "Topics": [
+      "litemall",
+      "mall",
+      "spring-boot",
+      "vue",
+      "wechat",
+      "wechat-mini-program"
+    ],
+    "Language": "Java",
+    "Stars": 20229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-22T16:42:30Z",
+    "UpdatedAt": "2026-05-02T10:00:52Z",
+    "Owner": "linlinjava",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/transmittable-thread-local",
+    "Name": "transmittable-thread-local",
+    "Url": "https://github.com/alibaba/transmittable-thread-local",
+    "Description": "📌 a missing Java std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.",
+    "Topics": [
+      "apm",
+      "async",
+      "async-context",
+      "asynchronous",
+      "asynchronous-context",
+      "context",
+      "dapper",
+      "distributed-tracing",
+      "executor",
+      "forkjoinpool",
+      "framework",
+      "java",
+      "middleware",
+      "thread-pool",
+      "threadlocal",
+      "threadsafe",
+      "tracing",
+      "transmittable",
+      "transmittable-thread-local"
+    ],
+    "Language": "Java",
+    "Stars": 8289,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-13T08:48:33Z",
+    "UpdatedAt": "2026-04-29T14:54:57Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl",
+    "Name": "firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "TypeScript",
+    "Stars": 114147,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-15T21:02:29Z",
+    "UpdatedAt": "2026-05-02T18:32:52Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Qihoo360/hbox",
+    "Name": "hbox",
+    "Url": "https://github.com/Qihoo360/hbox",
+    "Description": "AI on Hadoop",
+    "Topics": [
+      "ai",
+      "caffe",
+      "deeplearning",
+      "hadoop",
+      "machinelearning",
+      "mxnet",
+      "tensorflow",
+      "yarn"
+    ],
+    "Language": "Java",
+    "Stars": 1732,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-01T17:53:38Z",
+    "UpdatedAt": "2026-04-23T14:57:25Z",
+    "Owner": "Qihoo360",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kronotop/kronotop",
+    "Name": "kronotop",
+    "Url": "https://github.com/kronotop/kronotop",
+    "Description": "Kronotop is a distributed document database that combines ACID transactions with simplicity at any scale.",
+    "Topics": [
+      "acid",
+      "database",
+      "distributed-database",
+      "distributed-systems",
+      "key-value-store",
+      "redis",
+      "transactional"
+    ],
+    "Language": "Java",
+    "Stars": 281,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-03T07:52:04Z",
+    "UpdatedAt": "2026-04-28T02:19:01Z",
+    "Owner": "kronotop",
+    "SourceQueries": [
+      "topic:acid language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39189,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-02T16:56:35Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "languagetool-org/languagetool",
+    "Name": "languagetool",
+    "Url": "https://github.com/languagetool-org/languagetool",
+    "Description": "Style and Grammar Checker for 25+ Languages",
+    "Topics": [
+      "grammar",
+      "natural-language",
+      "natural-language-processing",
+      "proofreading",
+      "spellcheck",
+      "style-checker"
+    ],
+    "Language": "Java",
+    "Stars": 14429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-08-08T16:37:22Z",
+    "UpdatedAt": "2026-05-02T16:01:23Z",
+    "Owner": "languagetool-org",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qpython-android/qpython",
+    "Name": "qpython",
+    "Url": "https://github.com/qpython-android/qpython",
+    "Description": "QPython is an Android Python engine primarily designed for Python and AI learners. It offers a range of impressive features to enhance Python programming experience.",
+    "Topics": [
+      "ai",
+      "android",
+      "generative-ai",
+      "python"
+    ],
+    "Language": "Java",
+    "Stars": 1190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-11T11:03:38Z",
+    "UpdatedAt": "2026-05-02T13:49:45Z",
+    "Owner": "qpython-android",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "navasmdc/MaterialDesignLibrary",
+    "Name": "MaterialDesignLibrary",
+    "Url": "https://github.com/navasmdc/MaterialDesignLibrary",
+    "Description": "This is a library with components of Android L to you use in android 2.2",
+    "Topics": [
+      "android",
+      "material-design"
+    ],
+    "Language": "Java",
+    "Stars": 8932,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-30T07:37:17Z",
+    "UpdatedAt": "2026-05-02T09:59:39Z",
+    "Owner": "navasmdc",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "forezp/SpringCloudLearning",
+    "Name": "SpringCloudLearning",
+    "Url": "https://github.com/forezp/SpringCloudLearning",
+    "Description": "《史上最简单的Spring Cloud教程源码》",
+    "Topics": [
+      "consul",
+      "eureka",
+      "feign",
+      "finchley",
+      "gateway",
+      "hystrix",
+      "hystrix-dashboard",
+      "hystrix-turbine",
+      "ribbon",
+      "sleuth",
+      "spring",
+      "spring-boot",
+      "spring-cloud",
+      "springbootadmin",
+      "zuul"
+    ],
+    "Language": "Java",
+    "Stars": 17965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-08T10:06:56Z",
+    "UpdatedAt": "2026-05-01T04:44:29Z",
+    "Owner": "forezp",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "redis/lettuce",
+    "Name": "lettuce",
+    "Url": "https://github.com/redis/lettuce",
+    "Description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
+    "Topics": [
+      "asynchronous",
+      "aws-elasticache",
+      "azure-redis-cache",
+      "java",
+      "reactive",
+      "redis",
+      "redis-client",
+      "redis-cluster",
+      "redis-sentinel"
+    ],
+    "Language": "Java",
+    "Stars": 5734,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-10T13:08:46Z",
+    "UpdatedAt": "2026-05-02T10:53:02Z",
+    "Owner": "redis",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "beehive-lab/TornadoVM",
+    "Name": "TornadoVM",
+    "Url": "https://github.com/beehive-lab/TornadoVM",
+    "Description": "TornadoVM: A practical and efficient heterogeneous programming framework for managed languages",
+    "Topics": [
+      "ai",
+      "cuda",
+      "gpu-acceleration",
+      "gpu-computing",
+      "gpus",
+      "graalvm",
+      "java",
+      "levelzero",
+      "multi-core",
+      "opencl",
+      "parallel-computing",
+      "parallel-programming",
+      "spirv"
+    ],
+    "Language": "Java",
+    "Stars": 1451,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-07T09:37:44Z",
+    "UpdatedAt": "2026-05-02T13:08:02Z",
+    "Owner": "beehive-lab",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ollama/ollama",
+    "Name": "ollama",
+    "Url": "https://github.com/ollama/ollama",
+    "Description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "Topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "Language": "Go",
+    "Stars": 170567,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T19:39:32Z",
+    "UpdatedAt": "2026-05-02T18:13:09Z",
+    "Owner": "ollama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "flyun/chatAir",
+    "Name": "chatAir",
+    "Url": "https://github.com/flyun/chatAir",
+    "Description": "☁️A native Android app for ChatGPT, Gemini, Claude, and DeepSeek  ☁️ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序",
+    "Topics": [
+      "ai",
+      "android",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "openai",
+      "openrouter"
+    ],
+    "Language": "Java",
+    "Stars": 797,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-09T07:34:54Z",
+    "UpdatedAt": "2026-05-01T03:19:50Z",
+    "Owner": "flyun",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agentscope-ai/agentscope-java",
+    "Name": "agentscope-java",
+    "Url": "https://github.com/agentscope-ai/agentscope-java",
+    "Description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
+    "Topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "llm"
+    ],
+    "Language": "Java",
+    "Stars": 2817,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-23T04:37:43Z",
+    "UpdatedAt": "2026-05-02T15:27:45Z",
+    "Owner": "agentscope-ai",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-02T18:30:14Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "undera/perfmon-agent",
+    "Name": "perfmon-agent",
+    "Url": "https://github.com/undera/perfmon-agent",
+    "Description": "Server metrics fetching agent, based on SIGAR",
+    "Topics": [
+      "agent",
+      "java",
+      "jmeter",
+      "monitoring"
+    ],
+    "Language": "Java",
+    "Stars": 416,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-17T10:21:55Z",
+    "UpdatedAt": "2026-02-07T13:12:21Z",
+    "Owner": "undera",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "somta/Juggle",
+    "Name": "Juggle",
+    "Url": "https://github.com/somta/Juggle",
+    "Description": "一个零码 , 低码 , AI的微服务接口编排 & 系统集成的强大编排平台，支持Http , Dubbo , WebService等协议的接口编排，支持通过Groovy , JavaScript , Python , Java等多种脚本语言来增强流程，支持使用MySQL，达梦等多种常见数据源。",
+    "Topics": [
+      "ai",
+      "custom-development",
+      "lowcode",
+      "lowcode-engine",
+      "microservices-orchestration",
+      "third-party-system-integration",
+      "workflow-engine"
+    ],
+    "Language": "Java",
+    "Stars": 1079,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-30T15:32:07Z",
+    "UpdatedAt": "2026-05-02T10:26:41Z",
+    "Owner": "somta",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dbeaver/dbeaver",
+    "Name": "dbeaver",
+    "Url": "https://github.com/dbeaver/dbeaver",
+    "Description": "Free universal database tool and SQL client",
+    "Topics": [
+      "ai",
+      "copilot",
+      "database",
+      "db2",
+      "dbeaver",
+      "erd",
+      "gui",
+      "java",
+      "jdbc",
+      "mysql",
+      "nosql",
+      "openai",
+      "oracle",
+      "postgresql",
+      "redshift",
+      "sql",
+      "sqlite",
+      "sqlserver"
+    ],
+    "Language": "Java",
+    "Stars": 49841,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-21T08:26:28Z",
+    "UpdatedAt": "2026-05-02T18:08:15Z",
+    "Owner": "dbeaver",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 129488,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-02T18:33:46Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "qifan777/dive-into-spring-ai",
+    "Name": "dive-into-spring-ai",
+    "Url": "https://github.com/qifan777/dive-into-spring-ai",
+    "Description": "《动手学SpringAI》包含SSE流/Agent智能体/知识图谱RAG/FunctionCall/历史消息/图片生成/图片理解/Embedding/VectorDatabase/RAG",
+    "Topics": [
+      "agent",
+      "aigc",
+      "functioncall",
+      "graph-rag",
+      "knowlege-base",
+      "prompt",
+      "rag",
+      "spring-ai",
+      "sse"
+    ],
+    "Language": "Java",
+    "Stars": 410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-15T14:36:34Z",
+    "UpdatedAt": "2026-04-22T09:43:48Z",
+    "Owner": "qifan777",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SonarSource/sonarqube-mcp-server",
+    "Name": "sonarqube-mcp-server",
+    "Url": "https://github.com/SonarSource/sonarqube-mcp-server",
+    "Description": "SonarQube MCP Server",
+    "Topics": [
+      "agent",
+      "ai",
+      "mcp",
+      "mcp-server",
+      "sonarqube"
+    ],
+    "Language": "Java",
+    "Stars": 544,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-30T09:09:08Z",
+    "UpdatedAt": "2026-04-30T14:36:39Z",
+    "Owner": "SonarSource",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "guolindev/LitePal",
+    "Name": "LitePal",
+    "Url": "https://github.com/guolindev/LitePal",
+    "Description": "An Android library that makes developers use SQLite database extremely easy.",
+    "Topics": [
+      "android",
+      "litepal",
+      "sqlite3"
+    ],
+    "Language": "Java",
+    "Stars": 8072,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-20T03:20:07Z",
+    "UpdatedAt": "2026-05-02T09:59:18Z",
+    "Owner": "guolindev",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-02T16:44:26Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Mintplex-Labs/anything-llm",
+    "Name": "anything-llm",
+    "Url": "https://github.com/Mintplex-Labs/anything-llm",
+    "Description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "Topics": [
+      "ai-agents",
+      "custom-ai-agents",
+      "deepseek",
+      "kimi",
+      "llama3",
+      "llm",
+      "lmstudio",
+      "local-llm",
+      "localai",
+      "mcp",
+      "mcp-servers",
+      "moonshot",
+      "multimodal",
+      "no-code",
+      "ollama",
+      "qwen3",
+      "rag",
+      "vector-database",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 59414,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-04T02:29:14Z",
+    "UpdatedAt": "2026-05-02T18:28:46Z",
+    "Owner": "Mintplex-Labs",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135220,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-02T18:32:51Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tjake/Jlama",
+    "Name": "Jlama",
+    "Url": "https://github.com/tjake/Jlama",
+    "Description": "Jlama is a modern LLM inference engine for Java",
+    "Topics": [
+      "ai",
+      "genai",
+      "gpt",
+      "huggingface",
+      "java",
+      "llama",
+      "llm",
+      "openai",
+      "simd",
+      "transformers"
+    ],
+    "Language": "Java",
+    "Stars": 1279,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-31T03:15:38Z",
+    "UpdatedAt": "2026-05-01T16:30:39Z",
+    "Owner": "tjake",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LinShunKang/MyPerf4J",
+    "Name": "MyPerf4J",
+    "Url": "https://github.com/LinShunKang/MyPerf4J",
+    "Description": "High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.",
+    "Topics": [
+      "agent",
+      "apm",
+      "bytecode",
+      "diagnosis",
+      "java-agent",
+      "jvm-monitor",
+      "metrics",
+      "microservices",
+      "monitor",
+      "monitoring",
+      "monitoring-tool",
+      "observability",
+      "performance",
+      "performance-analysis",
+      "performance-metrics",
+      "performance-monitoring",
+      "performance-tuning",
+      "performance-visualization",
+      "profiler",
+      "profiling"
+    ],
+    "Language": "Java",
+    "Stars": 3558,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-11T09:58:44Z",
+    "UpdatedAt": "2026-04-29T07:42:23Z",
+    "Owner": "LinShunKang",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opendataloader-project/opendataloader-pdf",
+    "Name": "opendataloader-pdf",
+    "Url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "Description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "Topics": [
+      "a11y",
+      "accessibility",
+      "ai",
+      "bounding-box",
+      "document-parsing",
+      "eaa",
+      "html",
+      "json",
+      "markdown",
+      "ocr",
+      "ocr-recognition",
+      "pdf",
+      "pdf-accessibility",
+      "pdf-converter",
+      "pdf-extraction",
+      "pdf-parser",
+      "pdf-ua",
+      "rag",
+      "tables",
+      "tagged-pdf"
+    ],
+    "Language": "Java",
+    "Stars": 19901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-13T05:48:02Z",
+    "UpdatedAt": "2026-05-02T18:30:44Z",
+    "Owner": "opendataloader-project",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "libgdx/libgdx",
+    "Name": "libgdx",
+    "Url": "https://github.com/libgdx/libgdx",
+    "Description": "Desktop/Android/HTML5/iOS Java game development framework",
+    "Topics": [
+      "2d",
+      "3d",
+      "android",
+      "cross-platform",
+      "framework",
+      "game",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "html5",
+      "ios",
+      "java",
+      "libgdx",
+      "linux",
+      "macosx",
+      "windows"
+    ],
+    "Language": "Java",
+    "Stars": 25055,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-10T19:34:38Z",
+    "UpdatedAt": "2026-05-02T17:44:14Z",
+    "Owner": "libgdx",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78860,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-02T18:22:54Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Aitenry/IIMS-By-AI",
+    "Name": "IIMS-By-AI",
+    "Url": "https://github.com/Aitenry/IIMS-By-AI",
+    "Description": "IIMS delivers a modern full-stack solution via Spring Boot 3.5 (Java 17) and Vue 3 (TypeScript), featuring RBAC/JWT authentication, Milvus RAG, Spring AI (Ollama/DeepSeek/OpenAI), MyBatis Plus, MySQL, Redis, MinIO, Element Plus, Pinia, Vditor, Mermaid, plus dedicated EAS and DMS modules.",
+    "Topics": [
+      "agent",
+      "ai",
+      "archive",
+      "deepseek",
+      "java",
+      "llm",
+      "ollama",
+      "openai",
+      "sa-token",
+      "spring",
+      "spring-ai",
+      "spring-boot",
+      "system",
+      "typescript",
+      "vite",
+      "vue",
+      "wiki"
+    ],
+    "Language": "Java",
+    "Stars": 312,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-21T13:37:03Z",
+    "UpdatedAt": "2026-04-26T12:29:09Z",
+    "Owner": "Aitenry",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pinpoint-apm/pinpoint",
+    "Name": "pinpoint",
+    "Url": "https://github.com/pinpoint-apm/pinpoint",
+    "Description": "APM, (Application Performance Management) tool for large-scale distributed systems. ",
+    "Topics": [
+      "agent",
+      "apm",
+      "distributed-tracing",
+      "monitoring",
+      "performance",
+      "tracing"
+    ],
+    "Language": "Java",
+    "Stars": 13821,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-20T09:27:22Z",
+    "UpdatedAt": "2026-04-30T18:20:45Z",
+    "Owner": "pinpoint-apm",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jenkinsci/ec2-plugin",
+    "Name": "ec2-plugin",
+    "Url": "https://github.com/jenkinsci/ec2-plugin",
+    "Description": "Jenkins ec2 plugin",
+    "Topics": [
+      "agent",
+      "aws",
+      "cloud",
+      "jenkins-plugin",
+      "spotinst"
+    ],
+    "Language": "Java",
+    "Stars": 292,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-14T20:35:53Z",
+    "UpdatedAt": "2026-04-15T13:27:12Z",
+    "Owner": "jenkinsci",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jzyong/game-server",
+    "Name": "game-server",
+    "Url": "https://github.com/jzyong/game-server",
+    "Description": "Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools",
+    "Topics": [
+      "ai",
+      "astar-algorithm",
+      "behavior-tree",
+      "chess",
+      "distributed",
+      "fish",
+      "game",
+      "gate",
+      "java",
+      "mina",
+      "mmo",
+      "mmorpg-server",
+      "navmesh",
+      "netty",
+      "quad-tree",
+      "rpg",
+      "server"
+    ],
+    "Language": "Java",
+    "Stars": 1227,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-16T08:09:16Z",
+    "UpdatedAt": "2026-05-01T15:33:09Z",
+    "Owner": "jzyong",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain4j/langchain4j",
+    "Name": "langchain4j",
+    "Url": "https://github.com/langchain4j/langchain4j",
+    "Description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
+    "Topics": [
+      "anthropic",
+      "chatgpt",
+      "chroma",
+      "embeddings",
+      "gemini",
+      "gpt",
+      "huggingface",
+      "java",
+      "langchain",
+      "llama",
+      "llm",
+      "llms",
+      "milvus",
+      "ollama",
+      "onnx",
+      "openai",
+      "openai-api",
+      "pgvector",
+      "pinecone",
+      "vector-database"
+    ],
+    "Language": "Java",
+    "Stars": 11835,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T15:30:29Z",
+    "UpdatedAt": "2026-05-02T13:06:33Z",
+    "Owner": "langchain4j",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/LightRAG",
+    "Name": "LightRAG",
+    "Url": "https://github.com/HKUDS/LightRAG",
+    "Description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "Topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 34675,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-02T11:57:54Z",
+    "UpdatedAt": "2026-05-02T17:55:38Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepjavalibrary/djl",
+    "Name": "djl",
+    "Url": "https://github.com/deepjavalibrary/djl",
+    "Description": "An Engine-Agnostic Deep Learning Framework in Java",
+    "Topics": [
+      "ai",
+      "autograd",
+      "deep-learning",
+      "deep-neural-networks",
+      "djl",
+      "java",
+      "machine-learning",
+      "ml",
+      "mxnet",
+      "neural-network",
+      "onnxruntime",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Java",
+    "Stars": 4807,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-29T22:38:54Z",
+    "UpdatedAt": "2026-05-02T14:32:48Z",
+    "Owner": "deepjavalibrary",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "erupts/erupt",
+    "Name": "erupt",
+    "Url": "https://github.com/erupts/erupt",
+    "Description": "MDD & Annotation-driven Low-code Data platform & AI Harness",
+    "Topics": [
+      "admin",
+      "ai",
+      "annotation",
+      "erupt",
+      "flow",
+      "jpa",
+      "low-code",
+      "mdd",
+      "upms"
+    ],
+    "Language": "Java",
+    "Stars": 2711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-15T13:30:13Z",
+    "UpdatedAt": "2026-04-30T06:49:10Z",
+    "Owner": "erupts",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shareAI-lab/learn-claude-code",
+    "Name": "learn-claude-code",
+    "Url": "https://github.com/shareAI-lab/learn-claude-code",
+    "Description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "Topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "Language": "TypeScript",
+    "Stars": 57820,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-29T15:34:15Z",
+    "UpdatedAt": "2026-05-02T17:32:28Z",
+    "Owner": "shareAI-lab",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ItzCrazyKns/Vane",
+    "Name": "Vane",
+    "Url": "https://github.com/ItzCrazyKns/Vane",
+    "Description": "Vane is an AI-powered answering engine.",
+    "Topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "Language": "TypeScript",
+    "Stars": 34107,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-09T10:51:32Z",
+    "UpdatedAt": "2026-05-02T18:01:35Z",
+    "Owner": "ItzCrazyKns",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Card-Forge/forge",
+    "Name": "forge",
+    "Url": "https://github.com/Card-Forge/forge",
+    "Description": "An unofficial rules engine for the world's greatest card game.",
+    "Topics": [
+      "adventure",
+      "ai",
+      "android",
+      "java",
+      "magic-the-gathering",
+      "quest",
+      "rules-engine"
+    ],
+    "Language": "Java",
+    "Stars": 2332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-10T02:09:17Z",
+    "UpdatedAt": "2026-05-02T18:03:25Z",
+    "Owner": "Card-Forge",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "affaan-m/everything-claude-code",
+    "Name": "everything-claude-code",
+    "Url": "https://github.com/affaan-m/everything-claude-code",
+    "Description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "Language": "JavaScript",
+    "Stars": 171988,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-18T00:51:51Z",
+    "UpdatedAt": "2026-05-02T18:31:48Z",
+    "Owner": "affaan-m",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yuanguangxin/LeetCode",
+    "Name": "LeetCode",
+    "Url": "https://github.com/yuanguangxin/LeetCode",
+    "Description": "LeetCode刷题记录与面试整理",
+    "Topics": [
+      "leetcode",
+      "leetcode-classification",
+      "leetcode-java",
+      "leetcode-solutions"
+    ],
+    "Language": "Java",
+    "Stars": 7485,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-11T01:02:02Z",
+    "UpdatedAt": "2026-05-01T00:21:56Z",
+    "Owner": "yuanguangxin",
+    "SourceQueries": [
+      "l language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JetBrains/youtrackdb",
+    "Name": "youtrackdb",
+    "Url": "https://github.com/JetBrains/youtrackdb",
+    "Description": "YouTrackDB is a general-use object-oriented graph database with storage format native to handle graph relations. YouTrackDB supports Gremlin queries and ACID transactions.",
+    "Topics": [
+      "acid",
+      "dbms",
+      "dbms-project",
+      "graph-database",
+      "graph-databases",
+      "graphdatabase",
+      "gremlin",
+      "gremlin-api",
+      "gremlin-server",
+      "nosql",
+      "nosql-data-storage",
+      "nosql-database",
+      "nosql-databases",
+      "object-database",
+      "object-oriented-database",
+      "youtrackdb"
+    ],
+    "Language": "Java",
+    "Stars": 139,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-19T15:56:21Z",
+    "UpdatedAt": "2026-04-30T10:22:08Z",
+    "Owner": "JetBrains",
+    "SourceQueries": [
+      "topic:acid language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datawhalechina/hello-agents",
+    "Name": "hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "Topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 42224,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-07T09:50:24Z",
+    "UpdatedAt": "2026-05-02T18:04:09Z",
+    "Owner": "datawhalechina",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "agents-flex/agents-flex",
+    "Name": "agents-flex",
+    "Url": "https://github.com/agents-flex/agents-flex",
+    "Description": "Agents-flex is A Lightweight Java AI Application Development Framework.",
+    "Topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "langchain4j",
+      "llama3",
+      "llm",
+      "ollama",
+      "spring-ai"
+    ],
+    "Language": "Java",
+    "Stars": 1034,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-12T08:23:40Z",
+    "UpdatedAt": "2026-04-28T02:14:53Z",
+    "Owner": "agents-flex",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lijiahangmax/orion-ops",
+    "Name": "orion-ops",
+    "Url": "https://github.com/lijiahangmax/orion-ops",
+    "Description": "一站式自动化运维及自动化部署平台, 使用多环境的概念, 提供了机器管理、机器监控报警、Web终端、WebSftp、机器批量执行、机器批量上传、在线查看日志、定时调度任务、应用环境维护、应用构建及发布任务、操作流水线等功能, 帮助企业实现一站式轻量化运维治理, 致力于企业级应用的智能运维。",
+    "Topics": [
+      "agent",
+      "batch",
+      "cicd",
+      "devops",
+      "monitor",
+      "ssh",
+      "terminal"
+    ],
+    "Language": "Java",
+    "Stars": 500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-24T07:45:51Z",
+    "UpdatedAt": "2026-04-24T12:56:56Z",
+    "Owner": "lijiahangmax",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/MetaGPT",
+    "Name": "MetaGPT",
+    "Url": "https://github.com/FoundationAgents/MetaGPT",
+    "Description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "Language": "Python",
+    "Stars": 67634,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-30T09:04:55Z",
+    "UpdatedAt": "2026-05-02T18:14:09Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dromara/cubic",
+    "Name": "cubic",
+    "Url": "https://github.com/dromara/cubic",
+    "Description": "一站式问题定位平台，分布式实例监控、线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题",
+    "Topics": [
+      "agent",
+      "monitor"
+    ],
+    "Language": "Java",
+    "Stars": 522,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T03:14:35Z",
+    "UpdatedAt": "2026-04-24T09:40:17Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43972,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-02T17:55:22Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "yuxitong/TensorFlowAndroidDemo",
+    "Name": "TensorFlowAndroidDemo",
+    "Url": "https://github.com/yuxitong/TensorFlowAndroidDemo",
+    "Description": "TensorFlow android demo 车道线 车辆 人脸 动作 骨架 识别 检测 抽烟 打电话 闭眼 睁眼",
+    "Topics": [
+      "ai",
+      "android",
+      "android-tensorflow",
+      "app",
+      "artificial-intelligence",
+      "demo",
+      "detection",
+      "java",
+      "phone",
+      "recognition",
+      "smoking",
+      "tensordemo",
+      "tensorflow",
+      "tensorflow-android-demo",
+      "tensorflow-demo"
+    ],
+    "Language": "Java",
+    "Stars": 746,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-11T03:15:32Z",
+    "UpdatedAt": "2026-04-29T03:47:20Z",
+    "Owner": "yuxitong",
+    "SourceQueries": [
+      "topic:ai language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CraftJarvis/JARVIS-1",
+    "Name": "JARVIS-1",
+    "Url": "https://github.com/CraftJarvis/JARVIS-1",
+    "Description": "JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models",
+    "Topics": [
+      "agent",
+      "language-model",
+      "minecraft"
+    ],
+    "Language": "Java",
+    "Stars": 395,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-21T11:15:00Z",
+    "UpdatedAt": "2026-04-20T11:21:15Z",
+    "Owner": "CraftJarvis",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Snailclimb/JavaGuide",
+    "Name": "JavaGuide",
+    "Url": "https://github.com/Snailclimb/JavaGuide",
+    "Description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "Topics": [
+      "agent",
+      "context-engineering",
+      "interview",
+      "java",
+      "jvm",
+      "mcp",
+      "mysql",
+      "redis",
+      "redisson",
+      "skills",
+      "spring",
+      "system",
+      "system-design"
+    ],
+    "Language": "Java",
+    "Stars": 155368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-07T13:27:00Z",
+    "UpdatedAt": "2026-05-02T17:57:27Z",
+    "Owner": "Snailclimb",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-02T18:32:46Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "apache/hertzbeat",
+    "Name": "hertzbeat",
+    "Url": "https://github.com/apache/hertzbeat",
+    "Description": "An AI-powered next-generation open source real-time observability system.",
+    "Topics": [
+      "agent",
+      "ai",
+      "alerting",
+      "database",
+      "grafana",
+      "linux",
+      "llm",
+      "logs",
+      "metrics",
+      "monitor",
+      "monitoring",
+      "notifications",
+      "observability",
+      "prometheus",
+      "self-hosted",
+      "server",
+      "status",
+      "status-page",
+      "uptime",
+      "zabbix"
+    ],
+    "Language": "Java",
+    "Stars": 7196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-04T14:48:56Z",
+    "UpdatedAt": "2026-05-02T08:18:35Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:agent language:Java stars:>=50",
+      "topic:ai language:Java stars:>=50"
+    ]
+  }
+]

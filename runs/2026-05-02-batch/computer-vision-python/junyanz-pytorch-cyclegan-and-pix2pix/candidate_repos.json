@@ -1,0 +1,6248 @@
+[
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-02T07:58:19Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RahulBhalley/cyclegan-qp",
+    "Name": "cyclegan-qp",
+    "Url": "https://github.com/RahulBhalley/cyclegan-qp",
+    "Description": "Official PyTorch implementation of \"Artist Style Transfer Via Quadratic Potential\"",
+    "Topics": [
+      "convolutional-neural-networks",
+      "cyclegan",
+      "cyclegan-pytorch",
+      "cyclegan-qp",
+      "gan",
+      "generative-adversarial-network",
+      "generative-art",
+      "neural-networks",
+      "neural-style-transfer",
+      "pytorch",
+      "quadratic-potential",
+      "residual-networks",
+      "resnet",
+      "style-transfer"
+    ],
+    "Language": "Python",
+    "Stars": 67,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-07T06:17:37Z",
+    "UpdatedAt": "2026-03-06T03:53:42Z",
+    "Owner": "RahulBhalley",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "EvelynFan/FaceFormer",
+    "Name": "FaceFormer",
+    "Url": "https://github.com/EvelynFan/FaceFormer",
+    "Description": "[CVPR 2022] FaceFormer: Speech-Driven 3D Facial Animation with Transformers",
+    "Topics": [
+      "3d-face",
+      "3d-models",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "facial-animation",
+      "facial-expressions",
+      "lip-animation",
+      "pytorch-implementation",
+      "speech"
+    ],
+    "Language": "Python",
+    "Stars": 913,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-08T07:26:26Z",
+    "UpdatedAt": "2026-05-01T15:51:12Z",
+    "Owner": "EvelynFan",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Cohere-Labs-Community/CipherGAN",
+    "Name": "CipherGAN",
+    "Url": "https://github.com/Cohere-Labs-Community/CipherGAN",
+    "Description": "TensorFlow implementation of CipherGAN",
+    "Topics": [
+      "ciphergan",
+      "cyclegan",
+      "dcgan",
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "nlp",
+      "pix2pix",
+      "tensorflow",
+      "wasserstein-gan"
+    ],
+    "Language": "Python",
+    "Stars": 123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-19T01:07:24Z",
+    "UpdatedAt": "2026-03-24T15:45:38Z",
+    "Owner": "Cohere-Labs-Community",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-ai-edge/mediapipe",
+    "Name": "mediapipe",
+    "Url": "https://github.com/google-ai-edge/mediapipe",
+    "Description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "Topics": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "machine-learning",
+      "mediapipe",
+      "mobile-development",
+      "perception",
+      "pipeline-framework",
+      "stream-processing",
+      "video-processing"
+    ],
+    "Language": "C++",
+    "Stars": 35036,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T19:16:41Z",
+    "UpdatedAt": "2026-05-02T14:41:15Z",
+    "Owner": "google-ai-edge",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "PeterWang512/GANSketching",
+    "Name": "GANSketching",
+    "Url": "https://github.com/PeterWang512/GANSketching",
+    "Description": "Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches.",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "gans",
+      "hci"
+    ],
+    "Language": "Python",
+    "Stars": 709,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-05T07:22:17Z",
+    "UpdatedAt": "2026-03-05T01:52:13Z",
+    "Owner": "PeterWang512",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xiaowei-hu/CycleGAN-tensorflow",
+    "Name": "CycleGAN-tensorflow",
+    "Url": "https://github.com/xiaowei-hu/CycleGAN-tensorflow",
+    "Description": "Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf",
+    "Topics": [
+      "cyclegan",
+      "image-translation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 714,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-17T04:05:24Z",
+    "UpdatedAt": "2026-04-11T02:18:57Z",
+    "Owner": "xiaowei-hu",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/deep-daze",
+    "Name": "deep-daze",
+    "Url": "https://github.com/lucidrains/deep-daze",
+    "Description": "Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "implicit-neural-representation",
+      "multi-modality",
+      "siren",
+      "text-to-image",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 4325,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-17T06:00:50Z",
+    "UpdatedAt": "2026-04-25T23:02:36Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tlatkowski/gans-2.0",
+    "Name": "gans-2.0",
+    "Url": "https://github.com/tlatkowski/gans-2.0",
+    "Description": "Generative Adversarial Networks in TensorFlow 2.0",
+    "Topics": [
+      "cifar-10",
+      "cifar10",
+      "conditional-gan",
+      "cyclegan",
+      "deep-learning",
+      "fashion-mnist",
+      "fashionmnist",
+      "gan",
+      "generative-adversarial-network",
+      "mnist",
+      "mnist-classification",
+      "python",
+      "python3",
+      "style-transfer",
+      "tensorflow",
+      "tensorflow-2",
+      "tensorflow-examples",
+      "tensorflow-models",
+      "tensorflow2",
+      "vanilla-gan"
+    ],
+    "Language": "Python",
+    "Stars": 78,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-25T06:59:53Z",
+    "UpdatedAt": "2024-11-19T12:25:04Z",
+    "Owner": "tlatkowski",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "soubhiksanyal/FLAME_PyTorch",
+    "Name": "FLAME_PyTorch",
+    "Url": "https://github.com/soubhiksanyal/FLAME_PyTorch",
+    "Description": "This is a implementation of the 3D FLAME model in PyTorch",
+    "Topics": [
+      "3d",
+      "3d-graphics",
+      "3d-landmarks",
+      "3d-mesh",
+      "3d-models",
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "dynamic-conture",
+      "face",
+      "face-model",
+      "face-reconstruction",
+      "fitting",
+      "flame",
+      "flame-model",
+      "morphable-model",
+      "pose-dependent-conture",
+      "python3",
+      "pytorch",
+      "statistical-models"
+    ],
+    "Language": "Python",
+    "Stars": 799,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-30T14:50:53Z",
+    "UpdatedAt": "2026-04-25T18:52:48Z",
+    "Owner": "soubhiksanyal",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "taesungp/contrastive-unpaired-translation",
+    "Name": "contrastive-unpaired-translation",
+    "Url": "https://github.com/taesungp/contrastive-unpaired-translation",
+    "Description": "Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "computervision",
+      "cyclegan",
+      "deeplearning",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 2509,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-21T05:00:29Z",
+    "UpdatedAt": "2026-04-28T22:58:00Z",
+    "Owner": "taesungp",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50",
+      "topic:cyclegan language:Python stars:>=50",
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pkhungurn/talking-head-anime-3-demo",
+    "Name": "talking-head-anime-3-demo",
+    "Url": "https://github.com/pkhungurn/talking-head-anime-3-demo",
+    "Description": "Demo Programs for the \"Talking Head(?) Anime from a Single Image 3: Now the Body Too\" Project",
+    "Topics": [
+      "ai",
+      "anime",
+      "computer-graphics",
+      "computer-vision",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "vtuber"
+    ],
+    "Language": "Python",
+    "Stars": 1042,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-29T19:33:20Z",
+    "UpdatedAt": "2026-05-01T16:23:23Z",
+    "Owner": "pkhungurn",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38292,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-02T16:26:53Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eugeneyan/applied-ml",
+    "Name": "applied-ml",
+    "Url": "https://github.com/eugeneyan/applied-ml",
+    "Description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "Topics": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "production",
+      "recsys",
+      "reinforcement-learning",
+      "search"
+    ],
+    "Language": "",
+    "Stars": 28792,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-04T18:57:47Z",
+    "UpdatedAt": "2026-05-02T00:44:13Z",
+    "Owner": "eugeneyan",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sumuzhao/CycleGAN-Music-Style-Transfer",
+    "Name": "CycleGAN-Music-Style-Transfer",
+    "Url": "https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer",
+    "Description": "Symbolic Music Genre Transfer with CycleGAN",
+    "Topics": [
+      "cnn",
+      "cyclegan",
+      "deep-learning",
+      "domain-transfer",
+      "gan",
+      "music-genre",
+      "nerual-network",
+      "style-transfer"
+    ],
+    "Language": "Python",
+    "Stars": 278,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-06T07:09:02Z",
+    "UpdatedAt": "2026-04-15T06:08:44Z",
+    "Owner": "sumuzhao",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-02T17:35:32Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ludwig-ai/ludwig",
+    "Name": "ludwig",
+    "Url": "https://github.com/ludwig-ai/ludwig",
+    "Description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+    "Topics": [
+      "computer-vision",
+      "data-centric",
+      "data-science",
+      "deep",
+      "deep-learning",
+      "deeplearning",
+      "fine-tuning",
+      "learning",
+      "llama",
+      "llama2",
+      "llm",
+      "llm-training",
+      "machine-learning",
+      "machinelearning",
+      "mistral",
+      "ml",
+      "natural-language",
+      "natural-language-processing",
+      "neural-network",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 11682,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-27T23:58:12Z",
+    "UpdatedAt": "2026-05-02T09:20:14Z",
+    "Owner": "ludwig-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mkocabas/body-model-visualizer",
+    "Name": "body-model-visualizer",
+    "Url": "https://github.com/mkocabas/body-model-visualizer",
+    "Description": "GUI for visualization and interactive editing of SMPL-family body models ie. SMPL, SMPL-X, MANO, FLAME.",
+    "Topics": [
+      "computer-graphics",
+      "human-body-model",
+      "human-pose-estimation",
+      "open3d"
+    ],
+    "Language": "Python",
+    "Stars": 466,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-26T14:27:48Z",
+    "UpdatedAt": "2026-04-25T07:26:20Z",
+    "Owner": "mkocabas",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jackaduma/CycleGAN-VC2",
+    "Name": "CycleGAN-VC2",
+    "Url": "https://github.com/jackaduma/CycleGAN-VC2",
+    "Description": "Voice Conversion by CycleGAN (语音克隆/语音转换): CycleGAN-VC2",
+    "Topics": [
+      "aigc",
+      "cyclegan",
+      "cyclegan-vc",
+      "cyclegan-vc2",
+      "deep-learning",
+      "deeplearning",
+      "gan",
+      "pix2pix",
+      "pytorch-implementation",
+      "speech-synthesis",
+      "voice-cloning",
+      "voice-conversion"
+    ],
+    "Language": "Python",
+    "Stars": 570,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-13T11:29:35Z",
+    "UpdatedAt": "2026-04-29T20:40:43Z",
+    "Owner": "jackaduma",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkhademi/ImageEnhancement",
+    "Name": "ImageEnhancement",
+    "Url": "https://github.com/wkhademi/ImageEnhancement",
+    "Description": "Various models for handling underexposure, overexposure, super-resolution, shadow removal, etc.",
+    "Topics": [
+      "cyclegan",
+      "deep-learning",
+      "deshadownet",
+      "enlightengan",
+      "generative-adversarial-network",
+      "image-enhancement",
+      "shadow-removal",
+      "srgan",
+      "super-resolution",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 74,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-17T17:48:58Z",
+    "UpdatedAt": "2025-11-10T07:48:02Z",
+    "Owner": "wkhademi",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mit-han-lab/gan-compression",
+    "Name": "gan-compression",
+    "Url": "https://github.com/mit-han-lab/gan-compression",
+    "Description": "[CVPR 2020] GAN Compression: Efficient Architectures for Interactive Conditional GANs",
+    "Topics": [
+      "compression",
+      "conditional-gans",
+      "cyclegan",
+      "gans",
+      "gaugan",
+      "image-to-image-translation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 1119,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-05T00:27:13Z",
+    "UpdatedAt": "2026-04-30T13:33:28Z",
+    "Owner": "mit-han-lab",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Ha0Tang/SelectionGAN",
+    "Name": "SelectionGAN",
+    "Url": "https://github.com/Ha0Tang/SelectionGAN",
+    "Description": "[CVPR 2019 Oral] Multi-Channel Attention Selection GAN with Cascaded Semantic Guidance for Cross-View Image Translation",
+    "Topics": [
+      "adversarial-learning",
+      "computer-graphics",
+      "computer-vision",
+      "cross-view",
+      "cvpr-2019",
+      "cvpr19",
+      "cvpr2019",
+      "cvusa-dataset",
+      "dayton",
+      "deep-learning",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "image-to-image-translation",
+      "image-translation",
+      "pytorch",
+      "semantic-maps"
+    ],
+    "Language": "Python",
+    "Stars": 465,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-13T23:33:59Z",
+    "UpdatedAt": "2026-04-13T10:50:49Z",
+    "Owner": "Ha0Tang",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opencv/opencv",
+    "Name": "opencv",
+    "Url": "https://github.com/opencv/opencv",
+    "Description": "Open Source Computer Vision Library",
+    "Topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "Language": "C++",
+    "Stars": 87315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-19T09:40:17Z",
+    "UpdatedAt": "2026-05-02T17:20:00Z",
+    "Owner": "opencv",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "aitorzip/PyTorch-CycleGAN",
+    "Name": "PyTorch-CycleGAN",
+    "Url": "https://github.com/aitorzip/PyTorch-CycleGAN",
+    "Description": "A clean and readable Pytorch implementation of CycleGAN",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-processing",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 1322,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-12T00:01:28Z",
+    "UpdatedAt": "2026-04-30T02:32:27Z",
+    "Owner": "aitorzip",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50",
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "togheppi/CycleGAN",
+    "Name": "CycleGAN",
+    "Url": "https://github.com/togheppi/CycleGAN",
+    "Description": "PyTorch implementation of CycleGAN",
+    "Topics": [
+      "apple2",
+      "cyclegan",
+      "gan",
+      "generative-adversarial-networks",
+      "horse2zebra",
+      "image-translation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-05T07:26:38Z",
+    "UpdatedAt": "2026-04-14T12:27:12Z",
+    "Owner": "togheppi",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "papercopilot/paperlists",
+    "Name": "paperlists",
+    "Url": "https://github.com/papercopilot/paperlists",
+    "Description": "Processed / Cleaned Data for Paper Copilot",
+    "Topics": [
+      "artificial-intelligence",
+      "computational-linguistics",
+      "computer-graphics",
+      "computer-vision",
+      "databases",
+      "dataminning",
+      "natural-language-processing",
+      "robotics"
+    ],
+    "Language": "Python",
+    "Stars": 921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-11T23:34:56Z",
+    "UpdatedAt": "2026-04-28T06:38:38Z",
+    "Owner": "papercopilot",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "voxel51/fiftyone",
+    "Name": "fiftyone",
+    "Url": "https://github.com/voxel51/fiftyone",
+    "Description": "Refine high-quality datasets and visual AI models",
+    "Topics": [
+      "active-learning",
+      "artificial-intelligence",
+      "computer-vision",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-curation",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "developer-tools",
+      "image-classification",
+      "machine-learning",
+      "object-detection",
+      "python",
+      "unstructured-data",
+      "vector-search",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 10630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-22T13:43:28Z",
+    "UpdatedAt": "2026-05-02T17:17:51Z",
+    "Owner": "voxel51",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Hironsan/BossSensor",
+    "Name": "BossSensor",
+    "Url": "https://github.com/Hironsan/BossSensor",
+    "Description": "Hide screen when boss is approaching.",
+    "Topics": [
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "opencv"
+    ],
+    "Language": "Python",
+    "Stars": 6281,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-04T06:09:59Z",
+    "UpdatedAt": "2026-05-02T11:35:48Z",
+    "Owner": "Hironsan",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fpv-iplab/DA-RetinaNet",
+    "Name": "DA-RetinaNet",
+    "Url": "https://github.com/fpv-iplab/DA-RetinaNet",
+    "Description": "Official Detectron2 implementation of DA-RetinaNet, An unsupervised domain adaptation scheme for single-stage artwork recognition in cultural sites, Image and Vision Computing (IMAVIS) 2021",
+    "Topics": [
+      "cityscapes",
+      "cityscapes-dataset",
+      "coco-annotations",
+      "cyclegan",
+      "da-retinanet",
+      "detectron2",
+      "domain-adaptation",
+      "domain-adaptation-object-detection",
+      "foggy-cityscapes",
+      "google-colab",
+      "object-detection",
+      "pascal-voc",
+      "retinanet",
+      "unsupervised-domain-adaptation"
+    ],
+    "Language": "Python",
+    "Stars": 65,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-27T08:33:55Z",
+    "UpdatedAt": "2026-02-09T13:19:50Z",
+    "Owner": "fpv-iplab",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GaParmar/clean-fid",
+    "Name": "clean-fid",
+    "Url": "https://github.com/GaParmar/clean-fid",
+    "Description": "PyTorch - FID calculation with proper image resizing and quantization steps [CVPR 2022]",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "fid",
+      "fid-calculation",
+      "fid-score",
+      "frechet-distance",
+      "frechet-inception-distance",
+      "gan",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 1149,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-23T00:23:51Z",
+    "UpdatedAt": "2026-04-27T01:08:11Z",
+    "Owner": "GaParmar",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Visionary-Laboratory/visionary",
+    "Name": "visionary",
+    "Url": "https://github.com/Visionary-Laboratory/visionary",
+    "Description": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform",
+    "Topics": [
+      "3dgs",
+      "4dgs",
+      "avatar",
+      "computer-graphics",
+      "computer-vision",
+      "diffusion-models",
+      "frontend",
+      "gaussian-splatting",
+      "javascript",
+      "neural-rendering",
+      "onnx",
+      "siggraph",
+      "siggraph-asia",
+      "threejs",
+      "typescript",
+      "viewer",
+      "webdev",
+      "webgpu",
+      "world-model"
+    ],
+    "Language": "Python",
+    "Stars": 500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-07T06:20:38Z",
+    "UpdatedAt": "2026-05-01T16:02:10Z",
+    "Owner": "Visionary-Laboratory",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yanshengjia/ml-road",
+    "Name": "ml-road",
+    "Url": "https://github.com/yanshengjia/ml-road",
+    "Description": "Machine Learning and Agentic AI Resources, Practice and Research",
+    "Topics": [
+      "agentic-ai",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "nlp",
+      "pytorch",
+      "speech-recognition",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 4740,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-31T04:36:37Z",
+    "UpdatedAt": "2026-05-02T07:10:59Z",
+    "Owner": "yanshengjia",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Avik-Jain/100-Days-Of-ML-Code",
+    "Name": "100-Days-Of-ML-Code",
+    "Url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "Description": "100 Days of ML Coding",
+    "Topics": [
+      "100-days-of-code-log",
+      "100daysofcode",
+      "deep-learning",
+      "implementation",
+      "infographics",
+      "linear-algebra",
+      "linear-regression",
+      "logistic-regression",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "naive-bayes-classifier",
+      "python",
+      "scikit-learn",
+      "siraj-raval",
+      "siraj-raval-challenge",
+      "support-vector-machines",
+      "svm",
+      "tutorial"
+    ],
+    "Language": "",
+    "Stars": 50823,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-05T09:11:43Z",
+    "UpdatedAt": "2026-05-02T17:16:57Z",
+    "Owner": "Avik-Jain",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "scikit-image/scikit-image",
+    "Name": "scikit-image",
+    "Url": "https://github.com/scikit-image/scikit-image",
+    "Description": "Image processing in Python",
+    "Topics": [
+      "computer-vision",
+      "image-processing",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 6506,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-07T22:07:20Z",
+    "UpdatedAt": "2026-05-02T02:30:29Z",
+    "Owner": "scikit-image",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "atomicoo/EnhanceIMG",
+    "Name": "EnhanceIMG",
+    "Url": "https://github.com/atomicoo/EnhanceIMG",
+    "Description": "Image-enhancement algorithms: low-light enhancement, image restoration, super-resolution reconstruction. 图像增强算法探索：低光增强、图像修复、超分辨率重建 ……",
+    "Topics": [
+      "cyclegan",
+      "gan",
+      "image-enhancment",
+      "image-inpainting",
+      "image-restoration",
+      "low-light-enhance",
+      "opencv-python",
+      "pix2pix",
+      "retinex",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-20T06:34:47Z",
+    "UpdatedAt": "2026-04-30T13:04:27Z",
+    "Owner": "atomicoo",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvat-ai/cvat",
+    "Name": "cvat",
+    "Url": "https://github.com/cvat-ai/cvat",
+    "Description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "boundingbox",
+      "computer-vision",
+      "computer-vision-annotation",
+      "dataset",
+      "deep-learning",
+      "image-annotation",
+      "image-classification",
+      "image-labeling",
+      "image-labelling-tool",
+      "imagenet",
+      "labeling",
+      "labeling-tool",
+      "object-detection",
+      "pytorch",
+      "semantic-segmentation",
+      "tensorflow",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T14:02:45Z",
+    "UpdatedAt": "2026-05-02T13:31:04Z",
+    "Owner": "cvat-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kornia/kornia",
+    "Name": "kornia",
+    "Url": "https://github.com/kornia/kornia",
+    "Description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "Topics": [
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "machine-learning",
+      "neural-network",
+      "python",
+      "pytorch",
+      "robotics",
+      "spatial-ai"
+    ],
+    "Language": "Python",
+    "Stars": 11191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-22T10:31:37Z",
+    "UpdatedAt": "2026-05-02T09:17:43Z",
+    "Owner": "kornia",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyg-team/pytorch_geometric",
+    "Name": "pytorch_geometric",
+    "Url": "https://github.com/pyg-team/pytorch_geometric",
+    "Description": "Graph Neural Network Library for PyTorch",
+    "Topics": [
+      "deep-learning",
+      "geometric-deep-learning",
+      "graph-convolutional-networks",
+      "graph-neural-networks",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 23716,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-06T16:03:03Z",
+    "UpdatedAt": "2026-05-01T08:25:28Z",
+    "Owner": "pyg-team",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "STVIR/pysot",
+    "Name": "pysot",
+    "Url": "https://github.com/STVIR/pysot",
+    "Description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+    "Topics": [
+      "computer-vision",
+      "siamese-network",
+      "tracking"
+    ],
+    "Language": "Python",
+    "Stars": 4601,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-07T12:37:56Z",
+    "UpdatedAt": "2026-04-29T23:35:56Z",
+    "Owner": "STVIR",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77585,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-02T17:43:23Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "VAST-AI-Research/UniRig",
+    "Name": "UniRig",
+    "Url": "https://github.com/VAST-AI-Research/UniRig",
+    "Description": "[SIGGRAPH 2025] One Model to Rig Them All: Diverse Skeleton Rigging with UniRig",
+    "Topics": [
+      "animation",
+      "auto-rigging",
+      "autoregressive",
+      "computer-graphics"
+    ],
+    "Language": "Python",
+    "Stars": 1534,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-08T12:56:37Z",
+    "UpdatedAt": "2026-05-02T12:29:14Z",
+    "Owner": "VAST-AI-Research",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GaParmar/img2img-turbo",
+    "Name": "img2img-turbo",
+    "Url": "https://github.com/GaParmar/img2img-turbo",
+    "Description": "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "generative-adversarial-network",
+      "generative-art",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 2429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-23T13:50:15Z",
+    "UpdatedAt": "2026-04-29T13:40:17Z",
+    "Owner": "GaParmar",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashawkey/stable-dreamfusion",
+    "Name": "stable-dreamfusion",
+    "Url": "https://github.com/ashawkey/stable-dreamfusion",
+    "Description": "Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.",
+    "Topics": [
+      "dreamfusion",
+      "gui",
+      "image-to-3d",
+      "nerf",
+      "stable-diffusion",
+      "text-to-3d"
+    ],
+    "Language": "Python",
+    "Stars": 8831,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-06T06:18:39Z",
+    "UpdatedAt": "2026-05-02T14:37:41Z",
+    "Owner": "ashawkey",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "obss/sahi",
+    "Name": "sahi",
+    "Url": "https://github.com/obss/sahi",
+    "Description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
+    "Topics": [
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "explainable-ai",
+      "fiftyone",
+      "hacktoberfest",
+      "huggingface",
+      "instance-segmentation",
+      "large-image",
+      "machine-learning",
+      "mmdetection",
+      "object-detection",
+      "oriented-object-detection",
+      "python",
+      "pytorch",
+      "remote-sensing",
+      "satellite",
+      "small-object-detection",
+      "tiling",
+      "yolo11"
+    ],
+    "Language": "Python",
+    "Stars": 5265,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-30T12:54:53Z",
+    "UpdatedAt": "2026-05-02T03:12:07Z",
+    "Owner": "obss",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mikf/gallery-dl",
+    "Name": "gallery-dl",
+    "Url": "https://github.com/mikf/gallery-dl",
+    "Description": "Command-line program to download image galleries and collections from several image hosting sites",
+    "Topics": [
+      "danbooru",
+      "deviantart",
+      "downloader",
+      "gallery",
+      "kemono",
+      "mangadex",
+      "pixiv",
+      "tumblr",
+      "twitter"
+    ],
+    "Language": "Python",
+    "Stars": 18021,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-12T19:38:05Z",
+    "UpdatedAt": "2026-05-02T15:00:41Z",
+    "Owner": "mikf",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ltdrdata/ComfyUI-Impact-Pack",
+    "Name": "ComfyUI-Impact-Pack",
+    "Url": "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
+    "Description": "Custom nodes pack for ComfyUI This custom node helps to conveniently enhance images through Detector, Detailer, Upscaler, Pipe, and more.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3093,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-30T13:54:51Z",
+    "UpdatedAt": "2026-05-02T01:46:51Z",
+    "Owner": "ltdrdata",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TimoBolkart/BFM_to_FLAME",
+    "Name": "BFM_to_FLAME",
+    "Url": "https://github.com/TimoBolkart/BFM_to_FLAME",
+    "Description": "Convert from Basel Face Model (BFM) to the FLAME head model",
+    "Topics": [
+      "3d-models",
+      "basel-face-model",
+      "bfm",
+      "bfm-model",
+      "computer-graphics",
+      "computer-vision",
+      "face-model",
+      "face-models",
+      "flame",
+      "flame-fitting",
+      "flame-mesh",
+      "flame-model",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 467,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-04T15:30:05Z",
+    "UpdatedAt": "2026-04-25T18:52:19Z",
+    "Owner": "TimoBolkart",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eveningglow/BicycleGAN-pytorch",
+    "Name": "BicycleGAN-pytorch",
+    "Url": "https://github.com/eveningglow/BicycleGAN-pytorch",
+    "Description": "Pytorch implementation of BicycleGAN with implementation details",
+    "Topics": [
+      "bicyclegan",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "image-translation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-26T15:19:39Z",
+    "UpdatedAt": "2025-12-11T01:19:07Z",
+    "Owner": "eveningglow",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arc53/DocsGPT",
+    "Name": "DocsGPT",
+    "Url": "https://github.com/arc53/DocsGPT",
+    "Description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+    "Topics": [
+      "agent-builder",
+      "agents",
+      "ai",
+      "chatgpt",
+      "docsgpt",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "information-retrieval",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "rag",
+      "react",
+      "search",
+      "semantic-search",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 17872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-02T11:03:23Z",
+    "UpdatedAt": "2026-05-02T11:59:16Z",
+    "Owner": "arc53",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "victorca25/traiNNer",
+    "Name": "traiNNer",
+    "Url": "https://github.com/victorca25/traiNNer",
+    "Description": "traiNNer: Deep learning framework for image and video super-resolution, restoration and image-to-image translation, for training and testing.",
+    "Topics": [
+      "bsrgan",
+      "cartoonization",
+      "convolutional-neural-networks",
+      "cyclegan",
+      "deblurring",
+      "denoising",
+      "esrgan",
+      "image-restoration",
+      "pix2pix",
+      "real-esrgan",
+      "real-sr",
+      "srflow",
+      "super-resolution",
+      "upscale"
+    ],
+    "Language": "Python",
+    "Stars": 312,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-12T06:53:07Z",
+    "UpdatedAt": "2026-04-26T15:38:46Z",
+    "Owner": "victorca25",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15811,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-02T17:08:26Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tandon-A/CycleGAN_ssim",
+    "Name": "CycleGAN_ssim",
+    "Url": "https://github.com/Tandon-A/CycleGAN_ssim",
+    "Description": "Comparing different similarity functions for reconstruction of image on CycleGAN. (https://tandon-a.github.io/CycleGAN_ssim/) Training cycleGAN with different loss functions to improve visual quality of produced images",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "image-to-image-translation",
+      "image-translation",
+      "perceptual-losses",
+      "perceptual-similarity",
+      "ssim-loss",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 82,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-26T09:29:13Z",
+    "UpdatedAt": "2026-03-23T02:58:33Z",
+    "Owner": "Tandon-A",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlfoundations/open_clip",
+    "Name": "open_clip",
+    "Url": "https://github.com/mlfoundations/open_clip",
+    "Description": "An open source implementation of CLIP.",
+    "Topics": [
+      "computer-vision",
+      "contrastive-loss",
+      "deep-learning",
+      "language-model",
+      "multi-modal-learning",
+      "pretrained-models",
+      "pytorch",
+      "zero-shot-classification"
+    ],
+    "Language": "Python",
+    "Stars": 13763,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-28T23:24:39Z",
+    "UpdatedAt": "2026-05-02T11:52:31Z",
+    "Owner": "mlfoundations",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VinAIResearch/CPM",
+    "Name": "CPM",
+    "Url": "https://github.com/VinAIResearch/CPM",
+    "Description": "💄 Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer (CVPR 2021)",
+    "Topics": [
+      "color",
+      "color-matching",
+      "color-transfer",
+      "computer-vision",
+      "cvpr",
+      "cvpr2021",
+      "cyclegan",
+      "face-manipulation",
+      "gan",
+      "makeup",
+      "makeup-transfer",
+      "pattern-detection",
+      "segmentation-models"
+    ],
+    "Language": "Python",
+    "Stars": 420,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-14T03:15:13Z",
+    "UpdatedAt": "2026-04-23T07:57:57Z",
+    "Owner": "VinAIResearch",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DLR-RM/BlenderProc",
+    "Name": "BlenderProc",
+    "Url": "https://github.com/DLR-RM/BlenderProc",
+    "Description": "A procedural Blender pipeline for photorealistic training image generation",
+    "Topics": [
+      "3d-engines",
+      "3d-front-dataset",
+      "3d-graphics",
+      "3d-reconstruction",
+      "blender",
+      "blender-installation",
+      "blender-pipeline",
+      "camera-positions",
+      "camera-sampling",
+      "computer-graphics",
+      "depth-images",
+      "pose-estimation",
+      "python",
+      "rendering",
+      "segmentation",
+      "suncg-scene",
+      "synthetic",
+      "synthetic-data"
+    ],
+    "Language": "Python",
+    "Stars": 3521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-10T11:29:14Z",
+    "UpdatedAt": "2026-05-02T16:22:50Z",
+    "Owner": "DLR-RM",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ESanchezLozano/GANnotation",
+    "Name": "GANnotation",
+    "Url": "https://github.com/ESanchezLozano/GANnotation",
+    "Description": "GANnotation (PyTorch): Landmark-guided face to face synthesis using GANs (And a triple consistency loss!)",
+    "Topics": [
+      "cyclegan",
+      "face-synthesis",
+      "face2face",
+      "gan",
+      "generative-adversarial-network",
+      "landmark-guided",
+      "pytorch",
+      "triple-consistency-loss"
+    ],
+    "Language": "Python",
+    "Stars": 195,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-08T14:26:39Z",
+    "UpdatedAt": "2025-08-27T11:53:48Z",
+    "Owner": "ESanchezLozano",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "modelscope/FunASR",
+    "Name": "FunASR",
+    "Url": "https://github.com/modelscope/FunASR",
+    "Description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+    "Topics": [
+      "audio-visual-speech-recognition",
+      "conformer",
+      "dfsmn",
+      "paraformer",
+      "pretrained-model",
+      "punctuation",
+      "pytorch",
+      "rnnt",
+      "speaker-diarization",
+      "speech-recognition",
+      "speechgpt",
+      "speechllm",
+      "vad",
+      "voice-activity-detection",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 15937,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-24T02:28:11Z",
+    "UpdatedAt": "2026-05-02T17:10:58Z",
+    "Owner": "modelscope",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DeepMotionEditing/deep-motion-editing",
+    "Name": "deep-motion-editing",
+    "Url": "https://github.com/DeepMotionEditing/deep-motion-editing",
+    "Description": "An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]",
+    "Topics": [
+      "character-animation",
+      "computer-animation",
+      "computer-graphics",
+      "deep-learning",
+      "motion-retargeting",
+      "style-transfer"
+    ],
+    "Language": "Python",
+    "Stars": 1711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-20T04:17:59Z",
+    "UpdatedAt": "2026-04-27T11:10:38Z",
+    "Owner": "DeepMotionEditing",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-02T15:18:56Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jupyter/docker-stacks",
+    "Name": "docker-stacks",
+    "Url": "https://github.com/jupyter/docker-stacks",
+    "Description": "Ready-to-run Docker images containing Jupyter applications",
+    "Topics": [
+      "docker",
+      "ipython",
+      "ipython-notebook",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyter-notebooks",
+      "jupyterhub",
+      "jupyterlab",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 8427,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-15T15:30:00Z",
+    "UpdatedAt": "2026-05-01T00:05:55Z",
+    "Owner": "jupyter",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/DALLE-pytorch",
+    "Name": "DALLE-pytorch",
+    "Url": "https://github.com/lucidrains/DALLE-pytorch",
+    "Description": "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "multi-modal",
+      "text-to-image",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 5630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-05T20:35:16Z",
+    "UpdatedAt": "2026-04-29T07:22:57Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Comfy-Org/ComfyUI",
+    "Name": "ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "Topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 111060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-17T03:15:56Z",
+    "UpdatedAt": "2026-05-02T17:48:12Z",
+    "Owner": "Comfy-Org",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KaiyangZhou/deep-person-reid",
+    "Name": "deep-person-reid",
+    "Url": "https://github.com/KaiyangZhou/deep-person-reid",
+    "Description": "Torchreid: Deep learning person re-identification in PyTorch.",
+    "Topics": [
+      "computer-vision",
+      "cross-domain",
+      "deep-learning",
+      "deep-neural-networks",
+      "image-retrieval",
+      "machine-learning",
+      "metric-learning",
+      "person-reid",
+      "person-reidentification",
+      "pytorch",
+      "re-ranking"
+    ],
+    "Language": "Python",
+    "Stars": 4818,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-11T21:14:39Z",
+    "UpdatedAt": "2026-05-01T12:01:52Z",
+    "Owner": "KaiyangZhou",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "simontomaskarlsson/GAN-MRI",
+    "Name": "GAN-MRI",
+    "Url": "https://github.com/simontomaskarlsson/GAN-MRI",
+    "Description": "Code repository for Frontiers article 'Generative Adversarial Networks for Image-to-Image Translation on Multi-Contrast MR Images - A Comparison of CycleGAN and UNIT'",
+    "Topics": [
+      "cyclegan",
+      "deep-learning",
+      "generative-adversarial-networks",
+      "image-processing",
+      "image-to-image-translation",
+      "keras",
+      "neural-networks",
+      "unit"
+    ],
+    "Language": "Python",
+    "Stars": 242,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-14T09:14:03Z",
+    "UpdatedAt": "2026-04-20T12:53:20Z",
+    "Owner": "simontomaskarlsson",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nerfstudio-project/nerfstudio",
+    "Name": "nerfstudio",
+    "Url": "https://github.com/nerfstudio-project/nerfstudio",
+    "Description": "A collaboration friendly studio for NeRFs",
+    "Topics": [
+      "3d",
+      "3d-graphics",
+      "3d-reconstruction",
+      "computer-vision",
+      "deep-learning",
+      "gaussian-splatting",
+      "machine-learning",
+      "nerf",
+      "photogrammetry",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 11507,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-31T18:17:37Z",
+    "UpdatedAt": "2026-05-02T14:37:37Z",
+    "Owner": "nerfstudio-project",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PixArt-alpha/PixArt-alpha",
+    "Name": "PixArt-alpha",
+    "Url": "https://github.com/PixArt-alpha/PixArt-alpha",
+    "Description": "PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-12T14:16:33Z",
+    "UpdatedAt": "2026-05-02T11:23:30Z",
+    "Owner": "PixArt-alpha",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pkhungurn/talking-head-anime-demo",
+    "Name": "talking-head-anime-demo",
+    "Url": "https://github.com/pkhungurn/talking-head-anime-demo",
+    "Description": "Demo for the \"Talking Head Anime from a Single Image.\"",
+    "Topics": [
+      "ai",
+      "anime",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "vtuber"
+    ],
+    "Language": "Python",
+    "Stars": 2026,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-27T11:45:52Z",
+    "UpdatedAt": "2026-04-28T09:31:30Z",
+    "Owner": "pkhungurn",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/rf-detr",
+    "Name": "rf-detr",
+    "Url": "https://github.com/roboflow/rf-detr",
+    "Description": "[ICLR 2026] RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning.",
+    "Topics": [
+      "computer-vision",
+      "detr",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "rf-detr",
+      "sota"
+    ],
+    "Language": "Python",
+    "Stars": 6880,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-19T20:43:00Z",
+    "UpdatedAt": "2026-05-02T15:29:54Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/sports",
+    "Name": "sports",
+    "Url": "https://github.com/roboflow/sports",
+    "Description": "computer vision and sports",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "football",
+      "football-data",
+      "image-embeddings",
+      "keypoint-detection",
+      "object-detection",
+      "soccer",
+      "soccer-analytics",
+      "soccer-data",
+      "sports",
+      "sports-analytics",
+      "sports-data",
+      "tutorial",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 4960,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-13T14:51:16Z",
+    "UpdatedAt": "2026-05-02T17:04:36Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "richzhang/colorization-pytorch",
+    "Name": "colorization-pytorch",
+    "Url": "https://github.com/richzhang/colorization-pytorch",
+    "Description": "PyTorch reimplementation of Interactive Deep Colorization",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "image-colorization",
+      "pytorch",
+      "siggraph"
+    ],
+    "Language": "Python",
+    "Stars": 602,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-10T23:42:30Z",
+    "UpdatedAt": "2026-04-13T10:50:48Z",
+    "Owner": "richzhang",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TachibanaYoshino/AnimeGAN",
+    "Name": "AnimeGAN",
+    "Url": "https://github.com/TachibanaYoshino/AnimeGAN",
+    "Description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+    "Topics": [
+      "anime-images",
+      "animegan",
+      "hayao-style",
+      "photo-animation",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 4600,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-15T08:43:32Z",
+    "UpdatedAt": "2026-05-01T10:52:46Z",
+    "Owner": "TachibanaYoshino",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "autodistill/autodistill",
+    "Name": "autodistill",
+    "Url": "https://github.com/autodistill/autodistill",
+    "Description": "Images to inference with no labeling (use foundation models to train supervised models).",
+    "Topics": [
+      "auto-labeling",
+      "computer-vision",
+      "deep-learning",
+      "foundation-models",
+      "grounding-dino",
+      "image-annotation",
+      "image-classification",
+      "instance-segmentation",
+      "labeling-tool",
+      "machine-learning",
+      "model-distillation",
+      "multimodal",
+      "object-detection",
+      "pytorch",
+      "segment-anything",
+      "yolov5",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 2678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-06T20:16:41Z",
+    "UpdatedAt": "2026-05-02T13:53:42Z",
+    "Owner": "autodistill",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jackaduma/CycleGAN-VC3",
+    "Name": "CycleGAN-VC3",
+    "Url": "https://github.com/jackaduma/CycleGAN-VC3",
+    "Description": "Voice Conversion by CycleGAN (语音克隆/语音转换)：CycleGAN-VC3",
+    "Topics": [
+      "aigc",
+      "cyclegan",
+      "cyclegan-vc",
+      "cyclegan-vc2",
+      "cyclegan-vc3",
+      "gan",
+      "pytorch",
+      "pytorch-implementation",
+      "voice-cloning",
+      "voice-conversion"
+    ],
+    "Language": "Python",
+    "Stars": 155,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-27T16:03:09Z",
+    "UpdatedAt": "2026-02-19T13:30:36Z",
+    "Owner": "jackaduma",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/models",
+    "Name": "models",
+    "Url": "https://github.com/PaddlePaddle/models",
+    "Description": "Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.",
+    "Topics": [
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "models",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "paddlepaddle",
+      "recommendation",
+      "speech"
+    ],
+    "Language": "Python",
+    "Stars": 6943,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-20T13:30:15Z",
+    "UpdatedAt": "2026-05-02T13:34:25Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LynnHo/CycleGAN-Tensorflow-2",
+    "Name": "CycleGAN-Tensorflow-2",
+    "Url": "https://github.com/LynnHo/CycleGAN-Tensorflow-2",
+    "Description": "Reimplementation of CycleGAN",
+    "Topics": [
+      "cyclegan",
+      "gan",
+      "gans",
+      "image-translation",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 386,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-16T07:07:48Z",
+    "UpdatedAt": "2026-04-24T17:21:39Z",
+    "Owner": "LynnHo",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arnab39/cycleGAN-PyTorch",
+    "Name": "cycleGAN-PyTorch",
+    "Url": "https://github.com/arnab39/cycleGAN-PyTorch",
+    "Description": "A clean and lucid implementation of cycleGAN using PyTorch",
+    "Topics": [
+      "computer-vision",
+      "cyclegan",
+      "cyclegan-pytorch",
+      "deep-learning",
+      "generative-adversarial-network",
+      "image-translation",
+      "pytorch-implementation"
+    ],
+    "Language": "Python",
+    "Stars": 126,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-15T20:55:29Z",
+    "UpdatedAt": "2026-04-27T07:41:51Z",
+    "Owner": "arnab39",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/yolov5",
+    "Name": "yolov5",
+    "Url": "https://github.com/ultralytics/yolov5",
+    "Description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "Topics": [
+      "coreml",
+      "deep-learning",
+      "ios",
+      "machine-learning",
+      "ml",
+      "object-detection",
+      "onnx",
+      "pytorch",
+      "tflite",
+      "ultralytics",
+      "yolo",
+      "yolov3",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 57325,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-18T03:45:11Z",
+    "UpdatedAt": "2026-05-02T16:18:15Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wangguanan/Pytorch-Image-Translation-GANs",
+    "Name": "Pytorch-Image-Translation-GANs",
+    "Url": "https://github.com/wangguanan/Pytorch-Image-Translation-GANs",
+    "Description": "Pytorch implementations of most popular image-translation GANs, including Pixel2Pixel, CycleGAN and StarGAN.",
+    "Topics": [
+      "cyclegan",
+      "gan",
+      "image-translation",
+      "pix2p",
+      "pytorch",
+      "stargan"
+    ],
+    "Language": "Python",
+    "Stars": 101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-20T12:04:40Z",
+    "UpdatedAt": "2026-03-27T06:34:53Z",
+    "Owner": "wangguanan",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160179,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-02T17:39:27Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pytorch/pytorch",
+    "Name": "pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 99586,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-13T05:26:41Z",
+    "UpdatedAt": "2026-05-02T17:44:11Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pinry/pinry",
+    "Name": "pinry",
+    "Url": "https://github.com/pinry/pinry",
+    "Description": "Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.",
+    "Topics": [
+      "django",
+      "huaban",
+      "images",
+      "node",
+      "pinterest",
+      "python",
+      "self-hosted",
+      "vue"
+    ],
+    "Language": "Python",
+    "Stars": 3365,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-03-05T00:17:31Z",
+    "UpdatedAt": "2026-05-02T14:50:28Z",
+    "Owner": "pinry",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorflow/tensorflow",
+    "Name": "tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "Language": "C++",
+    "Stars": 194961,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T01:19:20Z",
+    "UpdatedAt": "2026-05-02T16:48:59Z",
+    "Owner": "tensorflow",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31408,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-02T08:01:41Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xinntao/Real-ESRGAN",
+    "Name": "Real-ESRGAN",
+    "Url": "https://github.com/xinntao/Real-ESRGAN",
+    "Description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "Topics": [
+      "amine",
+      "denoise",
+      "esrgan",
+      "image-restoration",
+      "jpeg-compression",
+      "pytorch",
+      "real-esrgan",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 35276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-19T03:23:30Z",
+    "UpdatedAt": "2026-05-02T16:59:55Z",
+    "Owner": "xinntao",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-team/keras",
+    "Name": "keras",
+    "Url": "https://github.com/keras-team/keras",
+    "Description": "Deep Learning for humans",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 64054,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T00:35:42Z",
+    "UpdatedAt": "2026-05-02T15:13:00Z",
+    "Owner": "keras-team",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CorentinJ/Real-Time-Voice-Cloning",
+    "Name": "Real-Time-Voice-Cloning",
+    "Url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "Description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "deep-learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tts",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 59708,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T08:56:15Z",
+    "UpdatedAt": "2026-05-02T16:44:38Z",
+    "Owner": "CorentinJ",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MeiGen-AI/InfiniteTalk",
+    "Name": "InfiniteTalk",
+    "Url": "https://github.com/MeiGen-AI/InfiniteTalk",
+    "Description": "​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6438,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-14T01:04:53Z",
+    "UpdatedAt": "2026-05-02T17:33:46Z",
+    "Owner": "MeiGen-AI",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Ha0Tang/AttentionGAN",
+    "Name": "AttentionGAN",
+    "Url": "https://github.com/Ha0Tang/AttentionGAN",
+    "Description": "AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation",
+    "Topics": [
+      "adversarial-networks",
+      "attention-model",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gans",
+      "geometry",
+      "ijcnn",
+      "image-generation",
+      "image-to-image-translation",
+      "image-translation",
+      "multi-domain",
+      "pytorch",
+      "unpaired"
+    ],
+    "Language": "Python",
+    "Stars": 687,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-09T13:54:20Z",
+    "UpdatedAt": "2026-04-23T23:50:13Z",
+    "Owner": "Ha0Tang",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/JARVIS",
+    "Name": "JARVIS",
+    "Url": "https://github.com/microsoft/JARVIS",
+    "Description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "Topics": [
+      "deep-learning",
+      "platform",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 24685,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-30T02:57:12Z",
+    "UpdatedAt": "2026-05-02T10:19:44Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Picsart-AI-Research/Text2Video-Zero",
+    "Name": "Text2Video-Zero",
+    "Url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "Description": "[ICCV 2023 Oral] Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "Topics": [
+      "video-editing",
+      "video-generation"
+    ],
+    "Language": "Python",
+    "Stars": 4250,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-21T13:41:40Z",
+    "UpdatedAt": "2026-04-30T05:51:08Z",
+    "Owner": "Picsart-AI-Research",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JunlinHan/DCLGAN",
+    "Name": "DCLGAN",
+    "Url": "https://github.com/JunlinHan/DCLGAN",
+    "Description": "Code for Dual Contrastive Learning for Unsupervised Image-to-Image Translation, NTIRE, CVPRW 2021, oral. ",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 178,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-09T11:51:52Z",
+    "UpdatedAt": "2026-04-23T02:17:00Z",
+    "Owner": "JunlinHan",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rundiwu/DeepCAD",
+    "Name": "DeepCAD",
+    "Url": "https://github.com/rundiwu/DeepCAD",
+    "Description": "code for our ICCV 2021 paper \"DeepCAD: A Deep Generative Network for Computer-Aided Design Models\"",
+    "Topics": [
+      "3d-shapes",
+      "computer-aided-design",
+      "computer-graphics",
+      "deep-learning",
+      "iccv2021",
+      "paper"
+    ],
+    "Language": "Python",
+    "Stars": 739,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-31T13:39:11Z",
+    "UpdatedAt": "2026-05-02T06:39:49Z",
+    "Owner": "rundiwu",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-02T13:34:31Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lucidrains/imagen-pytorch",
+    "Name": "imagen-pytorch",
+    "Url": "https://github.com/lucidrains/imagen-pytorch",
+    "Description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "imagination-machine",
+      "text-to-image",
+      "text-to-video"
+    ],
+    "Language": "Python",
+    "Stars": 8406,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-23T22:06:13Z",
+    "UpdatedAt": "2026-04-30T18:39:59Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BVLC/caffe",
+    "Name": "caffe",
+    "Url": "https://github.com/BVLC/caffe",
+    "Description": "Caffe: a fast open framework for deep learning.",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "vision"
+    ],
+    "Language": "C++",
+    "Stars": 34623,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-12T18:39:48Z",
+    "UpdatedAt": "2026-05-02T07:12:47Z",
+    "Owner": "BVLC",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xuebinqin/U-2-Net",
+    "Name": "U-2-Net",
+    "Url": "https://github.com/xuebinqin/U-2-Net",
+    "Description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-background-removal",
+      "image-processing",
+      "image-segmentation",
+      "u-2-net",
+      "u2net"
+    ],
+    "Language": "Python",
+    "Stars": 9724,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-04T17:10:28Z",
+    "UpdatedAt": "2026-05-01T02:01:32Z",
+    "Owner": "xuebinqin",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "naptha/tesseract.js",
+    "Name": "tesseract.js",
+    "Url": "https://github.com/naptha/tesseract.js",
+    "Description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "Topics": [
+      "deep-learning",
+      "javascript",
+      "ocr",
+      "tesseract",
+      "webassembly"
+    ],
+    "Language": "JavaScript",
+    "Stars": 38043,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-24T02:49:52Z",
+    "UpdatedAt": "2026-05-02T15:18:53Z",
+    "Owner": "naptha",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ghaiszaher/Foggy-CycleGAN",
+    "Name": "Foggy-CycleGAN",
+    "Url": "https://github.com/ghaiszaher/Foggy-CycleGAN",
+    "Description": "Fog Simulation using Generative Adversarial Networks (GAN). This code is the implementation of the master thesis Simulating Weather Conditions on Digital Images. It uses a modified CycleGAN model to synthesize fog on clear images.",
+    "Topics": [
+      "cyclegan",
+      "cyclegan-tensorflow",
+      "deep-learning",
+      "dissertation",
+      "fog",
+      "gan",
+      "generative-adversarial-network",
+      "image-processing",
+      "msc-thesis",
+      "simulating-weather-conditions"
+    ],
+    "Language": "Python",
+    "Stars": 83,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-05T20:19:11Z",
+    "UpdatedAt": "2026-04-24T01:46:47Z",
+    "Owner": "ghaiszaher",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "autogluon/autogluon",
+    "Name": "autogluon",
+    "Url": "https://github.com/autogluon/autogluon",
+    "Description": "Fast and Accurate ML in 3 Lines of Code",
+    "Topics": [
+      "autogluon",
+      "automated-machine-learning",
+      "automl",
+      "computer-vision",
+      "data-science",
+      "deep-learning",
+      "ensemble-learning",
+      "forecasting",
+      "gluon",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "natural-language-processing",
+      "object-detection",
+      "python",
+      "pytorch",
+      "scikit-learn",
+      "structured-data",
+      "tabular-data",
+      "time-series",
+      "transfer-learning"
+    ],
+    "Language": "Python",
+    "Stars": 10276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-29T18:51:24Z",
+    "UpdatedAt": "2026-05-02T15:12:10Z",
+    "Owner": "autogluon",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "YuliangXiu/ECON",
+    "Name": "ECON",
+    "Url": "https://github.com/YuliangXiu/ECON",
+    "Description": "[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration",
+    "Topics": [
+      "3d-reconstruction",
+      "avatar-generator",
+      "computer-graphics",
+      "computer-vision",
+      "digital-twins",
+      "metaverse",
+      "normal-maps",
+      "pifu",
+      "pifuhd",
+      "smpl-body",
+      "smplx",
+      "virtual-humans"
+    ],
+    "Language": "Python",
+    "Stars": 1200,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-02T11:33:33Z",
+    "UpdatedAt": "2026-04-28T02:15:18Z",
+    "Owner": "YuliangXiu",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-02T17:45:42Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29388,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-02T15:52:41Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "TimoBolkart/voca",
+    "Name": "voca",
+    "Url": "https://github.com/TimoBolkart/voca",
+    "Description": "This codebase demonstrates how to synthesize realistic 3D character animations given an arbitrary speech signal and a static character mesh.",
+    "Topics": [
+      "3d-face",
+      "3d-models",
+      "animation-sequence",
+      "computer-graphics",
+      "computer-vision",
+      "face-animation",
+      "machine-learning",
+      "morphable-model",
+      "python",
+      "python3",
+      "tensorflow",
+      "voca"
+    ],
+    "Language": "Python",
+    "Stars": 1260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-18T14:56:58Z",
+    "UpdatedAt": "2026-04-28T21:50:18Z",
+    "Owner": "TimoBolkart",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davidsandberg/facenet",
+    "Name": "facenet",
+    "Url": "https://github.com/davidsandberg/facenet",
+    "Description": "Face recognition using Tensorflow",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "face-detection",
+      "face-recognition",
+      "facenet",
+      "mtcnn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 14319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-12T22:14:40Z",
+    "UpdatedAt": "2026-05-01T21:35:48Z",
+    "Owner": "davidsandberg",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentARC/GFPGAN",
+    "Name": "GFPGAN",
+    "Url": "https://github.com/TencentARC/GFPGAN",
+    "Description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "Topics": [
+      "deep-learning",
+      "face-restoration",
+      "gan",
+      "gfpgan",
+      "image-restoration",
+      "pytorch",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 37443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-19T06:18:20Z",
+    "UpdatedAt": "2026-05-02T17:00:11Z",
+    "Owner": "TencentARC",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zai-org/CogVideo",
+    "Name": "CogVideo",
+    "Url": "https://github.com/zai-org/CogVideo",
+    "Description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+    "Topics": [
+      "cogvideox",
+      "image-to-video",
+      "llm",
+      "sora",
+      "text-to-video",
+      "video-generation"
+    ],
+    "Language": "Python",
+    "Stars": 12694,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-29T06:46:18Z",
+    "UpdatedAt": "2026-05-02T15:24:58Z",
+    "Owner": "zai-org",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leimao/Voice-Converter-CycleGAN",
+    "Name": "Voice-Converter-CycleGAN",
+    "Url": "https://github.com/leimao/Voice-Converter-CycleGAN",
+    "Description": "Voice Converter Using CycleGAN and Non-Parallel Data",
+    "Topics": [
+      "cyclegan",
+      "speech",
+      "voice-conversion"
+    ],
+    "Language": "Python",
+    "Stars": 530,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-17T00:18:55Z",
+    "UpdatedAt": "2026-04-19T20:56:22Z",
+    "Owner": "leimao",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "idealo/imagededup",
+    "Name": "imagededup",
+    "Url": "https://github.com/idealo/imagededup",
+    "Description": "😎 Finding duplicate images made easy!",
+    "Topics": [
+      "computer-vision",
+      "e-commerce",
+      "hashing",
+      "idealo",
+      "image-deduplication",
+      "image-preprocessing",
+      "neural-network",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 5623,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-05T12:10:54Z",
+    "UpdatedAt": "2026-05-02T15:24:09Z",
+    "Owner": "idealo",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepinsight/insightface",
+    "Name": "insightface",
+    "Url": "https://github.com/deepinsight/insightface",
+    "Description": "State-of-the-art 2D and 3D Face Analysis Project",
+    "Topics": [
+      "age-estimation",
+      "arcface",
+      "face-alignment",
+      "face-detection",
+      "face-recognition",
+      "mxnet",
+      "oneflow",
+      "paddlepaddle",
+      "pytorch",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 28578,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-01T00:36:51Z",
+    "UpdatedAt": "2026-05-02T17:07:07Z",
+    "Owner": "deepinsight",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pavelgonchar/colornet",
+    "Name": "colornet",
+    "Url": "https://github.com/pavelgonchar/colornet",
+    "Description": "Neural Network to colorize grayscale images",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3560,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-04-19T09:16:50Z",
+    "UpdatedAt": "2026-04-24T17:20:53Z",
+    "Owner": "pavelgonchar",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vanhuyz/CycleGAN-TensorFlow",
+    "Name": "CycleGAN-TensorFlow",
+    "Url": "https://github.com/vanhuyz/CycleGAN-TensorFlow",
+    "Description": "An implementation of CycleGan using TensorFlow",
+    "Topics": [
+      "cyclegan",
+      "gan",
+      "generative-adversarial-network",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 1192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-10T03:38:49Z",
+    "UpdatedAt": "2026-04-11T02:18:58Z",
+    "Owner": "vanhuyz",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "luoxier/CycleGAN_Tensorlayer",
+    "Name": "CycleGAN_Tensorlayer",
+    "Url": "https://github.com/luoxier/CycleGAN_Tensorlayer",
+    "Description": "Re-implement CycleGAN in Tensorlayer",
+    "Topics": [
+      "cyclegan",
+      "gan",
+      "resize-convolution",
+      "tensorlayer"
+    ],
+    "Language": "Python",
+    "Stars": 88,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-22T15:26:11Z",
+    "UpdatedAt": "2026-02-27T09:58:37Z",
+    "Owner": "luoxier",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/CLIP",
+    "Name": "CLIP",
+    "Url": "https://github.com/openai/CLIP",
+    "Description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "Topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 33384,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-16T11:24:42Z",
+    "UpdatedAt": "2026-05-02T16:22:49Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vietnh1009/ASCII-generator",
+    "Name": "ASCII-generator",
+    "Url": "https://github.com/vietnh1009/ASCII-generator",
+    "Description": "ASCII generator (image to text, image to image, video to video)",
+    "Topics": [
+      "ascii",
+      "ascii-art",
+      "ascii-generator",
+      "character-ascii",
+      "cv2",
+      "opencv",
+      "pil",
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 8238,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-31T18:13:58Z",
+    "UpdatedAt": "2026-05-02T10:11:40Z",
+    "Owner": "vietnh1009",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Lornatang/CycleGAN-PyTorch",
+    "Name": "CycleGAN-PyTorch",
+    "Url": "https://github.com/Lornatang/CycleGAN-PyTorch",
+    "Description": "A very simple implementation of cyclegan, which is based on pytorch.",
+    "Topics": [
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "generative-adversarial-networks"
+    ],
+    "Language": "Python",
+    "Stars": 167,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-04T14:54:13Z",
+    "UpdatedAt": "2026-04-13T02:01:37Z",
+    "Owner": "Lornatang",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mli/paper-reading",
+    "Name": "paper-reading",
+    "Url": "https://github.com/mli/paper-reading",
+    "Description": "深度学习经典、新论文逐段精读",
+    "Topics": [
+      "deep-learning",
+      "paper",
+      "reading-list"
+    ],
+    "Language": "",
+    "Stars": 32948,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-22T06:34:51Z",
+    "UpdatedAt": "2026-05-02T15:07:46Z",
+    "Owner": "mli",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CMU-Perceptual-Computing-Lab/openpose",
+    "Name": "openpose",
+    "Url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "Description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "Topics": [
+      "caffe",
+      "computer-vision",
+      "cpp",
+      "cvpr-2017",
+      "deep-learning",
+      "face",
+      "foot-estimation",
+      "hand-estimation",
+      "human-behavior-understanding",
+      "human-pose",
+      "human-pose-estimation",
+      "keypoint-detection",
+      "keypoints",
+      "machine-learning",
+      "multi-person",
+      "opencv",
+      "openpose",
+      "pose",
+      "pose-estimation",
+      "real-time"
+    ],
+    "Language": "C++",
+    "Stars": 34056,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-24T14:06:31Z",
+    "UpdatedAt": "2026-05-02T05:32:30Z",
+    "Owner": "CMU-Perceptual-Computing-Lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "friggog/tree-gen",
+    "Name": "tree-gen",
+    "Url": "https://github.com/friggog/tree-gen",
+    "Description": "Procedural generation of tree models in blender",
+    "Topics": [
+      "3d-models",
+      "blender",
+      "computer-graphics",
+      "computer-science",
+      "procedural-generation",
+      "tree",
+      "tree-model",
+      "treegen"
+    ],
+    "Language": "Python",
+    "Stars": 936,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-07-11T21:56:39Z",
+    "UpdatedAt": "2026-04-30T10:05:27Z",
+    "Owner": "friggog",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/diffusers",
+    "Name": "diffusers",
+    "Url": "https://github.com/huggingface/diffusers",
+    "Description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "Topics": [
+      "deep-learning",
+      "diffusion",
+      "flux",
+      "image-generation",
+      "image2image",
+      "image2video",
+      "latent-diffusion-models",
+      "pytorch",
+      "qwen-image",
+      "score-based-generative-modeling",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text2image",
+      "text2video",
+      "video2video"
+    ],
+    "Language": "Python",
+    "Stars": 33521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T16:04:02Z",
+    "UpdatedAt": "2026-05-02T17:21:47Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33392,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-02T17:22:15Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "taichi-dev/taichi-nerfs",
+    "Name": "taichi-nerfs",
+    "Url": "https://github.com/taichi-dev/taichi-nerfs",
+    "Description": "Implementations of NeRF variants based on Taichi + PyTorch",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "dreamfusion",
+      "machine-learning",
+      "nerf",
+      "neural-network",
+      "neural-radiance-field",
+      "real-time",
+      "real-time-rendering",
+      "taichi"
+    ],
+    "Language": "Python",
+    "Stars": 825,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-06T02:58:21Z",
+    "UpdatedAt": "2026-04-27T10:32:07Z",
+    "Owner": "taichi-dev",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PyImageSearch/imutils",
+    "Name": "imutils",
+    "Url": "https://github.com/PyImageSearch/imutils",
+    "Description": "A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 4594,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-11T20:05:39Z",
+    "UpdatedAt": "2026-05-01T19:54:18Z",
+    "Owner": "PyImageSearch",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "showlab/Tune-A-Video",
+    "Name": "Tune-A-Video",
+    "Url": "https://github.com/showlab/Tune-A-Video",
+    "Description": "[ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 4368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-25T08:00:04Z",
+    "UpdatedAt": "2026-04-25T15:24:38Z",
+    "Owner": "showlab",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "solesensei/day2night",
+    "Name": "day2night",
+    "Url": "https://github.com/solesensei/day2night",
+    "Description": "Image2Image Translation Research",
+    "Topics": [
+      "bdd100k",
+      "cyclegan",
+      "day2night",
+      "image-translation",
+      "image2image",
+      "nexet",
+      "research",
+      "unit",
+      "unsupervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 98,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-18T14:18:19Z",
+    "UpdatedAt": "2026-04-02T11:10:34Z",
+    "Owner": "solesensei",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dazinovic/neural-rgbd-surface-reconstruction",
+    "Name": "neural-rgbd-surface-reconstruction",
+    "Url": "https://github.com/dazinovic/neural-rgbd-surface-reconstruction",
+    "Description": "Official implementation of the CVPR 2022 Paper \"Neural RGB-D Surface Reconstruction\"",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "Language": "Python",
+    "Stars": 627,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-07T10:15:27Z",
+    "UpdatedAt": "2026-04-27T13:58:53Z",
+    "Owner": "dazinovic",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PeterL1n/BackgroundMattingV2",
+    "Name": "BackgroundMattingV2",
+    "Url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "Description": "Real-Time High-Resolution Background Matting",
+    "Topics": [
+      "computer-vision",
+      "machine-learning",
+      "matting",
+      "real-time"
+    ],
+    "Language": "Python",
+    "Stars": 7157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-01T00:26:17Z",
+    "UpdatedAt": "2026-04-30T03:33:28Z",
+    "Owner": "PeterL1n",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Layout-Parser/layout-parser",
+    "Name": "layout-parser",
+    "Url": "https://github.com/Layout-Parser/layout-parser",
+    "Description": "A Unified Toolkit for Deep Learning Based Document Image Analysis",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "detectron2",
+      "document-image-processing",
+      "document-layout-analysis",
+      "layout-analysis",
+      "layout-detection",
+      "layout-parser",
+      "object-detection",
+      "ocr"
+    ],
+    "Language": "Python",
+    "Stars": 5728,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-10T20:22:54Z",
+    "UpdatedAt": "2026-05-01T09:16:18Z",
+    "Owner": "Layout-Parser",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hzwer/ECCV2022-RIFE",
+    "Name": "ECCV2022-RIFE",
+    "Url": "https://github.com/hzwer/ECCV2022-RIFE",
+    "Description": "ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "Topics": [
+      "aigc",
+      "computer-vision",
+      "deep-learning",
+      "slomo-filter",
+      "video-interpolation"
+    ],
+    "Language": "Python",
+    "Stars": 5410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-12T05:46:23Z",
+    "UpdatedAt": "2026-05-02T11:45:45Z",
+    "Owner": "hzwer",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleGAN",
+    "Name": "PaddleGAN",
+    "Url": "https://github.com/PaddlePaddle/PaddleGAN",
+    "Description": "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.",
+    "Topics": [
+      "animeganv2",
+      "basicvsrplusplus",
+      "cyclegan",
+      "edvr",
+      "first-order-motion-model",
+      "gan",
+      "gpen",
+      "image-editing",
+      "image-generation",
+      "motion-transfer",
+      "photo2cartoon",
+      "pix2pix",
+      "psgan",
+      "realsr",
+      "resolution",
+      "stylegan2",
+      "super-resolution",
+      "wav2lip"
+    ],
+    "Language": "Python",
+    "Stars": 8058,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-18T10:56:01Z",
+    "UpdatedAt": "2026-05-02T05:52:26Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-02T15:21:24Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "karpathy/minGPT",
+    "Name": "minGPT",
+    "Url": "https://github.com/karpathy/minGPT",
+    "Description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 24280,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-17T07:08:48Z",
+    "UpdatedAt": "2026-05-02T16:46:43Z",
+    "Owner": "karpathy",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gautam678/Pix2Depth",
+    "Name": "Pix2Depth",
+    "Url": "https://github.com/gautam678/Pix2Depth",
+    "Description": "DEPRECATED: Depth Map Estimation from Monocular Images",
+    "Topics": [
+      "cyclegan",
+      "deep-learning",
+      "depreciated",
+      "depth-estimation",
+      "depth-map",
+      "gans",
+      "keras",
+      "neural-networks",
+      "pix2pix"
+    ],
+    "Language": "Python",
+    "Stars": 358,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-05T02:06:33Z",
+    "UpdatedAt": "2026-04-09T08:31:24Z",
+    "Owner": "gautam678",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91824,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-02T15:32:05Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "taki0112/UGATIT",
+    "Name": "UGATIT",
+    "Url": "https://github.com/taki0112/UGATIT",
+    "Description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6131,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-26T00:33:54Z",
+    "UpdatedAt": "2026-04-21T07:14:28Z",
+    "Owner": "taki0112",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/neuralangelo",
+    "Name": "neuralangelo",
+    "Url": "https://github.com/NVlabs/neuralangelo",
+    "Description": "Official implementation of \"Neuralangelo: High-Fidelity Neural Surface Reconstruction\" (CVPR 2023)",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "neural-rendering",
+      "neural-representation"
+    ],
+    "Language": "Python",
+    "Stars": 4591,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-23T20:52:42Z",
+    "UpdatedAt": "2026-05-01T10:13:07Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50",
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coqui-ai/TTS",
+    "Name": "TTS",
+    "Url": "https://github.com/coqui-ai/TTS",
+    "Description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "Topics": [
+      "deep-learning",
+      "glow-tts",
+      "hifigan",
+      "melgan",
+      "multi-speaker-tts",
+      "python",
+      "pytorch",
+      "speaker-encoder",
+      "speaker-encodings",
+      "speech",
+      "speech-synthesis",
+      "tacotron",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "vocoder",
+      "voice-cloning",
+      "voice-conversion",
+      "voice-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 45206,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T15:45:28Z",
+    "UpdatedAt": "2026-05-02T17:04:28Z",
+    "Owner": "coqui-ai",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "danielgatis/rembg",
+    "Name": "rembg",
+    "Url": "https://github.com/danielgatis/rembg",
+    "Description": "Rembg is a tool to remove images background",
+    "Topics": [
+      "background-removal",
+      "image-processing",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 22785,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-10T14:38:24Z",
+    "UpdatedAt": "2026-05-02T17:09:02Z",
+    "Owner": "danielgatis",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "engindeniz/Cycle-Dehaze",
+    "Name": "Cycle-Dehaze",
+    "Url": "https://github.com/engindeniz/Cycle-Dehaze",
+    "Description": "[CVPR 2018 NTIRE Workshop] Cycle-Dehaze: Enhanced CycleGAN for Single Image Dehazing",
+    "Topics": [
+      "cycle-dehaze",
+      "cyclegan",
+      "gan",
+      "image-dehazing"
+    ],
+    "Language": "Python",
+    "Stars": 171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-24T18:11:33Z",
+    "UpdatedAt": "2026-04-27T00:18:45Z",
+    "Owner": "engindeniz",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-mmlab/mmdetection",
+    "Name": "mmdetection",
+    "Url": "https://github.com/open-mmlab/mmdetection",
+    "Description": "OpenMMLab Detection Toolbox and Benchmark",
+    "Topics": [
+      "cascade-rcnn",
+      "convnext",
+      "detr",
+      "fast-rcnn",
+      "faster-rcnn",
+      "glip",
+      "grounding-dino",
+      "instance-segmentation",
+      "mask-rcnn",
+      "object-detection",
+      "panoptic-segmentation",
+      "pytorch",
+      "retinanet",
+      "rtmdet",
+      "semisupervised-learning",
+      "ssd",
+      "swin-transformer",
+      "transformer",
+      "vision-transformer",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 32648,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-22T07:06:06Z",
+    "UpdatedAt": "2026-05-02T16:47:55Z",
+    "Owner": "open-mmlab",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pkhungurn/talking-head-anime-2-demo",
+    "Name": "talking-head-anime-2-demo",
+    "Url": "https://github.com/pkhungurn/talking-head-anime-2-demo",
+    "Description": "Demo programs for the Talking Head Anime from a Single Image 2: More Expressive project.",
+    "Topics": [
+      "ai",
+      "anime",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch",
+      "vtuber"
+    ],
+    "Language": "Python",
+    "Stars": 1155,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-02T16:14:39Z",
+    "UpdatedAt": "2026-04-23T06:53:51Z",
+    "Owner": "pkhungurn",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21481,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-02T15:54:32Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZuzooVn/machine-learning-for-software-engineers",
+    "Name": "machine-learning-for-software-engineers",
+    "Url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "Description": "A complete daily plan for studying to become a machine learning engineer.",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "software-engineer"
+    ],
+    "Language": "",
+    "Stars": 28760,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-09T21:20:25Z",
+    "UpdatedAt": "2026-05-02T16:20:29Z",
+    "Owner": "ZuzooVn",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/PyTorch-GAN",
+    "Name": "PyTorch-GAN",
+    "Url": "https://github.com/eriklindernoren/PyTorch-GAN",
+    "Description": "PyTorch implementations of Generative Adversarial Networks.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 17453,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-21T13:06:40Z",
+    "UpdatedAt": "2026-04-30T13:30:29Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yiranran/APDrawingGAN",
+    "Name": "APDrawingGAN",
+    "Url": "https://github.com/yiranran/APDrawingGAN",
+    "Description": "Code for APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs (CVPR 2019 Oral)",
+    "Topics": [
+      "apdrawinggan",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "face",
+      "gan",
+      "image-generation",
+      "image-synthesis",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 811,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-09T16:08:07Z",
+    "UpdatedAt": "2026-04-12T16:22:23Z",
+    "Owner": "yiranran",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tencent-Hunyuan/Hunyuan3D-2.1",
+    "Name": "Hunyuan3D-2.1",
+    "Url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+    "Description": "From Images to High-Fidelity 3D Assets with Production-Ready PBR Material",
+    "Topics": [
+      "3d",
+      "3d-aigc",
+      "3d-generation",
+      "hunyuan3d",
+      "image-to-3d",
+      "shape",
+      "shape-generation",
+      "text-to-3d",
+      "texture-genertaion"
+    ],
+    "Language": "Python",
+    "Stars": 3331,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-13T15:45:50Z",
+    "UpdatedAt": "2026-05-02T14:01:20Z",
+    "Owner": "Tencent-Hunyuan",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmlc/gluon-cv",
+    "Name": "gluon-cv",
+    "Url": "https://github.com/dmlc/gluon-cv",
+    "Description": "Gluon CV Toolkit",
+    "Topics": [
+      "action-recognition",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "gluon",
+      "image-classification",
+      "machine-learning",
+      "mxnet",
+      "neural-network",
+      "object-detection",
+      "person-reid",
+      "pose-estimation",
+      "semantic-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 5922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-26T01:33:21Z",
+    "UpdatedAt": "2026-05-01T14:13:32Z",
+    "Owner": "dmlc",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Adi-iitd/AI-Art",
+    "Name": "AI-Art",
+    "Url": "https://github.com/Adi-iitd/AI-Art",
+    "Description": "PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream!",
+    "Topics": [
+      "computervision",
+      "cyclegan",
+      "deepdream",
+      "deeplearning",
+      "neural-style-transfer",
+      "pix2pix",
+      "pytorch",
+      "pytorchlightning",
+      "style-transfer"
+    ],
+    "Language": "Python",
+    "Stars": 394,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-02T12:31:08Z",
+    "UpdatedAt": "2026-03-11T05:47:29Z",
+    "Owner": "Adi-iitd",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AAnoosheh/ComboGAN",
+    "Name": "ComboGAN",
+    "Url": "https://github.com/AAnoosheh/ComboGAN",
+    "Description": "",
+    "Topics": [
+      "cyclegan",
+      "domain-adaptation",
+      "gan",
+      "image-manipulation",
+      "neural-network"
+    ],
+    "Language": "Python",
+    "Stars": 138,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-17T12:36:59Z",
+    "UpdatedAt": "2025-09-01T00:13:59Z",
+    "Owner": "AAnoosheh",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lukas-blecher/LaTeX-OCR",
+    "Name": "LaTeX-OCR",
+    "Url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "Description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "Topics": [
+      "dataset",
+      "deep-learning",
+      "im2latex",
+      "im2markup",
+      "im2text",
+      "image-processing",
+      "image2text",
+      "latex",
+      "latex-ocr",
+      "machine-learning",
+      "math-ocr",
+      "ocr",
+      "python",
+      "pytorch",
+      "transformer",
+      "vision-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 16355,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T16:35:13Z",
+    "UpdatedAt": "2026-05-01T20:35:05Z",
+    "Owner": "lukas-blecher",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "freedomofpress/dangerzone",
+    "Name": "dangerzone",
+    "Url": "https://github.com/freedomofpress/dangerzone",
+    "Description": "Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 5388,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-06T20:42:37Z",
+    "UpdatedAt": "2026-05-02T14:48:11Z",
+    "Owner": "freedomofpress",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-02T13:36:51Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "simontomaskarlsson/CycleGAN-Keras",
+    "Name": "CycleGAN-Keras",
+    "Url": "https://github.com/simontomaskarlsson/CycleGAN-Keras",
+    "Description": "Keras implementation of CycleGAN using a tensorflow backend.",
+    "Topics": [
+      "cyclegan",
+      "deep-learning",
+      "deep-neural-networks",
+      "image-processing",
+      "image-to-image-translation",
+      "keras",
+      "machine-learning",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-01T13:45:52Z",
+    "UpdatedAt": "2025-02-23T05:44:08Z",
+    "Owner": "simontomaskarlsson",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "synthesiaresearch/humanrf",
+    "Name": "humanrf",
+    "Url": "https://github.com/synthesiaresearch/humanrf",
+    "Description": "Official code for \"HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion\"",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "machine-learning",
+      "nerf",
+      "siggraph2023"
+    ],
+    "Language": "Python",
+    "Stars": 495,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-28T07:46:47Z",
+    "UpdatedAt": "2026-04-29T07:26:41Z",
+    "Owner": "synthesiaresearch",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashnkumar/sketch-code",
+    "Name": "sketch-code",
+    "Url": "https://github.com/ashnkumar/sketch-code",
+    "Description": "Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.",
+    "Topics": [
+      "augmentation",
+      "deep-learning",
+      "image-processing",
+      "keras",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 5153,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-19T21:44:13Z",
+    "UpdatedAt": "2026-05-02T14:15:36Z",
+    "Owner": "ashnkumar",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TimoBolkart/TF_FLAME",
+    "Name": "TF_FLAME",
+    "Url": "https://github.com/TimoBolkart/TF_FLAME",
+    "Description": "Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images.",
+    "Topics": [
+      "3d",
+      "3d-face-alignment",
+      "3d-graphics",
+      "3d-mesh",
+      "3d-model",
+      "3d-models",
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "face",
+      "face-alignment",
+      "face-model",
+      "face-models",
+      "face-reconstruction",
+      "flame",
+      "flame-fitting",
+      "flame-model",
+      "morphable-model",
+      "statistical-models",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 478,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-24T13:46:15Z",
+    "UpdatedAt": "2026-04-25T18:51:33Z",
+    "Owner": "TimoBolkart",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/LongSplat",
+    "Name": "LongSplat",
+    "Url": "https://github.com/NVlabs/LongSplat",
+    "Description": "[ICCV 2025] LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos",
+    "Topics": [
+      "3d-gaussian-splatting",
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "real-time-rendering"
+    ],
+    "Language": "Python",
+    "Stars": 770,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-11T18:05:51Z",
+    "UpdatedAt": "2026-04-27T20:38:54Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ranahanocka/MeshCNN",
+    "Name": "MeshCNN",
+    "Url": "https://github.com/ranahanocka/MeshCNN",
+    "Description": "Convolutional Neural Network for 3D meshes in PyTorch",
+    "Topics": [
+      "3d",
+      "computer-graphics",
+      "convolutional-neural-networks",
+      "geometric-deep-learning",
+      "machine-learning",
+      "mesh",
+      "pytorch",
+      "segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 1727,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-06T22:48:52Z",
+    "UpdatedAt": "2026-04-26T23:29:41Z",
+    "Owner": "ranahanocka",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gradio-app/gradio",
+    "Name": "gradio",
+    "Url": "https://github.com/gradio-app/gradio",
+    "Description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "deploy",
+      "gradio",
+      "gradio-interface",
+      "interface",
+      "machine-learning",
+      "models",
+      "python",
+      "python-notebook",
+      "ui",
+      "ui-components"
+    ],
+    "Language": "Python",
+    "Stars": 42481,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T08:24:04Z",
+    "UpdatedAt": "2026-05-02T15:21:34Z",
+    "Owner": "gradio-app",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jayin92/Skyfall-GS",
+    "Name": "Skyfall-GS",
+    "Url": "https://github.com/jayin92/Skyfall-GS",
+    "Description": "Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
+    "Topics": [
+      "3d-reconstruction",
+      "3dgs",
+      "computer-graphics",
+      "computer-vision",
+      "diffusion-models",
+      "earth-observation",
+      "remote-sensing",
+      "satellite"
+    ],
+    "Language": "Python",
+    "Stars": 801,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-14T17:24:09Z",
+    "UpdatedAt": "2026-05-01T19:08:31Z",
+    "Owner": "jayin92",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tinygrad/tinygrad",
+    "Name": "tinygrad",
+    "Url": "https://github.com/tinygrad/tinygrad",
+    "Description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 32605,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-18T16:23:12Z",
+    "UpdatedAt": "2026-05-02T17:45:24Z",
+    "Owner": "tinygrad",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tencent-Hunyuan/Hunyuan3D-1",
+    "Name": "Hunyuan3D-1",
+    "Url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-1",
+    "Description": "Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation",
+    "Topics": [
+      "3d",
+      "3dgen",
+      "generation",
+      "text"
+    ],
+    "Language": "Python",
+    "Stars": 3476,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T09:04:57Z",
+    "UpdatedAt": "2026-05-01T19:08:29Z",
+    "Owner": "Tencent-Hunyuan",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ShichenLiu/SoftRas",
+    "Name": "SoftRas",
+    "Url": "https://github.com/ShichenLiu/SoftRas",
+    "Description": "Project page of paper \"Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning\"",
+    "Topics": [
+      "3d-reconstruction",
+      "computer-graphics",
+      "differentiable-rendering",
+      "geometry-processing"
+    ],
+    "Language": "Python",
+    "Stars": 1286,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-02T21:44:11Z",
+    "UpdatedAt": "2026-04-24T09:22:36Z",
+    "Owner": "ShichenLiu",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162687,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-02T17:14:31Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "clovaai/donut",
+    "Name": "donut",
+    "Url": "https://github.com/clovaai/donut",
+    "Description": "Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022",
+    "Topics": [
+      "computer-vision",
+      "document-ai",
+      "eccv-2022",
+      "multimodal-pre-trained-model",
+      "nlp",
+      "ocr"
+    ],
+    "Language": "Python",
+    "Stars": 6854,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-20T01:21:19Z",
+    "UpdatedAt": "2026-05-01T02:02:57Z",
+    "Owner": "clovaai",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KevinMusgrave/pytorch-metric-learning",
+    "Name": "pytorch-metric-learning",
+    "Url": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+    "Description": "The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.",
+    "Topics": [
+      "computer-vision",
+      "contrastive-learning",
+      "deep-learning",
+      "deep-metric-learning",
+      "embeddings",
+      "image-retrieval",
+      "machine-learning",
+      "metric-learning",
+      "pytorch",
+      "self-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 6320,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-23T17:20:35Z",
+    "UpdatedAt": "2026-05-02T00:19:18Z",
+    "Owner": "KevinMusgrave",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dmMaze/BallonsTranslator",
+    "Name": "BallonsTranslator",
+    "Url": "https://github.com/dmMaze/BallonsTranslator",
+    "Description": "深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning",
+    "Topics": [
+      "auto-translation",
+      "chinese-translation",
+      "comics",
+      "computer-aided-translation",
+      "computer-vision",
+      "deep-learning",
+      "inpainting",
+      "manga",
+      "ocr",
+      "pyqt",
+      "pyqt6",
+      "pytorch",
+      "qt",
+      "qt6",
+      "scene-text-detection"
+    ],
+    "Language": "Python",
+    "Stars": 4755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-09T13:31:52Z",
+    "UpdatedAt": "2026-05-02T17:39:34Z",
+    "Owner": "dmMaze",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apachecn/ailearning",
+    "Name": "ailearning",
+    "Url": "https://github.com/apachecn/ailearning",
+    "Description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "Topics": [
+      "adaboost",
+      "apriori",
+      "deeplearning",
+      "dnn",
+      "fp-growth",
+      "kmeans",
+      "logistic",
+      "lstm",
+      "mahchine-leaning",
+      "naivebayes",
+      "nlp",
+      "pca",
+      "python",
+      "recommendedsystem",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "sklearn",
+      "svd",
+      "svm"
+    ],
+    "Language": "Python",
+    "Stars": 42224,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-25T08:53:02Z",
+    "UpdatedAt": "2026-05-02T17:16:47Z",
+    "Owner": "apachecn",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "snap-research/CAT",
+    "Name": "CAT",
+    "Url": "https://github.com/snap-research/CAT",
+    "Description": "[CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)",
+    "Topics": [
+      "compression",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gaugan",
+      "image-to-image",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 182,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-09T19:18:29Z",
+    "UpdatedAt": "2025-12-02T07:43:53Z",
+    "Owner": "snap-research",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BMIRDS/HistoGAN",
+    "Name": "HistoGAN",
+    "Url": "https://github.com/BMIRDS/HistoGAN",
+    "Description": "Code for \"Generative Image Translation for Data Augmentation in Colorectal Histopathology Images\" full paper at ML4H Workshop at NeurIPS 2019.",
+    "Topics": [
+      "artificial-intelligence",
+      "cyclegan",
+      "data-science",
+      "gan",
+      "machine-learning",
+      "medical-image-analysis",
+      "medical-imaging"
+    ],
+    "Language": "Python",
+    "Stars": 71,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-02T13:17:38Z",
+    "UpdatedAt": "2026-02-14T19:05:21Z",
+    "Owner": "BMIRDS",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/vit-pytorch",
+    "Name": "vit-pytorch",
+    "Url": "https://github.com/lucidrains/vit-pytorch",
+    "Description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "computer-vision",
+      "image-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 25137,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T22:47:24Z",
+    "UpdatedAt": "2026-05-02T06:00:48Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "graphdeco-inria/gaussian-splatting",
+    "Name": "gaussian-splatting",
+    "Url": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "Description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "radiance-field"
+    ],
+    "Language": "Python",
+    "Stars": 21624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-04T07:51:38Z",
+    "UpdatedAt": "2026-05-02T15:01:46Z",
+    "Owner": "graphdeco-inria",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50",
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/big-sleep",
+    "Name": "big-sleep",
+    "Url": "https://github.com/lucidrains/big-sleep",
+    "Description": "A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN. Technique was originally created by https://twitter.com/advadnoun",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "generative-adversarial-networks",
+      "multimodality",
+      "text-to-image"
+    ],
+    "Language": "Python",
+    "Stars": 2568,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-18T19:35:36Z",
+    "UpdatedAt": "2026-04-29T15:57:00Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvlab-columbia/zero123",
+    "Name": "zero123",
+    "Url": "https://github.com/cvlab-columbia/zero123",
+    "Description": "Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)",
+    "Topics": [
+      "image-to-3d",
+      "novel-view-synthesis",
+      "single-view-reconstruction",
+      "stable-diffusion",
+      "zero-shot"
+    ],
+    "Language": "Python",
+    "Stars": 3047,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-17T23:23:09Z",
+    "UpdatedAt": "2026-04-30T07:42:58Z",
+    "Owner": "cvlab-columbia",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PeizhuoLi/neural-blend-shapes",
+    "Name": "neural-blend-shapes",
+    "Url": "https://github.com/PeizhuoLi/neural-blend-shapes",
+    "Description": "An end-to-end library for automatic character rigging, skinning, and blend shapes generation, as well as a visualization tool [SIGGRAPH 2021]",
+    "Topics": [
+      "character-animation",
+      "computer-animation",
+      "computer-graphics",
+      "deep-learning",
+      "rigging-framework"
+    ],
+    "Language": "Python",
+    "Stars": 700,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-05-04T05:25:28Z",
+    "UpdatedAt": "2026-04-27T01:31:54Z",
+    "Owner": "PeizhuoLi",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tinglok/CVC",
+    "Name": "CVC",
+    "Url": "https://github.com/Tinglok/CVC",
+    "Description": "CVC: Contrastive Learning for Non-parallel Voice Conversion (INTERSPEECH 2021, in PyTorch)",
+    "Topics": [
+      "contrastive-learning",
+      "cyclegan",
+      "pytorch",
+      "speech",
+      "voice-conversion"
+    ],
+    "Language": "Python",
+    "Stars": 59,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-22T06:42:27Z",
+    "UpdatedAt": "2025-10-16T19:12:49Z",
+    "Owner": "Tinglok",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VITA-Group/GAN-Slimming",
+    "Name": "GAN-Slimming",
+    "Url": "https://github.com/VITA-Group/GAN-Slimming",
+    "Description": "[ECCV 2020] \"All-in-One GAN Compression by Unified Optimization\" by Haotao Wang, Shupeng Gui, Haichuan Yang, Ji Liu, and Zhangyang Wang",
+    "Topics": [
+      "compression",
+      "cyclegan",
+      "gan",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-08T08:06:39Z",
+    "UpdatedAt": "2024-09-19T07:43:37Z",
+    "Owner": "VITA-Group",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HypoX64/DeepMosaics",
+    "Name": "DeepMosaics",
+    "Url": "https://github.com/HypoX64/DeepMosaics",
+    "Description": "Automatically remove the mosaics in images and videos, or add mosaics to them.",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "mosaic",
+      "pytorch",
+      "video-inpainting"
+    ],
+    "Language": "Python",
+    "Stars": 2580,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-05T17:25:47Z",
+    "UpdatedAt": "2026-05-02T14:16:31Z",
+    "Owner": "HypoX64",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/pix2pixHD",
+    "Name": "pix2pixHD",
+    "Url": "https://github.com/NVIDIA/pix2pixHD",
+    "Description": "Synthesizing and manipulating 2048x1024 images with conditional GANs",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "gan",
+      "generative-adversarial-network",
+      "image-to-image-translation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 6932,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-01T19:19:14Z",
+    "UpdatedAt": "2026-05-01T13:44:50Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50",
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/DALLE2-pytorch",
+    "Name": "DALLE2-pytorch",
+    "Url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "Description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "text-to-image"
+    ],
+    "Language": "Python",
+    "Stars": 11318,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-07T04:14:08Z",
+    "UpdatedAt": "2026-05-01T06:10:59Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/NeMo-Retriever",
+    "Name": "NeMo-Retriever",
+    "Url": "https://github.com/NVIDIA/NeMo-Retriever",
+    "Description": "NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2918,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-22T16:09:05Z",
+    "UpdatedAt": "2026-05-02T12:24:03Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TMElyralab/MusePose",
+    "Name": "MusePose",
+    "Url": "https://github.com/TMElyralab/MusePose",
+    "Description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2667,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-24T10:14:14Z",
+    "UpdatedAt": "2026-04-26T04:47:27Z",
+    "Owner": "TMElyralab",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-02T16:55:07Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Anjok07/ultimatevocalremovergui",
+    "Name": "ultimatevocalremovergui",
+    "Url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "Description": " GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "Topics": [
+      "audio",
+      "instrumental",
+      "karaoke",
+      "kareokee",
+      "music",
+      "pytorch",
+      "separation",
+      "source",
+      "spectrogram",
+      "vocal",
+      "vocal-remover",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 24491,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-20T21:29:01Z",
+    "UpdatedAt": "2026-05-02T15:37:38Z",
+    "Owner": "Anjok07",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dynobo/normcap",
+    "Name": "normcap",
+    "Url": "https://github.com/dynobo/normcap",
+    "Description": "OCR powered screen-capture tool to capture information instead of images",
+    "Topics": [
+      "multiplatform",
+      "ocr",
+      "python",
+      "screenshot",
+      "tesserocr",
+      "tool"
+    ],
+    "Language": "Python",
+    "Stars": 2593,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-14T18:07:03Z",
+    "UpdatedAt": "2026-05-02T14:22:17Z",
+    "Owner": "dynobo",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "katanaml/sparrow",
+    "Name": "sparrow",
+    "Url": "https://github.com/katanaml/sparrow",
+    "Description": "Structured data extraction and instruction calling with ML, LLM and Vision LLM",
+    "Topics": [
+      "computer-vision",
+      "gpt",
+      "huggingface-transformers",
+      "llm",
+      "machinelearning",
+      "nlp-machine-learning",
+      "rag",
+      "vllm"
+    ],
+    "Language": "Python",
+    "Stars": 5153,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-08T08:45:44Z",
+    "UpdatedAt": "2026-05-02T02:53:40Z",
+    "Owner": "katanaml",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GokuMohandas/Made-With-ML",
+    "Name": "Made-With-ML",
+    "Url": "https://github.com/GokuMohandas/Made-With-ML",
+    "Description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+    "Topics": [
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "distributed-ml",
+      "distributed-training",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "ray"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47473,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-05T03:44:27Z",
+    "UpdatedAt": "2026-05-02T17:27:04Z",
+    "Owner": "GokuMohandas",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "maximeraafat/BlenderNeRF",
+    "Name": "BlenderNeRF",
+    "Url": "https://github.com/maximeraafat/BlenderNeRF",
+    "Description": "Easy NeRF synthetic dataset creation within Blender",
+    "Topics": [
+      "addons",
+      "ai",
+      "blender",
+      "computer-graphics",
+      "computer-vision",
+      "gaussian-splatting",
+      "instant-ngp",
+      "nerf",
+      "neural-rendering",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 998,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-11T21:09:11Z",
+    "UpdatedAt": "2026-04-28T07:30:22Z",
+    "Owner": "maximeraafat",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Hunyuan-PromptEnhancer/PromptEnhancer",
+    "Name": "PromptEnhancer",
+    "Url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
+    "Description": "[CVPR 2026] PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation.",
+    "Topics": [
+      "hunyuan",
+      "hunyuan-image",
+      "image-editing",
+      "image-to-image",
+      "prompt",
+      "prompt-engineering",
+      "prompt-enhancer",
+      "text-to-image",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 3672,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-09T08:56:47Z",
+    "UpdatedAt": "2026-05-02T11:58:07Z",
+    "Owner": "Hunyuan-PromptEnhancer",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wuhuikai/GP-GAN",
+    "Name": "GP-GAN",
+    "Url": "https://github.com/wuhuikai/GP-GAN",
+    "Description": "Official Chainer implementation of GP-GAN: Towards Realistic High-Resolution Image Blending (ACMMM 2019, oral)",
+    "Topics": [
+      "artificial-intelligence",
+      "chainer",
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "gp-gan",
+      "image-blending",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 477,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-22T12:36:04Z",
+    "UpdatedAt": "2026-02-09T13:37:54Z",
+    "Owner": "wuhuikai",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "humphd/have-fun-with-machine-learning",
+    "Name": "have-fun-with-machine-learning",
+    "Url": "https://github.com/humphd/have-fun-with-machine-learning",
+    "Description": "An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks",
+    "Topics": [
+      "caffe",
+      "image-classification",
+      "machine-learning",
+      "neural-network",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 5115,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-29T17:43:50Z",
+    "UpdatedAt": "2026-05-01T14:02:44Z",
+    "Owner": "humphd",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yashbhalgat/HashNeRF-pytorch",
+    "Name": "HashNeRF-pytorch",
+    "Url": "https://github.com/yashbhalgat/HashNeRF-pytorch",
+    "Description": "Pure PyTorch Implementation of NVIDIA paper on Instant Training of Neural Graphics primitives: https://nvlabs.github.io/instant-ngp/",
+    "Topics": [
+      "3d-reconstruction",
+      "artificial-intelligence",
+      "computer-graphics",
+      "computer-vision",
+      "efficient-training",
+      "hashing",
+      "machine-learning",
+      "nerf",
+      "neural-network",
+      "real-time-rendering",
+      "signed-distance-functions"
+    ],
+    "Language": "Python",
+    "Stars": 1035,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-23T19:08:33Z",
+    "UpdatedAt": "2026-04-01T13:26:01Z",
+    "Owner": "yashbhalgat",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yuka-friends/Windrecorder",
+    "Name": "Windrecorder",
+    "Url": "https://github.com/yuka-friends/Windrecorder",
+    "Description": "Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, like Microsoft's Windows Recall or Rewind.",
+    "Topics": [
+      "ffmpeg",
+      "productivity",
+      "recall",
+      "rewind",
+      "search",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 3833,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-30T12:26:33Z",
+    "UpdatedAt": "2026-05-01T20:56:57Z",
+    "Owner": "yuka-friends",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/VoxCPM",
+    "Name": "VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Topics": [
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "voice-design",
+      "voxcpm"
+    ],
+    "Language": "Python",
+    "Stars": 16850,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-16T03:41:49Z",
+    "UpdatedAt": "2026-05-02T17:47:51Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/MUNIT",
+    "Name": "MUNIT",
+    "Url": "https://github.com/NVlabs/MUNIT",
+    "Description": "Multimodal Unsupervised Image-to-Image Translation",
+    "Topics": [
+      "deep-learning",
+      "gan",
+      "image-translation",
+      "munit",
+      "pix2pix"
+    ],
+    "Language": "Python",
+    "Stars": 2706,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-30T21:56:14Z",
+    "UpdatedAt": "2026-04-27T07:43:55Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pypose/pypose",
+    "Name": "pypose",
+    "Url": "https://github.com/pypose/pypose",
+    "Description": "A library for differentiable robotics on manifolds.",
+    "Topics": [
+      "autonomous-robots",
+      "computer-graphics",
+      "control",
+      "deep-learning",
+      "geometric-deep-learning",
+      "kalman-filter",
+      "learning",
+      "lie-group",
+      "optimization",
+      "physics",
+      "planning",
+      "pose-estimation",
+      "pose-graph-optimization",
+      "python",
+      "pytorch",
+      "robotics",
+      "slam"
+    ],
+    "Language": "Python",
+    "Stars": 1531,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-11-11T17:02:08Z",
+    "UpdatedAt": "2026-05-02T07:15:12Z",
+    "Owner": "pypose",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mit-han-lab/anycost-gan",
+    "Name": "anycost-gan",
+    "Url": "https://github.com/mit-han-lab/anycost-gan",
+    "Description": "[CVPR 2021] Anycost GANs for Interactive Image Synthesis and Editing",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-editing",
+      "image-generation",
+      "image-manipulation",
+      "pytorch",
+      "stylegan2"
+    ],
+    "Language": "Python",
+    "Stars": 782,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-04T05:39:06Z",
+    "UpdatedAt": "2026-04-06T05:44:10Z",
+    "Owner": "mit-han-lab",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lutzroeder/netron",
+    "Name": "netron",
+    "Url": "https://github.com/lutzroeder/netron",
+    "Description": "Visualizer for neural network, deep learning and machine learning models",
+    "Topics": [
+      "ai",
+      "coreml",
+      "deep-learning",
+      "deeplearning",
+      "keras",
+      "machine-learning",
+      "machinelearning",
+      "ml",
+      "neural-network",
+      "numpy",
+      "onnx",
+      "pytorch",
+      "safetensors",
+      "tensorflow",
+      "tensorflow-lite",
+      "visualizer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 32832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-26T12:53:43Z",
+    "UpdatedAt": "2026-05-02T16:57:46Z",
+    "Owner": "lutzroeder",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jacobgil/pytorch-grad-cam",
+    "Name": "pytorch-grad-cam",
+    "Url": "https://github.com/jacobgil/pytorch-grad-cam",
+    "Description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+    "Topics": [
+      "class-activation-maps",
+      "computer-vision",
+      "deep-learning",
+      "explainable-ai",
+      "explainable-ml",
+      "grad-cam",
+      "image-classification",
+      "interpretability",
+      "interpretable-ai",
+      "interpretable-deep-learning",
+      "machine-learning",
+      "object-detection",
+      "pytorch",
+      "score-cam",
+      "vision-transformers",
+      "visualizations",
+      "xai"
+    ],
+    "Language": "Python",
+    "Stars": 12788,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-31T19:55:15Z",
+    "UpdatedAt": "2026-05-02T14:27:16Z",
+    "Owner": "jacobgil",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pharmapsychotic/clip-interrogator",
+    "Name": "clip-interrogator",
+    "Url": "https://github.com/pharmapsychotic/clip-interrogator",
+    "Description": "Image to prompt with BLIP and CLIP",
+    "Topics": [
+      "clip",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 2956,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-09T00:31:16Z",
+    "UpdatedAt": "2026-04-28T03:58:46Z",
+    "Owner": "pharmapsychotic",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zalandoresearch/fashion-mnist",
+    "Name": "fashion-mnist",
+    "Url": "https://github.com/zalandoresearch/fashion-mnist",
+    "Description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+    "Topics": [
+      "benchmark",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "dataset",
+      "deep-learning",
+      "fashion",
+      "fashion-mnist",
+      "gan",
+      "machine-learning",
+      "mnist",
+      "zalando"
+    ],
+    "Language": "Python",
+    "Stars": 12723,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-25T12:05:15Z",
+    "UpdatedAt": "2026-05-02T16:15:44Z",
+    "Owner": "zalandoresearch",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shunsukesaito/PIFu",
+    "Name": "PIFu",
+    "Url": "https://github.com/shunsukesaito/PIFu",
+    "Description": "This repository contains the code for the paper \"PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization\"",
+    "Topics": [
+      "3d-printing",
+      "3d-reconstruction",
+      "arvr",
+      "computer-graphics",
+      "fashion",
+      "geometry-processing",
+      "human",
+      "iccv2019",
+      "pifu",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 1818,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-12T18:24:48Z",
+    "UpdatedAt": "2026-04-12T16:18:43Z",
+    "Owner": "shunsukesaito",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42401,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-02T15:14:53Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xxlong0/Wonder3D",
+    "Name": "Wonder3D",
+    "Url": "https://github.com/xxlong0/Wonder3D",
+    "Description": "Single Image to 3D using Cross-Domain Diffusion for 3D Generation",
+    "Topics": [
+      "3d-aigc",
+      "3d-generation",
+      "3dgeneration",
+      "single-image-to-3d"
+    ],
+    "Language": "Python",
+    "Stars": 5368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-14T12:18:38Z",
+    "UpdatedAt": "2026-05-02T14:43:35Z",
+    "Owner": "xxlong0",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Rubikplayer/flame-fitting",
+    "Name": "flame-fitting",
+    "Url": "https://github.com/Rubikplayer/flame-fitting",
+    "Description": "Example code for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 3D keypoints and 3D scans.",
+    "Topics": [
+      "3d-face-alignment",
+      "3d-model",
+      "3d-reconstruction",
+      "chumpy",
+      "computer-graphics",
+      "computer-vision",
+      "face",
+      "face-alignment",
+      "face-model",
+      "flame",
+      "flame-fitting",
+      "flame-model",
+      "morphable-model",
+      "smpl-x"
+    ],
+    "Language": "Python",
+    "Stars": 820,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-24T20:23:41Z",
+    "UpdatedAt": "2026-04-30T09:40:54Z",
+    "Owner": "Rubikplayer",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "znxlwm/UGATIT-pytorch",
+    "Name": "UGATIT-pytorch",
+    "Url": "https://github.com/znxlwm/UGATIT-pytorch",
+    "Description": "Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2546,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-29T07:44:56Z",
+    "UpdatedAt": "2026-04-23T08:56:41Z",
+    "Owner": "znxlwm",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/peft",
+    "Name": "peft",
+    "Url": "https://github.com/huggingface/peft",
+    "Description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "Topics": [
+      "adapter",
+      "diffusion",
+      "fine-tuning",
+      "llm",
+      "lora",
+      "parameter-efficient-learning",
+      "peft",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 21031,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-25T03:51:09Z",
+    "UpdatedAt": "2026-05-02T12:03:34Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PeterL1n/RobustVideoMatting",
+    "Name": "RobustVideoMatting",
+    "Url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "Description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "Topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "matting"
+    ],
+    "Language": "Python",
+    "Stars": 9330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-30T20:57:44Z",
+    "UpdatedAt": "2026-05-02T14:44:11Z",
+    "Owner": "PeterL1n",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bertjiazheng/Structured3D",
+    "Name": "Structured3D",
+    "Url": "https://github.com/bertjiazheng/Structured3D",
+    "Description": "[ECCV'20] Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling",
+    "Topics": [
+      "3d-reconstruction",
+      "annotations",
+      "computer-graphics",
+      "computer-vision",
+      "dataset",
+      "deep-learning",
+      "eccv",
+      "house-designs",
+      "room-layout",
+      "scene-understanding",
+      "structure-annotations"
+    ],
+    "Language": "Python",
+    "Stars": 664,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-09T10:48:43Z",
+    "UpdatedAt": "2026-04-28T21:10:59Z",
+    "Owner": "bertjiazheng",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eveningglow/multitask-CycleGAN",
+    "Name": "multitask-CycleGAN",
+    "Url": "https://github.com/eveningglow/multitask-CycleGAN",
+    "Description": "Pytorch implementation of multitask CycleGAN with auxiliary classification loss",
+    "Topics": [
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "image-translation",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 98,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-17T04:42:33Z",
+    "UpdatedAt": "2026-03-29T17:45:44Z",
+    "Owner": "eveningglow",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "amdegroot/ssd.pytorch",
+    "Name": "ssd.pytorch",
+    "Url": "https://github.com/amdegroot/ssd.pytorch",
+    "Description": "A PyTorch Implementation of Single Shot MultiBox Detector",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "image-recognition",
+      "machine-learning",
+      "object-detection",
+      "pytorch",
+      "ssd",
+      "webcam"
+    ],
+    "Language": "Python",
+    "Stars": 5234,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-08T01:50:36Z",
+    "UpdatedAt": "2026-04-23T07:15:55Z",
+    "Owner": "amdegroot",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20754,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-02T16:59:20Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZouShilong1024/CycleDiff",
+    "Name": "CycleDiff",
+    "Url": "https://github.com/ZouShilong1024/CycleDiff",
+    "Description": "Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation",
+    "Topics": [
+      "computer-vision",
+      "cross-modality-translation",
+      "cyclegan",
+      "deep-learning",
+      "diffusion-models",
+      "gan",
+      "generative-adversarial-network",
+      "image-to-image-translation",
+      "medical-image-to-image-translation",
+      "style-transfer",
+      "unpaired-image-translation"
+    ],
+    "Language": "Python",
+    "Stars": 89,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-08T16:05:23Z",
+    "UpdatedAt": "2026-04-30T06:18:02Z",
+    "Owner": "ZouShilong1024",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "YuliangXiu/ICON",
+    "Name": "ICON",
+    "Url": "https://github.com/YuliangXiu/ICON",
+    "Description": "[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals",
+    "Topics": [
+      "3d-reconstruction",
+      "animation",
+      "avatar-generator",
+      "cloth-simulation",
+      "computer-graphics",
+      "computer-vision",
+      "human-pose-estimation",
+      "implicit-functions",
+      "mesh-deformation",
+      "metaverse",
+      "normal-maps",
+      "pifu",
+      "pifuhd",
+      "pose-estimation",
+      "pytorch",
+      "smpl",
+      "smpl-body",
+      "smpl-model",
+      "smplx",
+      "virtual-humans"
+    ],
+    "Language": "Python",
+    "Stars": 1666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-11-29T20:42:47Z",
+    "UpdatedAt": "2026-04-29T08:08:52Z",
+    "Owner": "YuliangXiu",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44425,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-02T17:01:40Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pytorch/vision",
+    "Name": "vision",
+    "Url": "https://github.com/pytorch/vision",
+    "Description": "Datasets, Transforms and Models specific to Computer Vision",
+    "Topics": [
+      "computer-vision",
+      "machine-learning"
+    ],
+    "Language": "Python",
+    "Stars": 17655,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-09T23:11:43Z",
+    "UpdatedAt": "2026-05-02T13:02:07Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zc-alexfan/arctic",
+    "Name": "arctic",
+    "Url": "https://github.com/zc-alexfan/arctic",
+    "Description": "[CVPR 2023] Official repository for downloading, processing, visualizing, and training models on the ARCTIC dataset.",
+    "Topics": [
+      "3d-reconstruction",
+      "animation",
+      "artificial-intelligence",
+      "augmented-reality",
+      "awesome",
+      "awesome-list",
+      "computer-graphics",
+      "computer-vision",
+      "hand-object-interaction",
+      "hand-tracking",
+      "mano",
+      "mixed-reality",
+      "neural-networks",
+      "pose-estimation",
+      "pytorch",
+      "smplx",
+      "virtual-reality"
+    ],
+    "Language": "Python",
+    "Stars": 469,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-24T10:58:28Z",
+    "UpdatedAt": "2026-04-30T14:42:16Z",
+    "Owner": "zc-alexfan",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LCAD-UFES/publications-arruda-ijcnn-2019",
+    "Name": "publications-arruda-ijcnn-2019",
+    "Url": "https://github.com/LCAD-UFES/publications-arruda-ijcnn-2019",
+    "Description": "Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night",
+    "Topics": [
+      "cyclegan",
+      "faster-rcnn",
+      "generative-adversarial-network",
+      "object-detection",
+      "unsupervised-domain-adaptation"
+    ],
+    "Language": "Python",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-07T12:23:07Z",
+    "UpdatedAt": "2025-09-14T08:17:25Z",
+    "Owner": "LCAD-UFES",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bup/bup",
+    "Name": "bup",
+    "Url": "https://github.com/bup/bup",
+    "Description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 7316,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-03T22:51:40Z",
+    "UpdatedAt": "2026-04-30T09:02:24Z",
+    "Owner": "bup",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/pytorch-image-models",
+    "Name": "pytorch-image-models",
+    "Url": "https://github.com/huggingface/pytorch-image-models",
+    "Description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+    "Topics": [
+      "augmix",
+      "convnext",
+      "distributed-training",
+      "efficientnet",
+      "image-classification",
+      "imagenet",
+      "maxvit",
+      "mixnet",
+      "mobile-deep-learning",
+      "mobilenet-v2",
+      "mobilenetv3",
+      "nfnets",
+      "normalization-free-training",
+      "optimizer",
+      "pretrained-models",
+      "pretrained-weights",
+      "pytorch",
+      "randaugment",
+      "resnet",
+      "vision-transformer-models"
+    ],
+    "Language": "Python",
+    "Stars": 36736,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-02T05:51:12Z",
+    "UpdatedAt": "2026-05-02T09:24:02Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hardikbansal/CycleGAN",
+    "Name": "CycleGAN",
+    "Url": "https://github.com/hardikbansal/CycleGAN",
+    "Description": "Tensorflow implementation of CycleGAN",
+    "Topics": [
+      "cyclegan",
+      "generative-adversarial-network",
+      "neural-networks",
+      "paper",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 380,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-09T08:19:06Z",
+    "UpdatedAt": "2026-04-11T02:18:55Z",
+    "Owner": "hardikbansal",
+    "SourceQueries": [
+      "topic:cyclegan language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hugoycj/Instant-angelo",
+    "Name": "Instant-angelo",
+    "Url": "https://github.com/hugoycj/Instant-angelo",
+    "Description": "Instant-angelo: Build high-fidelity Digital Twin within 20 Minutes!",
+    "Topics": [
+      "3d",
+      "3d-reconstruction",
+      "computer-graphics",
+      "computer-vision",
+      "nerf"
+    ],
+    "Language": "Python",
+    "Stars": 460,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-22T02:53:17Z",
+    "UpdatedAt": "2026-04-21T04:44:17Z",
+    "Owner": "hugoycj",
+    "SourceQueries": [
+      "topic:computer-graphics language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42238,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-02T15:15:44Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "rom1504/img2dataset",
+    "Name": "img2dataset",
+    "Url": "https://github.com/rom1504/img2dataset",
+    "Description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+    "Topics": [
+      "big-data",
+      "dataset",
+      "deep-learning",
+      "download-images",
+      "image",
+      "image-dataset",
+      "multimodal"
+    ],
+    "Language": "Python",
+    "Stars": 4412,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-11T20:20:15Z",
+    "UpdatedAt": "2026-05-02T07:45:56Z",
+    "Owner": "rom1504",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rohitg00/ai-engineering-from-scratch",
+    "Name": "ai-engineering-from-scratch",
+    "Url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "Description": "Learn it. Build it. Ship it for others.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ],
+    "Language": "Python",
+    "Stars": 6133,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-18T18:38:02Z",
+    "UpdatedAt": "2026-05-02T17:47:36Z",
+    "Owner": "rohitg00",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/qlib",
+    "Name": "qlib",
+    "Url": "https://github.com/microsoft/qlib",
+    "Description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "Topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "Language": "Python",
+    "Stars": 41828,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-14T06:46:00Z",
+    "UpdatedAt": "2026-05-02T17:28:45Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenDroneMap/ODM",
+    "Name": "ODM",
+    "Url": "https://github.com/OpenDroneMap/ODM",
+    "Description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷",
+    "Topics": [
+      "aerial-imagery",
+      "drone",
+      "photogrammetry",
+      "point-cloud",
+      "structure-from-motion",
+      "uas"
+    ],
+    "Language": "Python",
+    "Stars": 6057,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-25T18:29:10Z",
+    "UpdatedAt": "2026-05-01T05:55:09Z",
+    "Owner": "OpenDroneMap",
+    "SourceQueries": [
+      "image-to-image language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-02T17:20:31Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "qubvel-org/segmentation_models.pytorch",
+    "Name": "segmentation_models.pytorch",
+    "Url": "https://github.com/qubvel-org/segmentation_models.pytorch",
+    "Description": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+    "Topics": [
+      "computer-vision",
+      "deeplab-v3-plus",
+      "deeplabv3",
+      "dpt",
+      "fpn",
+      "image-processing",
+      "image-segmentation",
+      "imagenet",
+      "models",
+      "pretrained-weights",
+      "pspnet",
+      "pytorch",
+      "segformer",
+      "segmentation",
+      "segmentation-models",
+      "semantic-segmentation",
+      "transformers",
+      "unet",
+      "unet-pytorch",
+      "unetplusplus"
+    ],
+    "Language": "Python",
+    "Stars": 11522,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-01T16:21:21Z",
+    "UpdatedAt": "2026-05-02T16:54:54Z",
+    "Owner": "qubvel-org",
+    "SourceQueries": [
+      "topic:computer-vision language:Python stars:>=50"
+    ]
+  }
+]

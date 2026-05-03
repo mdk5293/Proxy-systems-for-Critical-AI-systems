@@ -1,0 +1,6259 @@
+[
+  {
+    "FullName": "NoriSte/cypress-wait-until",
+    "Name": "cypress-wait-until",
+    "Url": "https://github.com/NoriSte/cypress-wait-until",
+    "Description": "Add the Cypress waiting power to virtually everything 🎉",
+    "Topics": [
+      "cypress",
+      "cypress-plugin",
+      "javascript",
+      "wait"
+    ],
+    "Language": "JavaScript",
+    "Stars": 699,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-27T08:27:56Z",
+    "UpdatedAt": "2026-04-01T03:55:46Z",
+    "Owner": "NoriSte",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agent-sh/agentsys",
+    "Name": "agentsys",
+    "Url": "https://github.com/agent-sh/agentsys",
+    "Description": "AI writes code. This automates everything else · 20 plugins · 49 agents · 41 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.",
+    "Topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "cli",
+      "code-review",
+      "codex",
+      "cursor",
+      "devtools",
+      "openai",
+      "opencode",
+      "plugins",
+      "productivity",
+      "skills",
+      "slash-commands",
+      "vibe-coding",
+      "workflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 776,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-15T09:33:05Z",
+    "UpdatedAt": "2026-05-02T03:18:57Z",
+    "Owner": "agent-sh",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50",
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cjo4m06/mcp-shrimp-task-manager",
+    "Name": "mcp-shrimp-task-manager",
+    "Url": "https://github.com/cjo4m06/mcp-shrimp-task-manager",
+    "Description": "Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.",
+    "Topics": [
+      "agent",
+      "ai",
+      "codeagent",
+      "coding-assistant",
+      "cursor-ai",
+      "cursorai",
+      "mcp",
+      "mcp-server",
+      "roocode",
+      "task-list",
+      "task-manager",
+      "tasks",
+      "thought-processes",
+      "windsurf",
+      "windsurf-ai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2092,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-12T08:59:07Z",
+    "UpdatedAt": "2026-05-02T14:33:05Z",
+    "Owner": "cjo4m06",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl-mcp-server",
+    "Name": "firecrawl-mcp-server",
+    "Url": "https://github.com/firecrawl/firecrawl-mcp-server",
+    "Description": "🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.",
+    "Topics": [
+      "batch-processing",
+      "claude",
+      "content-extraction",
+      "data-collection",
+      "firecrawl",
+      "firecrawl-ai",
+      "javascript-rendering",
+      "llm-tools",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "search-api",
+      "web-crawler",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6198,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-06T07:50:27Z",
+    "UpdatedAt": "2026-05-02T17:55:30Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "askalf/dario",
+    "Name": "dario",
+    "Url": "https://github.com/askalf/dario",
+    "Description": "Local LLM router. One endpoint for Claude Max/Pro, OpenAI, OpenRouter, Groq, Ollama, LiteLLM, any OpenAI-compat URL — your tools don't need to change. OAuth for Claude subscriptions, multi-account pool, MCP server. Zero runtime deps.",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "api",
+      "claude",
+      "claude-max",
+      "claude-pro",
+      "cli",
+      "developer-tools",
+      "groq",
+      "litellm",
+      "llm",
+      "llm-router",
+      "multi-provider",
+      "oauth",
+      "ollama",
+      "openai",
+      "openai-compat",
+      "openrouter",
+      "proxy"
+    ],
+    "Language": "JavaScript",
+    "Stars": 178,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-08T16:08:01Z",
+    "UpdatedAt": "2026-05-02T18:25:16Z",
+    "Owner": "askalf",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dkmaker/mcp-rest-api",
+    "Name": "mcp-rest-api",
+    "Url": "https://github.com/dkmaker/mcp-rest-api",
+    "Description": "A TypeScript-based MCP server that enables testing of REST APIs through Cline. This tool allows you to test and interact with any REST API endpoints directly from your development environment.",
+    "Topics": [
+      "anthropic",
+      "claude-code",
+      "claude-code-mcp",
+      "cline",
+      "mcp",
+      "mcp-server",
+      "mcp-servers"
+    ],
+    "Language": "JavaScript",
+    "Stars": 93,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-21T17:39:37Z",
+    "UpdatedAt": "2026-04-28T02:34:49Z",
+    "Owner": "dkmaker",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "andrepimenta/claude-code-chat",
+    "Name": "claude-code-chat",
+    "Url": "https://github.com/andrepimenta/claude-code-chat",
+    "Description": "Beautiful Claude Code Chat Interface for VS Code",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "vibe-coding",
+      "vscode",
+      "vscode-extension"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1035,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-16T16:22:55Z",
+    "UpdatedAt": "2026-05-02T18:16:20Z",
+    "Owner": "andrepimenta",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "blackjk3/react-form-builder",
+    "Name": "react-form-builder",
+    "Url": "https://github.com/blackjk3/react-form-builder",
+    "Description": "A complete react form builder that interfaces with a json endpoint to load and save generated forms. The toolbox contains 16 items for gathering data. Everything from star ratings to signature boxes!",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 657,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-21T13:22:22Z",
+    "UpdatedAt": "2026-03-24T09:33:37Z",
+    "Owner": "blackjk3",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "1337hero/faster-chat",
+    "Name": "faster-chat",
+    "Url": "https://github.com/1337hero/faster-chat",
+    "Description": "A blazingly fast, privacy first & OPEN AI Chat Interface",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "javascript",
+      "llm",
+      "llm-inference",
+      "llm-ui",
+      "ollama",
+      "ollama-gui",
+      "open-source",
+      "openai",
+      "openai-api",
+      "openapi",
+      "react",
+      "reactjs",
+      "self-hosted",
+      "tailwind",
+      "tailwindcss",
+      "vercel-ai-sdk"
+    ],
+    "Language": "JavaScript",
+    "Stars": 139,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-18T07:25:52Z",
+    "UpdatedAt": "2026-05-01T14:39:31Z",
+    "Owner": "1337hero",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jo-inc/camofox-browser",
+    "Name": "camofox-browser",
+    "Url": "https://github.com/jo-inc/camofox-browser",
+    "Description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "Topics": [
+      "ai-agent",
+      "anti-bot",
+      "antidetect-browser",
+      "automation",
+      "bot-detection",
+      "browser-automation",
+      "cloudflare-bypass",
+      "headless-browser",
+      "javascript",
+      "nodejs",
+      "playwright",
+      "puppeteer",
+      "scraping",
+      "stealth-browser",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-26T07:31:13Z",
+    "UpdatedAt": "2026-05-02T18:07:12Z",
+    "Owner": "jo-inc",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sdi2200262/agentic-project-management",
+    "Name": "agentic-project-management",
+    "Url": "https://github.com/sdi2200262/agentic-project-management",
+    "Description": "A framework for managing complex projects with spec-driven multi-agent workflows.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 2232,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-12T04:54:35Z",
+    "UpdatedAt": "2026-05-02T08:03:17Z",
+    "Owner": "sdi2200262",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-02T18:16:06Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sepivip/SeekerClaw",
+    "Name": "SeekerClaw",
+    "Url": "https://github.com/sepivip/SeekerClaw",
+    "Description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
+    "Topics": [
+      "ai-agent",
+      "android",
+      "anthropic",
+      "claude",
+      "jetpack-compose",
+      "kotlin",
+      "nodejs",
+      "openclaw",
+      "solana",
+      "telegram-bot"
+    ],
+    "Language": "JavaScript",
+    "Stars": 102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-02T18:23:20Z",
+    "UpdatedAt": "2026-05-02T14:15:30Z",
+    "Owner": "sepivip",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "EQuimper/All-About-Programming",
+    "Name": "All-About-Programming",
+    "Url": "https://github.com/EQuimper/All-About-Programming",
+    "Description": "Everything about programming!!",
+    "Topics": [
+      "article",
+      "aws-lambda",
+      "computer-science",
+      "computer-science-algorithms",
+      "css-animations",
+      "css-transitions",
+      "devtips",
+      "elixir",
+      "gcp",
+      "google-cloud",
+      "google-cloud-platform",
+      "javascript",
+      "javascript-es6",
+      "javascript-tests",
+      "javascript-tutorial",
+      "lambda-functions",
+      "programmer-tool",
+      "tutorial",
+      "tutorials"
+    ],
+    "Language": "JavaScript",
+    "Stars": 357,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-29T21:58:36Z",
+    "UpdatedAt": "2026-04-02T22:09:42Z",
+    "Owner": "EQuimper",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "touwaeriol/claude-code-plus",
+    "Name": "claude-code-plus",
+    "Url": "https://github.com/touwaeriol/claude-code-plus",
+    "Description": "🖥️ GUI Plugin for Claude Code / Codex CLI / Gemini CLI in JetBrains IDEs - Run AI coding assistants with a beautiful visual interface",
+    "Topics": [
+      "ai-assistant",
+      "anthropic",
+      "claude-ai",
+      "claude-code",
+      "codex",
+      "coding-assistant",
+      "gemini-cli",
+      "gui",
+      "intellij-idea",
+      "jetbrains-plugin",
+      "kotlin",
+      "llm"
+    ],
+    "Language": "JavaScript",
+    "Stars": 148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-13T03:32:11Z",
+    "UpdatedAt": "2026-04-29T14:10:53Z",
+    "Owner": "touwaeriol",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Community-Access/accessibility-agents",
+    "Name": "accessibility-agents",
+    "Url": "https://github.com/Community-Access/accessibility-agents",
+    "Description": "Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.",
+    "Topics": [
+      "a11y",
+      "accessibility",
+      "ai-agents",
+      "aria",
+      "assistive-technology",
+      "claude",
+      "claude-code",
+      "copilot",
+      "github-copilot",
+      "screen-reader",
+      "wcag",
+      "web-accessibility"
+    ],
+    "Language": "JavaScript",
+    "Stars": 257,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-21T00:29:08Z",
+    "UpdatedAt": "2026-05-01T08:22:48Z",
+    "Owner": "Community-Access",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50761,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-02T17:28:48Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Ceeon/videocut-skills",
+    "Name": "videocut-skills",
+    "Url": "https://github.com/Ceeon/videocut-skills",
+    "Description": "用 Claude Code Skills 做的视频剪辑 Agent",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1512,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-14T22:30:01Z",
+    "UpdatedAt": "2026-05-02T12:35:27Z",
+    "Owner": "Ceeon",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jackwener/OpenCLI",
+    "Name": "OpenCLI",
+    "Url": "https://github.com/jackwener/OpenCLI",
+    "Description": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.",
+    "Topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "cli"
+    ],
+    "Language": "JavaScript",
+    "Stars": 18495,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-14T22:10:23Z",
+    "UpdatedAt": "2026-05-02T17:51:16Z",
+    "Owner": "jackwener",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-02T18:18:05Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ComposioHQ/open-claude-cowork",
+    "Name": "open-claude-cowork",
+    "Url": "https://github.com/ComposioHQ/open-claude-cowork",
+    "Description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
+    "Topics": [
+      "aiagents",
+      "anthropic",
+      "anthropic-claude",
+      "claude-code",
+      "claude-cowork",
+      "eclectron-app",
+      "opencode",
+      "workflow-automation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4053,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-13T03:14:23Z",
+    "UpdatedAt": "2026-05-02T16:04:59Z",
+    "Owner": "ComposioHQ",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AgentDeskAI/browser-tools-mcp",
+    "Name": "browser-tools-mcp",
+    "Url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+    "Description": "Monitor browser logs directly from Cursor and other MCP compatible IDEs.",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "cursor",
+      "mcp",
+      "mcp-server"
+    ],
+    "Language": "JavaScript",
+    "Stars": 7209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-10T09:20:38Z",
+    "UpdatedAt": "2026-05-02T10:01:45Z",
+    "Owner": "AgentDeskAI",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Laumss/loominary",
+    "Name": "loominary",
+    "Url": "https://github.com/Laumss/loominary",
+    "Description": "Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep. Coming soon... ",
+    "Topics": [
+      "chat-export",
+      "chat-manager",
+      "chatgpt",
+      "claude",
+      "conversation-export",
+      "gemini",
+      "grok",
+      "notebooklm",
+      "sillytavern"
+    ],
+    "Language": "JavaScript",
+    "Stars": 436,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-21T16:01:27Z",
+    "UpdatedAt": "2026-05-01T15:48:50Z",
+    "Owner": "Laumss",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SynkraAI/aiox-core",
+    "Name": "aiox-core",
+    "Url": "https://github.com/SynkraAI/aiox-core",
+    "Description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "cli",
+      "development",
+      "framework",
+      "fullstack",
+      "nodejs",
+      "orchestration",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2799,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-09T15:19:10Z",
+    "UpdatedAt": "2026-05-02T15:56:24Z",
+    "Owner": "SynkraAI",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37950,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-02T13:34:33Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ryanschiang/claude-export",
+    "Name": "claude-export",
+    "Url": "https://github.com/ryanschiang/claude-export",
+    "Description": "Browser script to share and export Anthropic Claude chat logs to Markdown, JSON, or as Image (PNG)",
+    "Topics": [
+      "anthropic",
+      "claude",
+      "claude-3",
+      "claude-ai",
+      "claude3"
+    ],
+    "Language": "JavaScript",
+    "Stars": 166,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-19T17:53:41Z",
+    "UpdatedAt": "2026-05-01T17:47:27Z",
+    "Owner": "ryanschiang",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fbrandel/ParisHilton.js",
+    "Name": "ParisHilton.js",
+    "Url": "https://github.com/fbrandel/ParisHilton.js",
+    "Description": "\"ParisHilton.js - removes everything between the <head></head> tags.\" via https://twitter.com/iamdevloper/status/461635611141898240",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 393,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-01T13:18:07Z",
+    "UpdatedAt": "2026-04-28T11:10:11Z",
+    "Owner": "fbrandel",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "winstonjs/winston",
+    "Name": "winston",
+    "Url": "https://github.com/winstonjs/winston",
+    "Description": "A logger for just about everything.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 24436,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-29T18:49:51Z",
+    "UpdatedAt": "2026-05-02T15:00:37Z",
+    "Owner": "winstonjs",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MineDojo/Voyager",
+    "Name": "Voyager",
+    "Url": "https://github.com/MineDojo/Voyager",
+    "Description": "An Open-Ended Embodied Agent with Large Language Models",
+    "Topics": [
+      "embodied-learning",
+      "large-language-models",
+      "minecraft",
+      "open-ended-learning"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6869,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-25T18:20:15Z",
+    "UpdatedAt": "2026-05-02T10:50:02Z",
+    "Owner": "MineDojo",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43972,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-02T17:55:22Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pasky/chrome-cdp-skill",
+    "Name": "chrome-cdp-skill",
+    "Url": "https://github.com/pasky/chrome-cdp-skill",
+    "Description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 2990,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-13T00:35:39Z",
+    "UpdatedAt": "2026-05-02T16:34:21Z",
+    "Owner": "pasky",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "santifer/career-ops",
+    "Name": "career-ops",
+    "Url": "https://github.com/santifer/career-ops",
+    "Description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "Topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "career",
+      "claude",
+      "claude-code",
+      "cli",
+      "golang",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ],
+    "Language": "JavaScript",
+    "Stars": 41784,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T18:21:18Z",
+    "UpdatedAt": "2026-05-02T18:23:15Z",
+    "Owner": "santifer",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 61846,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-02T18:27:06Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shinpr/claude-code-workflows",
+    "Name": "claude-code-workflows",
+    "Url": "https://github.com/shinpr/claude-code-workflows",
+    "Description": "Production-ready development workflows for Claude Code, powered by specialized AI agents.",
+    "Topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "claude-code-plugin",
+      "code-quality",
+      "developer-tools",
+      "development-workflow",
+      "llm-orchestration",
+      "productivity",
+      "prompt-engineering",
+      "skills"
+    ],
+    "Language": "JavaScript",
+    "Stars": 327,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-10T10:11:27Z",
+    "UpdatedAt": "2026-05-02T16:54:18Z",
+    "Owner": "shinpr",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rohitg00/pro-workflow",
+    "Name": "pro-workflow",
+    "Url": "https://github.com/rohitg00/pro-workflow",
+    "Description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
+    "Topics": [
+      "agent-orchestration",
+      "ai-agents",
+      "ai-coding",
+      "ai-workflow",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "claude-skills",
+      "codex",
+      "context-engineering",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "hooks",
+      "productivity",
+      "self-correction",
+      "workflow",
+      "worktrees"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2040,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T19:47:29Z",
+    "UpdatedAt": "2026-05-02T14:34:18Z",
+    "Owner": "rohitg00",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "node-modules/compressing",
+    "Name": "compressing",
+    "Url": "https://github.com/node-modules/compressing",
+    "Description": "Everything you need for compressing and uncompressing",
+    "Topics": [
+      "compressed-files",
+      "filestream",
+      "gzip",
+      "stream",
+      "tar",
+      "tgz"
+    ],
+    "Language": "JavaScript",
+    "Stars": 456,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-14T08:37:34Z",
+    "UpdatedAt": "2026-04-21T09:39:30Z",
+    "Owner": "node-modules",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HelloRuru/claude-memory-engine",
+    "Name": "claude-memory-engine",
+    "Url": "https://github.com/HelloRuru/claude-memory-engine",
+    "Description": "Claude Code 的記憶系統 | A memory system built with hooks + markdown. Zero dependencies.",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "ai-tools",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-memory",
+      "claude-skills",
+      "long-term-memory",
+      "memory-engine"
+    ],
+    "Language": "JavaScript",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-07T05:07:00Z",
+    "UpdatedAt": "2026-04-30T15:22:11Z",
+    "Owner": "HelloRuru",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jarrodwatts/claude-hud",
+    "Name": "claude-hud",
+    "Url": "https://github.com/jarrodwatts/claude-hud",
+    "Description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "Topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "plugin",
+      "statusline",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 21492,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-02T01:35:07Z",
+    "UpdatedAt": "2026-05-02T18:06:33Z",
+    "Owner": "jarrodwatts",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "covibes/zeroshot",
+    "Name": "zeroshot",
+    "Url": "https://github.com/covibes/zeroshot",
+    "Description": "Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.",
+    "Topics": [
+      "agent-orchestration",
+      "agentic-workflow",
+      "ai-agent",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "cli",
+      "codex",
+      "coding-assistant",
+      "developer-tools",
+      "gemini",
+      "generative-ai",
+      "github-automation",
+      "llm",
+      "llm-ops",
+      "llm-tools",
+      "multi-agent",
+      "vibecoding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1448,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-25T17:12:45Z",
+    "UpdatedAt": "2026-05-01T23:45:41Z",
+    "Owner": "covibes",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "adoslabsproject-gif/nothumanallowed",
+    "Name": "nothumanallowed",
+    "Url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+    "Description": "Security-first platform for AI agents. 38 specialized agents, 15 AI-powered extensions, zero-knowledge multi-agent orchestration. SENTINEL WAF, Ed25519 auth, 2.6M grounding facts.",
+    "Topics": [
+      "agent",
+      "agentai",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "cli",
+      "consensus",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "mcp-server",
+      "multi-agent",
+      "nodejs",
+      "onnx",
+      "openai",
+      "orchestration",
+      "security",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 81,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-07T12:19:18Z",
+    "UpdatedAt": "2026-05-02T16:55:41Z",
+    "Owner": "adoslabsproject-gif",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BerriAI/litellm",
+    "Name": "litellm",
+    "Url": "https://github.com/BerriAI/litellm",
+    "Description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "Topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "Language": "Python",
+    "Stars": 45486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-27T00:09:52Z",
+    "UpdatedAt": "2026-05-02T18:18:49Z",
+    "Owner": "BerriAI",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hexdocom/lemonai",
+    "Name": "lemonai",
+    "Url": "https://github.com/hexdocom/lemonai",
+    "Description": "Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_cc",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "desktop",
+      "fullstack",
+      "genspark",
+      "javascript",
+      "llm",
+      "manus",
+      "nodejs",
+      "vue3"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1510,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-27T03:47:47Z",
+    "UpdatedAt": "2026-05-01T18:07:05Z",
+    "Owner": "hexdocom",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33672,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-02T18:00:33Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mudler/LocalAI",
+    "Name": "LocalAI",
+    "Url": "https://github.com/mudler/LocalAI",
+    "Description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "Topics": [
+      "agents",
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ],
+    "Language": "Go",
+    "Stars": 46010,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-18T22:58:02Z",
+    "UpdatedAt": "2026-05-02T17:55:14Z",
+    "Owner": "mudler",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Anil-matcha/Open-Poe-AI",
+    "Name": "Open-Poe-AI",
+    "Url": "https://github.com/Anil-matcha/Open-Poe-AI",
+    "Description": "Open-source self-hosted alternative to Poe AI — chat with GPT, Claude, Gemini, Llama and other LLMs from a single interface. Bring your own API keys.",
+    "Topics": [
+      "ai-chatbot",
+      "anthropic",
+      "chat-ui",
+      "chatbot",
+      "claude",
+      "gemini",
+      "llm",
+      "llm-aggregator",
+      "multi-model",
+      "ollama",
+      "open-source",
+      "openai",
+      "poe",
+      "poe-alternative",
+      "self-hosted",
+      "selfhosted"
+    ],
+    "Language": "JavaScript",
+    "Stars": 225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-16T13:25:24Z",
+    "UpdatedAt": "2026-04-30T03:36:31Z",
+    "Owner": "Anil-matcha",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "popup-studio-ai/bkit-claude-code",
+    "Name": "bkit-claude-code",
+    "Url": "https://github.com/popup-studio-ai/bkit-claude-code",
+    "Description": "bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development",
+    "Topics": [
+      "ai-agents",
+      "ai-driven-work",
+      "ai-native-development",
+      "bkit",
+      "claude-code",
+      "multi-language",
+      "pdca",
+      "pipeline",
+      "plugin-repo"
+    ],
+    "Language": "JavaScript",
+    "Stars": 525,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-09T06:25:08Z",
+    "UpdatedAt": "2026-05-02T12:57:22Z",
+    "Owner": "popup-studio-ai",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "verbose/verb",
+    "Name": "verb",
+    "Url": "https://github.com/verbose/verb",
+    "Description": "HEADS UP! Verb is going though a major transition, we've completely refactored everything from the ground up. If you're interested, please see the dev branch.",
+    "Topics": [
+      "api",
+      "docs",
+      "documentation",
+      "generator",
+      "markdown"
+    ],
+    "Language": "JavaScript",
+    "Stars": 484,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-02-16T20:39:14Z",
+    "UpdatedAt": "2025-07-09T07:51:33Z",
+    "Owner": "verbose",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thieman/github-selfies",
+    "Name": "github-selfies",
+    "Url": "https://github.com/thieman/github-selfies",
+    "Description": "Everything is better with selfies. Yes, even pull requests. Trust me.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1184,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-08T21:34:06Z",
+    "UpdatedAt": "2026-04-27T02:13:55Z",
+    "Owner": "thieman",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "steipete/claude-code-mcp",
+    "Name": "claude-code-mcp",
+    "Url": "https://github.com/steipete/claude-code-mcp",
+    "Description": "Claude Code as one-shot MCP server to have an agent in your agent.",
+    "Topics": [
+      "agent",
+      "claude",
+      "mcp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1269,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-13T00:11:27Z",
+    "UpdatedAt": "2026-05-02T16:15:03Z",
+    "Owner": "steipete",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pguso/ai-agents-from-scratch",
+    "Name": "ai-agents-from-scratch",
+    "Url": "https://github.com/pguso/ai-agents-from-scratch",
+    "Description": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns.",
+    "Topics": [
+      "ai-agents",
+      "educational",
+      "function-calling",
+      "llm",
+      "llm-agent",
+      "node-llama-cpp",
+      "react-agent",
+      "tutorial"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3459,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-23T19:39:04Z",
+    "UpdatedAt": "2026-05-02T08:51:45Z",
+    "Owner": "pguso",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xu-xiang/everything-claude-code-zh",
+    "Name": "everything-claude-code-zh",
+    "Url": "https://github.com/xu-xiang/everything-claude-code-zh",
+    "Description": "everything-claude-code 中文翻译项目：完整的 Claude Code 配置集合（agents, skills, hooks, commands, rules, MCPs）。源自 Anthropic 黑客松获胜者的实战配置，助力中文工程师高效理解与使用 Claude Code。",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "everything-claude-code",
+      "llm",
+      "mcp",
+      "oneskill",
+      "productivity"
+    ],
+    "Language": "JavaScript",
+    "Stars": 497,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-27T14:46:32Z",
+    "UpdatedAt": "2026-05-02T13:10:03Z",
+    "Owner": "xu-xiang",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50",
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "0xranx/OpenContext",
+    "Name": "OpenContext",
+    "Url": "https://github.com/0xranx/OpenContext",
+    "Description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
+    "Topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "context",
+      "context-management",
+      "cursor",
+      "desktop-app",
+      "developer-tools",
+      "knowledge-base",
+      "mcp",
+      "opencode",
+      "tauri"
+    ],
+    "Language": "JavaScript",
+    "Stars": 563,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-17T09:05:19Z",
+    "UpdatedAt": "2026-05-02T02:23:55Z",
+    "Owner": "0xranx",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatbotkit/node-sdk",
+    "Name": "node-sdk",
+    "Url": "https://github.com/chatbotkit/node-sdk",
+    "Description": "The ChatBotKit Node SDK offers a JavaScript-based platform for effortlessly building conversational AI bots and agents.",
+    "Topics": [
+      "agents",
+      "ai",
+      "anthropic",
+      "chatbotkit",
+      "generative-ai",
+      "generative-ui",
+      "mistral",
+      "nextjs",
+      "nodejs",
+      "openai",
+      "rag",
+      "reactjs",
+      "sdk"
+    ],
+    "Language": "JavaScript",
+    "Stars": 72,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-15T07:31:17Z",
+    "UpdatedAt": "2026-05-02T15:33:41Z",
+    "Owner": "chatbotkit",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "greenpolo/cc-multi-cli-plugin",
+    "Name": "cc-multi-cli-plugin",
+    "Url": "https://github.com/greenpolo/cc-multi-cli-plugin",
+    "Description": "Claude Code plugin: delegate to Codex, Gemini, Cursor, GitHub Copilot, and Qwen CLIs via their native protocols (ACP, ASP). Use /gemini:research, /cursor:debug, /codex:execute, /copilot:review and more — Claude can also auto-dispatch.",
+    "Topics": [
+      "acp",
+      "agent-client-protocol",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "claude-code-plugin",
+      "codex",
+      "copilot",
+      "cursor",
+      "gemini",
+      "multi-cli",
+      "qwen"
+    ],
+    "Language": "JavaScript",
+    "Stars": 68,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T00:00:05Z",
+    "UpdatedAt": "2026-05-02T03:27:40Z",
+    "Owner": "greenpolo",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langgenius/dify",
+    "Name": "dify",
+    "Url": "https://github.com/langgenius/dify",
+    "Description": "Production-ready platform for agentic workflow development.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "Language": "TypeScript",
+    "Stars": 139873,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T07:40:24Z",
+    "UpdatedAt": "2026-05-02T18:26:42Z",
+    "Owner": "langgenius",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "fengari-lua/fengari-web",
+    "Name": "fengari-web",
+    "Url": "https://github.com/fengari-lua/fengari-web",
+    "Description": "Provides everything you need to run Fengari in the browser.",
+    "Topics": [
+      "fengari",
+      "html",
+      "lua"
+    ],
+    "Language": "JavaScript",
+    "Stars": 293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-14T10:15:18Z",
+    "UpdatedAt": "2026-04-26T21:39:19Z",
+    "Owner": "fengari-lua",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "johnzfitch/claude-cowork-linux",
+    "Name": "claude-cowork-linux",
+    "Url": "https://github.com/johnzfitch/claude-cowork-linux",
+    "Description": "Run Claude Desktop’s Cowork mode natively on Linux — no macOS or VM required",
+    "Topics": [
+      "anthropic",
+      "arch",
+      "claude",
+      "code",
+      "cowork",
+      "debian",
+      "desktop",
+      "linux"
+    ],
+    "Language": "JavaScript",
+    "Stars": 258,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-14T13:08:48Z",
+    "UpdatedAt": "2026-05-02T07:07:29Z",
+    "Owner": "johnzfitch",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MaskerPRC/everything-ai-chat",
+    "Name": "everything-ai-chat",
+    "Url": "https://github.com/MaskerPRC/everything-ai-chat",
+    "Description": "一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 726,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-29T20:51:17Z",
+    "UpdatedAt": "2026-05-02T12:22:20Z",
+    "Owner": "MaskerPRC",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browserable/browserable",
+    "Name": "browserable",
+    "Url": "https://github.com/browserable/browserable",
+    "Description": "Open source and self-hostable browser automation library for AI agents",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "browser-use-js",
+      "deep-research",
+      "javascript",
+      "llm",
+      "playwright"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1182,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-07T16:04:36Z",
+    "UpdatedAt": "2026-04-30T20:48:23Z",
+    "Owner": "browserable",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Mintplex-Labs/anything-llm",
+    "Name": "anything-llm",
+    "Url": "https://github.com/Mintplex-Labs/anything-llm",
+    "Description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "Topics": [
+      "ai-agents",
+      "custom-ai-agents",
+      "deepseek",
+      "kimi",
+      "llama3",
+      "llm",
+      "lmstudio",
+      "local-llm",
+      "localai",
+      "mcp",
+      "mcp-servers",
+      "moonshot",
+      "multimodal",
+      "no-code",
+      "ollama",
+      "qwen3",
+      "rag",
+      "vector-database",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 59413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-04T02:29:14Z",
+    "UpdatedAt": "2026-05-02T18:10:23Z",
+    "Owner": "Mintplex-Labs",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "noraj/rawsec-cybersecurity-inventory",
+    "Name": "rawsec-cybersecurity-inventory",
+    "Url": "https://github.com/noraj/rawsec-cybersecurity-inventory",
+    "Description": "An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity.",
+    "Topics": [
+      "cyber",
+      "cyber-security",
+      "cyberdefense",
+      "cybersecurity",
+      "hacktoberfest",
+      "infosec",
+      "inventory",
+      "ressources",
+      "security",
+      "security-tools",
+      "tools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 335,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-19T08:24:01Z",
+    "UpdatedAt": "2026-04-29T01:41:12Z",
+    "Owner": "noraj",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/MetaGPT",
+    "Name": "MetaGPT",
+    "Url": "https://github.com/FoundationAgents/MetaGPT",
+    "Description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "Language": "Python",
+    "Stars": 67634,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-30T09:04:55Z",
+    "UpdatedAt": "2026-05-02T18:14:09Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Snowflake-Labs/cocoplus",
+    "Name": "cocoplus",
+    "Url": "https://github.com/Snowflake-Labs/cocoplus",
+    "Description": "CocoPlus is an AI-powered development lifecycle plugin for the Snowflake Cortex Code CLI. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec, plan, build, test, review, and ship phases.",
+    "Topics": [
+      "agents",
+      "agentskills",
+      "cortex",
+      "cortexai",
+      "llm",
+      "snowflake"
+    ],
+    "Language": "JavaScript",
+    "Stars": 579,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-08T04:07:51Z",
+    "UpdatedAt": "2026-05-01T05:41:34Z",
+    "Owner": "Snowflake-Labs",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "brightdata/brightdata-mcp",
+    "Name": "brightdata-mcp",
+    "Url": "https://github.com/brightdata/brightdata-mcp",
+    "Description": "A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.",
+    "Topics": [
+      "ai-agents",
+      "ai-integrations",
+      "anti-bot-detection",
+      "browser-automation",
+      "data-collection",
+      "data-extraction",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "modelcontextprotocol",
+      "scraping",
+      "scraping-tools",
+      "structured-data",
+      "web-crawling",
+      "web-data",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2336,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-15T10:55:56Z",
+    "UpdatedAt": "2026-05-01T21:33:04Z",
+    "Owner": "brightdata",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Explosion-Scratch/claude-unofficial-api",
+    "Name": "claude-unofficial-api",
+    "Url": "https://github.com/Explosion-Scratch/claude-unofficial-api",
+    "Description": "Unofficial API for Claude-2 via Claude Web (Also CLI)",
+    "Topics": [
+      "api",
+      "claude",
+      "cli",
+      "gpt",
+      "llm",
+      "node",
+      "unofficial"
+    ],
+    "Language": "JavaScript",
+    "Stars": 743,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-13T20:07:11Z",
+    "UpdatedAt": "2026-04-25T14:04:43Z",
+    "Owner": "Explosion-Scratch",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HughYau/qiushi-skill",
+    "Name": "qiushi-skill",
+    "Url": "https://github.com/HughYau/qiushi-skill",
+    "Description": "求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done.",
+    "Topics": [
+      "ai-agents",
+      "methodology",
+      "skills",
+      "workflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2980,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-25T10:24:01Z",
+    "UpdatedAt": "2026-05-02T17:07:14Z",
+    "Owner": "HughYau",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "InverseUI/InverseUI-Recorder",
+    "Name": "InverseUI-Recorder",
+    "Url": "https://github.com/InverseUI/InverseUI-Recorder",
+    "Description": "Intent-based UI automation that runs locally. Record real workflows, generate reusable scripts, and safely use local credentials and files.",
+    "Topics": [
+      "claude",
+      "code-generation",
+      "playwright",
+      "selenium"
+    ],
+    "Language": "JavaScript",
+    "Stars": 334,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T00:40:39Z",
+    "UpdatedAt": "2026-04-03T05:17:55Z",
+    "Owner": "InverseUI",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "run-llama/llama_index",
+    "Name": "llama_index",
+    "Url": "https://github.com/run-llama/llama_index",
+    "Description": "LlamaIndex is the leading document agent and OCR platform",
+    "Topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 49099,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-02T04:24:54Z",
+    "UpdatedAt": "2026-05-02T18:17:25Z",
+    "Owner": "run-llama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "muaz-khan/WebRTC-Experiment",
+    "Name": "WebRTC-Experiment",
+    "Url": "https://github.com/muaz-khan/WebRTC-Experiment",
+    "Description": "WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!",
+    "Topics": [
+      "webrtc",
+      "webrtc-demos",
+      "webrtc-examples",
+      "webrtc-experiments",
+      "webrtc-libraries",
+      "webrtc-samples",
+      "webrtc-tools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12047,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-11-14T05:53:13Z",
+    "UpdatedAt": "2026-04-29T13:52:07Z",
+    "Owner": "muaz-khan",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/AgentVerse",
+    "Name": "AgentVerse",
+    "Url": "https://github.com/OpenBMB/AgentVerse",
+    "Description": "🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation",
+    "Topics": [
+      "agent",
+      "ai",
+      "gpt",
+      "gpt-4",
+      "llm"
+    ],
+    "Language": "JavaScript",
+    "Stars": 5028,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-06T01:43:19Z",
+    "UpdatedAt": "2026-05-02T03:29:27Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NYCU-Chung/my-claude-devteam",
+    "Name": "my-claude-devteam",
+    "Url": "https://github.com/NYCU-Chung/my-claude-devteam",
+    "Description": "An engineering team in a box for Claude Code — 12 specialized agents, 15 automation hooks, and the P7/P9/P10 methodology.",
+    "Topics": [
+      "ai-agents",
+      "ai-coding",
+      "automation",
+      "claude",
+      "claude-code",
+      "code-review",
+      "dev-team",
+      "developer-tools",
+      "hooks",
+      "methodology",
+      "plugin",
+      "subagents"
+    ],
+    "Language": "JavaScript",
+    "Stars": 262,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-11T07:16:14Z",
+    "UpdatedAt": "2026-04-29T14:31:42Z",
+    "Owner": "NYCU-Chung",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "karanb192/claude-code-hooks",
+    "Name": "claude-code-hooks",
+    "Url": "https://github.com/karanb192/claude-code-hooks",
+    "Description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.",
+    "Topics": [
+      "ai-tools",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "cli",
+      "developer-tools",
+      "hooks",
+      "notifications",
+      "security"
+    ],
+    "Language": "JavaScript",
+    "Stars": 367,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-24T18:58:55Z",
+    "UpdatedAt": "2026-04-30T16:01:14Z",
+    "Owner": "karanb192",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "J-Pster/Psters_AI_Workflow",
+    "Name": "Psters_AI_Workflow",
+    "Url": "https://github.com/J-Pster/Psters_AI_Workflow",
+    "Description": "An auto-documenting, model-agnostic AI workflow for any project, framework, and language. It reduces hallucination and keeps delivery predictable: the developer controls the path, AI executes the steps, and project standards stay consistent.",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "workflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 287,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-16T20:55:01Z",
+    "UpdatedAt": "2026-04-27T17:50:47Z",
+    "Owner": "J-Pster",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pguso/rag-from-scratch",
+    "Name": "rag-from-scratch",
+    "Url": "https://github.com/pguso/rag-from-scratch",
+    "Description": "Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.",
+    "Topics": [
+      "agents",
+      "ai-agents",
+      "educational",
+      "llm",
+      "node-llama-cpp",
+      "nodejs",
+      "rag",
+      "rag-chatbot",
+      "rag-pipeline",
+      "tutorial"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1389,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-27T16:19:58Z",
+    "UpdatedAt": "2026-04-29T11:12:35Z",
+    "Owner": "pguso",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "liyupi/ai-guide",
+    "Name": "ai-guide",
+    "Url": "https://github.com/liyupi/ai-guide",
+    "Description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
+    "Topics": [
+      "ai",
+      "algorithm",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude",
+      "cursor",
+      "deep-learning",
+      "deepseek",
+      "gemini",
+      "generative-ai",
+      "gpt",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "rag",
+      "vibe-coding",
+      "vibecoding",
+      "vue",
+      "vuepress"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12936,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-13T05:47:46Z",
+    "UpdatedAt": "2026-05-02T17:36:27Z",
+    "Owner": "liyupi",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "avivl/claude-007-agents",
+    "Name": "claude-007-agents",
+    "Url": "https://github.com/avivl/claude-007-agents",
+    "Description": " 🤖 A unified AI agent orchestration system featuring 10's of specialized agents across 14 categories for modern software development. Built with advanced coordination intelligence, resilience engineering, and structured logging   capabilities.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claudecode-subagents",
+      "sub-agents",
+      "subagents"
+    ],
+    "Language": "JavaScript",
+    "Stars": 256,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-30T13:20:38Z",
+    "UpdatedAt": "2026-05-01T19:22:50Z",
+    "Owner": "avivl",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yoshiko-pg/o3-search-mcp",
+    "Name": "o3-search-mcp",
+    "Url": "https://github.com/yoshiko-pg/o3-search-mcp",
+    "Description": "MCP server for OpenAI o3 web search",
+    "Topics": [
+      "ai",
+      "claude",
+      "llm",
+      "o3",
+      "search"
+    ],
+    "Language": "JavaScript",
+    "Stars": 286,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-27T12:29:51Z",
+    "UpdatedAt": "2026-02-08T12:54:05Z",
+    "Owner": "yoshiko-pg",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datawhalechina/hello-agents",
+    "Name": "hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "Topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 42224,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-07T09:50:24Z",
+    "UpdatedAt": "2026-05-02T18:04:09Z",
+    "Owner": "datawhalechina",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "upstash/context7",
+    "Name": "context7",
+    "Url": "https://github.com/upstash/context7",
+    "Description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "Topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "Language": "TypeScript",
+    "Stars": 54293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-26T23:40:39Z",
+    "UpdatedAt": "2026-05-02T18:22:27Z",
+    "Owner": "upstash",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Evol-ai/SkillCompass",
+    "Name": "SkillCompass",
+    "Url": "https://github.com/Evol-ai/SkillCompass",
+    "Description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
+    "Topics": [
+      "agent-skills",
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "claude-code-skill",
+      "openclaw",
+      "openclaw-skill",
+      "skill-evaluation",
+      "skill-rating"
+    ],
+    "Language": "JavaScript",
+    "Stars": 206,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-19T13:41:19Z",
+    "UpdatedAt": "2026-04-30T07:47:01Z",
+    "Owner": "Evol-ai",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "josstei/maestro-orchestrate",
+    "Name": "maestro-orchestrate",
+    "Url": "https://github.com/josstei/maestro-orchestrate",
+    "Description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
+    "Topics": [
+      "agentic",
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "code-review",
+      "codex-cli",
+      "codex-plugin",
+      "developer-tools",
+      "gemini",
+      "gemini-cli",
+      "gemini-cli-extension",
+      "gemini-extension",
+      "multi-agent",
+      "openai-codex",
+      "orchestration",
+      "qwen",
+      "qwen-code",
+      "subagents"
+    ],
+    "Language": "JavaScript",
+    "Stars": 392,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-09T06:49:37Z",
+    "UpdatedAt": "2026-05-02T11:04:31Z",
+    "Owner": "josstei",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jontsai/openclaw-command-center",
+    "Name": "openclaw-command-center",
+    "Url": "https://github.com/jontsai/openclaw-command-center",
+    "Description": "🤖 AI assistant command and control dashboard — Spawn more Overlords!",
+    "Topics": [
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "dashboard",
+      "llama",
+      "llm",
+      "monitoring",
+      "nextjs",
+      "ollama",
+      "openai",
+      "openclaw",
+      "personal-assistant",
+      "qwen",
+      "slack",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-29T10:08:35Z",
+    "UpdatedAt": "2026-04-30T15:02:57Z",
+    "Owner": "jontsai",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rullerzhou-afk/clawd-on-desk",
+    "Name": "clawd-on-desk",
+    "Url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+    "Description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
+    "Topics": [
+      "claude-code",
+      "codex",
+      "copilot",
+      "cursor",
+      "desktop-pet",
+      "electron",
+      "gemini",
+      "pixel-art",
+      "svg-animation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2025,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-18T09:04:20Z",
+    "UpdatedAt": "2026-05-02T17:23:39Z",
+    "Owner": "rullerzhou-afk",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "outsourc-e/hermes-workspace",
+    "Name": "hermes-workspace",
+    "Url": "https://github.com/outsourc-e/hermes-workspace",
+    "Description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+    "Topics": [
+      "agent-ui",
+      "ai-workspace",
+      "hackathon",
+      "hermes-agent",
+      "nous-research",
+      "react",
+      "typescript"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2908,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-16T03:53:28Z",
+    "UpdatedAt": "2026-05-02T18:07:32Z",
+    "Owner": "outsourc-e",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huangjia2019/claude-code-engineering",
+    "Name": "claude-code-engineering",
+    "Url": "https://github.com/huangjia2019/claude-code-engineering",
+    "Description": "This repository demonstrates how to use Claude Code to do real engineering work, not just writing code.  本项目是极客时间专栏 《Claude Code 工程化实战》 的官方配套示例仓库，目标很明确： 👉 把 Claude Code 从“对话式编码工具”，变成 可设计、可复用、可治理的工程系统。",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-skills"
+    ],
+    "Language": "JavaScript",
+    "Stars": 561,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-25T09:16:28Z",
+    "UpdatedAt": "2026-05-02T16:09:16Z",
+    "Owner": "huangjia2019",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135634,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-02T18:11:52Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Webba-Creative-Technologies/vice",
+    "Name": "vice",
+    "Url": "https://github.com/Webba-Creative-Technologies/vice",
+    "Description": "VICE is a security auditing CLI tool that finds vulnerabilities in your web applications.",
+    "Topics": [
+      "ai-agents",
+      "security",
+      "security-tools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 334,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-30T00:44:25Z",
+    "UpdatedAt": "2026-05-02T17:19:17Z",
+    "Owner": "Webba-Creative-Technologies",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Piebald-AI/claude-code-system-prompts",
+    "Name": "claude-code-system-prompts",
+    "Url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+    "Description": "All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, security review, agent creation).  Updated for each Claude Code version.",
+    "Topics": [
+      "claude-code",
+      "claude-code-system-prompts",
+      "system-prompts"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9838,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-18T21:26:33Z",
+    "UpdatedAt": "2026-05-02T17:57:09Z",
+    "Owner": "Piebald-AI",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mcpware/cross-code-organizer",
+    "Name": "cross-code-organizer",
+    "Url": "https://github.com/mcpware/cross-code-organizer",
+    "Description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.",
+    "Topics": [
+      "ai-coding-tools",
+      "ai-config-dashboard",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "claude-code-organizer",
+      "claude-code-plugin",
+      "claude-memory",
+      "claude-skills",
+      "codex-cli",
+      "context-budget",
+      "cross-code-organizer",
+      "cross-harness",
+      "dashboard",
+      "mcp",
+      "mcp-security",
+      "mcp-server",
+      "model-context-protocol",
+      "security-scanner",
+      "tool-poisoning"
+    ],
+    "Language": "JavaScript",
+    "Stars": 296,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-18T21:50:10Z",
+    "UpdatedAt": "2026-05-01T11:38:53Z",
+    "Owner": "mcpware",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "koenbok/Framer",
+    "Name": "Framer",
+    "Url": "https://github.com/koenbok/Framer",
+    "Description": "Framer - Design Everything",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 5876,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-20T23:45:30Z",
+    "UpdatedAt": "2026-04-30T13:01:37Z",
+    "Owner": "koenbok",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agarwalvishal/claude-chat-exporter",
+    "Name": "claude-chat-exporter",
+    "Url": "https://github.com/agarwalvishal/claude-chat-exporter",
+    "Description": "Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.",
+    "Topics": [
+      "chat",
+      "chatexporter",
+      "claude",
+      "claude-ai",
+      "conversation",
+      "conversational-ai",
+      "export",
+      "html-to-markdown",
+      "markdown"
+    ],
+    "Language": "JavaScript",
+    "Stars": 435,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-10T17:45:18Z",
+    "UpdatedAt": "2026-05-02T12:04:21Z",
+    "Owner": "agarwalvishal",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "superbasicstudio/claude-conductor",
+    "Name": "claude-conductor",
+    "Url": "https://github.com/superbasicstudio/claude-conductor",
+    "Description": "Claude Conductor - a simple Claude Code framework",
+    "Topics": [
+      "aiframework",
+      "automation",
+      "claude",
+      "claude-code",
+      "claudecode",
+      "framework",
+      "vibecoding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 347,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-14T19:20:32Z",
+    "UpdatedAt": "2026-05-01T01:12:27Z",
+    "Owner": "superbasicstudio",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lioensky/VCPToolBox",
+    "Name": "VCPToolBox",
+    "Url": "https://github.com/lioensky/VCPToolBox",
+    "Description": "VCP 部署在 AI 模型 API 与前端应用之间，通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1994,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-12T13:51:06Z",
+    "UpdatedAt": "2026-05-02T17:20:46Z",
+    "Owner": "lioensky",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63462,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-02T17:59:03Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vercel-labs/agent-skills",
+    "Name": "agent-skills",
+    "Url": "https://github.com/vercel-labs/agent-skills",
+    "Description": "Vercel's official collection of agent skills",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 26046,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-08T19:10:06Z",
+    "UpdatedAt": "2026-05-02T17:01:52Z",
+    "Owner": "vercel-labs",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ucsandman/DashClaw",
+    "Name": "DashClaw",
+    "Url": "https://github.com/ucsandman/DashClaw",
+    "Description": "🛡️Decision infrastructure for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-ready decision trails.",
+    "Topics": [
+      "agent-framework",
+      "agent-governance",
+      "agent-runtime",
+      "ai-agents",
+      "ai-infrastructure",
+      "ai-ops",
+      "autogen",
+      "crew-ai",
+      "decision-engine",
+      "developer-tools",
+      "hermes",
+      "langchain",
+      "openclaw"
+    ],
+    "Language": "JavaScript",
+    "Stars": 249,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-08T02:34:15Z",
+    "UpdatedAt": "2026-05-01T20:25:12Z",
+    "Owner": "ucsandman",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91824,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-02T15:32:05Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "papersgpt/papersgpt-for-zotero",
+    "Name": "papersgpt-for-zotero",
+    "Url": "https://github.com/papersgpt/papersgpt-for-zotero",
+    "Description": "A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.1, Claude, DeepSeek V4, Grok, OpenRouter, Kimi 2.5, GLM 5, SiliconFlow, GPT-oss, Gemma 4, Qwen 3.5",
+    "Topics": [
+      "ai",
+      "chat",
+      "chatgpt",
+      "claude",
+      "deepresearch",
+      "deepseek",
+      "gemini",
+      "gemma4",
+      "gpt-5",
+      "gpt-oss",
+      "hermes",
+      "kimi",
+      "llama",
+      "mcp",
+      "mistral",
+      "openclaw",
+      "openrouter",
+      "pdf",
+      "qwen3",
+      "zotero"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2323,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-22T03:03:59Z",
+    "UpdatedAt": "2026-05-02T16:25:52Z",
+    "Owner": "papersgpt",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openspug/spug",
+    "Name": "spug",
+    "Url": "https://github.com/openspug/spug",
+    "Description": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
+    "Topics": [
+      "alert",
+      "ci",
+      "cicd",
+      "cmdb",
+      "deploy",
+      "devops",
+      "django-ops",
+      "jenkins",
+      "monitor",
+      "operations",
+      "ops",
+      "ops-admin",
+      "ops-tools",
+      "opsadmin",
+      "spug",
+      "task",
+      "webconsole",
+      "webshell",
+      "webssh"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-31T15:52:53Z",
+    "UpdatedAt": "2026-05-02T08:24:33Z",
+    "Owner": "openspug",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "memodb-io/Acontext",
+    "Name": "Acontext",
+    "Url": "https://github.com/memodb-io/Acontext",
+    "Description": "Agent Skills as a Memory Layer",
+    "Topics": [
+      "agent",
+      "agent-development-kit",
+      "agent-observability",
+      "ai-agent",
+      "anthropic",
+      "context-data-platform",
+      "context-engineering",
+      "data-platform",
+      "llm",
+      "llm-observability",
+      "llmops",
+      "memory",
+      "openai",
+      "self-evolving",
+      "self-learning"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3358,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-16T13:15:48Z",
+    "UpdatedAt": "2026-05-02T07:52:37Z",
+    "Owner": "memodb-io",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "XInTheDark/raycast-g4f",
+    "Name": "raycast-g4f",
+    "Url": "https://github.com/XInTheDark/raycast-g4f",
+    "Description": "Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.",
+    "Topics": [
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "free-gpt",
+      "gemini",
+      "gpt",
+      "gpt-4",
+      "gpt-4o",
+      "gpt4free",
+      "llama3",
+      "raycast-extension"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1069,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-13T06:31:53Z",
+    "UpdatedAt": "2026-04-30T18:53:56Z",
+    "Owner": "XInTheDark",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/JeecgBoot",
+    "Name": "JeecgBoot",
+    "Url": "https://github.com/jeecgboot/JeecgBoot",
+    "Description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+    "Topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "Language": "Java",
+    "Stars": 46068,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T10:40:00Z",
+    "UpdatedAt": "2026-05-02T16:43:16Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "faisalman/ua-parser-js",
+    "Name": "ua-parser-js",
+    "Url": "https://github.com/faisalman/ua-parser-js",
+    "Description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+    "Topics": [
+      "analytics",
+      "bot-detection",
+      "browser-detection",
+      "client-hints",
+      "device-detection",
+      "mobile-detection",
+      "user-agent",
+      "user-agent-parser"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-02-01T01:11:49Z",
+    "UpdatedAt": "2026-05-02T18:26:39Z",
+    "Owner": "faisalman",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bvisible/mcp-ssh-manager",
+    "Name": "mcp-ssh-manager",
+    "Url": "https://github.com/bvisible/mcp-ssh-manager",
+    "Description": "MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring",
+    "Topics": [
+      "anthropic",
+      "automation",
+      "backup",
+      "claude-code",
+      "database",
+      "deployment",
+      "devops",
+      "erpnext",
+      "frappe",
+      "mcp",
+      "mcp-server",
+      "mcp-ssh",
+      "model-context-protocol",
+      "monitoring",
+      "openai-codex",
+      "remote-server",
+      "ssh",
+      "ssh-manager",
+      "ssh-mcp",
+      "toml"
+    ],
+    "Language": "JavaScript",
+    "Stars": 182,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-12T08:25:41Z",
+    "UpdatedAt": "2026-05-02T17:17:01Z",
+    "Owner": "bvisible",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yocontra/rtc-everywhere",
+    "Name": "rtc-everywhere",
+    "Url": "https://github.com/yocontra/rtc-everywhere",
+    "Description": "Cross-everything WebRTC mega-project",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 655,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-12-03T00:18:06Z",
+    "UpdatedAt": "2026-02-09T01:53:17Z",
+    "Owner": "yocontra",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "noelboss/featherlight",
+    "Name": "featherlight",
+    "Url": "https://github.com/noelboss/featherlight",
+    "Description": "Featherlight is a very lightweight jQuery lightbox plugin. It's simple yet flexible and easy to use. Featherlight has minimal css and uses no inline styles, everything is name-spaced, it's completely customizable via config object and offers image, ajax and iframe support out of the box. Featherlights small footprint weights about 4kB – in total.",
+    "Topics": [
+      "ajax",
+      "javascript",
+      "jquery",
+      "lightbox",
+      "minimal",
+      "modals"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-23T14:26:34Z",
+    "UpdatedAt": "2026-04-01T02:32:12Z",
+    "Owner": "noelboss",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LearnPrompt/LearnPrompt",
+    "Name": "LearnPrompt",
+    "Url": "https://github.com/LearnPrompt/LearnPrompt",
+    "Description": "永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型",
+    "Topics": [
+      "agent",
+      "aimusic",
+      "aivoice",
+      "chatgpt-app",
+      "digital-human",
+      "gpt-35-turbo",
+      "gpt4",
+      "gpts",
+      "llms-book",
+      "midjourney-app",
+      "prompt",
+      "prompt-enginering",
+      "prompt-learning",
+      "retrieval-augmented-generation",
+      "stable-diffusion"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2358,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-23T06:51:33Z",
+    "UpdatedAt": "2026-05-02T08:45:01Z",
+    "Owner": "LearnPrompt",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/LightRAG",
+    "Name": "LightRAG",
+    "Url": "https://github.com/HKUDS/LightRAG",
+    "Description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "Topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 34675,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-02T11:57:54Z",
+    "UpdatedAt": "2026-05-02T17:55:38Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hmongouachon/mgGlitch",
+    "Name": "mgGlitch",
+    "Url": "https://github.com/hmongouachon/mgGlitch",
+    "Description": "A little jquery helper to glitch everything",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-06-11T15:51:37Z",
+    "UpdatedAt": "2026-02-28T08:13:36Z",
+    "Owner": "hmongouachon",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183941,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-02T18:03:19Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lackeyjb/playwright-skill",
+    "Name": "playwright-skill",
+    "Url": "https://github.com/lackeyjb/playwright-skill",
+    "Description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "Topics": [
+      "ai-tools",
+      "automation",
+      "browser-automation",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "developer-tools",
+      "e2e-testing",
+      "model-invoked",
+      "nodejs",
+      "playwright",
+      "web-testing"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2550,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-19T21:33:51Z",
+    "UpdatedAt": "2026-05-02T16:33:47Z",
+    "Owner": "lackeyjb",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "n-WN/SubgroupX",
+    "Name": "SubgroupX",
+    "Url": "https://github.com/n-WN/SubgroupX",
+    "Description": "正规子群.AI Agent | SubgroupX: A high-performance AI Agent for offensive security, Coding, CTF operations, and active defense protocols. Architected by Normal Subgroup. 邀请测试阶段中, 为什么还没有开源, 参见: https://github.com/Cardinal-Platform/Hall-of-Shame",
+    "Topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ctf",
+      "pentest"
+    ],
+    "Language": "JavaScript",
+    "Stars": 332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-07T10:08:38Z",
+    "UpdatedAt": "2026-04-26T13:00:51Z",
+    "Owner": "n-WN",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dipampaul17/AgentGuard",
+    "Name": "AgentGuard",
+    "Url": "https://github.com/dipampaul17/AgentGuard",
+    "Description": "Real-time guardrail that shows token spend & kills runaway LLM/agent loops.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "anthropic-claude",
+      "cost-monitoring",
+      "debugging",
+      "guardrails",
+      "llm",
+      "observability",
+      "openai",
+      "openai-api",
+      "prompt-engineering",
+      "token-usage"
+    ],
+    "Language": "JavaScript",
+    "Stars": 159,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-31T02:46:39Z",
+    "UpdatedAt": "2026-04-12T10:21:53Z",
+    "Owner": "dipampaul17",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "calesthio/Crucix",
+    "Name": "Crucix",
+    "Url": "https://github.com/calesthio/Crucix",
+    "Description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+    "Topics": [
+      "ai",
+      "intelligence",
+      "osint"
+    ],
+    "Language": "JavaScript",
+    "Stars": 9207,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-14T07:33:06Z",
+    "UpdatedAt": "2026-05-02T17:08:21Z",
+    "Owner": "calesthio",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qingchencloud/clawpanel",
+    "Name": "clawpanel",
+    "Url": "https://github.com/qingchencloud/clawpanel",
+    "Description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+    "Topics": [
+      "admin-panel",
+      "ai-agent",
+      "ai-assistant",
+      "ai-chat",
+      "ai-tools",
+      "chatgpt",
+      "cross-platform",
+      "deepseek",
+      "desktop-app",
+      "hermes-agent",
+      "llm",
+      "management-panel",
+      "multi-engine",
+      "openclaw",
+      "openclaw-panel",
+      "rust",
+      "tauri",
+      "tauri-v2",
+      "tool-calling",
+      "vite"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2615,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-26T13:37:07Z",
+    "UpdatedAt": "2026-05-02T16:27:07Z",
+    "Owner": "qingchencloud",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webextension-toolbox/generator-web-extension",
+    "Name": "generator-web-extension",
+    "Url": "https://github.com/webextension-toolbox/generator-web-extension",
+    "Description": "Advanced WebExtension generator that creates everything you need to get started with cross-browser web-extension development.",
+    "Topics": [
+      "chrome-extension",
+      "edge-extension",
+      "firefox-extension",
+      "generator",
+      "opera-extension",
+      "web-extension",
+      "yeoman",
+      "yeoman-generator"
+    ],
+    "Language": "JavaScript",
+    "Stars": 315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-08T16:16:29Z",
+    "UpdatedAt": "2026-04-29T18:11:40Z",
+    "Owner": "webextension-toolbox",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Wicklets/wick-editor",
+    "Name": "wick-editor",
+    "Url": "https://github.com/Wicklets/wick-editor",
+    "Description": "A free and open-source tool for creating games, animations and everything in-between!",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 817,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-17T15:21:18Z",
+    "UpdatedAt": "2026-04-27T21:37:23Z",
+    "Owner": "Wicklets",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/agent-academy",
+    "Name": "agent-academy",
+    "Url": "https://github.com/microsoft/agent-academy",
+    "Description": "Curated lessons on getting started building agents with Copilot Studio",
+    "Topics": [
+      "agents",
+      "copilot"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2252,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T19:07:11Z",
+    "UpdatedAt": "2026-05-02T09:01:20Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56041,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-02T18:07:20Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nesaminua/claude-code-lsp-enforcement-kit",
+    "Name": "claude-code-lsp-enforcement-kit",
+    "Url": "https://github.com/nesaminua/claude-code-lsp-enforcement-kit",
+    "Description": "Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens",
+    "Topics": [
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-hook",
+      "claude-hooks"
+    ],
+    "Language": "JavaScript",
+    "Stars": 277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-10T11:02:12Z",
+    "UpdatedAt": "2026-05-02T14:58:46Z",
+    "Owner": "nesaminua",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-02T16:48:49Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "badlogic/pi-skills",
+    "Name": "pi-skills",
+    "Url": "https://github.com/badlogic/pi-skills",
+    "Description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1511,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-12T22:00:15Z",
+    "UpdatedAt": "2026-05-02T11:33:55Z",
+    "Owner": "badlogic",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "iamvdo/stickyElements",
+    "Name": "stickyElements",
+    "Url": "https://github.com/iamvdo/stickyElements",
+    "Description": ":lipstick: Everything can stick. Just because.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 312,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-21T22:30:14Z",
+    "UpdatedAt": "2025-10-05T10:08:10Z",
+    "Owner": "iamvdo",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "growthxai/output",
+    "Name": "output",
+    "Url": "https://github.com/growthxai/output",
+    "Description": "The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "claude",
+      "claude-code",
+      "javascript",
+      "llm",
+      "nodejs",
+      "open-source",
+      "reliability",
+      "temporal",
+      "typescript",
+      "workflow-engine",
+      "workflows"
+    ],
+    "Language": "JavaScript",
+    "Stars": 283,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-13T16:07:24Z",
+    "UpdatedAt": "2026-05-02T18:15:45Z",
+    "Owner": "growthxai",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ncase/nothing-to-hide",
+    "Name": "nothing-to-hide",
+    "Url": "https://github.com/ncase/nothing-to-hide",
+    "Description": "All the newest work on Nothing To Hide goes here. It's not clean, it's not organized, but it's *everything*.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 785,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-11-27T00:21:15Z",
+    "UpdatedAt": "2026-04-14T14:10:27Z",
+    "Owner": "ncase",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "robinebers/openusage",
+    "Name": "openusage",
+    "Url": "https://github.com/robinebers/openusage",
+    "Description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
+    "Topics": [
+      "claude",
+      "codex",
+      "copilot",
+      "cursor",
+      "subscription"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2208,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:37:03Z",
+    "UpdatedAt": "2026-05-02T17:51:05Z",
+    "Owner": "robinebers",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yctimlin/mcp_excalidraw",
+    "Name": "mcp_excalidraw",
+    "Url": "https://github.com/yctimlin/mcp_excalidraw",
+    "Description": "MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1850,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-16T10:34:34Z",
+    "UpdatedAt": "2026-05-02T16:14:47Z",
+    "Owner": "yctimlin",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42401,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-02T15:14:53Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "rtk-ai/rtk",
+    "Name": "rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "Language": "Rust",
+    "Stars": 39921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T16:54:16Z",
+    "UpdatedAt": "2026-05-02T18:25:49Z",
+    "Owner": "rtk-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "metaskills/experts",
+    "Name": "experts",
+    "Url": "https://github.com/metaskills/experts",
+    "Description": "Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "assistants-api",
+      "multi-agent-systems",
+      "openai",
+      "openai-assistants",
+      "openai-assistants-api"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1064,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-22T13:54:49Z",
+    "UpdatedAt": "2026-04-30T22:51:01Z",
+    "Owner": "metaskills",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "artilleryio/artillery",
+    "Name": "artillery",
+    "Url": "https://github.com/artilleryio/artillery",
+    "Description": "The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.",
+    "Topics": [
+      "api",
+      "automation",
+      "aws",
+      "browser",
+      "fargate",
+      "grpc",
+      "javascript",
+      "lambda",
+      "load",
+      "load-testing",
+      "opentelemetry",
+      "otel",
+      "performance",
+      "playwright",
+      "serverless",
+      "socketio",
+      "stress",
+      "testing",
+      "typescript",
+      "websocket"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8972,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-28T12:31:42Z",
+    "UpdatedAt": "2026-05-01T09:22:05Z",
+    "Owner": "artilleryio",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xaspx/hermes-control-interface",
+    "Name": "hermes-control-interface",
+    "Url": "https://github.com/xaspx/hermes-control-interface",
+    "Description": "A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a single password gate.",
+    "Topics": [
+      "ai-agents",
+      "hermes-agent"
+    ],
+    "Language": "JavaScript",
+    "Stars": 499,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-08T17:13:25Z",
+    "UpdatedAt": "2026-05-02T16:41:03Z",
+    "Owner": "xaspx",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ollama/ollama",
+    "Name": "ollama",
+    "Url": "https://github.com/ollama/ollama",
+    "Description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "Topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "Language": "Go",
+    "Stars": 170567,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T19:39:32Z",
+    "UpdatedAt": "2026-05-02T18:13:09Z",
+    "Owner": "ollama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vanzan01/claude-code-sub-agent-collective",
+    "Name": "claude-code-sub-agent-collective",
+    "Url": "https://github.com/vanzan01/claude-code-sub-agent-collective",
+    "Description": "  🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude   Code.",
+    "Topics": [
+      "agents",
+      "ai-development",
+      "autonomous-programming",
+      "claude",
+      "claude-code",
+      "context-engineering",
+      "multi-agent",
+      "playwright",
+      "sub-agents",
+      "task-master",
+      "taskmaster",
+      "yolo"
+    ],
+    "Language": "JavaScript",
+    "Stars": 519,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-06T13:34:09Z",
+    "UpdatedAt": "2026-05-01T15:27:18Z",
+    "Owner": "vanzan01",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl",
+    "Name": "firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "TypeScript",
+    "Stars": 114145,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-15T21:02:29Z",
+    "UpdatedAt": "2026-05-02T18:24:27Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "expo/skills",
+    "Name": "skills",
+    "Url": "https://github.com/expo/skills",
+    "Description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-30T03:57:18Z",
+    "UpdatedAt": "2026-05-02T17:56:39Z",
+    "Owner": "expo",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qingchencloud/clawapp",
+    "Name": "clawapp",
+    "Url": "https://github.com/qingchencloud/clawapp",
+    "Description": "📱 ClawApp — OpenClaw AI 智能体手机聊天客户端 | 流式对话 · 图片收发 · 工具调用 · PWA + APK | Mobile chat client for OpenClaw AI Agent",
+    "Topics": [
+      "ai-agents",
+      "ai-assistant",
+      "android",
+      "capacitor",
+      "chat-client",
+      "chinese",
+      "dark-mode",
+      "h5",
+      "i18n",
+      "markdown",
+      "mobile-chat",
+      "multimodal",
+      "openclaw",
+      "pwa",
+      "self-hosted",
+      "streaming",
+      "tool-calling",
+      "voice-input",
+      "websocket"
+    ],
+    "Language": "JavaScript",
+    "Stars": 402,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-16T18:34:43Z",
+    "UpdatedAt": "2026-05-01T01:01:49Z",
+    "Owner": "qingchencloud",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39189,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-02T16:56:35Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jerhadf/linear-mcp-server",
+    "Name": "linear-mcp-server",
+    "Url": "https://github.com/jerhadf/linear-mcp-server",
+    "Description": "A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.",
+    "Topics": [
+      "anthropic",
+      "linear",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "Language": "JavaScript",
+    "Stars": 344,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-03T19:54:41Z",
+    "UpdatedAt": "2026-04-15T10:36:50Z",
+    "Owner": "jerhadf",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arakoodev/EdgeChains",
+    "Name": "EdgeChains",
+    "Url": "https://github.com/arakoodev/EdgeChains",
+    "Description": "EdgeChains.js is Full-Stack GenAI library. Front-end, backend, apis, prompt management, distributed computing. All core prompts & chains are managed declaratively in jsonnet (and not hidden in classes)",
+    "Topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "autogpt",
+      "chatbot",
+      "generative-ai",
+      "gpt",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "rest-api",
+      "typescript",
+      "vector",
+      "web-development",
+      "webassembly",
+      "webdev",
+      "ycombinator"
+    ],
+    "Language": "JavaScript",
+    "Stars": 422,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-20T06:04:40Z",
+    "UpdatedAt": "2026-04-26T14:52:21Z",
+    "Owner": "arakoodev",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bergside/design-md-chrome",
+    "Name": "design-md-chrome",
+    "Url": "https://github.com/bergside/design-md-chrome",
+    "Description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+    "Topics": [
+      "ai",
+      "chrome",
+      "chrome-extension",
+      "claude",
+      "claude-design",
+      "codex",
+      "design-md",
+      "design-skills",
+      "extension",
+      "gemini",
+      "open-source",
+      "skills",
+      "skills-ai",
+      "typeui"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1567,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-14T14:10:22Z",
+    "UpdatedAt": "2026-05-02T18:08:30Z",
+    "Owner": "bergside",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chadbyte/clay",
+    "Name": "clay",
+    "Url": "https://github.com/chadbyte/clay",
+    "Description": "Self-hosted team workspace for Claude Code and Codex. Multi-user, browser-based, AI mates with memory.",
+    "Topics": [
+      "ai-agent",
+      "ai-agents",
+      "ai-team",
+      "automation",
+      "claude",
+      "claude-agent-sdk",
+      "claude-code",
+      "codex",
+      "collaboration",
+      "dev-tools",
+      "developer-tools",
+      "mobile",
+      "multi-user",
+      "pwa",
+      "ralph-loop",
+      "self-hosted",
+      "web-ui",
+      "web-ui-based",
+      "workspace"
+    ],
+    "Language": "JavaScript",
+    "Stars": 253,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-09T21:14:32Z",
+    "UpdatedAt": "2026-05-02T15:10:22Z",
+    "Owner": "chadbyte",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jtsang4/bob-plugin-claude-translator",
+    "Name": "bob-plugin-claude-translator",
+    "Url": "https://github.com/jtsang4/bob-plugin-claude-translator",
+    "Description": "一个让 Bob 翻译可以使用 Anthropic Claude API 的插件",
+    "Topics": [
+      "anthropic",
+      "anthropic-claude",
+      "bobplugin",
+      "claude-ai",
+      "gpt",
+      "translator"
+    ],
+    "Language": "JavaScript",
+    "Stars": 93,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-09T18:59:49Z",
+    "UpdatedAt": "2026-04-23T11:53:22Z",
+    "Owner": "jtsang4",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ahmmikun/XLICON-MD",
+    "Name": "XLICON-MD",
+    "Url": "https://github.com/ahmmikun/XLICON-MD",
+    "Description": "Konnichiwaa!! I am a WhatsApp bot create by Salman Ahmad and recode by Team XLICON to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.",
+    "Topics": [
+      "baileys",
+      "baileys-md",
+      "bot",
+      "javascript",
+      "m",
+      "mongodb",
+      "multidevice",
+      "multidevice-bot",
+      "nodejs",
+      "whatsapp",
+      "whatsapp-bot",
+      "whatsapp-bot-md",
+      "whatsapp-md-bot",
+      "xlicon-md",
+      "xlicon-md-1"
+    ],
+    "Language": "JavaScript",
+    "Stars": 303,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-07T12:05:12Z",
+    "UpdatedAt": "2026-04-28T15:25:48Z",
+    "Owner": "ahmmikun",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stephengpope/thepopebot",
+    "Name": "thepopebot",
+    "Url": "https://github.com/stephengpope/thepopebot",
+    "Description": "The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 1755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-02T01:25:10Z",
+    "UpdatedAt": "2026-05-02T16:20:41Z",
+    "Owner": "stephengpope",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160181,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-02T18:13:27Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sammcj/mcp-llm",
+    "Name": "mcp-llm",
+    "Url": "https://github.com/sammcj/mcp-llm",
+    "Description": " An MCP server that provides LLMs access to other LLMs",
+    "Topics": [
+      "anthropic",
+      "bedrock",
+      "claude",
+      "llama",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "ollama",
+      "openai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 77,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-06T06:45:01Z",
+    "UpdatedAt": "2026-02-12T20:56:38Z",
+    "Owner": "sammcj",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70844,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-02T18:00:59Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "waybarrios/opencode-power-pack",
+    "Name": "opencode-power-pack",
+    "Url": "https://github.com/waybarrios/opencode-power-pack",
+    "Description": "Eleven Claude Code skills ported to OpenCode: code-review, security-review, feature-dev, frontend-design + 7 more. One config line, one plugin.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude-code",
+      "code-review",
+      "developer-tools",
+      "llm-tools",
+      "opencode",
+      "plugin",
+      "security-audit",
+      "skills"
+    ],
+    "Language": "JavaScript",
+    "Stars": 198,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-26T17:13:11Z",
+    "UpdatedAt": "2026-05-02T17:36:00Z",
+    "Owner": "waybarrios",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "u14app/deep-research",
+    "Name": "deep-research",
+    "Url": "https://github.com/u14app/deep-research",
+    "Description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
+    "Topics": [
+      "anthropic",
+      "deep-research",
+      "deep-research-api",
+      "deepresearch",
+      "deepseek",
+      "gemini",
+      "grok",
+      "mcp-server",
+      "ollama",
+      "openai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4574,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-22T03:29:07Z",
+    "UpdatedAt": "2026-05-02T16:53:28Z",
+    "Owner": "u14app",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asgeirtj/system_prompts_leaks",
+    "Name": "system_prompts_leaks",
+    "Url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "Description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+    "Topics": [
+      "ai",
+      "ai-transparency",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "gemini",
+      "generative-ai",
+      "gpt-5",
+      "grok",
+      "large-language-models",
+      "llm",
+      "openai",
+      "perplexity",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts",
+      "xai"
+    ],
+    "Language": "",
+    "Stars": 39382,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-03T02:43:56Z",
+    "UpdatedAt": "2026-05-02T18:14:25Z",
+    "Owner": "asgeirtj",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Tiledesk/tiledesk-server",
+    "Name": "tiledesk-server",
+    "Url": "https://github.com/Tiledesk/tiledesk-server",
+    "Description": "Tiledesk Server is the main API component of the Tiledesk platform 🚀 Tiledesk is an open-source alternative to Voiceflow, allowing you to build advanced LLM-powered agents with easy human-in-the-loop (HITL) when necessary.",
+    "Topics": [
+      "ai-agents",
+      "ai-assistant",
+      "ai-automation",
+      "api",
+      "bot",
+      "chat",
+      "customer-service",
+      "customer-support",
+      "firebase",
+      "firestore",
+      "human-in-the-loop",
+      "javascript",
+      "mongodb",
+      "nodejs",
+      "open-source",
+      "opensource",
+      "rest",
+      "rest-api",
+      "retrieved-augmented-generation",
+      "workflow-automation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 380,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-27T08:03:47Z",
+    "UpdatedAt": "2026-04-24T21:55:55Z",
+    "Owner": "Tiledesk",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ChrisWiles/claude-code-showcase",
+    "Name": "claude-code-showcase",
+    "Url": "https://github.com/ChrisWiles/claude-code-showcase",
+    "Description": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 5859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-06T18:51:02Z",
+    "UpdatedAt": "2026-05-01T19:47:03Z",
+    "Owner": "ChrisWiles",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "A9T9/RPA",
+    "Name": "RPA",
+    "Url": "https://github.com/A9T9/RPA",
+    "Description": "Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.",
+    "Topics": [
+      "anthropic",
+      "anthropic-claude",
+      "browser-automation",
+      "browser-extension",
+      "computer-use",
+      "data-driven-tests",
+      "imacros",
+      "selenium-ide",
+      "web-automation",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1891,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-04T20:57:43Z",
+    "UpdatedAt": "2026-05-01T10:53:36Z",
+    "Owner": "A9T9",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ChatGPTBox-dev/chatGPTBox",
+    "Name": "chatGPTBox",
+    "Url": "https://github.com/ChatGPTBox-dev/chatGPTBox",
+    "Description": "Integrating ChatGPT into your browser deeply, everything you need is here",
+    "Topics": [
+      "browser-extension",
+      "chatgpt",
+      "chrome-extension",
+      "edge-extension",
+      "firefox-addon",
+      "firefox-extension",
+      "safari-extension"
+    ],
+    "Language": "JavaScript",
+    "Stars": 10737,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-15T08:16:17Z",
+    "UpdatedAt": "2026-05-02T17:37:12Z",
+    "Owner": "ChatGPTBox-dev",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 129482,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-02T18:26:35Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "InternLM/MindSearch",
+    "Name": "MindSearch",
+    "Url": "https://github.com/InternLM/MindSearch",
+    "Description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+    "Topics": [
+      "ai-search-engine",
+      "gpt",
+      "llm",
+      "llms",
+      "multi-agent-systems",
+      "perplexity-ai",
+      "search",
+      "searchgpt",
+      "transformer",
+      "web-search"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6847,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-28T03:54:50Z",
+    "UpdatedAt": "2026-05-02T14:09:44Z",
+    "Owner": "InternLM",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "peterfei/ai-agent-team",
+    "Name": "ai-agent-team",
+    "Url": "https://github.com/peterfei/ai-agent-team",
+    "Description": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
+    "Topics": [
+      "24886",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-code-skill",
+      "drawnotes",
+      "ide",
+      "mcp-server",
+      "notebook",
+      "peterfei",
+      "skill",
+      "skills"
+    ],
+    "Language": "JavaScript",
+    "Stars": 344,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-07T15:22:33Z",
+    "UpdatedAt": "2026-04-29T06:59:16Z",
+    "Owner": "peterfei",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "guanxiaol/WindsurfPoolAPI",
+    "Name": "WindsurfPoolAPI",
+    "Url": "https://github.com/guanxiaol/WindsurfPoolAPI",
+    "Description": "Multi-account pool proxy for Windsurf — 113+ models (Claude/GPT/Gemini/Grok/Kimi) via OpenAI & Anthropic APIs, image upload, Cursor & Claude Code native / 企业级 Windsurf 多账号池化 API 代理",
+    "Topics": [
+      "ai-proxy",
+      "anthropic",
+      "anthropic-api",
+      "api",
+      "claude",
+      "claude-code",
+      "codeium",
+      "cursor",
+      "gemini",
+      "gpt",
+      "language-server",
+      "llm-proxy",
+      "multi-account",
+      "multimodal",
+      "nodejs",
+      "openai",
+      "openai-api",
+      "pool",
+      "proxy",
+      "windsurf"
+    ],
+    "Language": "JavaScript",
+    "Stars": 170,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-20T05:17:34Z",
+    "UpdatedAt": "2026-05-02T17:25:39Z",
+    "Owner": "guanxiaol",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jarrodwatts/claude-delegator",
+    "Name": "claude-delegator",
+    "Url": "https://github.com/jarrodwatts/claude-delegator",
+    "Description": "Delegate tasks to Codex and Gemini directly from within Claude Code.",
+    "Topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "codex",
+      "gpt",
+      "mcp",
+      "plugin"
+    ],
+    "Language": "JavaScript",
+    "Stars": 949,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-08T00:14:22Z",
+    "UpdatedAt": "2026-05-01T06:47:26Z",
+    "Owner": "jarrodwatts",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browser-use/browser-use",
+    "Name": "browser-use",
+    "Url": "https://github.com/browser-use/browser-use",
+    "Description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 91694,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T16:00:56Z",
+    "UpdatedAt": "2026-05-02T18:18:27Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "rockbite/localforge",
+    "Name": "localforge",
+    "Url": "https://github.com/rockbite/localforge",
+    "Description": "Local coding agent with neat UI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-framework",
+      "javascript",
+      "langchain",
+      "local-llm",
+      "prompt-engineering",
+      "vibe-coding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 365,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-22T11:48:45Z",
+    "UpdatedAt": "2026-04-29T15:24:19Z",
+    "Owner": "rockbite",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fogsightai/fogsight",
+    "Name": "fogsight",
+    "Url": "https://github.com/fogsightai/fogsight",
+    "Description": "Fogsight is an AI agent and animation engine powered by Large Language Models.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 2407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-17T17:19:00Z",
+    "UpdatedAt": "2026-05-02T08:55:34Z",
+    "Owner": "fogsightai",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Fast-Editor/Lynkr",
+    "Name": "Lynkr",
+    "Url": "https://github.com/Fast-Editor/Lynkr",
+    "Description": "Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.",
+    "Topics": [
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "code-assistant",
+      "code-assistants",
+      "code-generation",
+      "databricks",
+      "developer-tools",
+      "llm",
+      "llmops",
+      "llms",
+      "mcp"
+    ],
+    "Language": "JavaScript",
+    "Stars": 415,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-03T22:50:02Z",
+    "UpdatedAt": "2026-05-02T09:26:39Z",
+    "Owner": "Fast-Editor",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "heshengtao/super-agent-party",
+    "Name": "super-agent-party",
+    "Url": "https://github.com/heshengtao/super-agent-party",
+    "Description": "⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!",
+    "Topics": [
+      "agent-skills",
+      "ai-companion",
+      "ai-vtuber",
+      "claude-code",
+      "comfyui",
+      "cowork",
+      "discord-bot",
+      "home-assistant",
+      "im-bot",
+      "livestream",
+      "mcp",
+      "neuro-sama",
+      "openclaw",
+      "sap",
+      "sillytavern",
+      "super-agent-party",
+      "vrm"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2177,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-08T15:31:51Z",
+    "UpdatedAt": "2026-05-02T14:01:06Z",
+    "Owner": "heshengtao",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "intelligentnode/IntelliNode",
+    "Name": "IntelliNode",
+    "Url": "https://github.com/intelligentnode/IntelliNode",
+    "Description": "Access the latest AI models like ChatGPT, LLaMA, Deepseek, Diffusion, Hugging face, and beyond through a unified prompt layer and performance evaluation",
+    "Topics": [
+      "anthropic",
+      "chatbot",
+      "chatgpt",
+      "claude",
+      "dall-e",
+      "deepseek",
+      "embeddings",
+      "gemini",
+      "google-ai",
+      "gpt5",
+      "hugging-face",
+      "image-generation",
+      "language-model",
+      "nodejs",
+      "openai",
+      "prompt-engineering",
+      "semantic-search",
+      "speech-synthesis",
+      "vectors"
+    ],
+    "Language": "JavaScript",
+    "Stars": 273,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-17T00:39:33Z",
+    "UpdatedAt": "2026-03-16T04:54:55Z",
+    "Owner": "intelligentnode",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50",
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vdutts7/gpt4V-scraper",
+    "Name": "gpt4V-scraper",
+    "Url": "https://github.com/vdutts7/gpt4V-scraper",
+    "Description": "AI agent that can SEE 👁️, control, navigate, & do stuff for you on your browser.",
+    "Topics": [
+      "ai-agents",
+      "browser-automation",
+      "gpt-4-vision",
+      "puppeteer",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-08T16:41:23Z",
+    "UpdatedAt": "2026-05-01T23:37:56Z",
+    "Owner": "vdutts7",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fajarghifar/happybirthday",
+    "Name": "happybirthday",
+    "Url": "https://github.com/fajarghifar/happybirthday",
+    "Description": "🎂 A beautiful, config-driven birthday greeting animation. Customize everything from a single file — no coding required! Built with GSAP & Vanilla JS.",
+    "Topics": [
+      "css",
+      "gsap",
+      "html",
+      "js"
+    ],
+    "Language": "JavaScript",
+    "Stars": 461,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-17T03:58:55Z",
+    "UpdatedAt": "2026-05-02T15:13:21Z",
+    "Owner": "fajarghifar",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuinnAho/claudemap",
+    "Name": "claudemap",
+    "Url": "https://github.com/QuinnAho/claudemap",
+    "Description": "google maps for vibecoders.",
+    "Topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "code-visualization-tool",
+      "developer-tools",
+      "mcp",
+      "model-context-protocol",
+      "npm-cli",
+      "open-source",
+      "react",
+      "software-architecture"
+    ],
+    "Language": "JavaScript",
+    "Stars": 232,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-11T16:16:48Z",
+    "UpdatedAt": "2026-05-02T00:28:21Z",
+    "Owner": "QuinnAho",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ozgrozer/chatgpt-artifacts",
+    "Name": "chatgpt-artifacts",
+    "Url": "https://github.com/ozgrozer/chatgpt-artifacts",
+    "Description": "Bring Claude's Artifacts feature to ChatGPT",
+    "Topics": [
+      "artifacts",
+      "chatgpt",
+      "claude"
+    ],
+    "Language": "JavaScript",
+    "Stars": 510,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-23T20:32:48Z",
+    "UpdatedAt": "2026-04-27T00:59:12Z",
+    "Owner": "ozgrozer",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neomjs/neo",
+    "Name": "neo",
+    "Url": "https://github.com/neomjs/neo",
+    "Description": "The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.",
+    "Topics": [
+      "ai-agents",
+      "application-engine",
+      "architecture",
+      "autonomous-agents",
+      "desktop-like",
+      "esm",
+      "frontend",
+      "generative-ai",
+      "javascript",
+      "mcp-servers",
+      "multi-threaded",
+      "neural-link",
+      "no-transpilation",
+      "off-main-thread",
+      "performance",
+      "react-alternative",
+      "self-healing",
+      "spa",
+      "web-workers",
+      "zero-config"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3179,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-10T23:56:02Z",
+    "UpdatedAt": "2026-05-02T18:22:09Z",
+    "Owner": "neomjs",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "f14XuanLv/Claude-Powerest-Manager_Enhancer",
+    "Name": "Claude-Powerest-Manager_Enhancer",
+    "Url": "https://github.com/f14XuanLv/Claude-Powerest-Manager_Enhancer",
+    "Description": "An all-in-one Tampermonkey script to supercharge your Claude.ai experience with a powerful conversation manager, advanced export, and unique chat enhancements.",
+    "Topics": [
+      "anthropic",
+      "claude",
+      "enhancer",
+      "export",
+      "manager",
+      "navigator",
+      "script"
+    ],
+    "Language": "JavaScript",
+    "Stars": 97,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-18T08:05:25Z",
+    "UpdatedAt": "2026-04-29T15:04:26Z",
+    "Owner": "f14XuanLv",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "KeyID-AI/agent-kit",
+    "Name": "agent-kit",
+    "Url": "https://github.com/KeyID-AI/agent-kit",
+    "Description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
+    "Topics": [
+      "agent",
+      "ai-agent",
+      "claude",
+      "email",
+      "keyid",
+      "mcp",
+      "model-context-protocol",
+      "sms",
+      "tools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 648,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-13T01:55:26Z",
+    "UpdatedAt": "2026-05-02T18:14:57Z",
+    "Owner": "KeyID-AI",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "songquanpeng/one-api",
+    "Name": "one-api",
+    "Url": "https://github.com/songquanpeng/one-api",
+    "Description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+    "Topics": [
+      "api",
+      "api-gateway",
+      "azure-openai-api",
+      "chatgpt",
+      "claude",
+      "ernie-bot",
+      "gemini",
+      "gpt",
+      "openai",
+      "openai-api",
+      "proxy"
+    ],
+    "Language": "JavaScript",
+    "Stars": 32812,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-22T12:39:24Z",
+    "UpdatedAt": "2026-05-02T18:16:14Z",
+    "Owner": "songquanpeng",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "a5c-ai/babysitter",
+    "Name": "babysitter",
+    "Url": "https://github.com/a5c-ai/babysitter",
+    "Description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
+    "Topics": [
+      "agent-orchestration",
+      "agent-skills",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai-agents",
+      "ai-automation",
+      "babysitter",
+      "claude-code",
+      "claude-code-skills",
+      "claude-skills",
+      "codex-plugin",
+      "codex-skills",
+      "trustworthy-ai",
+      "vibe-coding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 731,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-05T15:26:53Z",
+    "UpdatedAt": "2026-05-02T17:49:40Z",
+    "Owner": "a5c-ai",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "badrisnarayanan/antigravity-claude-proxy",
+    "Name": "antigravity-claude-proxy",
+    "Url": "https://github.com/badrisnarayanan/antigravity-claude-proxy",
+    "Description": "Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)",
+    "Topics": [
+      "antigravity",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "clawdbot",
+      "gemini",
+      "gemini-cli",
+      "openclaw",
+      "proxy"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3558,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-19T13:57:33Z",
+    "UpdatedAt": "2026-05-02T18:10:51Z",
+    "Owner": "badrisnarayanan",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sagalbot/vue-select",
+    "Name": "vue-select",
+    "Url": "https://github.com/sagalbot/vue-select",
+    "Description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
+    "Topics": [
+      "combobox",
+      "listbox",
+      "select",
+      "selecting",
+      "selector",
+      "vue",
+      "vue-component",
+      "vue-select",
+      "vue2",
+      "vue3"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4679,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-02T05:06:02Z",
+    "UpdatedAt": "2026-04-22T10:55:35Z",
+    "Owner": "sagalbot",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ianjwhite99/opencode-with-claude",
+    "Name": "opencode-with-claude",
+    "Url": "https://github.com/ianjwhite99/opencode-with-claude",
+    "Description": "OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian",
+    "Topics": [
+      "ai-coding",
+      "anthropic",
+      "bun",
+      "claude",
+      "claude-agent-sdk",
+      "claude-code",
+      "claude-max",
+      "opencode",
+      "opencode-plugin"
+    ],
+    "Language": "JavaScript",
+    "Stars": 171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-20T23:00:56Z",
+    "UpdatedAt": "2026-05-02T00:13:50Z",
+    "Owner": "ianjwhite99",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Yuan-ManX/ai-game-devtools",
+    "Name": "ai-game-devtools",
+    "Url": "https://github.com/Yuan-ManX/ai-game-devtools",
+    "Description": "Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥",
+    "Topics": [
+      "ai-agents",
+      "ai-game-development",
+      "ai-game-engine",
+      "ai-platform",
+      "ai-toolkit",
+      "aigc",
+      "artificial-intelligence",
+      "awesome-list",
+      "deep-learning",
+      "game-ai",
+      "game-development",
+      "game-engine",
+      "mechine-learing",
+      "unity",
+      "world-models"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1158,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-21T03:01:17Z",
+    "UpdatedAt": "2026-05-02T17:12:05Z",
+    "Owner": "Yuan-ManX",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shareAI-lab/learn-claude-code",
+    "Name": "learn-claude-code",
+    "Url": "https://github.com/shareAI-lab/learn-claude-code",
+    "Description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "Topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "Language": "TypeScript",
+    "Stars": 57820,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-29T15:34:15Z",
+    "UpdatedAt": "2026-05-02T17:32:28Z",
+    "Owner": "shareAI-lab",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135218,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-02T18:12:03Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "clipperz/password-manager",
+    "Name": "password-manager",
+    "Url": "https://github.com/clipperz/password-manager",
+    "Description": "Clipperz is an online vault and password manager that knows nothing about you and your data.  Everything you submit is locally encrypted by your browser before being uploaded to Clipperz. The encryption key is a passphrase known only to you and Clipperz could never access your data. Clipperz is built upon open proven and trusted encryption algorithms.",
+    "Topics": [],
+    "Language": "JavaScript",
+    "Stars": 744,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-06-19T02:54:00Z",
+    "UpdatedAt": "2026-03-30T17:12:24Z",
+    "Owner": "clipperz",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LakshmanTurlapati/Review-Gate",
+    "Name": "Review-Gate",
+    "Url": "https://github.com/LakshmanTurlapati/Review-Gate",
+    "Description": "Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—via text, voice, or image upload—allowing you to perform deep, iterative work all within a single request.",
+    "Topics": [
+      "ai",
+      "claude",
+      "cursor",
+      "ide"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1536,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-07T11:23:17Z",
+    "UpdatedAt": "2026-05-01T08:59:44Z",
+    "Owner": "LakshmanTurlapati",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "willmcpo/body-scroll-lock",
+    "Name": "body-scroll-lock",
+    "Url": "https://github.com/willmcpo/body-scroll-lock",
+    "Description": "Body scroll locking that just works with everything 😏",
+    "Topics": [
+      "angular",
+      "body-scroll",
+      "body-scroll-lock",
+      "bsl",
+      "chrome",
+      "freeze",
+      "ios",
+      "lightbox",
+      "lock",
+      "mobile",
+      "modal",
+      "overflow",
+      "react",
+      "react-scroll-lock",
+      "react-scrolllock",
+      "safari",
+      "scroll-lock",
+      "toggle",
+      "vanilla-js",
+      "vuejs"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-19T05:09:01Z",
+    "UpdatedAt": "2026-04-30T04:02:19Z",
+    "Owner": "willmcpo",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cyberdesk-hq/cyberdesk",
+    "Name": "cyberdesk",
+    "Url": "https://github.com/cyberdesk-hq/cyberdesk",
+    "Description": "Open source virtual desktops for AI agents",
+    "Topics": [
+      "ai-agents",
+      "computer-use",
+      "fastapi",
+      "hono",
+      "kubernetes",
+      "nextjs",
+      "terraform",
+      "virtual-machine"
+    ],
+    "Language": "JavaScript",
+    "Stars": 310,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-10T20:46:29Z",
+    "UpdatedAt": "2026-04-30T09:40:15Z",
+    "Owner": "cyberdesk-hq",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "levnikolaevich/claude-code-skills",
+    "Name": "claude-code-skills",
+    "Url": "https://github.com/levnikolaevich/claude-code-skills",
+    "Description": "Plugin suite + bundled MCP servers for Claude Code. Full delivery lifecycle: Agile pipeline with multi-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows. Includes hex-line (hash-verified editing), hex-graph (code knowledge graph), and hex-ssh (remote SSH) MCP servers.",
+    "Topics": [
+      "agile-workflows",
+      "ai-agents",
+      "anthropic",
+      "claude-ai",
+      "claude-code",
+      "claude-code-skills",
+      "code-analysis",
+      "code-review",
+      "codebase-audit",
+      "developer-productivity",
+      "developer-tools",
+      "documentation-generator",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "performance-optimization",
+      "remote-ssh",
+      "software-architecture",
+      "tree-sitter",
+      "workflow-automation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-24T15:36:01Z",
+    "UpdatedAt": "2026-05-02T16:41:27Z",
+    "Owner": "levnikolaevich",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ChristopherKahler/paul",
+    "Name": "paul",
+    "Url": "https://github.com/ChristopherKahler/paul",
+    "Description": "Plan-Apply-Unify Loop — Structured AI-assisted development for Claude Code. Quality over speed-for-speed's-sake.",
+    "Topics": [
+      "ai-development",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "development-framework",
+      "project-orchestration",
+      "spec-driven",
+      "vibe-coding"
+    ],
+    "Language": "JavaScript",
+    "Stars": 857,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-28T18:43:07Z",
+    "UpdatedAt": "2026-05-02T17:08:22Z",
+    "Owner": "ChristopherKahler",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "janhq/jan",
+    "Name": "jan",
+    "Url": "https://github.com/janhq/jan",
+    "Description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "Topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "Language": "TypeScript",
+    "Stars": 42329,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T02:17:10Z",
+    "UpdatedAt": "2026-05-02T18:12:53Z",
+    "Owner": "janhq",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Wei-Shaw/claude-relay-service",
+    "Name": "claude-relay-service",
+    "Url": "https://github.com/Wei-Shaw/claude-relay-service",
+    "Description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "Topics": [
+      "claude",
+      "claude-api",
+      "claude-code",
+      "claude-proxy",
+      "codex-cli",
+      "crs",
+      "droid",
+      "droid-cli",
+      "droid2api",
+      "gemini-cli"
+    ],
+    "Language": "JavaScript",
+    "Stars": 11461,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-14T10:11:32Z",
+    "UpdatedAt": "2026-05-02T17:19:52Z",
+    "Owner": "Wei-Shaw",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BinaryBeastMaster/chat-relay",
+    "Name": "chat-relay",
+    "Url": "https://github.com/BinaryBeastMaster/chat-relay",
+    "Description": "Chat Relay is a system that allows Cline/RooCode to communicate with web-based AI chat interfaces (like Gemini, AI Studio, ChatGPT, and Claude) through an OpenAI-compatible API. This enables using models that may not have public APIs through their web interfaces.",
+    "Topics": [
+      "aistudio",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "cline",
+      "gemini",
+      "roocode"
+    ],
+    "Language": "JavaScript",
+    "Stars": 139,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-06T08:59:34Z",
+    "UpdatedAt": "2026-04-24T20:27:08Z",
+    "Owner": "BinaryBeastMaster",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SharpAI/DeepCamera",
+    "Name": "DeepCamera",
+    "Url": "https://github.com/SharpAI/DeepCamera",
+    "Description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, YOLO26. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
+    "Topics": [
+      "ai",
+      "ai-camera",
+      "ai-nvr",
+      "camera",
+      "cctv",
+      "computer-vision",
+      "deep-learning",
+      "face-recognition",
+      "home-assistant",
+      "home-security",
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "machine-learning",
+      "object-detection",
+      "python",
+      "raspberry-pi",
+      "security-camera",
+      "video-surveillance",
+      "vlm"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2716,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-05T14:29:23Z",
+    "UpdatedAt": "2026-05-02T14:22:19Z",
+    "Owner": "SharpAI",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cporter202/agentic-ai-apis",
+    "Name": "agentic-ai-apis",
+    "Url": "https://github.com/cporter202/agentic-ai-apis",
+    "Description": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.",
+    "Topics": [
+      "agentic-ai",
+      "ai-agents",
+      "ai-tools",
+      "api-collection",
+      "api-directory",
+      "apis",
+      "automation",
+      "curated-list",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "mcp-servers"
+    ],
+    "Language": "JavaScript",
+    "Stars": 302,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-06T18:55:04Z",
+    "UpdatedAt": "2026-05-02T15:07:07Z",
+    "Owner": "cporter202",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "micz/ThunderAI",
+    "Name": "ThunderAI",
+    "Url": "https://github.com/micz/ThunderAI",
+    "Description": "ThunderAI is a Thunderbird Addon that uses the capabilities of ChatGPT, Gemini, Claude or Ollama to enhance email management.",
+    "Topics": [
+      "anthropic",
+      "anthropic-api",
+      "chatgpt",
+      "chatgpt-app",
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "javascript",
+      "ollama",
+      "ollama-api",
+      "ollama-app",
+      "ollama-client",
+      "openai-api",
+      "openai-compatible-api",
+      "thunderbird",
+      "thunderbird-addon",
+      "thunderbird-addons",
+      "thunderbird-extension"
+    ],
+    "Language": "JavaScript",
+    "Stars": 286,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-30T09:44:56Z",
+    "UpdatedAt": "2026-04-30T22:01:16Z",
+    "Owner": "micz",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ItzCrazyKns/Vane",
+    "Name": "Vane",
+    "Url": "https://github.com/ItzCrazyKns/Vane",
+    "Description": "Vane is an AI-powered answering engine.",
+    "Topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "Language": "TypeScript",
+    "Stars": 34107,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-09T10:51:32Z",
+    "UpdatedAt": "2026-05-02T18:01:35Z",
+    "Owner": "ItzCrazyKns",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-02T17:22:42Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "EvoMap/evolver",
+    "Name": "evolver",
+    "Url": "https://github.com/EvoMap/evolver",
+    "Description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "Topics": [
+      "a2a",
+      "agent-evolution",
+      "agent-framework",
+      "agent-protocol",
+      "ai-agent",
+      "auditable-ai",
+      "autonomous-agent",
+      "cli",
+      "evomap",
+      "gep",
+      "llm-agent",
+      "mcp",
+      "memory-system",
+      "nodejs",
+      "prompt-engineering",
+      "prompt-governance",
+      "self-evolution",
+      "self-evolving",
+      "skill-library",
+      "skills"
+    ],
+    "Language": "JavaScript",
+    "Stars": 7173,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T05:59:24Z",
+    "UpdatedAt": "2026-05-02T17:12:07Z",
+    "Owner": "EvoMap",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ykdojo/claude-code-tips",
+    "Name": "claude-code-tips",
+    "Url": "https://github.com/ykdojo/claude-code-tips",
+    "Description": "45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.",
+    "Topics": [
+      "agentic",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "ai",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "productivity",
+      "tips-and-tricks"
+    ],
+    "Language": "JavaScript",
+    "Stars": 8060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-28T00:52:00Z",
+    "UpdatedAt": "2026-05-02T15:21:42Z",
+    "Owner": "ykdojo",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webfactory/ssh-agent",
+    "Name": "ssh-agent",
+    "Url": "https://github.com/webfactory/ssh-agent",
+    "Description": "GitHub Action to setup `ssh-agent` with a private key",
+    "Topics": [
+      "action",
+      "github-actions",
+      "ssh",
+      "ssh-agent",
+      "workflow"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1458,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-14T22:13:20Z",
+    "UpdatedAt": "2026-04-30T07:39:52Z",
+    "Owner": "webfactory",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coreyhaines31/marketingskills",
+    "Name": "marketingskills",
+    "Url": "https://github.com/coreyhaines31/marketingskills",
+    "Description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "Topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ],
+    "Language": "JavaScript",
+    "Stars": 26104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-15T19:45:23Z",
+    "UpdatedAt": "2026-05-02T18:24:30Z",
+    "Owner": "coreyhaines31",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "forwardemail/supertest",
+    "Name": "supertest",
+    "Url": "https://github.com/forwardemail/supertest",
+    "Description": "🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.",
+    "Topics": [
+      "assertions",
+      "node",
+      "superagent",
+      "supertest"
+    ],
+    "Language": "JavaScript",
+    "Stars": 14355,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-06-27T20:56:12Z",
+    "UpdatedAt": "2026-05-02T14:02:18Z",
+    "Owner": "forwardemail",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cixingguangming55555/wechat-bot",
+    "Name": "wechat-bot",
+    "Url": "https://github.com/cixingguangming55555/wechat-bot",
+    "Description": "和国产大模型相关的免费工具集",
+    "Topics": [
+      "claude",
+      "glm",
+      "kimi-k2",
+      "minimax",
+      "proxy"
+    ],
+    "Language": "JavaScript",
+    "Stars": 2532,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-17T04:43:53Z",
+    "UpdatedAt": "2026-04-24T00:50:41Z",
+    "Owner": "cixingguangming55555",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34353,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-02T16:57:11Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "earthtojake/text-to-cad",
+    "Name": "text-to-cad",
+    "Url": "https://github.com/earthtojake/text-to-cad",
+    "Description": "An open source harness for generating CAD models",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "cad",
+      "text-to-cad",
+      "wasm"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-22T01:09:45Z",
+    "UpdatedAt": "2026-05-02T17:13:12Z",
+    "Owner": "earthtojake",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Vasco0x4/AIDA",
+    "Name": "AIDA",
+    "Url": "https://github.com/Vasco0x4/AIDA",
+    "Description": "Turn any LLM into an autonomous pentester. You define the scope, the agent does the work, you review the findings.",
+    "Topics": [
+      "ai",
+      "ai-powered",
+      "claude",
+      "docker",
+      "exegol",
+      "hacking",
+      "llm",
+      "mcp",
+      "pentesting",
+      "security",
+      "security-tools",
+      "vulnerability-assessment"
+    ],
+    "Language": "JavaScript",
+    "Stars": 352,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-31T18:51:52Z",
+    "UpdatedAt": "2026-05-01T16:31:58Z",
+    "Owner": "Vasco0x4",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milvus-io/milvus",
+    "Name": "milvus",
+    "Url": "https://github.com/milvus-io/milvus",
+    "Description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "Topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "Language": "Go",
+    "Stars": 44093,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-16T06:43:43Z",
+    "UpdatedAt": "2026-05-02T17:51:28Z",
+    "Owner": "milvus-io",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/site-kit-wp",
+    "Name": "site-kit-wp",
+    "Url": "https://github.com/google/site-kit-wp",
+    "Description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.",
+    "Topics": [
+      "site-kit",
+      "wordpress"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-11T14:20:21Z",
+    "UpdatedAt": "2026-05-02T13:00:20Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "grab/cursor-talk-to-figma-mcp",
+    "Name": "cursor-talk-to-figma-mcp",
+    "Url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+    "Description": "TalkToFigma: MCP integration between AI Agent (Cursor, Claude Code) and Figma, allowing Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
+    "Topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "automation",
+      "cursor",
+      "design",
+      "figma",
+      "generative-ai",
+      "llm",
+      "llms",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "Language": "JavaScript",
+    "Stars": 6720,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-16T16:45:37Z",
+    "UpdatedAt": "2026-05-02T16:59:01Z",
+    "Owner": "grab",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50",
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "samestrin/llm-interface",
+    "Name": "llm-interface",
+    "Url": "https://github.com/samestrin/llm-interface",
+    "Description": "A simple NPM interface for seamlessly interacting with 36 Large Language Model (LLM) providers, including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, and Ollama, and hundreds of models.",
+    "Topics": [
+      "ai",
+      "ai21",
+      "anthropic",
+      "chatgpt",
+      "chatgpt-api",
+      "claude",
+      "cloudflare-ai",
+      "cohere",
+      "gemini",
+      "gooseai",
+      "groq",
+      "huggingface",
+      "llamacpp",
+      "llm",
+      "llm-interface",
+      "mistral",
+      "openai",
+      "perplexity",
+      "reka",
+      "watsonx-ai"
+    ],
+    "Language": "JavaScript",
+    "Stars": 122,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-12T01:14:29Z",
+    "UpdatedAt": "2026-04-26T02:37:29Z",
+    "Owner": "samestrin",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78860,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-02T18:22:54Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nicobailon/surf-cli",
+    "Name": "surf-cli",
+    "Url": "https://github.com/nicobailon/surf-cli",
+    "Description": "The CLI for AI agents to control Chrome. Zero config, agent-agnostic, battle-tested.",
+    "Topics": [
+      "ai-agents",
+      "browser-automation",
+      "chrome",
+      "cli",
+      "devtools"
+    ],
+    "Language": "JavaScript",
+    "Stars": 465,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-28T09:05:24Z",
+    "UpdatedAt": "2026-05-01T18:30:51Z",
+    "Owner": "nicobailon",
+    "SourceQueries": [
+      "topic:ai-agents language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ToolJet/ToolJet",
+    "Name": "ToolJet",
+    "Url": "https://github.com/ToolJet/ToolJet",
+    "Description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "Topics": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript",
+      "kubernetes",
+      "low-code",
+      "low-code-development-platform",
+      "low-code-framework",
+      "no-code",
+      "nodejs",
+      "reactjs",
+      "self-hosted",
+      "typescript",
+      "web-development-tools",
+      "workflow-automation"
+    ],
+    "Language": "JavaScript",
+    "Stars": 37857,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-30T08:51:34Z",
+    "UpdatedAt": "2026-05-02T17:58:01Z",
+    "Owner": "ToolJet",
+    "SourceQueries": [
+      "agent language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PavelMuntyan/MF0-1984",
+    "Name": "MF0-1984",
+    "Url": "https://github.com/PavelMuntyan/MF0-1984",
+    "Description": "AI Agent Personal Helper",
+    "Topics": [
+      "3d-visualization",
+      "anthropic",
+      "better-sqlite3",
+      "chatbot",
+      "es-modules",
+      "google-gemini",
+      "javascript",
+      "knowledge-graph",
+      "llm",
+      "local-first",
+      "multi-provider",
+      "nodejs",
+      "openai",
+      "personal-assistant",
+      "self-hosted",
+      "spa",
+      "sqlite",
+      "vanilla-js",
+      "vite"
+    ],
+    "Language": "JavaScript",
+    "Stars": 79,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-09T17:02:12Z",
+    "UpdatedAt": "2026-05-02T16:28:22Z",
+    "Owner": "PavelMuntyan",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "noemica-io/open-claude-in-chrome",
+    "Name": "open-claude-in-chrome",
+    "Url": "https://github.com/noemica-io/open-claude-in-chrome",
+    "Description": "Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.",
+    "Topics": [
+      "ai-agent",
+      "anthropic",
+      "browser-automation",
+      "chrome-extension",
+      "chromium",
+      "claude",
+      "claude-code",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "open-source",
+      "reverse-engineering"
+    ],
+    "Language": "JavaScript",
+    "Stars": 76,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-31T17:40:10Z",
+    "UpdatedAt": "2026-05-01T13:45:38Z",
+    "Owner": "noemica-io",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-02T16:44:26Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jarrodwatts/claude-code-config",
+    "Name": "claude-code-config",
+    "Url": "https://github.com/jarrodwatts/claude-code-config",
+    "Description": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "Topics": [
+      "ai",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "dotfiles"
+    ],
+    "Language": "JavaScript",
+    "Stars": 1030,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-08T06:30:49Z",
+    "UpdatedAt": "2026-05-02T17:46:07Z",
+    "Owner": "jarrodwatts",
+    "SourceQueries": [
+      "topic:claude language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fregante/GhostText",
+    "Name": "GhostText",
+    "Url": "https://github.com/fregante/GhostText",
+    "Description": "👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).",
+    "Topics": [
+      "browser-extension",
+      "chrome-extension",
+      "firefox-extension",
+      "safari-extension",
+      "sublime-text-plugin",
+      "vscode-extension"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3602,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-06T20:56:32Z",
+    "UpdatedAt": "2026-05-01T10:09:46Z",
+    "Owner": "fregante",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cporter202/scraping-apis-for-devs",
+    "Name": "scraping-apis-for-devs",
+    "Url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "Description": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. ",
+    "Topics": [
+      "api-library",
+      "api-list",
+      "developer-api",
+      "scraping-api"
+    ],
+    "Language": "JavaScript",
+    "Stars": 3446,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-10T18:35:41Z",
+    "UpdatedAt": "2026-05-02T10:42:01Z",
+    "Owner": "cporter202",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52402,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-02T18:27:36Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cporter202/API-mega-list",
+    "Name": "API-mega-list",
+    "Url": "https://github.com/cporter202/API-mega-list",
+    "Description": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
+    "Topics": [
+      "ai-tools",
+      "api",
+      "api-collection",
+      "api-directory",
+      "api-list",
+      "apify",
+      "artificial-intelligence",
+      "automation",
+      "awesome-list",
+      "data-collection",
+      "developer-resources",
+      "developer-tools",
+      "ecommerce",
+      "lead-generation",
+      "mcp",
+      "open-source",
+      "public-apis",
+      "real-estate",
+      "social-media",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-09T15:36:20Z",
+    "UpdatedAt": "2026-05-02T18:26:19Z",
+    "Owner": "cporter202",
+    "SourceQueries": [
+      "everything language:JavaScript stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Vvkmnn/claude-emporium",
+    "Name": "claude-emporium",
+    "Url": "https://github.com/Vvkmnn/claude-emporium",
+    "Description": "🏛 [UNDER CONSTRUCTION] A (roman) claude plugin marketplace ",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "hooks",
+      "llm",
+      "marketplace",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "nodejs",
+      "plugin",
+      "typescript",
+      "workflow",
+      "zero-config"
+    ],
+    "Language": "JavaScript",
+    "Stars": 105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-04T04:03:13Z",
+    "UpdatedAt": "2026-04-22T09:51:06Z",
+    "Owner": "Vvkmnn",
+    "SourceQueries": [
+      "topic:anthropic language:JavaScript stars:>=50"
+    ]
+  }
+]

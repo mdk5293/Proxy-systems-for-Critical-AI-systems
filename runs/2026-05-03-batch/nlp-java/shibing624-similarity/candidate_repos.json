@@ -1,0 +1,4840 @@
+[
+  {
+    "FullName": "bigscience-workshop/petals",
+    "Name": "petals",
+    "Url": "https://github.com/bigscience-workshop/petals",
+    "Description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "Topics": [
+      "bloom",
+      "chatbot",
+      "deep-learning",
+      "distributed-systems",
+      "falcon",
+      "gpt",
+      "guanaco",
+      "language-models",
+      "large-language-models",
+      "llama",
+      "machine-learning",
+      "mixtral",
+      "neural-networks",
+      "nlp",
+      "pipeline-parallelism",
+      "pretrained-models",
+      "pytorch",
+      "tensor-parallelism",
+      "transformer",
+      "volunteer-computing"
+    ],
+    "Language": "Python",
+    "Stars": 10112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-12T00:10:27Z",
+    "UpdatedAt": "2026-05-03T17:15:38Z",
+    "Owner": "bigscience-workshop",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dromara/Sa-Token",
+    "Name": "Sa-Token",
+    "Url": "https://github.com/dromara/Sa-Token",
+    "Description": "✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名",
+    "Topics": [
+      "aouth2",
+      "authorization",
+      "java",
+      "springcloud",
+      "sso",
+      "token"
+    ],
+    "Language": "Java",
+    "Stars": 18778,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-03T10:34:29Z",
+    "UpdatedAt": "2026-05-03T03:54:00Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "infinilabs/analysis-ik",
+    "Name": "analysis-ik",
+    "Url": "https://github.com/infinilabs/analysis-ik",
+    "Description": "🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.",
+    "Topics": [
+      "analyzer",
+      "easysearch",
+      "elasticsearch",
+      "ik-analysis",
+      "java",
+      "opensearch"
+    ],
+    "Language": "Java",
+    "Stars": 17449,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-12-16T09:01:45Z",
+    "UpdatedAt": "2026-05-03T09:04:06Z",
+    "Owner": "infinilabs",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shasankp000/AI-Player",
+    "Name": "AI-Player",
+    "Url": "https://github.com/shasankp000/AI-Player",
+    "Description": "A minecraft mod which aims to add a \"second player\" into the game which will actually be intelligent.",
+    "Topics": [
+      "artificial-intelligence",
+      "game-modding",
+      "java",
+      "minecraft",
+      "minecraft-mod",
+      "natual-language-processing",
+      "nlp",
+      "q-learning",
+      "reinforcement-learning",
+      "reinforcement-learning-agent"
+    ],
+    "Language": "Java",
+    "Stars": 120,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-06T07:44:15Z",
+    "UpdatedAt": "2026-05-01T10:36:25Z",
+    "Owner": "shasankp000",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tdebatty/java-string-similarity",
+    "Name": "java-string-similarity",
+    "Url": "https://github.com/tdebatty/java-string-similarity",
+    "Description": "Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+    "Topics": [
+      "algorithm",
+      "cosine-similarity",
+      "damerau-levenshtein",
+      "distance",
+      "distance-measure",
+      "jaro-winkler",
+      "java",
+      "levenshtein-distance",
+      "shingles",
+      "similarity-measures",
+      "string-distance"
+    ],
+    "Language": "Java",
+    "Stars": 2743,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-17T12:10:57Z",
+    "UpdatedAt": "2026-05-02T23:16:52Z",
+    "Owner": "tdebatty",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "android-async-http/android-async-http",
+    "Name": "android-async-http",
+    "Url": "https://github.com/android-async-http/android-async-http",
+    "Description": "An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.",
+    "Topics": [
+      "android",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 10595,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-20T03:25:07Z",
+    "UpdatedAt": "2026-05-02T09:59:08Z",
+    "Owner": "android-async-http",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "android10/Android-CleanArchitecture",
+    "Name": "Android-CleanArchitecture",
+    "Url": "https://github.com/android10/Android-CleanArchitecture",
+    "Description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+    "Topics": [
+      "android",
+      "android-application",
+      "android-architecture",
+      "android-cleanarchitecture",
+      "android-development",
+      "architectural",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 15548,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-19T14:09:26Z",
+    "UpdatedAt": "2026-05-02T09:59:37Z",
+    "Owner": "android10",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "supertokens/supertokens-core",
+    "Name": "supertokens-core",
+    "Url": "https://github.com/supertokens/supertokens-core",
+    "Description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
+    "Topics": [
+      "auth0",
+      "authentication",
+      "aws-cognito",
+      "email-password",
+      "email-password-login",
+      "firebase-auth",
+      "hacktoberfest",
+      "java",
+      "keycloak",
+      "login",
+      "oauth",
+      "password",
+      "passwordless",
+      "passwordless-authentication",
+      "passwordless-login",
+      "session-management",
+      "signin",
+      "social-login",
+      "supertokens"
+    ],
+    "Language": "Java",
+    "Stars": 15028,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-05T13:30:52Z",
+    "UpdatedAt": "2026-05-02T18:11:01Z",
+    "Owner": "supertokens",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "memvid/memvid",
+    "Name": "memvid",
+    "Url": "https://github.com/memvid/memvid",
+    "Description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+    "Topics": [
+      "ai",
+      "context",
+      "embedded",
+      "faiss",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm",
+      "machine-learning",
+      "memory",
+      "memvid",
+      "mv2",
+      "nlp",
+      "offline-first",
+      "opencv",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "vector-database",
+      "video-processing"
+    ],
+    "Language": "Rust",
+    "Stars": 15339,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-27T16:01:08Z",
+    "UpdatedAt": "2026-05-03T15:27:07Z",
+    "Owner": "memvid",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "p-v/DateTimeSeer",
+    "Name": "DateTimeSeer",
+    "Url": "https://github.com/p-v/DateTimeSeer",
+    "Description": "A painless way to pick future time.",
+    "Topics": [
+      "android",
+      "datetime",
+      "nlp"
+    ],
+    "Language": "Java",
+    "Stars": 154,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-30T17:40:57Z",
+    "UpdatedAt": "2025-10-28T22:45:59Z",
+    "Owner": "p-v",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "conductor-oss/conductor",
+    "Name": "conductor",
+    "Url": "https://github.com/conductor-oss/conductor",
+    "Description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
+    "Topics": [
+      "distributed-systems",
+      "durable-execution",
+      "grpc",
+      "java",
+      "javascript",
+      "microservice-orchestration",
+      "orchestration-engine",
+      "orchestrator",
+      "reactjs",
+      "spring-boot",
+      "workflow-automation",
+      "workflow-engine",
+      "workflow-management",
+      "workflows"
+    ],
+    "Language": "Java",
+    "Stars": 31756,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-08T06:06:09Z",
+    "UpdatedAt": "2026-05-03T17:48:02Z",
+    "Owner": "conductor-oss",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "perwendel/spark",
+    "Name": "spark",
+    "Url": "https://github.com/perwendel/spark",
+    "Description": "A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9662,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-05-05T11:52:05Z",
+    "UpdatedAt": "2026-04-21T12:04:55Z",
+    "Owner": "perwendel",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hollischuang/toBeTopJavaer",
+    "Name": "toBeTopJavaer",
+    "Url": "https://github.com/hollischuang/toBeTopJavaer",
+    "Description": "To Be Top Javaer - Java工程师成神之路",
+    "Topics": [
+      "design-patterns",
+      "java",
+      "jvm",
+      "mysql",
+      "programmer",
+      "spring"
+    ],
+    "Language": "Java",
+    "Stars": 25430,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-25T09:54:54Z",
+    "UpdatedAt": "2026-05-02T10:01:03Z",
+    "Owner": "hollischuang",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Snailclimb/JavaGuide",
+    "Name": "JavaGuide",
+    "Url": "https://github.com/Snailclimb/JavaGuide",
+    "Description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+    "Topics": [
+      "agent",
+      "context-engineering",
+      "interview",
+      "java",
+      "jvm",
+      "mcp",
+      "mysql",
+      "redis",
+      "redisson",
+      "skills",
+      "spring",
+      "system",
+      "system-design"
+    ],
+    "Language": "Java",
+    "Stars": 155382,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-07T13:27:00Z",
+    "UpdatedAt": "2026-05-03T17:43:19Z",
+    "Owner": "Snailclimb",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "antlr/antlr4",
+    "Name": "antlr4",
+    "Url": "https://github.com/antlr/antlr4",
+    "Description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+    "Topics": [
+      "antlr",
+      "antlr4",
+      "cpp",
+      "csharp",
+      "dart",
+      "golang",
+      "grammar",
+      "java",
+      "javascript",
+      "language-recognition",
+      "parse",
+      "parser-generator",
+      "parsing",
+      "php",
+      "python",
+      "swift"
+    ],
+    "Language": "Java",
+    "Stars": 18859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-02-04T01:36:28Z",
+    "UpdatedAt": "2026-05-03T13:45:55Z",
+    "Owner": "antlr",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/unilm",
+    "Name": "unilm",
+    "Url": "https://github.com/microsoft/unilm",
+    "Description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "Topics": [
+      "beit",
+      "beit-3",
+      "bitnet",
+      "deepnet",
+      "document-ai",
+      "foundation-models",
+      "kosmos",
+      "kosmos-1",
+      "layoutlm",
+      "layoutxlm",
+      "llm",
+      "minilm",
+      "mllm",
+      "multimodal",
+      "nlp",
+      "pre-trained-model",
+      "textdiffuser",
+      "trocr",
+      "unilm",
+      "xlm-e"
+    ],
+    "Language": "Python",
+    "Stars": 22114,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-23T04:15:28Z",
+    "UpdatedAt": "2026-05-03T02:16:58Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "redisson/redisson",
+    "Name": "redisson",
+    "Url": "https://github.com/redisson/redisson",
+    "Description": "Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+    "Topics": [
+      "cache",
+      "distributed",
+      "distributed-locks",
+      "executor",
+      "hibernate",
+      "java",
+      "json",
+      "lock",
+      "map",
+      "micronaut",
+      "quarkus",
+      "queue",
+      "redis",
+      "redis-client",
+      "scheduler",
+      "session",
+      "spring",
+      "tomcat",
+      "valkey",
+      "valkey-client"
+    ],
+    "Language": "Java",
+    "Stars": 24314,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-11T14:06:25Z",
+    "UpdatedAt": "2026-05-03T08:51:30Z",
+    "Owner": "redisson",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spring-projects/spring-framework",
+    "Name": "spring-framework",
+    "Url": "https://github.com/spring-projects/spring-framework",
+    "Description": "Spring Framework",
+    "Topics": [
+      "framework",
+      "spring",
+      "spring-framework"
+    ],
+    "Language": "Java",
+    "Stars": 59894,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-08T04:04:45Z",
+    "UpdatedAt": "2026-05-03T12:37:19Z",
+    "Owner": "spring-projects",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doocs/leetcode",
+    "Name": "leetcode",
+    "Url": "https://github.com/doocs/leetcode",
+    "Description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "Topics": [
+      "algorithms",
+      "cpp",
+      "csharp",
+      "golang",
+      "java",
+      "javascript",
+      "leetcode",
+      "python3"
+    ],
+    "Language": "Java",
+    "Stars": 35965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-16T14:03:03Z",
+    "UpdatedAt": "2026-05-03T17:59:19Z",
+    "Owner": "doocs",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dianping/cat",
+    "Name": "cat",
+    "Url": "https://github.com/dianping/cat",
+    "Description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "Topics": [
+      "apm",
+      "distributed",
+      "java",
+      "metrics",
+      "monitoring",
+      "realtime",
+      "tracing"
+    ],
+    "Language": "Java",
+    "Stars": 18957,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-05T02:31:48Z",
+    "UpdatedAt": "2026-05-03T02:32:52Z",
+    "Owner": "dianping",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oracle/graal",
+    "Name": "graal",
+    "Url": "https://github.com/oracle/graal",
+    "Description": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+    "Topics": [
+      "aot",
+      "compiler",
+      "graalvm",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 21574,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-14T17:11:35Z",
+    "UpdatedAt": "2026-05-03T15:29:37Z",
+    "Owner": "oracle",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xuchengsheng/spring-reading",
+    "Name": "spring-reading",
+    "Url": "https://github.com/xuchengsheng/spring-reading",
+    "Description": "涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。",
+    "Topics": [
+      "annotations",
+      "awareinterface",
+      "backenddevelopment",
+      "java",
+      "javabackend",
+      "mybatis",
+      "mybatis-plus",
+      "opensource",
+      "servlet",
+      "sourcecodeanalysis",
+      "spring",
+      "spring-aop",
+      "spring-boot",
+      "spring-cloud",
+      "spring-data-jpa",
+      "spring-security",
+      "springboot2",
+      "springframework",
+      "springmvc",
+      "web"
+    ],
+    "Language": "Java",
+    "Stars": 9927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-15T06:42:44Z",
+    "UpdatedAt": "2026-05-03T06:23:46Z",
+    "Owner": "xuchengsheng",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall",
+    "Name": "mall",
+    "Url": "https://github.com/macrozheng/mall",
+    "Description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "Topics": [
+      "docker",
+      "elasticsearch",
+      "elk",
+      "java",
+      "mongodb",
+      "mybatis",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring",
+      "spring-boot",
+      "spring-cloud",
+      "spring-security",
+      "springboot",
+      "springcloud",
+      "swagger-ui"
+    ],
+    "Language": "Java",
+    "Stars": 83534,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-04T01:11:44Z",
+    "UpdatedAt": "2026-05-03T16:33:00Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepset-ai/haystack",
+    "Name": "haystack",
+    "Url": "https://github.com/deepset-ai/haystack",
+    "Description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "Topics": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "orchestration",
+      "python",
+      "pytorch",
+      "question-answering",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "summarization",
+      "transformers"
+    ],
+    "Language": "MDX",
+    "Stars": 25064,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T09:05:28Z",
+    "UpdatedAt": "2026-05-03T15:01:45Z",
+    "Owner": "deepset-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xuxueli/xxl-job",
+    "Name": "xxl-job",
+    "Url": "https://github.com/xuxueli/xxl-job",
+    "Description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "Topics": [
+      "cron",
+      "distributed",
+      "glue",
+      "java",
+      "job",
+      "quartz",
+      "restful",
+      "schedule",
+      "scheduler",
+      "task",
+      "xxl-job"
+    ],
+    "Language": "Java",
+    "Stars": 30120,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-28T12:59:34Z",
+    "UpdatedAt": "2026-05-03T03:53:51Z",
+    "Owner": "xuxueli",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "elastic/elasticsearch",
+    "Name": "elasticsearch",
+    "Url": "https://github.com/elastic/elasticsearch",
+    "Description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "Topics": [
+      "elasticsearch",
+      "java",
+      "search-engine"
+    ],
+    "Language": "Java",
+    "Stars": 76631,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-02-08T13:20:56Z",
+    "UpdatedAt": "2026-05-03T17:16:03Z",
+    "Owner": "elastic",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Canner/wren-engine",
+    "Name": "wren-engine",
+    "Url": "https://github.com/Canner/wren-engine",
+    "Description": "The open context engine for AI agents support 15+ data sources. Built on Rust and Apache DataFusion.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "business-intelligence",
+      "data",
+      "data-analysis",
+      "data-analytics",
+      "data-lake",
+      "data-warehouse",
+      "hacktoberfest",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "semantic",
+      "semantic-layer",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 660,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-09T07:07:45Z",
+    "UpdatedAt": "2026-05-03T01:32:15Z",
+    "Owner": "Canner",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LMAX-Exchange/disruptor",
+    "Name": "disruptor",
+    "Url": "https://github.com/LMAX-Exchange/disruptor",
+    "Description": "High Performance Inter-Thread Messaging Library",
+    "Topics": [
+      "concurrency",
+      "disruptor",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 18323,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-21T13:42:24Z",
+    "UpdatedAt": "2026-05-03T10:01:29Z",
+    "Owner": "LMAX-Exchange",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "iluwatar/java-design-patterns",
+    "Name": "java-design-patterns",
+    "Url": "https://github.com/iluwatar/java-design-patterns",
+    "Description": "Design patterns implemented in Java",
+    "Topics": [
+      "awesome-list",
+      "design-patterns",
+      "hacktoberfest",
+      "java",
+      "principles",
+      "snippets",
+      "snippets-collection",
+      "snippets-library"
+    ],
+    "Language": "Java",
+    "Stars": 93963,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-09T16:45:18Z",
+    "UpdatedAt": "2026-05-03T16:42:53Z",
+    "Owner": "iluwatar",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "crossoverJie/JCSprout",
+    "Name": "JCSprout",
+    "Url": "https://github.com/crossoverJie/JCSprout",
+    "Description": "👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",
+    "Topics": [
+      "algorithm",
+      "basic-java",
+      "concurrent-programming",
+      "java",
+      "jvm",
+      "netty"
+    ],
+    "Language": "Java",
+    "Stars": 26944,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-17T09:06:50Z",
+    "UpdatedAt": "2026-05-03T14:35:01Z",
+    "Owner": "crossoverJie",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "libgdx/libgdx",
+    "Name": "libgdx",
+    "Url": "https://github.com/libgdx/libgdx",
+    "Description": "Desktop/Android/HTML5/iOS Java game development framework",
+    "Topics": [
+      "2d",
+      "3d",
+      "android",
+      "cross-platform",
+      "framework",
+      "game",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "html5",
+      "ios",
+      "java",
+      "libgdx",
+      "linux",
+      "macosx",
+      "windows"
+    ],
+    "Language": "Java",
+    "Stars": 25057,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-10T19:34:38Z",
+    "UpdatedAt": "2026-05-03T13:35:08Z",
+    "Owner": "libgdx",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "guokr/simbase",
+    "Name": "simbase",
+    "Url": "https://github.com/guokr/simbase",
+    "Description": "A vector similarity database",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 233,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-07-24T06:03:52Z",
+    "UpdatedAt": "2026-04-03T05:39:23Z",
+    "Owner": "guokr",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jsksxs360/AHANLP",
+    "Name": "AHANLP",
+    "Url": "https://github.com/jsksxs360/AHANLP",
+    "Description": "啊哈自然语言处理包，提供包括分词、依存句法分析、语义角色标注、自动摘要、语义相似度计算、LDA 主题预测、词云等服务。",
+    "Topics": [
+      "chinese",
+      "nlp"
+    ],
+    "Language": "Java",
+    "Stars": 311,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-19T05:48:58Z",
+    "UpdatedAt": "2026-05-01T12:56:19Z",
+    "Owner": "jsksxs360",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airyhq/airy",
+    "Name": "airy",
+    "Url": "https://github.com/airyhq/airy",
+    "Description": "💬  Open Source App Framework to build streaming apps with real-time data - 💎  Build real-time data pipelines and make real-time data universally accessible - 🤖  Join historical and real-time data in the stream to create smarter ML and AI applications.  - ⚡ Standardize complex data ingestion and stream data to apps with pre-built connectors",
+    "Topics": [
+      "airy",
+      "bot",
+      "bots",
+      "cloud",
+      "conversational-ai",
+      "conversational-bots",
+      "ingestion-platform",
+      "kafka",
+      "kafka-streams",
+      "kubernetes",
+      "natural-language-processing",
+      "nlp",
+      "nlu",
+      "opensource",
+      "streaming"
+    ],
+    "Language": "Java",
+    "Stars": 402,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-09T08:35:38Z",
+    "UpdatedAt": "2026-04-12T06:31:55Z",
+    "Owner": "airyhq",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yuliskov/SmartTube",
+    "Name": "SmartTube",
+    "Url": "https://github.com/yuliskov/SmartTube",
+    "Description": "Browse media content with your own rules on Android TV",
+    "Topics": [
+      "android",
+      "android-tv",
+      "android-tv-box",
+      "java",
+      "kotlin",
+      "retrofit2",
+      "rxjava-android"
+    ],
+    "Language": "Java",
+    "Stars": 29918,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-28T12:53:52Z",
+    "UpdatedAt": "2026-05-03T17:29:45Z",
+    "Owner": "yuliskov",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openjdk/jdk",
+    "Name": "jdk",
+    "Url": "https://github.com/openjdk/jdk",
+    "Description": "JDK main-line development https://openjdk.org/projects/jdk",
+    "Topics": [
+      "java",
+      "jvm",
+      "openjdk"
+    ],
+    "Language": "Java",
+    "Stars": 22844,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-17T12:29:20Z",
+    "UpdatedAt": "2026-05-03T15:37:38Z",
+    "Owner": "openjdk",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "signalapp/Signal-Server",
+    "Name": "Signal-Server",
+    "Url": "https://github.com/signalapp/Signal-Server",
+    "Description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 10523,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-12-09T07:10:36Z",
+    "UpdatedAt": "2026-05-03T10:55:47Z",
+    "Owner": "signalapp",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "EtienneAb3d/WhisperTimeSync",
+    "Name": "WhisperTimeSync",
+    "Url": "https://github.com/EtienneAb3d/WhisperTimeSync",
+    "Description": "Synchronize Whisper's timestamps over an existing accurate transcription",
+    "Topics": [
+      "aligner",
+      "asr",
+      "nlp",
+      "subtitles",
+      "text-to-speech",
+      "whisper"
+    ],
+    "Language": "Java",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T07:47:00Z",
+    "UpdatedAt": "2026-03-25T03:28:24Z",
+    "Owner": "EtienneAb3d",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanford-oval/storm",
+    "Name": "storm",
+    "Url": "https://github.com/stanford-oval/storm",
+    "Description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "Topics": [
+      "agentic-rag",
+      "deep-research",
+      "emnlp2024",
+      "knowledge-curation",
+      "large-language-models",
+      "naacl",
+      "nlp",
+      "report-generation",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 28156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-24T16:23:39Z",
+    "UpdatedAt": "2026-05-03T10:07:20Z",
+    "Owner": "stanford-oval",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HuDaoquan/HomeworkSimilarity",
+    "Name": "HomeworkSimilarity",
+    "Url": "https://github.com/HuDaoquan/HomeworkSimilarity",
+    "Description": "本地作业查重系统。对本地某一目录下所有word文档和txt文档进行两两之间的相似度计算。图片相似度采用PHash算法，文字相似度采用jaccard相似度和余弦相似度结合进行计算。程序已经生成了32位和64位exe文件，直接解压后选择作业查重x32和作业查重x64文件夹即可运行（下载链接：链接: https://pan.baidu.com/s/1PA1x786sXzsr0J4cJI5z-A 提取码: umfm）",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-02T02:56:34Z",
+    "UpdatedAt": "2026-03-21T12:08:57Z",
+    "Owner": "HuDaoquan",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dbeaver/dbeaver",
+    "Name": "dbeaver",
+    "Url": "https://github.com/dbeaver/dbeaver",
+    "Description": "Free universal database tool and SQL client",
+    "Topics": [
+      "ai",
+      "copilot",
+      "database",
+      "db2",
+      "dbeaver",
+      "erd",
+      "gui",
+      "java",
+      "jdbc",
+      "mysql",
+      "nosql",
+      "openai",
+      "oracle",
+      "postgresql",
+      "redshift",
+      "sql",
+      "sqlite",
+      "sqlserver"
+    ],
+    "Language": "Java",
+    "Stars": 49837,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-21T08:26:28Z",
+    "UpdatedAt": "2026-05-03T12:18:27Z",
+    "Owner": "dbeaver",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LuckSiege/PictureSelector",
+    "Name": "PictureSelector",
+    "Url": "https://github.com/LuckSiege/PictureSelector",
+    "Description": "Picture Selector Library for Android or 图片选择器",
+    "Topics": [
+      "android",
+      "android-image-selector",
+      "camera",
+      "compress",
+      "glide",
+      "image-compression",
+      "image-picker",
+      "images",
+      "multi-selector",
+      "photo",
+      "photoview",
+      "picker",
+      "picture-selector",
+      "video"
+    ],
+    "Language": "Java",
+    "Stars": 13594,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-04T07:47:39Z",
+    "UpdatedAt": "2026-05-01T04:42:43Z",
+    "Owner": "LuckSiege",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xkcoding/spring-boot-demo",
+    "Name": "spring-boot-demo",
+    "Url": "https://github.com/xkcoding/spring-boot-demo",
+    "Description": "🚀一个用来深入学习并实战 Spring Boot 的项目。",
+    "Topics": [
+      "demo",
+      "in-action",
+      "java",
+      "spring",
+      "spring-boot",
+      "spring-boot-2",
+      "spring-boot-demo",
+      "web",
+      "xkcoding"
+    ],
+    "Language": "Java",
+    "Stars": 34101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-10T06:27:29Z",
+    "UpdatedAt": "2026-05-03T14:16:50Z",
+    "Owner": "xkcoding",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Galigator/openllet",
+    "Name": "openllet",
+    "Url": "https://github.com/Galigator/openllet",
+    "Description": "Openllet is an OWL 2 reasoner in Java, build on top of Pellet.",
+    "Topics": [
+      "inference",
+      "java",
+      "jena",
+      "logic",
+      "owl",
+      "owl-api",
+      "owl2",
+      "reasoner",
+      "semantic"
+    ],
+    "Language": "Java",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-21T23:20:19Z",
+    "UpdatedAt": "2026-04-12T14:37:18Z",
+    "Owner": "Galigator",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mybatis/mybatis-3",
+    "Name": "mybatis-3",
+    "Url": "https://github.com/mybatis/mybatis-3",
+    "Description": "MyBatis SQL mapper framework for Java",
+    "Topics": [
+      "java",
+      "mybatis",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 20417,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-14T19:03:32Z",
+    "UpdatedAt": "2026-05-03T04:22:31Z",
+    "Owner": "mybatis",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yaoguangluo/Deta_Parser",
+    "Name": "Deta_Parser",
+    "Url": "https://github.com/yaoguangluo/Deta_Parser",
+    "Description": "快速中文分词分析word segmentation",
+    "Topics": [
+      "artificial-intelligence-algorithms",
+      "binary",
+      "eculid",
+      "entropy-rate",
+      "forest",
+      "hmm",
+      "multi-language",
+      "nero",
+      "nlp",
+      "orthor",
+      "parser",
+      "pos",
+      "quicksort",
+      "science",
+      "segmentation",
+      "sensing",
+      "sonar",
+      "translator-speech-api",
+      "turing-machine",
+      "vpc"
+    ],
+    "Language": "Java",
+    "Stars": 479,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-26T13:50:48Z",
+    "UpdatedAt": "2026-05-02T15:23:06Z",
+    "Owner": "yaoguangluo",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kavgan/ROUGE-2.0",
+    "Name": "ROUGE-2.0",
+    "Url": "https://github.com/kavgan/ROUGE-2.0",
+    "Description": "ROUGE automatic summarization evaluation toolkit. Support for ROUGE-[N, L, S, SU], stemming and stopwords in different languages, unicode text evaluation, CSV output.",
+    "Topics": [
+      "evaluation",
+      "evaluation-toolkit",
+      "java",
+      "metrics",
+      "nlp",
+      "rouge",
+      "rouge-l",
+      "rouge-n",
+      "rouge-s",
+      "rouge-su",
+      "text-summarization",
+      "unicode-text"
+    ],
+    "Language": "Java",
+    "Stars": 221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-17T19:03:10Z",
+    "UpdatedAt": "2026-04-01T14:50:58Z",
+    "Owner": "kavgan",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "seaswalker/spring-analysis",
+    "Name": "spring-analysis",
+    "Url": "https://github.com/seaswalker/spring-analysis",
+    "Description": "Spring源码阅读",
+    "Topics": [
+      "notes",
+      "source-code-analysis",
+      "spring"
+    ],
+    "Language": "Java",
+    "Stars": 13757,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-09T07:46:32Z",
+    "UpdatedAt": "2026-05-03T08:55:45Z",
+    "Owner": "seaswalker",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nivance/image-similarity",
+    "Name": "image-similarity",
+    "Url": "https://github.com/nivance/image-similarity",
+    "Description": "计算图片之间的相似度",
+    "Topics": [
+      "image",
+      "image-analysis",
+      "image-processing",
+      "image-recognition"
+    ],
+    "Language": "Java",
+    "Stars": 659,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-29T08:23:35Z",
+    "UpdatedAt": "2026-04-13T09:10:23Z",
+    "Owner": "nivance",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "umano/AndroidSlidingUpPanel",
+    "Name": "AndroidSlidingUpPanel",
+    "Url": "https://github.com/umano/AndroidSlidingUpPanel",
+    "Description": "This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9467,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-05-31T18:33:53Z",
+    "UpdatedAt": "2026-05-02T09:59:21Z",
+    "Owner": "umano",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zoho/hawking",
+    "Name": "hawking",
+    "Url": "https://github.com/zoho/hawking",
+    "Description": "A Natural Language Date Time Parser that Extract date and time from text with context and parse to the required format ",
+    "Topics": [
+      "configurations-hawking",
+      "corenlp",
+      "date-parser",
+      "dateformat",
+      "datetime",
+      "datetimepicker",
+      "machinelearning",
+      "nlp",
+      "nlp-libary",
+      "parse-dates",
+      "timeparser",
+      "timezones"
+    ],
+    "Language": "Java",
+    "Stars": 248,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-09T09:24:26Z",
+    "UpdatedAt": "2026-04-21T09:40:13Z",
+    "Owner": "zoho",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/CoreNLP",
+    "Name": "CoreNLP",
+    "Url": "https://github.com/stanfordnlp/CoreNLP",
+    "Description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+    "Topics": [
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "nlp-parsing",
+      "stanford-nlp"
+    ],
+    "Language": "Java",
+    "Stars": 10070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-06-27T21:13:49Z",
+    "UpdatedAt": "2026-05-01T19:40:06Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50",
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CreekLou/simhash",
+    "Name": "simhash",
+    "Url": "https://github.com/CreekLou/simhash",
+    "Description": "An efficient algorithm for text similarity computation",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 61,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-16T01:22:41Z",
+    "UpdatedAt": "2026-04-06T10:15:53Z",
+    "Owner": "CreekLou",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MyCATApache/Mycat-Server",
+    "Name": "Mycat-Server",
+    "Url": "https://github.com/MyCATApache/Mycat-Server",
+    "Description": "",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9539,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-12-04T02:46:54Z",
+    "UpdatedAt": "2026-05-03T11:26:18Z",
+    "Owner": "MyCATApache",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spring-projects/spring-security",
+    "Name": "spring-security",
+    "Url": "https://github.com/spring-projects/spring-security",
+    "Description": "Spring Security",
+    "Topics": [
+      "framework",
+      "java",
+      "security",
+      "spring",
+      "spring-framework"
+    ],
+    "Language": "Java",
+    "Stars": 9500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-01-10T21:50:57Z",
+    "UpdatedAt": "2026-05-03T16:16:04Z",
+    "Owner": "spring-projects",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-LLaMA-Alpaca",
+    "Name": "Chinese-LLaMA-Alpaca",
+    "Url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "Description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+    "Topics": [
+      "alpaca",
+      "alpaca-2",
+      "large-language-models",
+      "llama",
+      "llama-2",
+      "llm",
+      "lora",
+      "nlp",
+      "plm",
+      "pre-trained-language-models",
+      "quantization"
+    ],
+    "Language": "Python",
+    "Stars": 18944,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-15T11:09:39Z",
+    "UpdatedAt": "2026-05-03T15:11:47Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "scwang90/SmartRefreshLayout",
+    "Name": "SmartRefreshLayout",
+    "Url": "https://github.com/scwang90/SmartRefreshLayout",
+    "Description": "🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。",
+    "Topics": [
+      "android",
+      "android-ui",
+      "footer",
+      "header",
+      "overscroll",
+      "pull-to-refresh",
+      "pulltorefresh",
+      "refreshlayout"
+    ],
+    "Language": "Java",
+    "Stars": 25163,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-02T09:52:50Z",
+    "UpdatedAt": "2026-05-02T10:00:39Z",
+    "Owner": "scwang90",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/arthas",
+    "Name": "arthas",
+    "Url": "https://github.com/alibaba/arthas",
+    "Description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "Topics": [
+      "agent",
+      "alibaba",
+      "arthas",
+      "classloader",
+      "diagnosis",
+      "java",
+      "jvm",
+      "trace",
+      "trouble-shooting"
+    ],
+    "Language": "Java",
+    "Stars": 37287,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-29T17:15:57Z",
+    "UpdatedAt": "2026-05-03T14:34:48Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ReactiveX/RxJava",
+    "Name": "RxJava",
+    "Url": "https://github.com/ReactiveX/RxJava",
+    "Description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+    "Topics": [
+      "flow",
+      "java",
+      "reactive-streams",
+      "rxjava"
+    ],
+    "Language": "Java",
+    "Stars": 48284,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-01-08T20:11:48Z",
+    "UpdatedAt": "2026-05-03T14:33:57Z",
+    "Owner": "ReactiveX",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AccumulateMore/CV",
+    "Name": "CV",
+    "Url": "https://github.com/AccumulateMore/CV",
+    "Description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+    "Topics": [
+      "agent",
+      "agents",
+      "book",
+      "chinese",
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "jupyter-notebook",
+      "llm",
+      "llms",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "notebook",
+      "python",
+      "rag"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 20604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-31T13:19:32Z",
+    "UpdatedAt": "2026-05-03T16:03:58Z",
+    "Owner": "AccumulateMore",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "StarRocks/starrocks",
+    "Name": "starrocks",
+    "Url": "https://github.com/StarRocks/starrocks",
+    "Description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+    "Topics": [
+      "analytics",
+      "big-data",
+      "cloudnative",
+      "database",
+      "datalake",
+      "delta-lake",
+      "distributed-database",
+      "hudi",
+      "iceberg",
+      "join",
+      "lakehouse",
+      "lakehouse-platform",
+      "mpp",
+      "olap",
+      "real-time-analytics",
+      "real-time-updates",
+      "realtime-database",
+      "sql",
+      "star-schema",
+      "vectorized"
+    ],
+    "Language": "Java",
+    "Stars": 11637,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-04T02:29:35Z",
+    "UpdatedAt": "2026-05-03T17:02:39Z",
+    "Owner": "StarRocks",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/ctakes",
+    "Name": "ctakes",
+    "Url": "https://github.com/apache/ctakes",
+    "Description": "Apache cTAKES is a Natural Language Processing (NLP) platform for clinical text.",
+    "Topics": [
+      "ai",
+      "bioinformatics",
+      "clinical",
+      "ctakes",
+      "ehr",
+      "emr",
+      "healthcare",
+      "medicine",
+      "ml",
+      "named-entity-recognition",
+      "nlp",
+      "temporal-information",
+      "uima",
+      "umls"
+    ],
+    "Language": "Java",
+    "Stars": 126,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-29T13:43:35Z",
+    "UpdatedAt": "2026-04-21T09:43:10Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "daniulive/SmarterStreaming",
+    "Name": "SmarterStreaming",
+    "Url": "https://github.com/daniulive/SmarterStreaming",
+    "Description": "业内为数不多致力于极致体验的超强全自研跨平台(windows/linux/android/iOS)流媒体内核，通过模块化自由组合，支持实时RTMP推流、RTSP推流、RTMP播放器、RTSP播放器、录像、多路流媒体转发、音视频导播、动态视频合成、音频混音、直播互动、内置轻量级RTSP服务等，比快更快，业界真正靠谱的超低延迟直播SDK(延迟低至100~200ms)。",
+    "Topics": [
+      "android-rtmp",
+      "gb28181",
+      "hevc",
+      "http-flv",
+      "ios-rtmp",
+      "linux",
+      "player",
+      "rtmp",
+      "rtmp-client",
+      "rtmp-h265",
+      "rtmp-player",
+      "rtmp-pusher",
+      "rtmpclient",
+      "rtsp",
+      "rtsp-player",
+      "rtsp-relay",
+      "rtsp-to-rtmp",
+      "rtspclient",
+      "windows-rtmp"
+    ],
+    "Language": "Java",
+    "Stars": 11166,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-26T14:46:02Z",
+    "UpdatedAt": "2026-05-02T10:00:13Z",
+    "Owner": "daniulive",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openvinotoolkit/openvino",
+    "Name": "openvino",
+    "Url": "https://github.com/openvinotoolkit/openvino",
+    "Description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "Topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "deploy-ai",
+      "diffusion-models",
+      "generative-ai",
+      "good-first-issue",
+      "inference",
+      "llm-inference",
+      "natural-language-processing",
+      "nlp",
+      "openvino",
+      "optimize-ai",
+      "performance-boost",
+      "recommendation-system",
+      "speech-recognition",
+      "stable-diffusion",
+      "transformers",
+      "yolo"
+    ],
+    "Language": "C++",
+    "Stars": 10169,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-15T10:54:40Z",
+    "UpdatedAt": "2026-05-03T07:12:08Z",
+    "Owner": "openvinotoolkit",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wen-fei/AngelEyes",
+    "Name": "AngelEyes",
+    "Url": "https://github.com/wen-fei/AngelEyes",
+    "Description": "a system for searching information about losing children. you can find text information and upload images to achieve the similarity with the images in the system database so that you can be sure if this children is the person who you want to find.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 54,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-25T07:10:31Z",
+    "UpdatedAt": "2025-07-07T02:44:26Z",
+    "Owner": "wen-fei",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apachecn/ailearning",
+    "Name": "ailearning",
+    "Url": "https://github.com/apachecn/ailearning",
+    "Description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "Topics": [
+      "adaboost",
+      "apriori",
+      "deeplearning",
+      "dnn",
+      "fp-growth",
+      "kmeans",
+      "logistic",
+      "lstm",
+      "mahchine-leaning",
+      "naivebayes",
+      "nlp",
+      "pca",
+      "python",
+      "recommendedsystem",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "sklearn",
+      "svd",
+      "svm"
+    ],
+    "Language": "Python",
+    "Stars": 42221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-25T08:53:02Z",
+    "UpdatedAt": "2026-05-03T13:46:54Z",
+    "Owner": "apachecn",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "botpress/botpress",
+    "Name": "botpress",
+    "Url": "https://github.com/botpress/botpress",
+    "Description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+    "Topics": [
+      "agent",
+      "ai",
+      "botpress",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "langchain",
+      "llm",
+      "nlp",
+      "openai",
+      "prompt"
+    ],
+    "Language": "TypeScript",
+    "Stars": 14666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-16T21:57:59Z",
+    "UpdatedAt": "2026-05-03T13:39:04Z",
+    "Owner": "botpress",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lihengming/spring-boot-api-project-seed",
+    "Name": "spring-boot-api-project-seed",
+    "Url": "https://github.com/lihengming/spring-boot-api-project-seed",
+    "Description": ":seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~",
+    "Topics": [
+      "api",
+      "java",
+      "mapper",
+      "mybatis",
+      "mybatis-pagehelper",
+      "rest",
+      "restful",
+      "seed",
+      "spring-boot"
+    ],
+    "Language": "Java",
+    "Stars": 9707,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-23T10:06:30Z",
+    "UpdatedAt": "2026-05-03T14:37:40Z",
+    "Owner": "lihengming",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/shardingsphere",
+    "Name": "shardingsphere",
+    "Url": "https://github.com/apache/shardingsphere",
+    "Description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+    "Topics": [
+      "bigdata",
+      "data-encryption",
+      "data-pipeline",
+      "database",
+      "database-cluster",
+      "database-gateway",
+      "database-middleware",
+      "distributed-database",
+      "distributed-sql-database",
+      "distributed-transaction",
+      "encrypt",
+      "mysql",
+      "postgresql",
+      "read-write-splitting",
+      "shard",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 20716,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-18T12:49:26Z",
+    "UpdatedAt": "2026-05-02T04:11:35Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datquocnguyen/jLDADMM",
+    "Name": "jLDADMM",
+    "Url": "https://github.com/datquocnguyen/jLDADMM",
+    "Description": "A Java package for the LDA and DMM topic models",
+    "Topics": [
+      "gibbs-sampling",
+      "lda",
+      "nlp",
+      "short-text",
+      "topic-modeling",
+      "topic-models"
+    ],
+    "Language": "Java",
+    "Stars": 85,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-13T12:25:36Z",
+    "UpdatedAt": "2026-02-12T16:35:32Z",
+    "Owner": "datquocnguyen",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tangyudi/Ai-Learn",
+    "Name": "Ai-Learn",
+    "Url": "https://github.com/tangyudi/Ai-Learn",
+    "Description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
+    "Topics": [
+      "algorithm",
+      "artificial-intelligence",
+      "caffe",
+      "cv",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "keras",
+      "machine-learning",
+      "mathematics",
+      "matplotlib",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "seaborn",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "Language": "",
+    "Stars": 12947,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-28T01:55:06Z",
+    "UpdatedAt": "2026-05-03T10:42:10Z",
+    "Owner": "tangyudi",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "virgili0/Virgilio",
+    "Name": "Virgilio",
+    "Url": "https://github.com/virgili0/Virgilio",
+    "Description": "Your new Mentor for Data Science E-Learning.",
+    "Topics": [
+      "business-intelligence",
+      "computer-vision",
+      "data-science",
+      "datascience",
+      "guide",
+      "guidelines",
+      "hacktoberfest",
+      "learning",
+      "learning-python",
+      "machine-learning",
+      "machine-vision",
+      "nlp",
+      "path",
+      "python",
+      "scikit-learn",
+      "statistics",
+      "study",
+      "studypath",
+      "tensorflow",
+      "virgilio"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 14328,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-12T18:45:36Z",
+    "UpdatedAt": "2026-05-02T09:15:26Z",
+    "Owner": "virgili0",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Anuken/Mindustry",
+    "Name": "Mindustry",
+    "Url": "https://github.com/Anuken/Mindustry",
+    "Description": "The automation tower defense RTS",
+    "Topics": [
+      "android",
+      "desktop",
+      "game",
+      "java",
+      "mindustry",
+      "mobile-game",
+      "multiplatform",
+      "rts",
+      "sandbox-game",
+      "tower-defense"
+    ],
+    "Language": "Java",
+    "Stars": 27442,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-30T01:24:29Z",
+    "UpdatedAt": "2026-05-03T17:49:42Z",
+    "Owner": "Anuken",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wandora-team/wandora",
+    "Name": "wandora",
+    "Url": "https://github.com/wandora-team/wandora",
+    "Description": "Wandora is a general purpose information extraction, management and publishing application based on Topic Maps and Java.",
+    "Topics": [
+      "information",
+      "information-extraction",
+      "information-systems",
+      "information-visualization",
+      "java",
+      "knowledge",
+      "knowledge-graph",
+      "semantic",
+      "semantic-web",
+      "topic-extraction",
+      "topic-map",
+      "topicmaps",
+      "wandora"
+    ],
+    "Language": "Java",
+    "Stars": 135,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-30T10:25:42Z",
+    "UpdatedAt": "2026-03-23T11:25:46Z",
+    "Owner": "wandora-team",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lior-k/fast-elasticsearch-vector-scoring",
+    "Name": "fast-elasticsearch-vector-scoring",
+    "Url": "https://github.com/lior-k/fast-elasticsearch-vector-scoring",
+    "Description": "Score documents using embedding-vectors dot-product or cosine-similarity with ES Lucene engine",
+    "Topics": [
+      "cosine-similarity",
+      "dot-product",
+      "elasticsearch",
+      "embedding-vectors",
+      "lucene",
+      "vector"
+    ],
+    "Language": "Java",
+    "Stars": 405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T07:39:29Z",
+    "UpdatedAt": "2026-04-10T23:23:07Z",
+    "Owner": "lior-k",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vncorenlp/VnCoreNLP",
+    "Name": "VnCoreNLP",
+    "Url": "https://github.com/vncorenlp/VnCoreNLP",
+    "Description": "A Vietnamese natural language processing toolkit (NAACL 2018)",
+    "Topics": [
+      "dependency-parsing",
+      "java",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "ner",
+      "nlp",
+      "parsing",
+      "pos-tagger",
+      "pos-tagging",
+      "python3",
+      "rdrsegmenter",
+      "sentence-segmentation",
+      "vietnamese",
+      "vietnamese-nlp",
+      "vietnamese-tokenizer",
+      "vncorenlp",
+      "vnmarmot",
+      "word-segmentation",
+      "word-segmenter"
+    ],
+    "Language": "Java",
+    "Stars": 665,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-30T12:21:43Z",
+    "UpdatedAt": "2026-04-06T11:48:10Z",
+    "Owner": "vncorenlp",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T17:55:00Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shineware/KOMORAN",
+    "Name": "KOMORAN",
+    "Url": "https://github.com/shineware/KOMORAN",
+    "Description": "Korean Morphological Analyzer by shineware",
+    "Topics": [
+      "komoran",
+      "korean-nlp",
+      "korean-text-processing",
+      "morphological-analysis",
+      "nlp",
+      "shineware"
+    ],
+    "Language": "Java",
+    "Stars": 315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-18T15:53:54Z",
+    "UpdatedAt": "2026-04-01T06:29:17Z",
+    "Owner": "shineware",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ksoichiro/Android-ObservableScrollView",
+    "Name": "Android-ObservableScrollView",
+    "Url": "https://github.com/ksoichiro/Android-ObservableScrollView",
+    "Description": "Android library to observe scroll events on scrollable views.",
+    "Topics": [
+      "android",
+      "android-library",
+      "android-ui",
+      "material-design"
+    ],
+    "Language": "Java",
+    "Stars": 9613,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-08T14:45:20Z",
+    "UpdatedAt": "2026-05-02T09:59:42Z",
+    "Owner": "ksoichiro",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ahmetaa/zemberek-nlp",
+    "Name": "zemberek-nlp",
+    "Url": "https://github.com/ahmetaa/zemberek-nlp",
+    "Description": "NLP tools for Turkish.",
+    "Topics": [
+      "language",
+      "morphology",
+      "nlp",
+      "turkish",
+      "zemberek-nlp"
+    ],
+    "Language": "Java",
+    "Stars": 1323,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-06-03T06:04:14Z",
+    "UpdatedAt": "2026-05-01T20:50:34Z",
+    "Owner": "ahmetaa",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Activiti/Activiti",
+    "Name": "Activiti",
+    "Url": "https://github.com/Activiti/Activiti",
+    "Description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
+    "Topics": [
+      "activiti",
+      "bpm",
+      "bpmn",
+      "business-process",
+      "cloud",
+      "hxps",
+      "java",
+      "microservices",
+      "product-activiti",
+      "spring"
+    ],
+    "Language": "Java",
+    "Stars": 10529,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-13T11:34:43Z",
+    "UpdatedAt": "2026-05-01T15:46:16Z",
+    "Owner": "Activiti",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wuyouzhuguli/SpringAll",
+    "Name": "SpringAll",
+    "Url": "https://github.com/wuyouzhuguli/SpringAll",
+    "Description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "Topics": [
+      "learning",
+      "shiro",
+      "spring-boot",
+      "spring-boot-learning",
+      "spring-cloud",
+      "spring-security",
+      "springboot"
+    ],
+    "Language": "Java",
+    "Stars": 28994,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-02T02:48:44Z",
+    "UpdatedAt": "2026-05-03T07:13:42Z",
+    "Owner": "wuyouzhuguli",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenSextant/SolrTextTagger",
+    "Name": "SolrTextTagger",
+    "Url": "https://github.com/OpenSextant/SolrTextTagger",
+    "Description": "A text tagger based on Lucene / Solr, using FST technology",
+    "Topics": [
+      "named-entity-recognition",
+      "nlp",
+      "solr",
+      "solr-plugin",
+      "tagger"
+    ],
+    "Language": "Java",
+    "Stars": 177,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-04-25T20:31:25Z",
+    "UpdatedAt": "2026-03-28T05:08:35Z",
+    "Owner": "OpenSextant",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spencermountain/compromise",
+    "Name": "compromise",
+    "Url": "https://github.com/spencermountain/compromise",
+    "Description": "modest natural-language processing",
+    "Topics": [
+      "named-entity-recognition",
+      "nlp",
+      "part-of-speech"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-05T09:04:38Z",
+    "UpdatedAt": "2026-05-02T19:28:55Z",
+    "Owner": "spencermountain",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MLnick/elasticsearch-vector-scoring",
+    "Name": "elasticsearch-vector-scoring",
+    "Url": "https://github.com/MLnick/elasticsearch-vector-scoring",
+    "Description": "Score documents with pure dot product / cosine similarity with ES",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 256,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-20T09:53:48Z",
+    "UpdatedAt": "2026-04-06T10:15:02Z",
+    "Owner": "MLnick",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "piskvorky/gensim",
+    "Name": "gensim",
+    "Url": "https://github.com/piskvorky/gensim",
+    "Description": "Topic Modelling for Humans",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "document-similarity",
+      "fasttext",
+      "gensim",
+      "information-retrieval",
+      "machine-learning",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "python",
+      "topic-modeling",
+      "word-embeddings",
+      "word-similarity",
+      "word2vec"
+    ],
+    "Language": "Python",
+    "Stars": 16405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-10T07:43:04Z",
+    "UpdatedAt": "2026-05-03T17:51:04Z",
+    "Owner": "piskvorky",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "SeleniumHQ/selenium",
+    "Name": "selenium",
+    "Url": "https://github.com/SeleniumHQ/selenium",
+    "Description": "A browser automation framework and ecosystem.",
+    "Topics": [
+      "dotnet",
+      "java",
+      "javascript",
+      "python",
+      "ruby",
+      "rust",
+      "selenium",
+      "webdriver"
+    ],
+    "Language": "Java",
+    "Stars": 34078,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-01-14T21:40:56Z",
+    "UpdatedAt": "2026-05-03T15:59:34Z",
+    "Owner": "SeleniumHQ",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GeeeekExplorer/nano-vllm",
+    "Name": "nano-vllm",
+    "Url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "Description": "Nano vLLM",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "llm",
+      "nlp",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 13237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-09T16:22:14Z",
+    "UpdatedAt": "2026-05-03T17:48:46Z",
+    "Owner": "GeeeekExplorer",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "WuLC/KeywordExtraction",
+    "Name": "KeywordExtraction",
+    "Url": "https://github.com/WuLC/KeywordExtraction",
+    "Description": "Implementation of  algorithm in keyword extraction,including TextRank,TF-IDF and the combination of both",
+    "Topics": [
+      "extract-keywords",
+      "java",
+      "keyword-extraction",
+      "nlp",
+      "textrank",
+      "tf-idf"
+    ],
+    "Language": "Java",
+    "Stars": 106,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-04-26T15:16:53Z",
+    "UpdatedAt": "2026-04-01T10:22:46Z",
+    "Owner": "WuLC",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "brettwooldridge/HikariCP",
+    "Name": "HikariCP",
+    "Url": "https://github.com/brettwooldridge/HikariCP",
+    "Description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+    "Topics": [
+      "connection-pool",
+      "high-performance",
+      "java",
+      "jdbc"
+    ],
+    "Language": "Java",
+    "Stars": 21109,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-08T05:43:03Z",
+    "UpdatedAt": "2026-05-03T11:48:02Z",
+    "Owner": "brettwooldridge",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vinhkhuc/JFastText",
+    "Name": "JFastText",
+    "Url": "https://github.com/vinhkhuc/JFastText",
+    "Description": "Java interface for fastText",
+    "Topics": [
+      "java",
+      "jni",
+      "machine-learning",
+      "model-compression",
+      "nlp",
+      "text-classification",
+      "word-embeddings"
+    ],
+    "Language": "Java",
+    "Stars": 246,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T23:33:29Z",
+    "UpdatedAt": "2026-05-02T16:41:29Z",
+    "Owner": "vinhkhuc",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jfeinstein10/SlidingMenu",
+    "Name": "SlidingMenu",
+    "Url": "https://github.com/jfeinstein10/SlidingMenu",
+    "Description": "An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 11015,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-06-30T05:14:23Z",
+    "UpdatedAt": "2026-05-03T12:21:35Z",
+    "Owner": "jfeinstein10",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/incubator-seata",
+    "Name": "incubator-seata",
+    "Url": "https://github.com/apache/incubator-seata",
+    "Description": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+    "Topics": [
+      "at",
+      "consistency",
+      "distributed-transaction",
+      "microservice",
+      "saga",
+      "tcc",
+      "xa"
+    ],
+    "Language": "Java",
+    "Stars": 25967,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-28T08:37:22Z",
+    "UpdatedAt": "2026-05-03T02:33:51Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xkzhangsan/xk-time",
+    "Name": "xk-time",
+    "Url": "https://github.com/xkzhangsan/xk-time",
+    "Description": "xk-time 是时间转换，时间计算，时间格式化，时间解析，日历，时间cron表达式和时间NLP等的工具，使用Java8（JSR-310），线程安全，简单易用，多达70几种常用日期格式化模板，支持Java8时间类和Date，轻量级，无第三方依赖。",
+    "Topics": [
+      "calendar",
+      "cron",
+      "cron-java8",
+      "date",
+      "datetimeformatter-formatter",
+      "dateutil",
+      "formatter",
+      "java",
+      "jsr-310",
+      "localdate",
+      "localdatetime",
+      "nlp",
+      "time",
+      "timeconvertion"
+    ],
+    "Language": "Java",
+    "Stars": 340,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-01T10:56:57Z",
+    "UpdatedAt": "2026-04-06T16:05:38Z",
+    "Owner": "xkzhangsan",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rrice/java-string-similarity",
+    "Name": "java-string-similarity",
+    "Url": "https://github.com/rrice/java-string-similarity",
+    "Description": "A Java library that implements several algorithms that calculate similarity between strings.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-05-16T18:27:27Z",
+    "UpdatedAt": "2026-03-25T02:17:26Z",
+    "Owner": "rrice",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "houbb/opencc4j",
+    "Name": "opencc4j",
+    "Url": "https://github.com/houbb/opencc4j",
+    "Description": "🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换，支持台湾、香港、中文日文转换。)",
+    "Topics": [
+      "chinese",
+      "dfa",
+      "java",
+      "java7",
+      "nlp",
+      "opencc",
+      "simple-tranditional",
+      "trie",
+      "trie-tree"
+    ],
+    "Language": "Java",
+    "Stars": 570,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-09T10:32:12Z",
+    "UpdatedAt": "2026-04-24T17:04:25Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thunlp/THUCTC",
+    "Name": "THUCTC",
+    "Url": "https://github.com/thunlp/THUCTC",
+    "Description": "An Efficient Chinese Text Classifier",
+    "Topics": [
+      "chinese-nlp",
+      "nlp"
+    ],
+    "Language": "Java",
+    "Stars": 214,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-17T04:19:02Z",
+    "UpdatedAt": "2026-04-03T08:26:17Z",
+    "Owner": "thunlp",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-BERT-wwm",
+    "Name": "Chinese-BERT-wwm",
+    "Url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "Description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "Topics": [
+      "bert",
+      "bert-wwm",
+      "bert-wwm-ext",
+      "chinese-bert",
+      "nlp",
+      "pytorch",
+      "rbt",
+      "roberta",
+      "roberta-wwm",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 10202,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-19T22:55:01Z",
+    "UpdatedAt": "2026-05-03T07:05:33Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "houbb/sensitive-word",
+    "Name": "sensitive-word",
+    "Url": "https://github.com/houbb/sensitive-word",
+    "Description": " 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)",
+    "Topics": [
+      "dfa",
+      "dirty-word",
+      "filter",
+      "java",
+      "nlp",
+      "pinyin",
+      "search",
+      "sensitive",
+      "sensitive-word",
+      "sensitive-word-filter",
+      "string-matching",
+      "textfliter",
+      "trie-tree"
+    ],
+    "Language": "Java",
+    "Stars": 5802,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-07T03:10:44Z",
+    "UpdatedAt": "2026-05-03T15:54:05Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dyc87112/SpringBoot-Learning",
+    "Name": "SpringBoot-Learning",
+    "Url": "https://github.com/dyc87112/SpringBoot-Learning",
+    "Description": "《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！",
+    "Topics": [
+      "dubbo",
+      "jdbctemplate",
+      "log4j",
+      "mybatis",
+      "redis",
+      "spring-boot",
+      "spring-cloud",
+      "spring-data-jpa"
+    ],
+    "Language": "Java",
+    "Stars": 15762,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-21T03:39:06Z",
+    "UpdatedAt": "2026-05-03T11:25:38Z",
+    "Owner": "dyc87112",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ssssssss-team/spider-flow",
+    "Name": "spider-flow",
+    "Url": "https://github.com/ssssssss-team/spider-flow",
+    "Description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+    "Topics": [
+      "crawler",
+      "jsoup",
+      "spider",
+      "spider-flow",
+      "web-crawler",
+      "web-spider",
+      "webcrawler",
+      "webspider",
+      "xpath"
+    ],
+    "Language": "Java",
+    "Stars": 11324,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-27T11:07:15Z",
+    "UpdatedAt": "2026-05-03T12:24:48Z",
+    "Owner": "ssssssss-team",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "neuml/txtai",
+    "Name": "txtai",
+    "Url": "https://github.com/neuml/txtai",
+    "Description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "embeddings",
+      "information-retrieval",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "search",
+      "search-engine",
+      "semantic-search",
+      "sentence-embeddings",
+      "transformers",
+      "txtai",
+      "vector-database",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 12454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-09T19:14:59Z",
+    "UpdatedAt": "2026-05-03T17:36:29Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JessYanCoding/AndroidAutoSize",
+    "Name": "AndroidAutoSize",
+    "Url": "https://github.com/JessYanCoding/AndroidAutoSize",
+    "Description": "🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).",
+    "Topics": [
+      "adapterview",
+      "android",
+      "arms",
+      "density",
+      "mvparms",
+      "screenadapter"
+    ],
+    "Language": "Java",
+    "Stars": 13740,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-17T09:04:19Z",
+    "UpdatedAt": "2026-05-02T19:36:03Z",
+    "Owner": "JessYanCoding",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "haifengl/smile",
+    "Name": "smile",
+    "Url": "https://github.com/haifengl/smile",
+    "Description": "Statistical Machine Intelligence & Learning Engine",
+    "Topics": [
+      "classification",
+      "clustering",
+      "computer-algebra-system",
+      "computer-vision",
+      "data-science",
+      "dataframe",
+      "deep-learning",
+      "genetic-algorithm",
+      "interpolation",
+      "linear-algebra",
+      "llm",
+      "machine-learning",
+      "manifold-learning",
+      "multidimensional-scaling",
+      "nearest-neighbor-search",
+      "nlp",
+      "regression",
+      "statistics",
+      "visualization",
+      "wavelet"
+    ],
+    "Language": "Java",
+    "Stars": 6368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-20T16:28:12Z",
+    "UpdatedAt": "2026-05-01T18:16:29Z",
+    "Owner": "haifengl",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "houbb/nlp-hanzi-similar",
+    "Name": "nlp-hanzi-similar",
+    "Url": "https://github.com/houbb/nlp-hanzi-similar",
+    "Description": "The hanzi similar tool.(汉字相似度计算工具，中文形近字算法。可用于手写汉字识别纠正，文本混淆等。)",
+    "Topics": [
+      "chinese",
+      "data",
+      "han",
+      "nlp",
+      "ocr",
+      "word-correction"
+    ],
+    "Language": "Java",
+    "Stars": 296,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-11-22T06:57:38Z",
+    "UpdatedAt": "2026-04-26T06:09:03Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hankcs/HanLP",
+    "Name": "HanLP",
+    "Url": "https://github.com/hankcs/HanLP",
+    "Description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
+    "Topics": [
+      "dependency-parser",
+      "hanlp",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pos-tagging",
+      "semantic-parsing",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 36293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-09T06:36:16Z",
+    "UpdatedAt": "2026-05-03T17:27:42Z",
+    "Owner": "hankcs",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "oracle/tribuo",
+    "Name": "tribuo",
+    "Url": "https://github.com/oracle/tribuo",
+    "Description": "Tribuo - A Java machine learning library",
+    "Topics": [
+      "classification",
+      "clustering",
+      "deep-learning",
+      "java",
+      "machine-learning",
+      "ml",
+      "nlp",
+      "regression"
+    ],
+    "Language": "Java",
+    "Stars": 1409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-16T09:59:48Z",
+    "UpdatedAt": "2026-04-29T20:40:44Z",
+    "Owner": "oracle",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JeffLi1993/springboot-learning-example",
+    "Name": "springboot-learning-example",
+    "Url": "https://github.com/JeffLi1993/springboot-learning-example",
+    "Description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。",
+    "Topics": [
+      "dubbo",
+      "elasticsearch",
+      "jpa",
+      "mybatis",
+      "redis",
+      "springboot",
+      "webflux"
+    ],
+    "Language": "Java",
+    "Stars": 16579,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-06T07:02:25Z",
+    "UpdatedAt": "2026-05-02T05:20:34Z",
+    "Owner": "JeffLi1993",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NLPchina/ansj_seg",
+    "Name": "ansj_seg",
+    "Url": "https://github.com/NLPchina/ansj_seg",
+    "Description": "ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典",
+    "Topics": [
+      "ansj",
+      "chinese",
+      "java",
+      "nlp"
+    ],
+    "Language": "Java",
+    "Stars": 6533,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-05T05:56:24Z",
+    "UpdatedAt": "2026-04-29T09:40:27Z",
+    "Owner": "NLPchina",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/kafka",
+    "Name": "kafka",
+    "Url": "https://github.com/apache/kafka",
+    "Description": "Apache Kafka - A distributed event streaming platform",
+    "Topics": [
+      "java",
+      "kafka",
+      "scala",
+      "streaming"
+    ],
+    "Language": "Java",
+    "Stars": 32502,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-08-15T18:06:16Z",
+    "UpdatedAt": "2026-05-03T17:00:47Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "6thsolution/ApexNLP",
+    "Name": "ApexNLP",
+    "Url": "https://github.com/6thsolution/ApexNLP",
+    "Description": "A natural language event parser for java and android.",
+    "Topics": [
+      "android",
+      "event-parser",
+      "java",
+      "natural-language-processing",
+      "nlp"
+    ],
+    "Language": "Java",
+    "Stars": 104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-07T18:24:48Z",
+    "UpdatedAt": "2026-02-01T04:50:31Z",
+    "Owner": "6thsolution",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doocs/source-code-hunter",
+    "Name": "source-code-hunter",
+    "Url": "https://github.com/doocs/source-code-hunter",
+    "Description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "Topics": [
+      "dubbo",
+      "mybatis",
+      "netty",
+      "redis",
+      "sourcecode-analysis",
+      "spring"
+    ],
+    "Language": "Java",
+    "Stars": 23132,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-28T01:35:10Z",
+    "UpdatedAt": "2026-05-03T15:52:08Z",
+    "Owner": "doocs",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HongZhaoHua/jstarcraft-nlp",
+    "Name": "jstarcraft-nlp",
+    "Url": "https://github.com/HongZhaoHua/jstarcraft-nlp",
+    "Description": "专注于解决自然语言处理领域的几个核心问题:词法分析,句法分析,语义分析,语种检测,信息抽取,文本聚类和文本分类.  为相关领域的研发人员提供完整的通用设计与参考实现.  涵盖了多种自然语言处理算法,适配了多个自然语言处理框架. 兼容Lucene/Solr/ElasticSearch插件.",
+    "Topics": [
+      "ansj",
+      "corenlp",
+      "elasticsearch",
+      "hanlp",
+      "ik",
+      "java",
+      "jcseg",
+      "jieba",
+      "language-detection",
+      "lucene",
+      "mmseg",
+      "mynlp",
+      "nlp",
+      "solr",
+      "thulac",
+      "word"
+    ],
+    "Language": "Java",
+    "Stars": 120,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-19T03:12:56Z",
+    "UpdatedAt": "2026-03-21T03:41:13Z",
+    "Owner": "HongZhaoHua",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hankcs/hanlp-lucene-plugin",
+    "Name": "hanlp-lucene-plugin",
+    "Url": "https://github.com/hankcs/hanlp-lucene-plugin",
+    "Description": "HanLP中文分词Lucene插件，支持包括Solr在内的基于Lucene的系统",
+    "Topics": [
+      "chinese-text-segmentation",
+      "hanlp",
+      "lucene",
+      "nlp",
+      "solr",
+      "traditional-chinese"
+    ],
+    "Language": "Java",
+    "Stars": 300,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-22T14:23:27Z",
+    "UpdatedAt": "2026-04-10T16:22:09Z",
+    "Owner": "hankcs",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kestra-io/kestra",
+    "Name": "kestra",
+    "Url": "https://github.com/kestra-io/kestra",
+    "Description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+    "Topics": [
+      "automation",
+      "data-orchestration",
+      "devops",
+      "hacktoberfest",
+      "high-availability",
+      "infrastructure-as-code",
+      "java",
+      "low-code",
+      "lowcode",
+      "orchestration",
+      "pipeline",
+      "pipeline-as-code",
+      "workflow"
+    ],
+    "Language": "Java",
+    "Stars": 26776,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T13:56:15Z",
+    "UpdatedAt": "2026-05-03T15:45:51Z",
+    "Owner": "kestra-io",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yudaocode/SpringBoot-Labs",
+    "Name": "SpringBoot-Labs",
+    "Url": "https://github.com/yudaocode/SpringBoot-Labs",
+    "Description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "Topics": [
+      "activemq",
+      "dubbo",
+      "kafka",
+      "rabbitmq",
+      "rocketmq",
+      "spring-boot",
+      "spring-cloud",
+      "spring-cloud-alibaba"
+    ],
+    "Language": "Java",
+    "Stars": 20092,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-12T14:51:46Z",
+    "UpdatedAt": "2026-05-03T08:29:31Z",
+    "Owner": "yudaocode",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/tokenizers",
+    "Name": "tokenizers",
+    "Url": "https://github.com/huggingface/tokenizers",
+    "Description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "Topics": [
+      "bert",
+      "gpt",
+      "language-model",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "transformers"
+    ],
+    "Language": "Rust",
+    "Stars": 10689,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-01T17:52:20Z",
+    "UpdatedAt": "2026-05-03T17:31:34Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "opensearch-project/OpenSearch",
+    "Name": "OpenSearch",
+    "Url": "https://github.com/opensearch-project/OpenSearch",
+    "Description": "🔎 Open source distributed and RESTful search engine.",
+    "Topics": [
+      "analytics",
+      "apache2",
+      "foss",
+      "java",
+      "search",
+      "search-engine"
+    ],
+    "Language": "Java",
+    "Stars": 12855,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-29T22:10:00Z",
+    "UpdatedAt": "2026-05-03T17:54:52Z",
+    "Owner": "opensearch-project",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "webanno/webanno",
+    "Name": "webanno",
+    "Url": "https://github.com/webanno/webanno",
+    "Description": "🆕 Work continues on INCEpTION 👉 https://github.com/inception-project/inception 👈 -- ⚠️ The official WebAnno repository has reached the end of the line. -- 🚀 To migrate, export your annotation projects from WebAnno, then import them into INCEpTION and just work on.",
+    "Topics": [
+      "annotation",
+      "annotation-editor",
+      "annotation-tool",
+      "java",
+      "nlp",
+      "web-application"
+    ],
+    "Language": "Java",
+    "Stars": 251,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-13T13:20:49Z",
+    "UpdatedAt": "2026-04-02T08:32:35Z",
+    "Owner": "webanno",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/Sentinel",
+    "Name": "Sentinel",
+    "Url": "https://github.com/alibaba/Sentinel",
+    "Description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "Topics": [
+      "alibaba",
+      "circuit-breaker",
+      "cloud-native",
+      "java",
+      "microservice",
+      "microservices",
+      "rate-limiting",
+      "reliability",
+      "resiliency"
+    ],
+    "Language": "Java",
+    "Stars": 23101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-04T06:37:33Z",
+    "UpdatedAt": "2026-05-03T14:44:58Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asad/ReactionDecoder",
+    "Name": "ReactionDecoder",
+    "Url": "https://github.com/asad/ReactionDecoder",
+    "Description": "Reaction Decoder Tool (RDT) - Atom Atom Mapping Tool",
+    "Topics": [
+      "aam",
+      "atom",
+      "atom-atom",
+      "enzyme",
+      "mapping",
+      "rdt",
+      "reactions",
+      "similarity"
+    ],
+    "Language": "Java",
+    "Stars": 83,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-02T10:46:33Z",
+    "UpdatedAt": "2026-04-30T05:44:06Z",
+    "Owner": "asad",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/spring-cloud-alibaba",
+    "Name": "spring-cloud-alibaba",
+    "Url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "Description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "Topics": [
+      "alibaba",
+      "alibaba-middleware",
+      "alibaba-oss",
+      "aliyun",
+      "circuit-breaker",
+      "cloud-native",
+      "distributed-configuration",
+      "distributed-messaging",
+      "distributed-transaction",
+      "dubbo",
+      "java",
+      "microservices",
+      "nacos",
+      "rocketmq",
+      "service-discovery",
+      "service-registry",
+      "spring",
+      "spring-cloud",
+      "spring-cloud-alibaba",
+      "spring-cloud-core"
+    ],
+    "Language": "Java",
+    "Stars": 29100,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-01T20:49:15Z",
+    "UpdatedAt": "2026-05-03T07:13:43Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zxing/zxing",
+    "Name": "zxing",
+    "Url": "https://github.com/zxing/zxing",
+    "Description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+    "Topics": [
+      "android",
+      "barcode",
+      "barcode-scanner",
+      "datamatrix",
+      "java",
+      "qr-code",
+      "upc",
+      "zxing"
+    ],
+    "Language": "Java",
+    "Stars": 33927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-10-12T14:07:27Z",
+    "UpdatedAt": "2026-05-03T01:37:02Z",
+    "Owner": "zxing",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T17:17:38Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "SonarSource/sonarqube",
+    "Name": "sonarqube",
+    "Url": "https://github.com/SonarSource/sonarqube",
+    "Description": "Continuous Inspection",
+    "Topics": [
+      "code-quality",
+      "sonarqube",
+      "static-analysis"
+    ],
+    "Language": "Java",
+    "Stars": 10505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-01-05T11:05:17Z",
+    "UpdatedAt": "2026-05-03T17:03:22Z",
+    "Owner": "SonarSource",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/flink",
+    "Name": "flink",
+    "Url": "https://github.com/apache/flink",
+    "Description": "Apache Flink",
+    "Topics": [
+      "big-data",
+      "flink",
+      "java",
+      "python",
+      "scala",
+      "sql"
+    ],
+    "Language": "Java",
+    "Stars": 25977,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-07T07:00:10Z",
+    "UpdatedAt": "2026-05-03T06:19:37Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall-swarm",
+    "Name": "mall-swarm",
+    "Url": "https://github.com/macrozheng/mall-swarm",
+    "Description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。",
+    "Topics": [
+      "docker",
+      "elasticsearch",
+      "java",
+      "k8s",
+      "kubernetes",
+      "mongodb",
+      "mybatis",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring-boot",
+      "spring-cloud",
+      "springboot",
+      "springcloud"
+    ],
+    "Language": "Java",
+    "Stars": 12929,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-25T06:55:31Z",
+    "UpdatedAt": "2026-05-03T07:14:39Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sdauletau/elasticsearch-position-similarity",
+    "Name": "elasticsearch-position-similarity",
+    "Url": "https://github.com/sdauletau/elasticsearch-position-similarity",
+    "Description": "Elasticsearch term position similarity plugin",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 72,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-15T17:49:27Z",
+    "UpdatedAt": "2026-04-19T08:57:52Z",
+    "Owner": "sdauletau",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Simmetrics/simmetrics",
+    "Name": "simmetrics",
+    "Url": "https://github.com/Simmetrics/simmetrics",
+    "Description": "Similarity or Distance Metrics, e.g. Levenshtein, for Java",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 360,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-06T14:35:16Z",
+    "UpdatedAt": "2026-04-06T10:19:36Z",
+    "Owner": "Simmetrics",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dair-ai/AI-Papers-of-the-Week",
+    "Name": "AI-Papers-of-the-Week",
+    "Url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+    "Description": "🔥Highlighting the top ML papers every week.",
+    "Topics": [
+      "ai",
+      "data-science",
+      "deeplearning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "",
+    "Stars": 12377,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-08T19:26:35Z",
+    "UpdatedAt": "2026-05-03T16:50:52Z",
+    "Owner": "dair-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "houbb/word-checker",
+    "Name": "word-checker",
+    "Url": "https://github.com/houbb/word-checker",
+    "Description": "🇨🇳🇬🇧Chinese and English word spelling corrector.(中文易错别字检测，中文拼写检测纠正。英文单词拼写校验工具)",
+    "Topics": [
+      "cc",
+      "csc",
+      "english-word",
+      "java",
+      "nlp",
+      "spelling",
+      "spelling-correction",
+      "word"
+    ],
+    "Language": "Java",
+    "Stars": 267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-27T22:56:48Z",
+    "UpdatedAt": "2026-03-25T10:40:44Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/bindiff",
+    "Name": "bindiff",
+    "Url": "https://github.com/google/bindiff",
+    "Description": "Quickly find differences and similarities in disassembled code",
+    "Topics": [
+      "bindiff",
+      "binexport",
+      "c-plus-plus",
+      "diffing",
+      "ida-plugin",
+      "ida-pro",
+      "java",
+      "program-analysis",
+      "program-differencing",
+      "reverse-engineering",
+      "vxsig"
+    ],
+    "Language": "Java",
+    "Stars": 3019,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-20T06:41:55Z",
+    "UpdatedAt": "2026-05-01T14:22:59Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "daimajia/AndroidSwipeLayout",
+    "Name": "AndroidSwipeLayout",
+    "Url": "https://github.com/daimajia/AndroidSwipeLayout",
+    "Description": "The Most Powerful Swipe Layout!",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 12375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-25T04:09:33Z",
+    "UpdatedAt": "2026-04-29T13:43:37Z",
+    "Owner": "daimajia",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T18:02:34Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "houbb/segment",
+    "Name": "segment",
+    "Url": "https://github.com/houbb/segment",
+    "Description": "The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）",
+    "Topics": [
+      "benchmark",
+      "chinese",
+      "dfa",
+      "hmm",
+      "java",
+      "jieba",
+      "jieba-analysis",
+      "jieba-chinese",
+      "nlp",
+      "segment",
+      "segmentation",
+      "trie",
+      "trie-tree"
+    ],
+    "Language": "Java",
+    "Stars": 157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-14T01:19:25Z",
+    "UpdatedAt": "2026-04-26T06:09:53Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datumbox/datumbox-framework",
+    "Name": "datumbox-framework",
+    "Url": "https://github.com/datumbox/datumbox-framework",
+    "Description": "Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications.",
+    "Topics": [
+      "big-data",
+      "data-science",
+      "java",
+      "machine-learning",
+      "nlp",
+      "statistics"
+    ],
+    "Language": "Java",
+    "Stars": 1085,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-18T18:10:08Z",
+    "UpdatedAt": "2026-04-13T23:31:09Z",
+    "Owner": "datumbox",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/spring-ai-alibaba",
+    "Name": "spring-ai-alibaba",
+    "Url": "https://github.com/alibaba/spring-ai-alibaba",
+    "Description": "Agentic AI Framework for Java Developers",
+    "Topics": [
+      "agentic",
+      "artificial-intelligence",
+      "context-engineering",
+      "graph",
+      "java",
+      "multi-agent",
+      "reactagent",
+      "spring-ai",
+      "workflow"
+    ],
+    "Language": "Java",
+    "Stars": 9454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-09T01:35:50Z",
+    "UpdatedAt": "2026-05-03T17:44:17Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ml-distribution/semantic-similarity",
+    "Name": "semantic-similarity",
+    "Url": "https://github.com/ml-distribution/semantic-similarity",
+    "Description": "语义、情感、相似度分析。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-25T01:50:46Z",
+    "UpdatedAt": "2026-05-02T15:35:49Z",
+    "Owner": "ml-distribution",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bradforj287/SimpleTextSearch",
+    "Name": "SimpleTextSearch",
+    "Url": "https://github.com/bradforj287/SimpleTextSearch",
+    "Description": "A lightweight and easy to use full text search implementation for Java. Uses inverted index and cosine similarity w/ TFIDF ranking.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 54,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-12T16:45:34Z",
+    "UpdatedAt": "2026-04-06T10:28:07Z",
+    "Owner": "bradforj287",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sea-boat/TextAnalyzer",
+    "Name": "TextAnalyzer",
+    "Url": "https://github.com/sea-boat/TextAnalyzer",
+    "Description": "A text analyzer which is based on machine learning,statistics and dictionaries that can analyze text.  So far, it supports hot word extracting, text classification, part of speech tagging, named entity recognition, chinese word segment, extracting address, synonym, text clustering, word2vec model, edit distance, chinese word segment, sentence similarity,word sentiment tendency, name recognition, idiom recognition, placename recognition, organization recognition, traditional chinese recognition, pinyin transform.",
+    "Topics": [
+      "segment",
+      "sentence-similarity",
+      "speech-tagging",
+      "synonyms",
+      "text-analyzer",
+      "text-classification",
+      "word2vec-model"
+    ],
+    "Language": "Java",
+    "Stars": 210,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-09T07:30:08Z",
+    "UpdatedAt": "2026-03-28T10:44:03Z",
+    "Owner": "sea-boat",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "forezp/SpringCloudLearning",
+    "Name": "SpringCloudLearning",
+    "Url": "https://github.com/forezp/SpringCloudLearning",
+    "Description": "《史上最简单的Spring Cloud教程源码》",
+    "Topics": [
+      "consul",
+      "eureka",
+      "feign",
+      "finchley",
+      "gateway",
+      "hystrix",
+      "hystrix-dashboard",
+      "hystrix-turbine",
+      "ribbon",
+      "sleuth",
+      "spring",
+      "spring-boot",
+      "spring-cloud",
+      "springbootadmin",
+      "zuul"
+    ],
+    "Language": "Java",
+    "Stars": 17960,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-08T10:06:56Z",
+    "UpdatedAt": "2026-05-03T14:34:10Z",
+    "Owner": "forezp",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fanghon/antiplag",
+    "Name": "antiplag",
+    "Url": "https://github.com/fanghon/antiplag",
+    "Description": "作业查重软件，它实现了程序代码、文档文本、图片之间的相似度检查。a code-similarity, text-similarity and image-similarity computation software for the codes, documents  and images of assignment.",
+    "Topics": [
+      "assignment",
+      "code-similarity",
+      "java",
+      "jplag",
+      "moss",
+      "phash",
+      "plagiarism",
+      "text-similarity"
+    ],
+    "Language": "Java",
+    "Stars": 407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-20T09:01:21Z",
+    "UpdatedAt": "2026-04-30T16:08:49Z",
+    "Owner": "fanghon",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nltk/nltk",
+    "Name": "nltk",
+    "Url": "https://github.com/nltk/nltk",
+    "Description": "NLTK Source",
+    "Topics": [
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "nltk",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 14603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-09-07T10:53:58Z",
+    "UpdatedAt": "2026-05-03T11:03:07Z",
+    "Owner": "nltk",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jenkinsci/jenkins",
+    "Name": "jenkins",
+    "Url": "https://github.com/jenkinsci/jenkins",
+    "Description": "Jenkins automation server",
+    "Topics": [
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-integration",
+      "devops",
+      "groovy",
+      "hacktoberfest",
+      "java",
+      "jenkins",
+      "pipelines-as-code"
+    ],
+    "Language": "Java",
+    "Stars": 25246,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-11-22T21:21:23Z",
+    "UpdatedAt": "2026-05-03T16:10:39Z",
+    "Owner": "jenkinsci",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jimichan/mynlp",
+    "Name": "mynlp",
+    "Url": "https://github.com/jimichan/mynlp",
+    "Description": "一个生产级、高性能、模块化、可扩展的中文NLP工具包。（中文分词、平均感知机、fastText、拼音、新词发现、分词纠错、BM25、人名识别、命名实体、自定义词典）",
+    "Topics": [
+      "fasttext",
+      "nlp",
+      "pinyin",
+      "segment",
+      "starspace"
+    ],
+    "Language": "Java",
+    "Stars": 690,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-10T05:35:01Z",
+    "UpdatedAt": "2026-04-24T07:04:52Z",
+    "Owner": "jimichan",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/skywalking",
+    "Name": "skywalking",
+    "Url": "https://github.com/apache/skywalking",
+    "Description": "APM, Application Performance Monitoring System",
+    "Topics": [
+      "apm",
+      "dapper",
+      "distributed-tracing",
+      "ebpf",
+      "logging",
+      "metrics",
+      "observability",
+      "open-telemetry",
+      "prometheus",
+      "service-mesh",
+      "skywalking",
+      "telegraf",
+      "web-performance",
+      "zabbix"
+    ],
+    "Language": "Java",
+    "Stars": 24790,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T03:30:36Z",
+    "UpdatedAt": "2026-05-03T02:32:48Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TheAlgorithms/Java",
+    "Name": "Java",
+    "Url": "https://github.com/TheAlgorithms/Java",
+    "Description": "All Algorithms implemented in Java",
+    "Topics": [
+      "algorithm",
+      "algorithm-challenges",
+      "algorithms",
+      "algorithms-datastructures",
+      "data-structures",
+      "hacktoberfest",
+      "java",
+      "search",
+      "sort",
+      "sorting-algorithms"
+    ],
+    "Language": "Java",
+    "Stars": 65521,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-16T10:21:02Z",
+    "UpdatedAt": "2026-05-03T17:55:36Z",
+    "Owner": "TheAlgorithms",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TooTallNate/Java-WebSocket",
+    "Name": "Java-WebSocket",
+    "Url": "https://github.com/TooTallNate/Java-WebSocket",
+    "Description": "A barebones WebSocket client and server implementation written in 100% Java.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 10806,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-01-20T23:33:04Z",
+    "UpdatedAt": "2026-05-01T19:06:30Z",
+    "Owner": "TooTallNate",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/guava",
+    "Name": "guava",
+    "Url": "https://github.com/google/guava",
+    "Description": "Google core libraries for Java",
+    "Topics": [
+      "guava",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 51497,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-29T16:23:17Z",
+    "UpdatedAt": "2026-05-03T14:33:51Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/FinGPT",
+    "Name": "FinGPT",
+    "Url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "Description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+    "Topics": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "prompt-engineering",
+      "pytorch",
+      "reinforcement-learning",
+      "robo-advisor",
+      "sentiment-analysis",
+      "technical-analysis"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 19921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T20:21:34Z",
+    "UpdatedAt": "2026-05-03T17:04:16Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "apache/opennlp",
+    "Name": "opennlp",
+    "Url": "https://github.com/apache/opennlp",
+    "Description": "Apache OpenNLP",
+    "Topics": [
+      "apache",
+      "compling",
+      "languagetechnology",
+      "nlp",
+      "opennlp",
+      "textprocessing"
+    ],
+    "Language": "Java",
+    "Stars": 1591,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-11-09T08:00:09Z",
+    "UpdatedAt": "2026-05-02T14:58:49Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spring-projects/spring-boot",
+    "Name": "spring-boot",
+    "Url": "https://github.com/spring-projects/spring-boot",
+    "Description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+    "Topics": [
+      "framework",
+      "java",
+      "spring",
+      "spring-boot"
+    ],
+    "Language": "Java",
+    "Stars": 80558,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-10-19T15:02:57Z",
+    "UpdatedAt": "2026-05-03T17:55:47Z",
+    "Owner": "spring-projects",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50",
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "robertvazan/sourceafis-java",
+    "Name": "sourceafis-java",
+    "Url": "https://github.com/robertvazan/sourceafis-java",
+    "Description": "Fingerprint recognition engine for Java that takes a pair of human fingerprint images and returns their similarity score. Supports efficient 1:N search.",
+    "Topics": [
+      "biometrics",
+      "feature-extraction",
+      "fingerprint",
+      "fingerprint-authentication",
+      "fingerprint-recognition",
+      "java",
+      "minutia",
+      "sourceafis"
+    ],
+    "Language": "Java",
+    "Stars": 280,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-12T06:01:36Z",
+    "UpdatedAt": "2026-04-17T14:49:12Z",
+    "Owner": "robertvazan",
+    "SourceQueries": [
+      "similarity language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "666ghj/BettaFish",
+    "Name": "BettaFish",
+    "Url": "https://github.com/666ghj/BettaFish",
+    "Description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "Topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 40729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-01T13:11:38Z",
+    "UpdatedAt": "2026-05-03T17:26:47Z",
+    "Owner": "666ghj",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "spinnaker/spinnaker",
+    "Name": "spinnaker",
+    "Url": "https://github.com/spinnaker/spinnaker",
+    "Description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
+    "Topics": [
+      "continuous-delivery",
+      "continuous-deployment",
+      "spinnaker"
+    ],
+    "Language": "Java",
+    "Stars": 9725,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-02T19:02:36Z",
+    "UpdatedAt": "2026-05-03T15:59:29Z",
+    "Owner": "spinnaker",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/rocketmq",
+    "Name": "rocketmq",
+    "Url": "https://github.com/apache/rocketmq",
+    "Description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+    "Topics": [
+      "cloud-native",
+      "eventing",
+      "hacktoberfest",
+      "java",
+      "messaging",
+      "rocketmq",
+      "streaming"
+    ],
+    "Language": "Java",
+    "Stars": 22425,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-30T08:00:08Z",
+    "UpdatedAt": "2026-05-03T06:20:38Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Tencent/VasSonic",
+    "Name": "VasSonic",
+    "Url": "https://github.com/Tencent/VasSonic",
+    "Description": "VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. ",
+    "Topics": [
+      "android-sdk",
+      "h5",
+      "hybrid",
+      "ios-sdk",
+      "web",
+      "webview"
+    ],
+    "Language": "Java",
+    "Stars": 11870,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-01T08:35:13Z",
+    "UpdatedAt": "2026-04-29T17:20:54Z",
+    "Owner": "Tencent",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "skylot/jadx",
+    "Name": "jadx",
+    "Url": "https://github.com/skylot/jadx",
+    "Description": "Dex to Java decompiler",
+    "Topics": [
+      "android",
+      "decompiler",
+      "dex",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 48327,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-03-18T17:08:21Z",
+    "UpdatedAt": "2026-05-03T15:48:12Z",
+    "Owner": "skylot",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dkpro/dkpro-core",
+    "Name": "dkpro-core",
+    "Url": "https://github.com/dkpro/dkpro-core",
+    "Description": "Collection of software components for natural language processing (NLP) based on the Apache UIMA framework.",
+    "Topics": [
+      "dkpro",
+      "java",
+      "natural-language-processing",
+      "nlp",
+      "uima",
+      "uima-components"
+    ],
+    "Language": "Java",
+    "Stars": 204,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-12T20:45:33Z",
+    "UpdatedAt": "2026-03-29T04:40:32Z",
+    "Owner": "dkpro",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opennars/opennars",
+    "Name": "opennars",
+    "Url": "https://github.com/opennars/opennars",
+    "Description": "OpenNARS for Research 3.0+",
+    "Topics": [
+      "agent",
+      "agi",
+      "ai",
+      "aikr",
+      "artificial-general-intelligence",
+      "database",
+      "graph",
+      "inference",
+      "java",
+      "learning",
+      "logic",
+      "nal",
+      "nars",
+      "realtime",
+      "reasoner",
+      "reasoning",
+      "reinforcement",
+      "rl",
+      "semantic",
+      "solver"
+    ],
+    "Language": "Java",
+    "Stars": 416,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-18T18:36:28Z",
+    "UpdatedAt": "2026-04-18T13:52:23Z",
+    "Owner": "opennars",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lionsoul2014/jcseg",
+    "Name": "jcseg",
+    "Url": "https://github.com/lionsoul2014/jcseg",
+    "Description": "Jcseg is a light weight NLP framework developed with Java. Provide CJK and English segmentation based on MMSEG algorithm, With also keywords extraction, key sentence extraction, summary extraction implemented based on TEXTRANK algorithm. Jcseg had a build-in http server and search modules for lucene,solr,elasticsearch,opensearch",
+    "Topics": [
+      "chinese-nlp",
+      "chinese-text-segmentation",
+      "chinese-word-segmentation",
+      "elasticsearch-analyzer",
+      "elasticsearch-tokenizer",
+      "java",
+      "jcseg",
+      "jcseg-analyzer",
+      "keywords-extraction",
+      "lucene-analyzer",
+      "lucene-tokenizer",
+      "mmseg",
+      "natural-language-processing",
+      "nlp",
+      "nlp-keywords-extraction",
+      "opensearch-analyzer",
+      "opensearch-tokenizer",
+      "pos-tagging",
+      "solr-plugin"
+    ],
+    "Language": "Java",
+    "Stars": 922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-31T03:44:32Z",
+    "UpdatedAt": "2026-04-10T06:15:31Z",
+    "Owner": "lionsoul2014",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NLP-LOVE/ML-NLP",
+    "Name": "ML-NLP",
+    "Url": "https://github.com/NLP-LOVE/ML-NLP",
+    "Description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 17650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-05T12:49:53Z",
+    "UpdatedAt": "2026-05-03T01:53:40Z",
+    "Owner": "NLP-LOVE",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "houbb/pinyin",
+    "Name": "pinyin",
+    "Url": "https://github.com/houbb/pinyin",
+    "Description": "The high performance pinyin tool for java.(java 高性能中文转拼音工具。支持同音字。) ",
+    "Topics": [
+      "dfa",
+      "high-performance",
+      "nlp",
+      "pinyin",
+      "pinyin-analysis",
+      "pinyin-data",
+      "pinyin-segmentation",
+      "pinyin4j",
+      "segment",
+      "tiny",
+      "tiny-pinyin",
+      "tongyinzi"
+    ],
+    "Language": "Java",
+    "Stars": 299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-16T05:15:22Z",
+    "UpdatedAt": "2026-05-03T07:10:47Z",
+    "Owner": "houbb",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PhilJay/MPAndroidChart",
+    "Name": "MPAndroidChart",
+    "Url": "https://github.com/PhilJay/MPAndroidChart",
+    "Description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "Topics": [
+      "android",
+      "chart",
+      "graph",
+      "java",
+      "mpandroidchart"
+    ],
+    "Language": "Java",
+    "Stars": 38218,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-25T14:29:47Z",
+    "UpdatedAt": "2026-05-03T15:55:34Z",
+    "Owner": "PhilJay",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flairNLP/flair",
+    "Name": "flair",
+    "Url": "https://github.com/flairNLP/flair",
+    "Description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "Topics": [
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pytorch",
+      "semantic-role-labeling",
+      "sequence-labeling",
+      "word-embeddings"
+    ],
+    "Language": "Python",
+    "Stars": 14373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-11T11:04:18Z",
+    "UpdatedAt": "2026-05-02T18:37:18Z",
+    "Owner": "flairNLP",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "codecentric/spring-boot-admin",
+    "Name": "spring-boot-admin",
+    "Url": "https://github.com/codecentric/spring-boot-admin",
+    "Description": "Admin UI for administration of spring boot applications",
+    "Topics": [
+      "java",
+      "spring",
+      "spring-boot",
+      "spring-boot-admin",
+      "spring-cloud"
+    ],
+    "Language": "Java",
+    "Stars": 12829,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-25T11:39:13Z",
+    "UpdatedAt": "2026-05-02T18:12:24Z",
+    "Owner": "codecentric",
+    "SourceQueries": [
+      "s language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "binarywang/WxJava",
+    "Name": "WxJava",
+    "Url": "https://github.com/binarywang/WxJava",
+    "Description": "微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发",
+    "Topics": [
+      "cp",
+      "hacktoberfest",
+      "java",
+      "miniapp",
+      "miniprogram",
+      "mp",
+      "open",
+      "sdk",
+      "weapp",
+      "wechat",
+      "wechat-sdk",
+      "weixin",
+      "weixin-sdk",
+      "wxjava",
+      "wxpay"
+    ],
+    "Language": "Java",
+    "Stars": 32756,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-06T08:24:05Z",
+    "UpdatedAt": "2026-05-03T14:34:34Z",
+    "Owner": "binarywang",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FUB-HCC/neonion",
+    "Name": "neonion",
+    "Url": "https://github.com/FUB-HCC/neonion",
+    "Description": "neonion is a user-centered collaborative semantic annotation webapp developed at the Human-Centered Computing group at Freie Universität Berlin.",
+    "Topics": [
+      "annotation",
+      "collaborative",
+      "javascript",
+      "python",
+      "semantic"
+    ],
+    "Language": "Java",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-04T17:24:02Z",
+    "UpdatedAt": "2026-03-01T12:50:27Z",
+    "Owner": "FUB-HCC",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ontopia/ontopia",
+    "Name": "ontopia",
+    "Url": "https://github.com/ontopia/ontopia",
+    "Description": "The open source tools for building, maintaining and deploying Topic Maps-based applications.",
+    "Topics": [
+      "iso",
+      "java",
+      "ltm",
+      "rdf",
+      "semantic",
+      "semantic-web",
+      "topicmaps",
+      "xtm"
+    ],
+    "Language": "Java",
+    "Stars": 59,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-16T22:52:44Z",
+    "UpdatedAt": "2026-04-03T12:39:40Z",
+    "Owner": "ontopia",
+    "SourceQueries": [
+      "topic:semantic language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chinabugotech/hutool",
+    "Name": "hutool",
+    "Url": "https://github.com/chinabugotech/hutool",
+    "Description": "🍬A set of tools that keep Java sweet.",
+    "Topics": [
+      "http",
+      "hutool",
+      "java",
+      "json",
+      "orm",
+      "tool",
+      "util"
+    ],
+    "Language": "Java",
+    "Stars": 30298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-13T07:23:51Z",
+    "UpdatedAt": "2026-05-03T14:34:01Z",
+    "Owner": "chinabugotech",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NLPchina/nlp-lang",
+    "Name": "nlp-lang",
+    "Url": "https://github.com/NLPchina/nlp-lang",
+    "Description": "这个项目是一个基本包.封装了大多数nlp项目中常用工具",
+    "Topics": [
+      "java",
+      "nlp",
+      "nlp-lang",
+      "tire"
+    ],
+    "Language": "Java",
+    "Stars": 1513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-30T13:38:45Z",
+    "UpdatedAt": "2026-04-24T07:04:43Z",
+    "Owner": "NLPchina",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Unstructured-IO/unstructured",
+    "Name": "unstructured",
+    "Url": "https://github.com/Unstructured-IO/unstructured",
+    "Description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+    "Topics": [
+      "data-pipelines",
+      "deep-learning",
+      "document-image-analysis",
+      "document-image-processing",
+      "document-parser",
+      "document-parsing",
+      "docx",
+      "donut",
+      "information-retrieval",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "ml",
+      "natural-language-processing",
+      "nlp",
+      "ocr",
+      "pdf",
+      "pdf-to-json",
+      "pdf-to-text",
+      "preprocessing"
+    ],
+    "Language": "HTML",
+    "Stars": 14617,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-26T21:53:41Z",
+    "UpdatedAt": "2026-05-03T12:53:12Z",
+    "Owner": "Unstructured-IO",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "apache/dubbo",
+    "Name": "dubbo",
+    "Url": "https://github.com/apache/dubbo",
+    "Description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+    "Topics": [
+      "distributed-systems",
+      "dubbo",
+      "framework",
+      "grpc",
+      "http",
+      "java",
+      "microservices",
+      "restful",
+      "rpc",
+      "service-mesh",
+      "web"
+    ],
+    "Language": "Java",
+    "Stars": 41556,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-06-19T07:56:02Z",
+    "UpdatedAt": "2026-05-03T14:33:43Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:java language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BotLibre/BotLibre",
+    "Name": "BotLibre",
+    "Url": "https://github.com/BotLibre/BotLibre",
+    "Description": "An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation.",
+    "Topics": [
+      "ai-engine",
+      "android",
+      "artificial-intelligence",
+      "avatars",
+      "bot",
+      "bots",
+      "chat-bots",
+      "chatbot",
+      "ios",
+      "java",
+      "javascript",
+      "natural-language",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "nlu",
+      "objective-c",
+      "sdk",
+      "virtual-agents",
+      "wordpress"
+    ],
+    "Language": "Java",
+    "Stars": 633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-28T01:48:22Z",
+    "UpdatedAt": "2026-04-16T17:52:08Z",
+    "Owner": "BotLibre",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CogComp/cogcomp-nlp",
+    "Name": "cogcomp-nlp",
+    "Url": "https://github.com/CogComp/cogcomp-nlp",
+    "Description": "CogComp's Natural Language Processing Libraries and Demos: Modules include lemmatizer, ner, pos, prep-srl, quantifier, question type, relation-extraction, similarity, temporal normalizer, tokenizer, transliteration, verb-sense, and more.",
+    "Topics": [
+      "big-data",
+      "cogcomp",
+      "data-mining",
+      "dependency-parsing",
+      "lemmatization",
+      "lemmatizer",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "ner",
+      "nlp",
+      "parts-of-speech-tagging",
+      "pos",
+      "pos-tagging",
+      "relation-extraction",
+      "similarity",
+      "tokenizer",
+      "transliteration"
+    ],
+    "Language": "Java",
+    "Stars": 480,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-10-18T04:11:16Z",
+    "UpdatedAt": "2026-04-06T10:14:21Z",
+    "Owner": "CogComp",
+    "SourceQueries": [
+      "topic:nlp language:Java stars:>=50",
+      "similarity language:Java stars:>=50"
+    ]
+  }
+]

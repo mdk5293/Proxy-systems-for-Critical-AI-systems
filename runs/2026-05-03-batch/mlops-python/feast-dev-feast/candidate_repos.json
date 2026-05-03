@@ -1,0 +1,6314 @@
+[
+  {
+    "FullName": "volcengine/OpenViking",
+    "Name": "OpenViking",
+    "Url": "https://github.com/volcengine/OpenViking",
+    "Description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "Topics": [
+      "agent",
+      "agentic-rag",
+      "ai-agents",
+      "clawbot",
+      "context-database",
+      "context-engineering",
+      "filesystem",
+      "llm",
+      "memory",
+      "openclaw",
+      "opencode",
+      "rag",
+      "skill"
+    ],
+    "Language": "Python",
+    "Stars": 23368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-05T07:11:17Z",
+    "UpdatedAt": "2026-05-03T04:40:57Z",
+    "Owner": "volcengine",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davidsandberg/facenet",
+    "Name": "facenet",
+    "Url": "https://github.com/davidsandberg/facenet",
+    "Description": "Face recognition using Tensorflow",
+    "Topics": [
+      "computer-vision",
+      "deep-learning",
+      "face-detection",
+      "face-recognition",
+      "facenet",
+      "mtcnn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 14319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-12T22:14:40Z",
+    "UpdatedAt": "2026-05-01T21:35:48Z",
+    "Owner": "davidsandberg",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "llnl/merlin",
+    "Name": "merlin",
+    "Url": "https://github.com/llnl/merlin",
+    "Description": "Machine Learning for HPC Workflows",
+    "Topics": [
+      "big-data",
+      "celery-workers",
+      "hpc",
+      "machine-learning",
+      "radiuss",
+      "redis-server",
+      "simulation",
+      "workflow",
+      "workflows"
+    ],
+    "Language": "Python",
+    "Stars": 145,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-19T23:31:13Z",
+    "UpdatedAt": "2026-02-18T21:15:00Z",
+    "Owner": "llnl",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "elastic/eland",
+    "Name": "eland",
+    "Url": "https://github.com/elastic/eland",
+    "Description": "Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch",
+    "Topics": [
+      "big-data",
+      "data-analysis",
+      "dataframe",
+      "dataframes",
+      "eland",
+      "elasticsearch",
+      "etl",
+      "lightgbm",
+      "machine-learning",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "time-series-forecasting"
+    ],
+    "Language": "Python",
+    "Stars": 693,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-11T07:24:06Z",
+    "UpdatedAt": "2026-04-27T08:15:46Z",
+    "Owner": "elastic",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/openai-python",
+    "Name": "openai-python",
+    "Url": "https://github.com/openai/openai-python",
+    "Description": "The official Python library for the OpenAI API",
+    "Topics": [
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 30663,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-25T23:23:54Z",
+    "UpdatedAt": "2026-05-02T19:38:15Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Data-Centric-AI-Community/fg-data-profiling",
+    "Name": "fg-data-profiling",
+    "Url": "https://github.com/Data-Centric-AI-Community/fg-data-profiling",
+    "Description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. ",
+    "Topics": [
+      "big-data-analytics",
+      "data-analysis",
+      "data-exploration",
+      "data-profiling",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "eda",
+      "exploration",
+      "exploratory-data-analysis",
+      "hacktoberfest",
+      "html-report",
+      "jupyter",
+      "jupyter-notebook",
+      "machine-learning",
+      "pandas",
+      "pandas-dataframe",
+      "pandas-profiling",
+      "python",
+      "statistics"
+    ],
+    "Language": "Python",
+    "Stars": 13534,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-09T23:47:55Z",
+    "UpdatedAt": "2026-05-01T17:34:23Z",
+    "Owner": "Data-Centric-AI-Community",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50",
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "infiniflow/ragflow",
+    "Name": "ragflow",
+    "Url": "https://github.com/infiniflow/ragflow",
+    "Description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "Topics": [
+      "llm-app"
+    ],
+    "Language": "Python",
+    "Stars": 79494,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-12T06:13:13Z",
+    "UpdatedAt": "2026-05-03T04:40:53Z",
+    "Owner": "infiniflow",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "skypilot-org/skypilot",
+    "Name": "skypilot",
+    "Url": "https://github.com/skypilot-org/skypilot",
+    "Description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).",
+    "Topics": [
+      "cloud-computing",
+      "cloud-management",
+      "cost-optimization",
+      "deep-learning",
+      "distributed-training",
+      "gpu",
+      "hyperparameter-tuning",
+      "job-queue",
+      "job-scheduler",
+      "llm-serving",
+      "llm-training",
+      "machine-learning",
+      "ml-infrastructure",
+      "ml-platform",
+      "mlops",
+      "multicloud",
+      "slurm",
+      "spot-instances",
+      "tpu"
+    ],
+    "Language": "Python",
+    "Stars": 9924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-11T23:32:15Z",
+    "UpdatedAt": "2026-05-03T03:12:12Z",
+    "Owner": "skypilot-org",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "voxel51/fiftyone",
+    "Name": "fiftyone",
+    "Url": "https://github.com/voxel51/fiftyone",
+    "Description": "Refine high-quality datasets and visual AI models",
+    "Topics": [
+      "active-learning",
+      "artificial-intelligence",
+      "computer-vision",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-curation",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "developer-tools",
+      "image-classification",
+      "machine-learning",
+      "object-detection",
+      "python",
+      "unstructured-data",
+      "vector-search",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 10630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-22T13:43:28Z",
+    "UpdatedAt": "2026-05-02T17:17:51Z",
+    "Owner": "voxel51",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "odoo/odoo",
+    "Name": "odoo",
+    "Url": "https://github.com/odoo/odoo",
+    "Description": "Odoo. Open Source Apps To Grow Your Business.",
+    "Topics": [
+      "apps",
+      "business",
+      "erp",
+      "management",
+      "odoo",
+      "odoo-apps",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50430,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-13T15:38:58Z",
+    "UpdatedAt": "2026-05-03T03:36:34Z",
+    "Owner": "odoo",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arpitg1304/forge",
+    "Name": "forge",
+    "Url": "https://github.com/arpitg1304/forge",
+    "Description": "Convert between robotics dataset formats (RLDS, LeRobot v2/v3, Zarr, HDF5, Rosbag). Inspect, visualize, and analyze datasets. Works with HuggingFace Hub. Built for OpenVLA, Octo, LeRobot, and Diffusion Policy workflows.",
+    "Topics": [
+      "data-quality",
+      "data-quality-checks",
+      "dataset-conversion",
+      "hdf5",
+      "hdf5-to-rlds",
+      "lerobot",
+      "octo",
+      "openvla",
+      "physical-ai",
+      "rlds",
+      "rlds-to-lerobot",
+      "robotics",
+      "vla"
+    ],
+    "Language": "Python",
+    "Stars": 111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T04:51:26Z",
+    "UpdatedAt": "2026-05-01T13:53:41Z",
+    "Owner": "arpitg1304",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wandb/wandb",
+    "Name": "wandb",
+    "Url": "https://github.com/wandb/wandb",
+    "Description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+    "Topics": [
+      "ai",
+      "collaboration",
+      "data-science",
+      "data-versioning",
+      "deep-learning",
+      "experiment-track",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "hyperparameter-tuning",
+      "jax",
+      "keras",
+      "machine-learning",
+      "ml-platform",
+      "mlops",
+      "model-versioning",
+      "pytorch",
+      "reinforcement-learning",
+      "reproducibility",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 11040,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-24T05:46:23Z",
+    "UpdatedAt": "2026-05-02T09:01:07Z",
+    "Owner": "wandb",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "argilla-io/argilla",
+    "Name": "argilla",
+    "Url": "https://github.com/argilla-io/argilla",
+    "Description": "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets",
+    "Topics": [
+      "active-learning",
+      "ai",
+      "annotation-tool",
+      "developer-tools",
+      "gpt-4",
+      "human-in-the-loop",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "nlp",
+      "rlhf",
+      "text-annotation",
+      "text-labeling",
+      "weak-supervision",
+      "weakly-supervised-learning"
+    ],
+    "Language": "Python",
+    "Stars": 4953,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-28T14:37:42Z",
+    "UpdatedAt": "2026-05-03T00:42:57Z",
+    "Owner": "argilla-io",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20757,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-03T02:57:57Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fabric/fabric",
+    "Name": "fabric",
+    "Url": "https://github.com/fabric/fabric",
+    "Description": "Simple, Pythonic remote execution and deployment.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 15420,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-05-01T01:14:24Z",
+    "UpdatedAt": "2026-05-02T21:56:31Z",
+    "Owner": "fabric",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Nike-Inc/koheesio",
+    "Name": "koheesio",
+    "Url": "https://github.com/Nike-Inc/koheesio",
+    "Description": "Python framework for building efficient data pipelines. It promotes modularity and collaboration, enabling the creation of complex pipelines from simple, reusable components.",
+    "Topics": [
+      "data-engineering",
+      "delta-lake",
+      "pydantic",
+      "pyspark",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 652,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-06T15:47:49Z",
+    "UpdatedAt": "2026-05-01T15:06:44Z",
+    "Owner": "Nike-Inc",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "re-data/dbt-re-data",
+    "Name": "dbt-re-data",
+    "Url": "https://github.com/re-data/dbt-re-data",
+    "Description": "re_data - fix data issues before your users & CEO would discover them 😊",
+    "Topics": [
+      "data-monitoring",
+      "data-observability",
+      "data-quality",
+      "data-testing",
+      "dbt",
+      "dbt-packages",
+      "sql"
+    ],
+    "Language": "Python",
+    "Stars": 101,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-05-09T16:34:30Z",
+    "UpdatedAt": "2026-01-30T01:38:53Z",
+    "Owner": "re-data",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Titan-Systems/titan",
+    "Name": "titan",
+    "Url": "https://github.com/Titan-Systems/titan",
+    "Description": "Titan Core - Snowflake infrastructure-as-code. Provision environments, automate deploys, CI/CD. Manage RBAC, users, roles, and data access. Declarative Python Resource API. Change Management tool for the Snowflake data warehouse.",
+    "Topics": [
+      "compliance-as-code",
+      "data-engineering",
+      "data-governance",
+      "data-warehouse",
+      "dataops",
+      "devops",
+      "rbac",
+      "secops",
+      "snowflake"
+    ],
+    "Language": "Python",
+    "Stars": 480,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-13T20:01:51Z",
+    "UpdatedAt": "2026-03-16T14:27:27Z",
+    "Owner": "Titan-Systems",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "evidentlyai/evidently",
+    "Name": "evidently",
+    "Url": "https://github.com/evidentlyai/evidently",
+    "Description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+    "Topics": [
+      "data-drift",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "generative-ai",
+      "hacktoberfest",
+      "html-report",
+      "jupyter-notebook",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "mlops",
+      "model-monitoring",
+      "pandas-dataframe"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 7443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-25T15:20:08Z",
+    "UpdatedAt": "2026-05-03T03:04:34Z",
+    "Owner": "evidentlyai",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lithops-cloud/lithops",
+    "Name": "lithops",
+    "Url": "https://github.com/lithops-cloud/lithops",
+    "Description": "A multi-cloud framework for big data analytics and embarrassingly parallel jobs, that provides an universal API for building parallel applications in the cloud ☁️🚀",
+    "Topics": [
+      "big-data",
+      "big-data-analytics",
+      "cloud-computing",
+      "data-processing",
+      "distributed",
+      "kubernetes",
+      "multicloud",
+      "multiprocessing",
+      "object-storage",
+      "parallel",
+      "python",
+      "serverless",
+      "serverless-computing",
+      "serverless-functions"
+    ],
+    "Language": "Python",
+    "Stars": 364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-23T09:02:25Z",
+    "UpdatedAt": "2026-04-25T19:43:23Z",
+    "Owner": "lithops-cloud",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-02T07:58:19Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "posit-dev/pointblank",
+    "Name": "pointblank",
+    "Url": "https://github.com/posit-dev/pointblank",
+    "Description": "Data validation toolkit for assessing and monitoring data quality.",
+    "Topics": [
+      "data-quality",
+      "data-testing",
+      "data-validation",
+      "easy-to-understand",
+      "tabular-data"
+    ],
+    "Language": "Python",
+    "Stars": 430,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-23T23:55:57Z",
+    "UpdatedAt": "2026-05-01T20:48:28Z",
+    "Owner": "posit-dev",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GClunies/reflekt",
+    "Name": "reflekt",
+    "Url": "https://github.com/GClunies/reflekt",
+    "Description": "Define, govern, and model event data for warehouse-first product analytics.",
+    "Topics": [
+      "avo",
+      "customer-data-platform",
+      "data-modeling",
+      "data-quality",
+      "data-warehouse",
+      "dbt",
+      "dbt-package",
+      "events",
+      "governance",
+      "product-analytics",
+      "schema-registry",
+      "segment",
+      "segment-protocols"
+    ],
+    "Language": "Python",
+    "Stars": 86,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-13T16:27:47Z",
+    "UpdatedAt": "2025-12-03T22:11:32Z",
+    "Owner": "GClunies",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "commaai/openpilot",
+    "Name": "openpilot",
+    "Url": "https://github.com/commaai/openpilot",
+    "Description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "Topics": [
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ],
+    "Language": "Python",
+    "Stars": 60782,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-24T01:33:30Z",
+    "UpdatedAt": "2026-05-03T04:01:36Z",
+    "Owner": "commaai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bodo-ai/Bodo",
+    "Name": "Bodo",
+    "Url": "https://github.com/bodo-ai/Bodo",
+    "Description": "High Performance Data Processing in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "big-data",
+      "data-science",
+      "distributed",
+      "machine-learning",
+      "numpy",
+      "optimization",
+      "pandas",
+      "parallel-computing",
+      "pydata",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "Language": "Python",
+    "Stars": 364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-26T10:46:05Z",
+    "UpdatedAt": "2026-05-02T01:37:14Z",
+    "Owner": "bodo-ai",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Cinnamon/kotaemon",
+    "Name": "kotaemon",
+    "Url": "https://github.com/Cinnamon/kotaemon",
+    "Description": "An open-source RAG-based tool for chatting with your documents.",
+    "Topics": [
+      "chatbot",
+      "llms",
+      "open-source",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 25349,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-25T08:16:42Z",
+    "UpdatedAt": "2026-05-02T14:45:30Z",
+    "Owner": "Cinnamon",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PrefectHQ/fastmcp",
+    "Name": "fastmcp",
+    "Url": "https://github.com/PrefectHQ/fastmcp",
+    "Description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "Topics": [
+      "agents",
+      "fastmcp",
+      "llms",
+      "mcp",
+      "mcp-clients",
+      "mcp-servers",
+      "mcp-tools",
+      "model-context-protocol",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 24963,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-30T01:47:40Z",
+    "UpdatedAt": "2026-05-03T03:58:16Z",
+    "Owner": "PrefectHQ",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GAIR-NLP/ProX",
+    "Name": "ProX",
+    "Url": "https://github.com/GAIR-NLP/ProX",
+    "Description": "[ICML 2025] Programming Every Example: Lifting Pre-training Data Quality Like Experts at Scale",
+    "Topics": [
+      "continual",
+      "continual-pre-training",
+      "data-centric-ai",
+      "data-quality",
+      "llama",
+      "llm",
+      "mistral",
+      "neural-symbolic",
+      "pre-training"
+    ],
+    "Language": "Python",
+    "Stars": 269,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-09T12:33:23Z",
+    "UpdatedAt": "2026-04-02T01:58:55Z",
+    "Owner": "GAIR-NLP",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "modelscope/FunASR",
+    "Name": "FunASR",
+    "Url": "https://github.com/modelscope/FunASR",
+    "Description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+    "Topics": [
+      "audio-visual-speech-recognition",
+      "conformer",
+      "dfsmn",
+      "paraformer",
+      "pretrained-model",
+      "punctuation",
+      "pytorch",
+      "rnnt",
+      "speaker-diarization",
+      "speech-recognition",
+      "speechgpt",
+      "speechllm",
+      "vad",
+      "voice-activity-detection",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 15939,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-24T02:28:11Z",
+    "UpdatedAt": "2026-05-03T01:14:57Z",
+    "Owner": "modelscope",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kserve/kserve",
+    "Name": "kserve",
+    "Url": "https://github.com/kserve/kserve",
+    "Description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+    "Topics": [
+      "artificial-intelligence",
+      "cncf",
+      "genai",
+      "hacktoberfest",
+      "istio",
+      "k8s",
+      "knative",
+      "kserve",
+      "kubeflow",
+      "kubernetes",
+      "llm-inference",
+      "machine-learning",
+      "mlops",
+      "model-interpretability",
+      "model-serving",
+      "pytorch",
+      "service-mesh",
+      "tensorflow",
+      "vllm",
+      "xgboost"
+    ],
+    "Language": "Go",
+    "Stars": 5413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-27T21:14:14Z",
+    "UpdatedAt": "2026-05-03T01:03:20Z",
+    "Owner": "kserve",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vertica/VerticaPy",
+    "Name": "VerticaPy",
+    "Url": "https://github.com/vertica/VerticaPy",
+    "Description": "VerticaPy is a Python library that exposes sci-kit like functionality to conduct data science projects on data stored in Vertica, thus taking advantage Vertica’s speed and built-in analytics and machine learning capabilities.",
+    "Topics": [
+      "big-data",
+      "data-science",
+      "data-visualization",
+      "machine-learning",
+      "preparation",
+      "python",
+      "python-library",
+      "vertica"
+    ],
+    "Language": "Python",
+    "Stars": 225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-08T21:22:51Z",
+    "UpdatedAt": "2026-03-31T18:22:46Z",
+    "Owner": "vertica",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "myshell-ai/OpenVoice",
+    "Name": "OpenVoice",
+    "Url": "https://github.com/myshell-ai/OpenVoice",
+    "Description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+    "Topics": [
+      "text-to-speech",
+      "tts",
+      "voice-clone",
+      "zero-shot-tts"
+    ],
+    "Language": "Python",
+    "Stars": 36428,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T12:17:01Z",
+    "UpdatedAt": "2026-05-03T03:50:45Z",
+    "Owner": "myshell-ai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jina-ai/serve",
+    "Name": "serve",
+    "Url": "https://github.com/jina-ai/serve",
+    "Description": "☁️ Build multimodal AI applications with cloud-native stack",
+    "Topics": [
+      "cloud-native",
+      "cncf",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "framework",
+      "generative-ai",
+      "grpc",
+      "jaeger",
+      "kubernetes",
+      "llmops",
+      "machine-learning",
+      "microservice",
+      "mlops",
+      "multimodal",
+      "neural-search",
+      "opentelemetry",
+      "orchestration",
+      "pipeline",
+      "prometheus"
+    ],
+    "Language": "Python",
+    "Stars": 21873,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-13T17:04:44Z",
+    "UpdatedAt": "2026-05-02T16:19:05Z",
+    "Owner": "jina-ai",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "great-expectations/airflow-provider-great-expectations",
+    "Name": "airflow-provider-great-expectations",
+    "Url": "https://github.com/great-expectations/airflow-provider-great-expectations",
+    "Description": "Great Expectations Airflow operator",
+    "Topics": [
+      "airflow",
+      "airflow-operators",
+      "airflow-providers",
+      "data-quality",
+      "data-science",
+      "data-testing"
+    ],
+    "Language": "Python",
+    "Stars": 172,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-05T20:13:51Z",
+    "UpdatedAt": "2026-04-09T10:33:32Z",
+    "Owner": "great-expectations",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xtekky/gpt4free",
+    "Name": "gpt4free",
+    "Url": "https://github.com/xtekky/gpt4free",
+    "Description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+    "Topics": [
+      "chatbot",
+      "chatbots",
+      "chatgpt",
+      "chatgpt-4",
+      "chatgpt-api",
+      "chatgpt-free",
+      "chatgpt4",
+      "deepseek",
+      "deepseek-api",
+      "deepseek-r1",
+      "gpt",
+      "gpt-4",
+      "gpt-4o",
+      "gpt4",
+      "gpt4-api",
+      "language-model",
+      "openai",
+      "openai-api",
+      "openai-chatgpt",
+      "reverse-engineering"
+    ],
+    "Language": "Python",
+    "Stars": 66157,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-29T17:00:43Z",
+    "UpdatedAt": "2026-05-03T02:38:45Z",
+    "Owner": "xtekky",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airbytehq/airbyte",
+    "Name": "airbyte",
+    "Url": "https://github.com/airbytehq/airbyte",
+    "Description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",
+    "Topics": [
+      "bigquery",
+      "change-data-capture",
+      "data",
+      "data-analysis",
+      "data-collection",
+      "data-engineering",
+      "data-integration",
+      "data-pipeline",
+      "elt",
+      "etl",
+      "java",
+      "mssql",
+      "mysql",
+      "pipeline",
+      "postgresql",
+      "python",
+      "redshift",
+      "s3",
+      "self-hosted",
+      "snowflake"
+    ],
+    "Language": "Python",
+    "Stars": 21170,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-27T23:55:54Z",
+    "UpdatedAt": "2026-05-03T03:10:59Z",
+    "Owner": "airbytehq",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135253,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-03T04:33:37Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vertti/daffy",
+    "Name": "daffy",
+    "Url": "https://github.com/vertti/daffy",
+    "Description": "Lightweight DataFrame validation decorators for Pandas, Polars, Modin, and PyArrow. No custom types required.",
+    "Topics": [
+      "data-quality",
+      "data-validation",
+      "dataframe",
+      "dataframe-schema",
+      "dataframe-validation",
+      "decorator",
+      "modin",
+      "narwhals",
+      "pandas",
+      "polars",
+      "pyarrow",
+      "pydantic",
+      "python",
+      "python-decorator",
+      "runtime-validation",
+      "validation"
+    ],
+    "Language": "Python",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-31T09:27:29Z",
+    "UpdatedAt": "2026-05-02T10:04:13Z",
+    "Owner": "vertti",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mts-ai/OpenAutoNLU",
+    "Name": "OpenAutoNLU",
+    "Url": "https://github.com/mts-ai/OpenAutoNLU",
+    "Description": "An open-source pipeline for training natural language understanding models",
+    "Topics": [
+      "automl",
+      "data-quality",
+      "ner",
+      "nlu",
+      "python",
+      "text-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 51,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-24T14:04:12Z",
+    "UpdatedAt": "2026-04-30T11:00:17Z",
+    "Owner": "mts-ai",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zai-org/Open-AutoGLM",
+    "Name": "Open-AutoGLM",
+    "Url": "https://github.com/zai-org/Open-AutoGLM",
+    "Description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "Topics": [
+      "agent",
+      "phone-use-agent"
+    ],
+    "Language": "Python",
+    "Stars": 25164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-08T09:23:44Z",
+    "UpdatedAt": "2026-05-03T03:19:56Z",
+    "Owner": "zai-org",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/agent-lightning",
+    "Name": "agent-lightning",
+    "Url": "https://github.com/microsoft/agent-lightning",
+    "Description": "The absolute trainer to light up AI agents.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "llm",
+      "mlops",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 17075,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-18T07:28:45Z",
+    "UpdatedAt": "2026-05-03T04:02:20Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "damklis/DataEngineeringProject",
+    "Name": "DataEngineeringProject",
+    "Url": "https://github.com/damklis/DataEngineeringProject",
+    "Description": "Example end to end data engineering project.",
+    "Topics": [
+      "airflow",
+      "big-data",
+      "data-engineering",
+      "data-pipeline",
+      "debezium",
+      "django-rest-framework",
+      "elasticsearch",
+      "hacktoberfest",
+      "kafka",
+      "kafka-connect",
+      "minio",
+      "mongodb",
+      "python",
+      "redis",
+      "s3",
+      "scraping"
+    ],
+    "Language": "Python",
+    "Stars": 1411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-30T09:33:56Z",
+    "UpdatedAt": "2026-05-02T06:59:29Z",
+    "Owner": "damklis",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50",
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kevinadhiguna/dqlab-career-track",
+    "Name": "dqlab-career-track",
+    "Url": "https://github.com/kevinadhiguna/dqlab-career-track",
+    "Description": "A collection of scripts written to complete DQLab Data Analyst Career Track 📊",
+    "Topics": [
+      "career-track",
+      "data-analysis",
+      "data-analyst",
+      "data-manipulation",
+      "data-quality",
+      "data-visualization",
+      "dqlab",
+      "dqlab-career-track",
+      "exploratory-data-analysis",
+      "machine-learning",
+      "python",
+      "sql"
+    ],
+    "Language": "Python",
+    "Stars": 78,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-11T05:18:58Z",
+    "UpdatedAt": "2026-04-17T15:05:21Z",
+    "Owner": "kevinadhiguna",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AlexIoannides/pyspark-example-project",
+    "Name": "pyspark-example-project",
+    "Url": "https://github.com/AlexIoannides/pyspark-example-project",
+    "Description": "Implementing best practices for PySpark ETL jobs and applications.",
+    "Topics": [
+      "data-engineering",
+      "data-science",
+      "etl",
+      "etl-job",
+      "etl-pipeline",
+      "pyspark",
+      "python",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 2097,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-28T18:43:15Z",
+    "UpdatedAt": "2026-04-29T13:24:00Z",
+    "Owner": "AlexIoannides",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "activeloopai/deeplake",
+    "Name": "deeplake",
+    "Url": "https://github.com/activeloopai/deeplake",
+    "Description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+    "Topics": [
+      "agent",
+      "agentic-rag",
+      "ai",
+      "clawbot",
+      "computer-vision",
+      "datalake",
+      "deep-learning",
+      "filesystem",
+      "large-language-models",
+      "llm",
+      "memory",
+      "mlops",
+      "multimodal",
+      "openclaw",
+      "postgres",
+      "pytorch",
+      "rag",
+      "skill",
+      "vector-database"
+    ],
+    "Language": "C++",
+    "Stars": 9112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-09T06:17:59Z",
+    "UpdatedAt": "2026-05-02T02:25:50Z",
+    "Owner": "activeloopai",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Dao-AILab/flash-attention",
+    "Name": "flash-attention",
+    "Url": "https://github.com/Dao-AILab/flash-attention",
+    "Description": "Fast and memory-efficient exact attention",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23623,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-19T21:22:06Z",
+    "UpdatedAt": "2026-05-03T04:40:41Z",
+    "Owner": "Dao-AILab",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MigoXLab/dingo",
+    "Name": "dingo",
+    "Url": "https://github.com/MigoXLab/dingo",
+    "Description": "Dingo: A Comprehensive AI Data, Model and Application Quality Evaluation Tool",
+    "Topics": [
+      "agent-as-a-judge",
+      "common-crawl",
+      "data-agent",
+      "data-evaluation",
+      "data-quality",
+      "data-quality-assessment",
+      "data-quality-report",
+      "data-validation",
+      "dataquality",
+      "datascience",
+      "deepseek",
+      "hallucination",
+      "hallucination-detection",
+      "llm",
+      "llm-as-a-judge",
+      "openai",
+      "opencompass",
+      "qwen",
+      "spark",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 691,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-24T05:59:24Z",
+    "UpdatedAt": "2026-04-30T07:44:29Z",
+    "Owner": "MigoXLab",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyjanitor-devs/pyjanitor",
+    "Name": "pyjanitor",
+    "Url": "https://github.com/pyjanitor-devs/pyjanitor",
+    "Description": "Clean APIs for data cleaning. Python implementation of R package Janitor",
+    "Topics": [
+      "cleaning-data",
+      "data",
+      "data-engineering",
+      "dataframe",
+      "hacktoberfest",
+      "pandas",
+      "pydata"
+    ],
+    "Language": "Python",
+    "Stars": 1488,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-04T22:43:33Z",
+    "UpdatedAt": "2026-05-01T14:25:01Z",
+    "Owner": "pyjanitor-devs",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorzero/tensorzero",
+    "Name": "tensorzero",
+    "Url": "https://github.com/tensorzero/tensorzero",
+    "Description": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+    "Topics": [
+      "ai",
+      "ai-engineering",
+      "anthropic",
+      "artificial-intelligence",
+      "deep-learning",
+      "genai",
+      "generative-ai",
+      "gpt",
+      "large-language-models",
+      "llama",
+      "llm",
+      "llmops",
+      "llms",
+      "machine-learning",
+      "ml",
+      "ml-engineering",
+      "mlops",
+      "openai",
+      "python",
+      "rust"
+    ],
+    "Language": "Rust",
+    "Stars": 11295,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-16T21:00:53Z",
+    "UpdatedAt": "2026-05-02T21:19:01Z",
+    "Owner": "tensorzero",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "abhishek-ch/around-dataengineering",
+    "Name": "around-dataengineering",
+    "Url": "https://github.com/abhishek-ch/around-dataengineering",
+    "Description": "A Data Engineering & Machine Learning Knowledge Hub",
+    "Topics": [
+      "airflow",
+      "data-engineering",
+      "datascience",
+      "devops",
+      "infrastructure",
+      "machine-learning",
+      "mlops",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 1144,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-18T12:31:08Z",
+    "UpdatedAt": "2026-04-24T09:03:45Z",
+    "Owner": "abhishek-ch",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/adk-python",
+    "Name": "adk-python",
+    "Url": "https://github.com/google/adk-python",
+    "Description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "Topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "genai-chatbot",
+      "llm",
+      "llms",
+      "multi-agent",
+      "multi-agent-systems",
+      "multi-agents",
+      "multi-agents-collaboration"
+    ],
+    "Language": "Python",
+    "Stars": 19402,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-01T20:44:40Z",
+    "UpdatedAt": "2026-05-03T03:04:41Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Fincept-Corporation/FinceptTerminal",
+    "Name": "FinceptTerminal",
+    "Url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "Description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "Topics": [
+      "ai-agents",
+      "algorithmic-trading",
+      "bloomberg-terminal",
+      "cpp",
+      "finance",
+      "financial-markets",
+      "fintech",
+      "good-first-issue",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "opensource",
+      "python",
+      "qt",
+      "quantitative-finance",
+      "stock-market",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 19232,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-29T14:38:08Z",
+    "UpdatedAt": "2026-05-03T04:43:11Z",
+    "Owner": "Fincept-Corporation",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "521xueweihan/HelloGitHub",
+    "Name": "HelloGitHub",
+    "Url": "https://github.com/521xueweihan/HelloGitHub",
+    "Description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "Topics": [
+      "awesome",
+      "github",
+      "hellogithub",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 154449,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-04T06:24:11Z",
+    "UpdatedAt": "2026-05-03T04:33:00Z",
+    "Owner": "521xueweihan",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-03T00:14:23Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "virattt/ai-hedge-fund",
+    "Name": "ai-hedge-fund",
+    "Url": "https://github.com/virattt/ai-hedge-fund",
+    "Description": "An AI Hedge Fund Team",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 57892,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-29T16:30:01Z",
+    "UpdatedAt": "2026-05-03T04:17:20Z",
+    "Owner": "virattt",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dfsnow/opentimes",
+    "Name": "opentimes",
+    "Url": "https://github.com/dfsnow/opentimes",
+    "Description": "Free travel times between U.S. Census geographies",
+    "Topics": [
+      "accessibility",
+      "big-data",
+      "osm",
+      "python",
+      "spatial-data",
+      "travel-time-estimation",
+      "travel-times"
+    ],
+    "Language": "Python",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-27T20:55:42Z",
+    "UpdatedAt": "2026-05-02T15:55:29Z",
+    "Owner": "dfsnow",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "argoproj/argo-workflows",
+    "Name": "argo-workflows",
+    "Url": "https://github.com/argoproj/argo-workflows",
+    "Description": "Workflow Engine for Kubernetes",
+    "Topics": [
+      "airflow",
+      "argo",
+      "argo-workflows",
+      "batch-processing",
+      "cloud-native",
+      "cncf",
+      "dag",
+      "data-engineering",
+      "gitops",
+      "hacktoberfest",
+      "k8s",
+      "knative",
+      "kubernetes",
+      "machine-learning",
+      "mlops",
+      "pipelines",
+      "workflow",
+      "workflow-engine"
+    ],
+    "Language": "Go",
+    "Stars": 16656,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-21T18:50:44Z",
+    "UpdatedAt": "2026-05-03T00:16:14Z",
+    "Owner": "argoproj",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Netflix/metaflow",
+    "Name": "metaflow",
+    "Url": "https://github.com/Netflix/metaflow",
+    "Description": "Build, Manage and Deploy AI/ML Systems",
+    "Topics": [
+      "agents",
+      "ai",
+      "aws",
+      "azure",
+      "cost-optimization",
+      "datascience",
+      "distributed-training",
+      "gcp",
+      "generative-ai",
+      "high-performance-computing",
+      "kubernetes",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "ml-infrastructure",
+      "ml-platform",
+      "mlops",
+      "model-management",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 10071,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-17T17:48:25Z",
+    "UpdatedAt": "2026-05-02T07:55:12Z",
+    "Owner": "Netflix",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "polyaxon/traceml",
+    "Name": "traceml",
+    "Url": "https://github.com/polyaxon/traceml",
+    "Description": "Engine for ML/Data tracking, visualization, explainability, drift detection, and dashboards for Polyaxon.",
+    "Topics": [
+      "dask",
+      "data-exploration",
+      "data-profiling",
+      "data-quality",
+      "data-quality-checks",
+      "data-science",
+      "data-visualization",
+      "dataframes",
+      "dataops",
+      "explainable-ai",
+      "matplotlib",
+      "mlops",
+      "pandas",
+      "pandas-summary",
+      "plotly",
+      "pytorch",
+      "spark",
+      "statistics",
+      "tensorflow",
+      "tracking"
+    ],
+    "Language": "Python",
+    "Stars": 530,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-25T21:59:32Z",
+    "UpdatedAt": "2026-04-26T15:08:50Z",
+    "Owner": "polyaxon",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70848,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T03:13:42Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "san089/goodreads_etl_pipeline",
+    "Name": "goodreads_etl_pipeline",
+    "Url": "https://github.com/san089/goodreads_etl_pipeline",
+    "Description": "An end-to-end GoodReads Data Pipeline for Building Data Lake, Data Warehouse and Analytics Platform.",
+    "Topics": [
+      "airflow",
+      "airflow-dag",
+      "apache-airflow",
+      "apache-spark",
+      "data-engineering",
+      "data-engineering-pipeline",
+      "data-lake",
+      "data-migration",
+      "emr-cluster",
+      "etl-framework",
+      "etl-job",
+      "etl-pipeline",
+      "goodreads-data-pipeline",
+      "livy",
+      "python",
+      "redshift",
+      "s3",
+      "scheduler",
+      "spark",
+      "warehouse"
+    ],
+    "Language": "Python",
+    "Stars": 1506,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-13T18:47:15Z",
+    "UpdatedAt": "2026-05-03T00:00:14Z",
+    "Owner": "san089",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bytewax/bytewax",
+    "Name": "bytewax",
+    "Url": "https://github.com/bytewax/bytewax",
+    "Description": "Python Stream Processing",
+    "Topics": [
+      "data-engineering",
+      "data-processing",
+      "data-science",
+      "dataflow",
+      "machine-learning",
+      "python",
+      "rust",
+      "stream-processing",
+      "streaming-data"
+    ],
+    "Language": "Python",
+    "Stars": 1987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-04T18:29:36Z",
+    "UpdatedAt": "2026-05-01T20:56:50Z",
+    "Owner": "bytewax",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sodadata/soda-core",
+    "Name": "soda-core",
+    "Url": "https://github.com/sodadata/soda-core",
+    "Description": "Data Contracts engine for the modern data stack. https://www.soda.io",
+    "Topics": [
+      "data-contracts",
+      "data-engineering",
+      "data-governance",
+      "data-monitoring",
+      "data-observability",
+      "data-profiling",
+      "data-quality",
+      "data-quality-checks",
+      "data-quality-monitoring",
+      "data-quality-testing",
+      "data-reliability",
+      "data-testing",
+      "data-unit-tests",
+      "data-validation",
+      "dataquality",
+      "datatesting",
+      "dbt",
+      "pipeline-testing",
+      "python",
+      "snowflake"
+    ],
+    "Language": "Python",
+    "Stars": 2343,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-14T19:59:19Z",
+    "UpdatedAt": "2026-05-01T13:15:48Z",
+    "Owner": "sodadata",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50",
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "InfuseAI/piperider",
+    "Name": "piperider",
+    "Url": "https://github.com/InfuseAI/piperider",
+    "Description": "Code review for data in dbt",
+    "Topics": [
+      "code-review",
+      "continuous-integration",
+      "data-exploration",
+      "data-observability",
+      "data-pipeline",
+      "data-profiler",
+      "data-profiling",
+      "data-quality",
+      "data-reliability",
+      "data-science",
+      "data-testing",
+      "data-visualization",
+      "dbt",
+      "dbt-metrics",
+      "eda",
+      "exploratory-data-analysis",
+      "pull-requests",
+      "python",
+      "reporting"
+    ],
+    "Language": "Python",
+    "Stars": 494,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-31T04:05:11Z",
+    "UpdatedAt": "2026-04-19T06:38:37Z",
+    "Owner": "InfuseAI",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "weaviate/weaviate",
+    "Name": "weaviate",
+    "Url": "https://github.com/weaviate/weaviate",
+    "Description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+    "Topics": [
+      "approximate-nearest-neighbor-search",
+      "generative-search",
+      "grpc",
+      "hnsw",
+      "hybrid-search",
+      "image-search",
+      "information-retrieval",
+      "mlops",
+      "nearest-neighbor-search",
+      "neural-search",
+      "recommender-system",
+      "search-engine",
+      "semantic-search",
+      "semantic-search-engine",
+      "similarity-search",
+      "vector-database",
+      "vector-search",
+      "vector-search-engine",
+      "vectors",
+      "weaviate"
+    ],
+    "Language": "Go",
+    "Stars": 16120,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-30T15:03:17Z",
+    "UpdatedAt": "2026-05-02T22:30:55Z",
+    "Owner": "weaviate",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kedro-org/kedro",
+    "Name": "kedro",
+    "Url": "https://github.com/kedro-org/kedro",
+    "Description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+    "Topics": [
+      "experiment-tracking",
+      "hacktoberfest",
+      "kedro",
+      "machine-learning",
+      "machine-learning-engineering",
+      "mlops",
+      "pipeline",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 10860,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-18T10:29:56Z",
+    "UpdatedAt": "2026-05-02T07:53:46Z",
+    "Owner": "kedro-org",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "parashardhapola/scarf",
+    "Name": "scarf",
+    "Url": "https://github.com/parashardhapola/scarf",
+    "Description": "Toolkit for highly memory efficient analysis of single-cell RNA-Seq, scATAC-Seq and CITE-Seq data. Analyze atlas scale datasets with millions of cells on laptop.",
+    "Topics": [
+      "big-data",
+      "bioinformatics",
+      "cite-seq",
+      "clustering",
+      "differential-expression",
+      "dimension-reduction",
+      "gene-modules",
+      "genomics",
+      "graph-analytics",
+      "memory-efficient",
+      "multiomics",
+      "pseudotime",
+      "scalable-data-analysis",
+      "scatac-seq",
+      "scrna-seq",
+      "single-cell-atac-seq",
+      "single-cell-genomics",
+      "single-cell-rna-seq",
+      "tsne",
+      "umap"
+    ],
+    "Language": "Python",
+    "Stars": 115,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-07T17:03:52Z",
+    "UpdatedAt": "2026-03-27T21:24:08Z",
+    "Owner": "parashardhapola",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "provectus/data-quality-gate",
+    "Name": "data-quality-gate",
+    "Url": "https://github.com/provectus/data-quality-gate",
+    "Description": "Data Quality Gate based on AWS ",
+    "Topics": [
+      "athena",
+      "aws",
+      "aws-lambda",
+      "data-governance",
+      "data-quality",
+      "great-expectations",
+      "redshift",
+      "s3",
+      "terraform"
+    ],
+    "Language": "Python",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-31T15:10:56Z",
+    "UpdatedAt": "2026-02-24T03:11:03Z",
+    "Owner": "provectus",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qdrant/qdrant",
+    "Name": "qdrant",
+    "Url": "https://github.com/qdrant/qdrant",
+    "Description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+    "Topics": [
+      "ai-search",
+      "ai-search-engine",
+      "embeddings-similarity",
+      "hnsw",
+      "hybrid-search",
+      "image-search",
+      "knn-algorithm",
+      "machine-learning",
+      "mlops",
+      "nearest-neighbor-search",
+      "neural-network",
+      "neural-search",
+      "recommender-system",
+      "search",
+      "search-engine",
+      "search-engines",
+      "similarity-search",
+      "vector-database",
+      "vector-search",
+      "vector-search-engine"
+    ],
+    "Language": "Rust",
+    "Stars": 30974,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-30T21:37:01Z",
+    "UpdatedAt": "2026-05-03T03:25:18Z",
+    "Owner": "qdrant",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50795,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-03T04:40:45Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yahoo/panoptes",
+    "Name": "panoptes",
+    "Url": "https://github.com/yahoo/panoptes",
+    "Description": "A Global Scale Network Telemetry Ecosystem",
+    "Topics": [
+      "big-data",
+      "networking",
+      "panoptes",
+      "python",
+      "telemetry"
+    ],
+    "Language": "Python",
+    "Stars": 107,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-18T18:13:40Z",
+    "UpdatedAt": "2026-03-08T01:58:51Z",
+    "Owner": "yahoo",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "subframe7536/maple-font",
+    "Name": "maple-font",
+    "Url": "https://github.com/subframe7536/maple-font",
+    "Description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
+    "Topics": [
+      "coding-font",
+      "font",
+      "ligatures",
+      "monospace",
+      "monospace-font",
+      "opentype",
+      "programming-font",
+      "programming-ligatures",
+      "typeface",
+      "typography",
+      "variable-font"
+    ],
+    "Language": "Python",
+    "Stars": 25587,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-08T15:51:22Z",
+    "UpdatedAt": "2026-05-03T04:22:15Z",
+    "Owner": "subframe7536",
+    "SourceQueries": [
+      "open language:Python stars:>=50",
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rom1504/img2dataset",
+    "Name": "img2dataset",
+    "Url": "https://github.com/rom1504/img2dataset",
+    "Description": "Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.",
+    "Topics": [
+      "big-data",
+      "dataset",
+      "deep-learning",
+      "download-images",
+      "image",
+      "image-dataset",
+      "multimodal"
+    ],
+    "Language": "Python",
+    "Stars": 4412,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-11T20:20:15Z",
+    "UpdatedAt": "2026-05-02T07:45:56Z",
+    "Owner": "rom1504",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SuperClaude-Org/SuperClaude_Framework",
+    "Name": "SuperClaude_Framework",
+    "Url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
+    "Description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 22581,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-22T12:03:53Z",
+    "UpdatedAt": "2026-05-03T03:04:09Z",
+    "Owner": "SuperClaude-Org",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dagster-io/dagster-open-platform",
+    "Name": "dagster-open-platform",
+    "Url": "https://github.com/dagster-io/dagster-open-platform",
+    "Description": "Dagster Labs' open-source data platform, built with Dagster.",
+    "Topics": [
+      "dagster",
+      "data-engineering",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 457,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-05T21:03:49Z",
+    "UpdatedAt": "2026-05-03T03:21:19Z",
+    "Owner": "dagster-io",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72531,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-03T04:29:45Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nipy/nipype",
+    "Name": "nipype",
+    "Url": "https://github.com/nipy/nipype",
+    "Description": "Workflows and interfaces for neuroimaging packages",
+    "Topics": [
+      "big-data",
+      "brain-imaging",
+      "brainweb",
+      "data-science",
+      "dataflow",
+      "dataflow-programming",
+      "neuroimaging",
+      "python",
+      "workflow-engine"
+    ],
+    "Language": "Python",
+    "Stars": 825,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-07-22T17:06:49Z",
+    "UpdatedAt": "2026-04-27T00:11:47Z",
+    "Owner": "nipy",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cheahjs/free-llm-api-resources",
+    "Name": "free-llm-api-resources",
+    "Url": "https://github.com/cheahjs/free-llm-api-resources",
+    "Description": "A list of free LLM inference resources accessible via API.",
+    "Topics": [
+      "ai",
+      "claude",
+      "gemini",
+      "llama",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 19607,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-04T20:10:17Z",
+    "UpdatedAt": "2026-05-03T03:53:56Z",
+    "Owner": "cheahjs",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bentoml/OpenLLM",
+    "Name": "OpenLLM",
+    "Url": "https://github.com/bentoml/OpenLLM",
+    "Description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+    "Topics": [
+      "bentoml",
+      "fine-tuning",
+      "llama",
+      "llama2",
+      "llama3-1",
+      "llama3-2",
+      "llama3-2-vision",
+      "llm",
+      "llm-inference",
+      "llm-ops",
+      "llm-serving",
+      "llmops",
+      "mistral",
+      "mlops",
+      "model-inference",
+      "open-source-llm",
+      "openllm",
+      "vicuna"
+    ],
+    "Language": "Python",
+    "Stars": 12307,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-19T00:27:52Z",
+    "UpdatedAt": "2026-05-02T07:43:01Z",
+    "Owner": "bentoml",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "scikit-hep/uproot5",
+    "Name": "uproot5",
+    "Url": "https://github.com/scikit-hep/uproot5",
+    "Description": "ROOT I/O in pure Python and NumPy.",
+    "Topics": [
+      "analysis",
+      "big-data",
+      "bigdata",
+      "file-format",
+      "hep",
+      "hep-ex",
+      "hep-py",
+      "numpy",
+      "python",
+      "root",
+      "root-cern",
+      "scikit-hep"
+    ],
+    "Language": "Python",
+    "Stars": 264,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-08T20:30:09Z",
+    "UpdatedAt": "2026-04-30T09:06:59Z",
+    "Owner": "scikit-hep",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stitionai/devika",
+    "Name": "devika",
+    "Url": "https://github.com/stitionai/devika",
+    "Description": "Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 19505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-21T03:03:21Z",
+    "UpdatedAt": "2026-05-02T21:42:56Z",
+    "Owner": "stitionai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yahoo/redislite",
+    "Name": "redislite",
+    "Url": "https://github.com/yahoo/redislite",
+    "Description": "Redis in a python module.",
+    "Topics": [
+      "big-data",
+      "database",
+      "key-value",
+      "python",
+      "redis",
+      "redis-bindings",
+      "redis-server",
+      "redislite",
+      "screwdriver"
+    ],
+    "Language": "Python",
+    "Stars": 604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-03T01:15:53Z",
+    "UpdatedAt": "2026-05-02T18:53:25Z",
+    "Owner": "yahoo",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "insitro/redun",
+    "Name": "redun",
+    "Url": "https://github.com/insitro/redun",
+    "Description": "Yet another redundant workflow engine",
+    "Topics": [
+      "aws",
+      "bioinformatics",
+      "data-engineering",
+      "data-science",
+      "docker",
+      "etl",
+      "gcp",
+      "ml",
+      "python",
+      "workflow-engine"
+    ],
+    "Language": "Python",
+    "Stars": 581,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-11-04T00:14:09Z",
+    "UpdatedAt": "2026-04-29T02:34:23Z",
+    "Owner": "insitro",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aws-samples/aws-etl-orchestrator",
+    "Name": "aws-etl-orchestrator",
+    "Url": "https://github.com/aws-samples/aws-etl-orchestrator",
+    "Description": "A serverless architecture for orchestrating ETL jobs in arbitrarily-complex workflows using AWS Step Functions and AWS Lambda. ",
+    "Topics": [
+      "amazon-web-services",
+      "athena",
+      "aws",
+      "big-data",
+      "bigdata",
+      "elt",
+      "etl",
+      "extract",
+      "glue",
+      "lambda",
+      "load",
+      "orchestration",
+      "serverless",
+      "state-machine",
+      "stepfunctions",
+      "transform"
+    ],
+    "Language": "Python",
+    "Stars": 344,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-08T19:37:55Z",
+    "UpdatedAt": "2026-04-08T16:43:57Z",
+    "Owner": "aws-samples",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/VibeVoice",
+    "Name": "VibeVoice",
+    "Url": "https://github.com/microsoft/VibeVoice",
+    "Description": "Open-Source Frontier Voice AI",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 46295,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-25T13:24:01Z",
+    "UpdatedAt": "2026-05-03T04:24:58Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HumanSignal/label-studio",
+    "Name": "label-studio",
+    "Url": "https://github.com/HumanSignal/label-studio",
+    "Description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "boundingbox",
+      "computer-vision",
+      "data-labeling",
+      "dataset",
+      "datasets",
+      "deep-learning",
+      "image-annotation",
+      "image-classification",
+      "image-labeling",
+      "image-labelling-tool",
+      "label-studio",
+      "labeling",
+      "labeling-tool",
+      "mlops",
+      "semantic-segmentation",
+      "text-annotation",
+      "yolo"
+    ],
+    "Language": "TypeScript",
+    "Stars": 27191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-19T02:00:44Z",
+    "UpdatedAt": "2026-05-03T04:14:13Z",
+    "Owner": "HumanSignal",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "aiguofer/gspread-pandas",
+    "Name": "gspread-pandas",
+    "Url": "https://github.com/aiguofer/gspread-pandas",
+    "Description": "A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames.",
+    "Topics": [
+      "data",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "dataframes",
+      "google",
+      "google-sheets",
+      "google-spreadsheets",
+      "gspread",
+      "pandas",
+      "python",
+      "sheets"
+    ],
+    "Language": "Python",
+    "Stars": 408,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-12T01:29:35Z",
+    "UpdatedAt": "2026-04-08T16:41:19Z",
+    "Owner": "aiguofer",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "meltano/meltano",
+    "Name": "meltano",
+    "Url": "https://github.com/meltano/meltano",
+    "Description": "Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.",
+    "Topics": [
+      "connectors",
+      "data",
+      "data-engineering",
+      "data-pipelines",
+      "dataops",
+      "dataops-platform",
+      "elt",
+      "extract-data",
+      "integration",
+      "loaders",
+      "meltano",
+      "meltano-sdk",
+      "open-source",
+      "opensource",
+      "pipelines",
+      "singer",
+      "tap",
+      "taps",
+      "target",
+      "targets"
+    ],
+    "Language": "Python",
+    "Stars": 2473,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-21T16:35:39Z",
+    "UpdatedAt": "2026-05-03T04:25:44Z",
+    "Owner": "meltano",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DeepWisdom/AutoDL",
+    "Name": "AutoDL",
+    "Url": "https://github.com/DeepWisdom/AutoDL",
+    "Description": "Automated Deep Learning without ANY human intervention. 1'st Solution for AutoDL challenge@NeurIPS. ",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "autodl",
+      "autodl-challenge",
+      "automated-machine-learning",
+      "automl",
+      "big-data",
+      "data-science",
+      "deeplearning",
+      "feature-engineering",
+      "full-automl",
+      "lightgbm",
+      "machine-learning",
+      "model-selection",
+      "multi-label",
+      "nas",
+      "python",
+      "pytorch",
+      "resnet",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 1196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-02T14:59:04Z",
+    "UpdatedAt": "2026-04-24T07:36:48Z",
+    "Owner": "DeepWisdom",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ankurchavda/streamify",
+    "Name": "streamify",
+    "Url": "https://github.com/ankurchavda/streamify",
+    "Description": "A data engineering project with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more!",
+    "Topics": [
+      "airflow",
+      "data-engineering",
+      "dbt",
+      "gcp",
+      "kafka",
+      "python",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-15T16:45:30Z",
+    "UpdatedAt": "2026-04-22T06:27:28Z",
+    "Owner": "ankurchavda",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PrefectHQ/prefect",
+    "Name": "prefect",
+    "Url": "https://github.com/PrefectHQ/prefect",
+    "Description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "Topics": [
+      "automation",
+      "data",
+      "data-engineering",
+      "data-ops",
+      "data-science",
+      "infrastructure",
+      "ml-ops",
+      "observability",
+      "orchestration",
+      "pipeline",
+      "prefect",
+      "python",
+      "workflow",
+      "workflow-engine"
+    ],
+    "Language": "Python",
+    "Stars": 22289,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T21:59:26Z",
+    "UpdatedAt": "2026-05-03T02:14:09Z",
+    "Owner": "PrefectHQ",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/openai-agents-python",
+    "Name": "openai-agents-python",
+    "Url": "https://github.com/openai/openai-agents-python",
+    "Description": "A lightweight, powerful framework for multi-agent workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 25785,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T03:42:36Z",
+    "UpdatedAt": "2026-05-03T04:14:44Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "astronomer/agents",
+    "Name": "agents",
+    "Url": "https://github.com/astronomer/agents",
+    "Description": "AI agent tooling for data engineering workflows.",
+    "Topics": [
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ai-agents",
+      "airflow",
+      "apache-airflow",
+      "claude",
+      "cursor",
+      "dag",
+      "data-engineering",
+      "data-pipelines",
+      "dbt",
+      "llm",
+      "mcp",
+      "orchestrator",
+      "skills",
+      "workflow-automation",
+      "workflow-management",
+      "workflow-orchestration",
+      "workflows"
+    ],
+    "Language": "Python",
+    "Stars": 354,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-13T16:23:31Z",
+    "UpdatedAt": "2026-05-01T18:46:34Z",
+    "Owner": "astronomer",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyper-dev/pyper",
+    "Name": "pyper",
+    "Url": "https://github.com/pyper-dev/pyper",
+    "Description": "Concurrent Python made simple",
+    "Topics": [
+      "asyncio",
+      "concurrency",
+      "data",
+      "data-collection",
+      "data-engineering",
+      "data-pipelines",
+      "data-processing",
+      "multiprocessing",
+      "parallel-computing",
+      "python",
+      "threading"
+    ],
+    "Language": "Python",
+    "Stars": 1525,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-22T08:14:04Z",
+    "UpdatedAt": "2026-04-27T07:36:06Z",
+    "Owner": "pyper-dev",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hazelcast/hazelcast-python-client",
+    "Name": "hazelcast-python-client",
+    "Url": "https://github.com/hazelcast/hazelcast-python-client",
+    "Description": "Hazelcast Python Client",
+    "Topics": [
+      "big-data",
+      "caching",
+      "clustering",
+      "datagrid",
+      "distributed",
+      "hazelcast",
+      "hazelcast-client",
+      "imdg",
+      "in-memory",
+      "python",
+      "python2",
+      "scalability"
+    ],
+    "Language": "Python",
+    "Stars": 116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-12-03T09:14:23Z",
+    "UpdatedAt": "2026-04-22T11:35:17Z",
+    "Owner": "hazelcast",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kubeflow/mcp-apache-spark-history-server",
+    "Name": "mcp-apache-spark-history-server",
+    "Url": "https://github.com/kubeflow/mcp-apache-spark-history-server",
+    "Description": "MCP Server and CLI for Apache Spark History Server. Debug Spark applications from AI agents, scripts, or the terminal.",
+    "Topics": [
+      "apache-spark",
+      "big-data",
+      "data-processing",
+      "kubernetes",
+      "mcp",
+      "mcp-server"
+    ],
+    "Language": "Python",
+    "Stars": 163,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-26T19:38:52Z",
+    "UpdatedAt": "2026-04-30T22:13:06Z",
+    "Owner": "kubeflow",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zenml-io/zenml",
+    "Name": "zenml",
+    "Url": "https://github.com/zenml-io/zenml",
+    "Description": "ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.",
+    "Topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "automl",
+      "data-science",
+      "deep-learning",
+      "devops-tools",
+      "genai",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "metadata-tracking",
+      "ml",
+      "mlops",
+      "pipelines",
+      "production-ready",
+      "pytorch",
+      "tensorflow",
+      "workflow",
+      "zenml"
+    ],
+    "Language": "Python",
+    "Stars": 5385,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-19T09:25:46Z",
+    "UpdatedAt": "2026-05-02T22:39:57Z",
+    "Owner": "zenml-io",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "iejMac/video2dataset",
+    "Name": "video2dataset",
+    "Url": "https://github.com/iejMac/video2dataset",
+    "Description": "Easily create large video dataset from video urls",
+    "Topics": [
+      "big-data",
+      "dataset",
+      "video"
+    ],
+    "Language": "Python",
+    "Stars": 656,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-15T17:36:38Z",
+    "UpdatedAt": "2026-04-23T06:51:28Z",
+    "Owner": "iejMac",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Vision-CAIR/MiniGPT-4",
+    "Name": "MiniGPT-4",
+    "Url": "https://github.com/Vision-CAIR/MiniGPT-4",
+    "Description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 25726,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-15T22:17:09Z",
+    "UpdatedAt": "2026-05-03T03:54:05Z",
+    "Owner": "Vision-CAIR",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NeumTry/NeumAI",
+    "Name": "NeumAI",
+    "Url": "https://github.com/NeumTry/NeumAI",
+    "Description": "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.",
+    "Topics": [
+      "ai",
+      "chatgpt",
+      "data",
+      "data-engineering",
+      "database",
+      "embeddings",
+      "etl",
+      "llm",
+      "llmops",
+      "mlops",
+      "ops",
+      "pipeline",
+      "python",
+      "rag",
+      "retrieval",
+      "vector-database",
+      "vectors"
+    ],
+    "Language": "Python",
+    "Stars": 868,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-14T00:04:50Z",
+    "UpdatedAt": "2026-04-16T07:56:24Z",
+    "Owner": "NeumTry",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "databrickslabs/dqx",
+    "Name": "dqx",
+    "Url": "https://github.com/databrickslabs/dqx",
+    "Description": "Databricks framework to validate Data Quality of pySpark DataFrames and Tables",
+    "Topics": [
+      "data-profiling",
+      "data-quality",
+      "data-quality-monitoring",
+      "databricks",
+      "lakeflow",
+      "spark",
+      "spark-streaming",
+      "unity-catalog"
+    ],
+    "Language": "Python",
+    "Stars": 405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-23T18:28:43Z",
+    "UpdatedAt": "2026-04-30T16:04:32Z",
+    "Owner": "databrickslabs",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flyteorg/flyte",
+    "Name": "flyte",
+    "Url": "https://github.com/flyteorg/flyte",
+    "Description": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.",
+    "Topics": [
+      "agentic",
+      "ai-agents",
+      "ai-development-tools",
+      "data-analysis",
+      "data-science",
+      "declarative",
+      "fine-tuning",
+      "flyte",
+      "golang",
+      "grpc",
+      "hacktoberfest",
+      "kubernetes",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "orchestration-engine",
+      "production",
+      "python",
+      "scale",
+      "workflow"
+    ],
+    "Language": "Go",
+    "Stars": 6978,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-21T17:40:04Z",
+    "UpdatedAt": "2026-05-03T04:21:59Z",
+    "Owner": "flyteorg",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dlt-hub/dlt",
+    "Name": "dlt",
+    "Url": "https://github.com/dlt-hub/dlt",
+    "Description": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ ",
+    "Topics": [
+      "data",
+      "data-engineering",
+      "data-lake",
+      "data-loading",
+      "data-warehouse",
+      "elt",
+      "extract",
+      "load",
+      "python",
+      "transform"
+    ],
+    "Language": "Python",
+    "Stars": 5271,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-26T09:51:04Z",
+    "UpdatedAt": "2026-05-02T23:05:07Z",
+    "Owner": "dlt-hub",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aws-solutions-library-samples/data-lakes-on-aws",
+    "Name": "data-lakes-on-aws",
+    "Url": "https://github.com/aws-solutions-library-samples/data-lakes-on-aws",
+    "Description": "Enterprise-grade, production-hardened, serverless data lake on AWS",
+    "Topics": [
+      "analytics",
+      "aws",
+      "best-practices",
+      "data-engineering",
+      "data-lake",
+      "etl",
+      "framework",
+      "iac",
+      "lake-formation",
+      "serverless"
+    ],
+    "Language": "Python",
+    "Stars": 479,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-08T22:45:31Z",
+    "UpdatedAt": "2026-04-02T08:40:25Z",
+    "Owner": "aws-solutions-library-samples",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zai-org/ChatGLM-6B",
+    "Name": "ChatGLM-6B",
+    "Url": "https://github.com/zai-org/ChatGLM-6B",
+    "Description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 41130,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-13T12:00:18Z",
+    "UpdatedAt": "2026-05-03T03:54:04Z",
+    "Owner": "zai-org",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA-NeMo/Curator",
+    "Name": "Curator",
+    "Url": "https://github.com/NVIDIA-NeMo/Curator",
+    "Description": "Scalable data pre processing and curation toolkit for LLMs",
+    "Topics": [
+      "data",
+      "data-curation",
+      "data-prep",
+      "data-preparation",
+      "data-processing",
+      "data-processing-pipelines",
+      "data-quality",
+      "datacuration",
+      "datarecipes",
+      "deduplication",
+      "fast-data-processing",
+      "fine-tuning",
+      "large-language-models",
+      "large-scale-data-processing",
+      "llm",
+      "llm-data-quality",
+      "llmapps",
+      "python",
+      "semantic-deduplication"
+    ],
+    "Language": "Python",
+    "Stars": 1556,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-14T20:41:51Z",
+    "UpdatedAt": "2026-05-02T10:46:49Z",
+    "Owner": "NVIDIA-NeMo",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SYSTRAN/faster-whisper",
+    "Name": "faster-whisper",
+    "Url": "https://github.com/SYSTRAN/faster-whisper",
+    "Description": "Faster Whisper transcription with CTranslate2",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "openai",
+      "quantization",
+      "speech-recognition",
+      "speech-to-text",
+      "transformer",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 22576,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T09:17:27Z",
+    "UpdatedAt": "2026-05-03T03:19:51Z",
+    "Owner": "SYSTRAN",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SeldonIO/seldon-core",
+    "Name": "seldon-core",
+    "Url": "https://github.com/SeldonIO/seldon-core",
+    "Description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+    "Topics": [
+      "aiops",
+      "deployment",
+      "kubernetes",
+      "machine-learning",
+      "machine-learning-operations",
+      "mlops",
+      "production-machine-learning",
+      "serving"
+    ],
+    "Language": "Go",
+    "Stars": 4746,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-20T14:51:54Z",
+    "UpdatedAt": "2026-04-29T14:40:48Z",
+    "Owner": "SeldonIO",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dgarnitz/vectorflow",
+    "Name": "vectorflow",
+    "Url": "https://github.com/dgarnitz/vectorflow",
+    "Description": "VectorFlow is a high volume vector embedding pipeline that ingests raw data, transforms it into vectors and writes it to a vector DB of your choice. ",
+    "Topics": [
+      "ai",
+      "data-engineering",
+      "embeddings",
+      "machine-learning",
+      "nlp",
+      "vectors"
+    ],
+    "Language": "Python",
+    "Stars": 701,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-25T16:13:07Z",
+    "UpdatedAt": "2026-04-13T16:03:52Z",
+    "Owner": "dgarnitz",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xonsh/xonsh",
+    "Name": "xonsh",
+    "Url": "https://github.com/xonsh/xonsh",
+    "Description": "🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.",
+    "Topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cmux",
+      "data-engineering",
+      "data-scientists",
+      "devops",
+      "devsecops",
+      "hyper",
+      "iterm2",
+      "kitty",
+      "nix",
+      "nixos",
+      "python-automation",
+      "raspberry-pi",
+      "security-automation",
+      "vscode-extension",
+      "wezterm",
+      "xonsh"
+    ],
+    "Language": "Python",
+    "Stars": 9314,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-21T22:05:27Z",
+    "UpdatedAt": "2026-05-03T04:11:31Z",
+    "Owner": "xonsh",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rom1504/cc2dataset",
+    "Name": "cc2dataset",
+    "Url": "https://github.com/rom1504/cc2dataset",
+    "Description": "Easily convert common crawl to a dataset of caption and document. Image/text Audio/text Video/text, ...",
+    "Topics": [
+      "big-data",
+      "dataset",
+      "multimodal"
+    ],
+    "Language": "Python",
+    "Stars": 321,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-29T22:54:06Z",
+    "UpdatedAt": "2026-04-24T15:03:11Z",
+    "Owner": "rom1504",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/feathub",
+    "Name": "feathub",
+    "Url": "https://github.com/alibaba/feathub",
+    "Description": "FeatHub - A stream-batch unified feature store for real-time machine learning",
+    "Topics": [
+      "apache-flink",
+      "data",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "feature-engineering",
+      "feature-store",
+      "machine-learning",
+      "mlops",
+      "streaming"
+    ],
+    "Language": "Python",
+    "Stars": 347,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-22T05:50:44Z",
+    "UpdatedAt": "2026-04-22T13:16:23Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/airflow",
+    "Name": "airflow",
+    "Url": "https://github.com/apache/airflow",
+    "Description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "Topics": [
+      "airflow",
+      "apache",
+      "apache-airflow",
+      "automation",
+      "dag",
+      "data-engineering",
+      "data-integration",
+      "data-orchestrator",
+      "data-pipelines",
+      "data-science",
+      "elt",
+      "etl",
+      "machine-learning",
+      "mlops",
+      "orchestration",
+      "python",
+      "scheduler",
+      "workflow",
+      "workflow-engine",
+      "workflow-orchestration"
+    ],
+    "Language": "Python",
+    "Stars": 45262,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-04-13T18:04:58Z",
+    "UpdatedAt": "2026-05-03T04:36:56Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50",
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "locationtech-labs/geopyspark",
+    "Name": "geopyspark",
+    "Url": "https://github.com/locationtech-labs/geopyspark",
+    "Description": "GeoTrellis for PySpark",
+    "Topics": [
+      "big-data",
+      "geospatial",
+      "geotrellis",
+      "python",
+      "spark",
+      "tile-server"
+    ],
+    "Language": "Python",
+    "Stars": 178,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-15T14:55:48Z",
+    "UpdatedAt": "2026-04-23T16:12:10Z",
+    "Owner": "locationtech-labs",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "black-forest-labs/flux",
+    "Name": "flux",
+    "Url": "https://github.com/black-forest-labs/flux",
+    "Description": "Official inference repo for FLUX.1 models",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 25482,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-01T09:04:19Z",
+    "UpdatedAt": "2026-05-03T02:48:20Z",
+    "Owner": "black-forest-labs",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform",
+    "Name": "EComDWH-BatchDataProcessingPlatform",
+    "Url": "https://github.com/Smars-Bin-Hu/EComDWH-BatchDataProcessingPlatform",
+    "Description": "This project aims to build an enterprise-grade offline data warehouse solution based on e-commerce platform order data.",
+    "Topics": [
+      "big-data",
+      "data-warehouse",
+      "hadoop",
+      "hive",
+      "pyspark",
+      "python",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 168,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-15T19:31:10Z",
+    "UpdatedAt": "2026-04-29T05:16:39Z",
+    "Owner": "Smars-Bin-Hu",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airscholar/e2e-data-engineering",
+    "Name": "e2e-data-engineering",
+    "Url": "https://github.com/airscholar/e2e-data-engineering",
+    "Description": "An end-to-end data engineering pipeline that orchestrates data ingestion, processing, and storage using Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. All components are containerized with Docker for easy deployment and scalability.",
+    "Topics": [
+      "apache-airflow",
+      "apache-kafka",
+      "apache-spark",
+      "apache-zookeeper",
+      "big-data",
+      "cassandra",
+      "containerization",
+      "data-engineering",
+      "data-pipeline",
+      "data-processing",
+      "data-storage",
+      "docker",
+      "etl-pipeline",
+      "postgresql",
+      "real-time-analytics"
+    ],
+    "Language": "Python",
+    "Stars": 323,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-06T07:38:30Z",
+    "UpdatedAt": "2026-04-08T18:30:16Z",
+    "Owner": "airscholar",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "selinon/selinon",
+    "Name": "selinon",
+    "Url": "https://github.com/selinon/selinon",
+    "Description": " An advanced distributed task flow management on top of Celery ",
+    "Topics": [
+      "big-data",
+      "celery",
+      "distributed-computing",
+      "flow-management",
+      "hacktoberfest",
+      "hacktoberfest-accepted",
+      "hacktoberfest2021",
+      "kubernetes",
+      "openshift",
+      "python",
+      "schedule-tasks",
+      "selinon",
+      "task",
+      "workflow-management",
+      "workflow-management-system",
+      "workflow-scheduler"
+    ],
+    "Language": "Python",
+    "Stars": 315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-29T12:52:56Z",
+    "UpdatedAt": "2026-04-27T06:27:45Z",
+    "Owner": "selinon",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sigmf/SigMF",
+    "Name": "SigMF",
+    "Url": "https://github.com/sigmf/SigMF",
+    "Description": "The Signal Metadata Format Specification",
+    "Topics": [
+      "big-data",
+      "metadata",
+      "signals",
+      "specification",
+      "standard"
+    ],
+    "Language": "Python",
+    "Stars": 448,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-01T13:40:20Z",
+    "UpdatedAt": "2026-04-26T14:59:09Z",
+    "Owner": "sigmf",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "Name": "Agent-Skills-for-Context-Engineering",
+    "Url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "Description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 15397,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-21T02:43:42Z",
+    "UpdatedAt": "2026-05-03T03:30:54Z",
+    "Owner": "muratcankoylan",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OthmanAdi/planning-with-files",
+    "Name": "planning-with-files",
+    "Url": "https://github.com/OthmanAdi/planning-with-files",
+    "Description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "Topics": [
+      "adal",
+      "agent-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "copilot",
+      "copilot-skills",
+      "hermes",
+      "hermes-agent",
+      "hermes-skill",
+      "kilocode",
+      "manus",
+      "mastra",
+      "openclaw",
+      "openclaw-skills",
+      "pi",
+      "pi-agent",
+      "planning"
+    ],
+    "Language": "Python",
+    "Stars": 20213,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-03T07:37:28Z",
+    "UpdatedAt": "2026-05-03T04:44:17Z",
+    "Owner": "OthmanAdi",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/python-fire",
+    "Name": "python-fire",
+    "Url": "https://github.com/google/python-fire",
+    "Description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "Topics": [
+      "cli",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 28186,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-21T21:35:07Z",
+    "UpdatedAt": "2026-05-03T04:11:06Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "superduper-io/superduper",
+    "Name": "superduper",
+    "Url": "https://github.com/superduper-io/superduper",
+    "Description": "Superduper: End-to-end framework for building custom AI applications and agents.",
+    "Topics": [
+      "ai",
+      "chatbot",
+      "data",
+      "database",
+      "distributed-ml",
+      "inference",
+      "llm-inference",
+      "llm-serving",
+      "llmops",
+      "ml",
+      "mlops",
+      "mongodb",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "rag",
+      "semantic-search",
+      "torch",
+      "transformers",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 5276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-30T12:51:24Z",
+    "UpdatedAt": "2026-05-02T22:17:30Z",
+    "Owner": "superduper-io",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "san089/Udacity-Data-Engineering-Projects",
+    "Name": "Udacity-Data-Engineering-Projects",
+    "Url": "https://github.com/san089/Udacity-Data-Engineering-Projects",
+    "Description": "Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.",
+    "Topics": [
+      "airflow",
+      "airflow-operators",
+      "aws",
+      "aws-ec2",
+      "aws-s3",
+      "aws-sdk",
+      "cassandra",
+      "cassandra-database",
+      "cloudformation",
+      "cluster",
+      "data",
+      "data-engineering",
+      "data-engineering-pipeline",
+      "data-lake",
+      "data-modeling",
+      "data-warehouse",
+      "etl-pipeline",
+      "infrastructure",
+      "postgres",
+      "postgresql-database"
+    ],
+    "Language": "Python",
+    "Stars": 1905,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-20T22:50:03Z",
+    "UpdatedAt": "2026-04-30T09:32:00Z",
+    "Owner": "san089",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "freqtrade/freqtrade",
+    "Name": "freqtrade",
+    "Url": "https://github.com/freqtrade/freqtrade",
+    "Description": "Free, open source crypto trading bot",
+    "Topics": [
+      "algorithmic-trading",
+      "bitcoin",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "freqtrade",
+      "python",
+      "telegram-bot",
+      "trade",
+      "trading-bot"
+    ],
+    "Language": "Python",
+    "Stars": 49692,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-17T23:48:53Z",
+    "UpdatedAt": "2026-05-03T04:03:06Z",
+    "Owner": "freqtrade",
+    "SourceQueries": [
+      "open language:Python stars:>=50",
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/open-r1",
+    "Name": "open-r1",
+    "Url": "https://github.com/huggingface/open-r1",
+    "Description": "Fully open reproduction of DeepSeek-R1",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 26008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-24T15:44:11Z",
+    "UpdatedAt": "2026-05-03T01:15:12Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "clearml/clearml",
+    "Name": "clearml",
+    "Url": "https://github.com/clearml/clearml",
+    "Description": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+    "Topics": [
+      "ai",
+      "clearml",
+      "control",
+      "deep-learning",
+      "deeplearning",
+      "devops",
+      "experiment",
+      "experiment-manager",
+      "k8s",
+      "machine-learning",
+      "machinelearning",
+      "mlops",
+      "trains",
+      "trainsai",
+      "version",
+      "version-control"
+    ],
+    "Language": "Python",
+    "Stars": 6656,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-10T08:18:32Z",
+    "UpdatedAt": "2026-05-02T21:01:18Z",
+    "Owner": "clearml",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "xai-org/grok-1",
+    "Name": "grok-1",
+    "Url": "https://github.com/xai-org/grok-1",
+    "Description": "Grok open release",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 51537,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-17T08:53:38Z",
+    "UpdatedAt": "2026-05-03T04:42:34Z",
+    "Owner": "xai-org",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "frappe/erpnext",
+    "Name": "erpnext",
+    "Url": "https://github.com/frappe/erpnext",
+    "Description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "Topics": [
+      "accounting",
+      "asset-management",
+      "crm",
+      "distribution",
+      "erp",
+      "erpnext",
+      "frappe",
+      "healthcare",
+      "hrms",
+      "manufacturing",
+      "point-of-sale",
+      "procurement",
+      "project-management",
+      "python",
+      "retail",
+      "support"
+    ],
+    "Language": "Python",
+    "Stars": 33470,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-06-08T08:20:56Z",
+    "UpdatedAt": "2026-05-03T04:36:50Z",
+    "Owner": "frappe",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Zleap-AI/SAG",
+    "Name": "SAG",
+    "Url": "https://github.com/Zleap-AI/SAG",
+    "Description": "SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying",
+    "Topics": [
+      "ai",
+      "data-engineering",
+      "fastapi",
+      "graphrag",
+      "information-retrieval",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-graphs",
+      "llm",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 1127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-07T07:33:35Z",
+    "UpdatedAt": "2026-04-29T08:46:57Z",
+    "Owner": "Zleap-AI",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "metabrainz/listenbrainz-server",
+    "Name": "listenbrainz-server",
+    "Url": "https://github.com/metabrainz/listenbrainz-server",
+    "Description": "Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.",
+    "Topics": [
+      "big-data",
+      "database",
+      "listenbrainz-server",
+      "music",
+      "python",
+      "react",
+      "spark",
+      "typescript",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 945,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-05T12:30:49Z",
+    "UpdatedAt": "2026-05-02T09:32:55Z",
+    "Owner": "metabrainz",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lance-format/lance",
+    "Name": "lance",
+    "Url": "https://github.com/lance-format/lance",
+    "Description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+    "Topics": [
+      "apache-arrow",
+      "computer-vision",
+      "data-analysis",
+      "data-analytics",
+      "data-centric",
+      "data-format",
+      "data-science",
+      "dataops",
+      "deep-learning",
+      "duckdb",
+      "embeddings",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "python",
+      "rust"
+    ],
+    "Language": "Rust",
+    "Stars": 6372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-07T22:29:29Z",
+    "UpdatedAt": "2026-05-03T03:31:08Z",
+    "Owner": "lance-format",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bentoml/BentoML",
+    "Name": "BentoML",
+    "Url": "https://github.com/bentoml/BentoML",
+    "Description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+    "Topics": [
+      "ai-inference",
+      "deep-learning",
+      "generative-ai",
+      "inference-platform",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "llmops",
+      "machine-learning",
+      "ml-engineering",
+      "mlops",
+      "model-inference-service",
+      "model-serving",
+      "multimodal",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 8620,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-02T01:39:27Z",
+    "UpdatedAt": "2026-05-01T13:46:28Z",
+    "Owner": "bentoml",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "aws/aws-sdk-pandas",
+    "Name": "aws-sdk-pandas",
+    "Url": "https://github.com/aws/aws-sdk-pandas",
+    "Description": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+    "Topics": [
+      "amazon-athena",
+      "amazon-sagemaker-notebook",
+      "apache-arrow",
+      "apache-parquet",
+      "athena",
+      "aws",
+      "aws-glue",
+      "aws-lambda",
+      "data-engineering",
+      "data-science",
+      "emr",
+      "etl",
+      "glue-catalog",
+      "lambda",
+      "modin",
+      "mysql",
+      "pandas",
+      "python",
+      "ray",
+      "redshift"
+    ],
+    "Language": "Python",
+    "Stars": 4109,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-26T01:39:02Z",
+    "UpdatedAt": "2026-05-02T15:26:55Z",
+    "Owner": "aws",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kivy/kivy",
+    "Name": "kivy",
+    "Url": "https://github.com/kivy/kivy",
+    "Description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "Topics": [
+      "android",
+      "app",
+      "ios",
+      "kivy",
+      "linux",
+      "macos",
+      "python",
+      "ui",
+      "windows"
+    ],
+    "Language": "Python",
+    "Stars": 18926,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-11-03T20:27:32Z",
+    "UpdatedAt": "2026-05-02T13:46:35Z",
+    "Owner": "kivy",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jumpserver/jumpserver",
+    "Name": "jumpserver",
+    "Url": "https://github.com/jumpserver/jumpserver",
+    "Description": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",
+    "Topics": [
+      "bastion-host",
+      "cyberark",
+      "django",
+      "jumpserver",
+      "pam",
+      "python",
+      "ssh-server",
+      "teleport",
+      "terminal"
+    ],
+    "Language": "Python",
+    "Stars": 30372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-04T03:54:59Z",
+    "UpdatedAt": "2026-05-02T19:48:26Z",
+    "Owner": "jumpserver",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63471,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-03T04:30:55Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fauxpilot/fauxpilot",
+    "Name": "fauxpilot",
+    "Url": "https://github.com/fauxpilot/fauxpilot",
+    "Description": "FauxPilot - an open-source alternative to GitHub Copilot server",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 14745,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-03T02:14:22Z",
+    "UpdatedAt": "2026-05-02T07:12:36Z",
+    "Owner": "fauxpilot",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-02T22:59:13Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zutianbiao/baize",
+    "Name": "baize",
+    "Url": "https://github.com/zutianbiao/baize",
+    "Description": "白泽自动化运维系统：配置管理、网络探测、资产管理、业务管理、CMDB、CD、DevOps、作业编排、任务编排等功能,未来将添加监控、报警、日志分析、大数据分析等部分内容",
+    "Topics": [
+      "analyse",
+      "ansible",
+      "big-data",
+      "cmdb",
+      "crontab",
+      "data",
+      "devops",
+      "django",
+      "log",
+      "monitor",
+      "ops",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 355,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-31T08:08:26Z",
+    "UpdatedAt": "2026-04-23T01:48:31Z",
+    "Owner": "zutianbiao",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "databricks/koalas",
+    "Name": "koalas",
+    "Url": "https://github.com/databricks/koalas",
+    "Description": "Koalas: pandas API on Apache Spark",
+    "Topics": [
+      "big-data",
+      "data-science",
+      "dataframe",
+      "mlflow",
+      "pandas",
+      "pydata",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 3373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-03T21:46:54Z",
+    "UpdatedAt": "2026-04-29T06:07:07Z",
+    "Owner": "databricks",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "uxlfoundation/scikit-learn-intelex",
+    "Name": "scikit-learn-intelex",
+    "Url": "https://github.com/uxlfoundation/scikit-learn-intelex",
+    "Description": " Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application",
+    "Topics": [
+      "ai-inference",
+      "ai-machine-learning",
+      "ai-training",
+      "analytics",
+      "big-data",
+      "data-analysis",
+      "gpu",
+      "hacktoberfest",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "oneapi",
+      "python",
+      "scikit-learn",
+      "swrepo"
+    ],
+    "Language": "Python",
+    "Stars": 1338,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-07T06:45:41Z",
+    "UpdatedAt": "2026-05-02T16:24:07Z",
+    "Owner": "uxlfoundation",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aimhubio/aim",
+    "Name": "aim",
+    "Url": "https://github.com/aimhubio/aim",
+    "Description": "Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.",
+    "Topics": [
+      "ai",
+      "data-science",
+      "data-visualization",
+      "experiment-tracking",
+      "machine-learning",
+      "metadata",
+      "metadata-tracking",
+      "ml",
+      "mlflow",
+      "mlops",
+      "prompt-engineering",
+      "python",
+      "pytorch",
+      "tensorboard",
+      "tensorflow",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 6109,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-31T18:25:07Z",
+    "UpdatedAt": "2026-05-02T01:03:44Z",
+    "Owner": "aimhubio",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "666ghj/MiroFish",
+    "Name": "MiroFish",
+    "Url": "https://github.com/666ghj/MiroFish",
+    "Description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "Topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ],
+    "Language": "Python",
+    "Stars": 58849,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-26T04:23:02Z",
+    "UpdatedAt": "2026-05-03T04:41:46Z",
+    "Owner": "666ghj",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Hyhyhyhyhyhyh/Django-Data-quality-system",
+    "Name": "Django-Data-quality-system",
+    "Url": "https://github.com/Hyhyhyhyhyhyh/Django-Data-quality-system",
+    "Description": "数据治理、数据质量检核/监控平台（Django+jQuery+MySQL）",
+    "Topics": [
+      "data-quality",
+      "data-quality-checks",
+      "data-quality-monitor",
+      "data-quality-monitoring"
+    ],
+    "Language": "Python",
+    "Stars": 187,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-29T10:41:24Z",
+    "UpdatedAt": "2026-04-14T08:52:09Z",
+    "Owner": "Hyhyhyhyhyhyh",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlrun/mlrun",
+    "Name": "mlrun",
+    "Url": "https://github.com/mlrun/mlrun",
+    "Description": "MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipelines, and online applications.",
+    "Topics": [
+      "data-engineering",
+      "data-science",
+      "experiment-tracking",
+      "kubernetes",
+      "machine-learning",
+      "mlops",
+      "mlops-workflow",
+      "model-serving",
+      "python",
+      "workflow"
+    ],
+    "Language": "Python",
+    "Stars": 1666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-01T16:59:19Z",
+    "UpdatedAt": "2026-04-30T19:46:22Z",
+    "Owner": "mlrun",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unclecode/crawl4ai",
+    "Name": "crawl4ai",
+    "Url": "https://github.com/unclecode/crawl4ai",
+    "Description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 64921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-09T09:48:50Z",
+    "UpdatedAt": "2026-05-03T03:53:51Z",
+    "Owner": "unclecode",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tschellenbach/Stream-Framework",
+    "Name": "Stream-Framework",
+    "Url": "https://github.com/tschellenbach/Stream-Framework",
+    "Description": "Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology:",
+    "Topics": [
+      "activity-feed",
+      "activity-stream",
+      "big-data",
+      "cassandra",
+      "feed",
+      "news",
+      "news-feed",
+      "redis"
+    ],
+    "Language": "Python",
+    "Stars": 4748,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-08T13:11:08Z",
+    "UpdatedAt": "2026-04-22T14:46:44Z",
+    "Owner": "tschellenbach",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zulip/zulip",
+    "Name": "zulip",
+    "Url": "https://github.com/zulip/zulip",
+    "Description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+    "Topics": [
+      "apache",
+      "chat",
+      "collaboration",
+      "electron",
+      "foss",
+      "free",
+      "javascript",
+      "python",
+      "python3",
+      "react-native",
+      "slack",
+      "zulip"
+    ],
+    "Language": "Python",
+    "Stars": 25132,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-25T16:37:25Z",
+    "UpdatedAt": "2026-05-03T02:35:49Z",
+    "Owner": "zulip",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cleanlab/cleanlab",
+    "Name": "cleanlab",
+    "Url": "https://github.com/cleanlab/cleanlab",
+    "Description": "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "Topics": [
+      "active-learning",
+      "annotation",
+      "anomaly-detection",
+      "data-annotation",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-curation",
+      "data-labeling",
+      "data-profiling",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "datasets",
+      "exploratory-data-analysis",
+      "labeling",
+      "machine-learning",
+      "noisy-labels",
+      "out-of-distribution-detection",
+      "outlier-detection",
+      "weak-supervision"
+    ],
+    "Language": "Python",
+    "Stars": 11449,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-11T01:55:21Z",
+    "UpdatedAt": "2026-05-02T08:06:12Z",
+    "Owner": "cleanlab",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "blockchain-etl/bitcoin-etl",
+    "Name": "bitcoin-etl",
+    "Url": "https://github.com/blockchain-etl/bitcoin-etl",
+    "Description": "ETL scripts for Bitcoin, Litecoin, Dash, Zcash, Doge, Bitcoin Cash. Available in Google BigQuery https://goo.gl/oY5BCQ",
+    "Topics": [
+      "apache-beam",
+      "bitcoin",
+      "bitcoincash",
+      "blockchain-analytics",
+      "crypto",
+      "cryptocurrency",
+      "dash",
+      "data-analytics",
+      "data-engineering",
+      "dogecoin",
+      "etl",
+      "gcp",
+      "google-dataflow",
+      "google-pubsub",
+      "litecoin",
+      "on-chain-analysis",
+      "web3",
+      "zcash"
+    ],
+    "Language": "Python",
+    "Stars": 455,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-13T07:13:25Z",
+    "UpdatedAt": "2026-04-23T22:54:52Z",
+    "Owner": "blockchain-etl",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Giskard-AI/giskard-oss",
+    "Name": "giskard-oss",
+    "Url": "https://github.com/Giskard-AI/giskard-oss",
+    "Description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+    "Topics": [
+      "agent-evaluation",
+      "ai-red-team",
+      "ai-security",
+      "ai-testing",
+      "fairness-ai",
+      "llm",
+      "llm-eval",
+      "llm-evaluation",
+      "llm-security",
+      "llmops",
+      "ml-testing",
+      "ml-validation",
+      "mlops",
+      "rag-evaluation",
+      "red-team-tools",
+      "responsible-ai",
+      "trustworthy-ai"
+    ],
+    "Language": "Python",
+    "Stars": 5318,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-06T21:45:37Z",
+    "UpdatedAt": "2026-05-02T13:19:53Z",
+    "Owner": "Giskard-AI",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "LAION-AI/Open-Assistant",
+    "Name": "Open-Assistant",
+    "Url": "https://github.com/LAION-AI/Open-Assistant",
+    "Description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "Topics": [
+      "ai",
+      "assistant",
+      "chatgpt",
+      "discord-bot",
+      "language-model",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "rlhf"
+    ],
+    "Language": "Python",
+    "Stars": 37410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-13T05:24:17Z",
+    "UpdatedAt": "2026-05-03T03:54:03Z",
+    "Owner": "LAION-AI",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mattpodolak/pmaw",
+    "Name": "pmaw",
+    "Url": "https://github.com/mattpodolak/pmaw",
+    "Description": "A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.",
+    "Topics": [
+      "api",
+      "big-data",
+      "data-science",
+      "multithreaded",
+      "reddit",
+      "reddit-api",
+      "wrapper"
+    ],
+    "Language": "Python",
+    "Stars": 221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-23T13:36:41Z",
+    "UpdatedAt": "2026-03-27T13:16:46Z",
+    "Owner": "mattpodolak",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "adidas/lakehouse-engine",
+    "Name": "lakehouse-engine",
+    "Url": "https://github.com/adidas/lakehouse-engine",
+    "Description": "The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.",
+    "Topics": [
+      "big-data",
+      "configuration-driven",
+      "data-engineering",
+      "data-quality",
+      "databricks",
+      "delta-lake",
+      "framework",
+      "great-expectations",
+      "lakehouse",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 288,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-11T12:37:01Z",
+    "UpdatedAt": "2026-04-26T14:21:57Z",
+    "Owner": "adidas",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50",
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unytics/bigfunctions",
+    "Name": "bigfunctions",
+    "Url": "https://github.com/unytics/bigfunctions",
+    "Description": "Supercharge BigQuery with BigFunctions",
+    "Topics": [
+      "bigquery",
+      "data",
+      "data-analytics",
+      "data-engineering",
+      "data-visualization",
+      "data-warehouse"
+    ],
+    "Language": "Python",
+    "Stars": 758,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-24T07:41:54Z",
+    "UpdatedAt": "2026-04-14T13:25:46Z",
+    "Owner": "unytics",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlflow/mlflow",
+    "Name": "mlflow",
+    "Url": "https://github.com/mlflow/mlflow",
+    "Description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+    "Topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "ai-governance",
+      "apache-spark",
+      "evaluation",
+      "langchain",
+      "llm-evaluation",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "mlflow",
+      "mlops",
+      "model-management",
+      "observability",
+      "open-source",
+      "openai",
+      "prompt-engineering"
+    ],
+    "Language": "Python",
+    "Stars": 25689,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-05T16:05:58Z",
+    "UpdatedAt": "2026-05-03T00:35:41Z",
+    "Owner": "mlflow",
+    "SourceQueries": [
+      "open language:Python stars:>=50",
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "GokuMohandas/Made-With-ML",
+    "Name": "Made-With-ML",
+    "Url": "https://github.com/GokuMohandas/Made-With-ML",
+    "Description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+    "Topics": [
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "distributed-ml",
+      "distributed-training",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "ray"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47477,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-05T03:44:27Z",
+    "UpdatedAt": "2026-05-03T03:29:02Z",
+    "Owner": "GokuMohandas",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "awslabs/amazon-s3-find-and-forget",
+    "Name": "amazon-s3-find-and-forget",
+    "Url": "https://github.com/awslabs/amazon-s3-find-and-forget",
+    "Description": "Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data Protection Regulation (GDPR)",
+    "Topics": [
+      "amazon-s3",
+      "aws",
+      "big-data",
+      "ccpa",
+      "data",
+      "data-erasure",
+      "data-lake",
+      "gdpr",
+      "parquet",
+      "privacy",
+      "right-to-be-forgotten",
+      "s3"
+    ],
+    "Language": "Python",
+    "Stars": 245,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-07T00:07:08Z",
+    "UpdatedAt": "2026-04-02T06:33:48Z",
+    "Owner": "awslabs",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dagster-io/dagster",
+    "Name": "dagster",
+    "Url": "https://github.com/dagster-io/dagster",
+    "Description": "An orchestration platform for the development, production, and observation of data assets.",
+    "Topics": [
+      "analytics",
+      "dagster",
+      "data-engineering",
+      "data-integration",
+      "data-orchestrator",
+      "data-pipelines",
+      "data-science",
+      "etl",
+      "metadata",
+      "mlops",
+      "orchestration",
+      "python",
+      "scheduler",
+      "workflow",
+      "workflow-automation"
+    ],
+    "Language": "Python",
+    "Stars": 15425,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-30T16:30:04Z",
+    "UpdatedAt": "2026-05-02T20:23:27Z",
+    "Owner": "dagster-io",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50",
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "seung-lab/cloud-volume",
+    "Name": "cloud-volume",
+    "Url": "https://github.com/seung-lab/cloud-volume",
+    "Description": "Read and write Neuroglancer datasets programmatically.",
+    "Topics": [
+      "big-data",
+      "biomedical-image-processing",
+      "chunked-image",
+      "cloud",
+      "connectomics",
+      "electron-microscopy",
+      "gcs",
+      "large-image",
+      "matrix",
+      "mesh",
+      "microscopy",
+      "microscopy-images",
+      "neuroglancer",
+      "numpy",
+      "python",
+      "s3",
+      "serverless",
+      "skeletons",
+      "tensor",
+      "volumetric-data"
+    ],
+    "Language": "Python",
+    "Stars": 171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-07-25T17:34:30Z",
+    "UpdatedAt": "2026-04-24T18:45:14Z",
+    "Owner": "seung-lab",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Ashish7129/Graph_Sampling",
+    "Name": "Graph_Sampling",
+    "Url": "https://github.com/Ashish7129/Graph_Sampling",
+    "Description": "Graph Sampling is a python package containing various approaches which samples the original graph according to different sample sizes.",
+    "Topics": [
+      "big-data",
+      "big-data-analytics",
+      "breadth-first-search",
+      "data-mining",
+      "graphs",
+      "induction",
+      "network",
+      "network-analysis",
+      "network-science",
+      "networkx",
+      "python",
+      "random-walk",
+      "sample",
+      "sampling",
+      "social-network-analysis",
+      "subgraph"
+    ],
+    "Language": "Python",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-30T19:50:51Z",
+    "UpdatedAt": "2026-04-08T09:53:11Z",
+    "Owner": "Ashish7129",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fail2ban/fail2ban",
+    "Name": "fail2ban",
+    "Url": "https://github.com/fail2ban/fail2ban",
+    "Description": "Daemon to ban hosts that cause multiple authentication errors",
+    "Topics": [
+      "anti-bot",
+      "attack-prevention",
+      "ban-hosts",
+      "ban-management",
+      "bsd",
+      "fail2ban",
+      "gplv2",
+      "hids",
+      "ids",
+      "intrusion-detection",
+      "intrusion-prevention",
+      "ips",
+      "linux",
+      "loganalyzer",
+      "macos",
+      "monitoring",
+      "python",
+      "security",
+      "security-tools"
+    ],
+    "Language": "Python",
+    "Stars": 17669,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-09-28T16:24:20Z",
+    "UpdatedAt": "2026-05-03T04:13:43Z",
+    "Owner": "fail2ban",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "canimus/cuallee",
+    "Name": "cuallee",
+    "Url": "https://github.com/canimus/cuallee",
+    "Description": "Possibly the fastest DataFrame-agnostic quality check library in town.",
+    "Topics": [
+      "bigdata",
+      "data-quality",
+      "data-quality-checks",
+      "dataquality",
+      "pandas",
+      "performance-metrics",
+      "pydeequ",
+      "pyspark",
+      "python3",
+      "snowpark",
+      "unit-testing"
+    ],
+    "Language": "Python",
+    "Stars": 243,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-05T20:38:45Z",
+    "UpdatedAt": "2026-04-29T19:05:48Z",
+    "Owner": "canimus",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/OpenManus",
+    "Name": "OpenManus",
+    "Url": "https://github.com/FoundationAgents/OpenManus",
+    "Description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 56004,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-06T14:08:14Z",
+    "UpdatedAt": "2026-05-03T03:54:09Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onyx-dot-app/onyx",
+    "Name": "onyx",
+    "Url": "https://github.com/onyx-dot-app/onyx",
+    "Description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "Topics": [
+      "ai",
+      "ai-chat",
+      "chatgpt",
+      "chatui",
+      "enterprise-search",
+      "gen-ai",
+      "information-retrieval",
+      "llm",
+      "llm-ui",
+      "nextjs",
+      "python",
+      "rag",
+      "self-hosted",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 28872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-27T06:04:01Z",
+    "UpdatedAt": "2026-05-03T04:03:29Z",
+    "Owner": "onyx-dot-app",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flairNLP/flair",
+    "Name": "flair",
+    "Url": "https://github.com/flairNLP/flair",
+    "Description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "Topics": [
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pytorch",
+      "semantic-role-labeling",
+      "sequence-labeling",
+      "word-embeddings"
+    ],
+    "Language": "Python",
+    "Stars": 14373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-11T11:04:18Z",
+    "UpdatedAt": "2026-05-02T18:37:18Z",
+    "Owner": "flairNLP",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cernopendata/opendata.cern.ch",
+    "Name": "opendata.cern.ch",
+    "Url": "https://github.com/cernopendata/opendata.cern.ch",
+    "Description": "Source code for the CERN Open Data portal",
+    "Topics": [
+      "big-data",
+      "digital-library",
+      "digital-repository",
+      "flask",
+      "invenio",
+      "inveniosoftware",
+      "json-schema",
+      "open-data",
+      "open-research-data",
+      "open-science",
+      "python",
+      "research-data",
+      "research-data-management",
+      "research-data-repository"
+    ],
+    "Language": "Python",
+    "Stars": 767,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-23T09:12:36Z",
+    "UpdatedAt": "2026-05-02T20:02:53Z",
+    "Owner": "cernopendata",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SWivid/F5-TTS",
+    "Name": "F5-TTS",
+    "Url": "https://github.com/SWivid/F5-TTS",
+    "Description": "Official code for \"F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching\"",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 14420,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-08T13:36:55Z",
+    "UpdatedAt": "2026-05-03T02:59:24Z",
+    "Owner": "SWivid",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cleanlab/cleanvision",
+    "Name": "cleanvision",
+    "Url": "https://github.com/cleanlab/cleanvision",
+    "Description": "Automatically find issues in image datasets and practice data-centric computer vision.",
+    "Topics": [
+      "computer-vision",
+      "data-centric-ai",
+      "data-exploration",
+      "data-profiling",
+      "data-quality",
+      "data-science",
+      "data-validation",
+      "deep-learning",
+      "exploratory-data-analysis",
+      "image-analysis",
+      "image-classification",
+      "image-generation",
+      "image-quality",
+      "image-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 1171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-26T07:14:11Z",
+    "UpdatedAt": "2026-04-22T04:53:11Z",
+    "Owner": "cleanlab",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fishaudio/fish-speech",
+    "Name": "fish-speech",
+    "Url": "https://github.com/fishaudio/fish-speech",
+    "Description": "SOTA Open Source TTS",
+    "Topics": [
+      "llama",
+      "transformer",
+      "tts",
+      "valle",
+      "vits",
+      "vqgan",
+      "vqvae"
+    ],
+    "Language": "Python",
+    "Stars": 30042,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-10T03:16:51Z",
+    "UpdatedAt": "2026-05-03T02:50:47Z",
+    "Owner": "fishaudio",
+    "SourceQueries": [
+      "open language:Python stars:>=50",
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "666ghj/BettaFish",
+    "Name": "BettaFish",
+    "Url": "https://github.com/666ghj/BettaFish",
+    "Description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "Topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 40719,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-01T13:11:38Z",
+    "UpdatedAt": "2026-05-03T04:17:15Z",
+    "Owner": "666ghj",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "satwikkansal/wtfpython",
+    "Name": "wtfpython",
+    "Url": "https://github.com/satwikkansal/wtfpython",
+    "Description": "What the f*ck Python? 😱",
+    "Topics": [
+      "documentation",
+      "gotchas",
+      "interview-questions",
+      "pitfalls",
+      "python",
+      "python-interview-questions",
+      "snippets",
+      "wats",
+      "wtf"
+    ],
+    "Language": "Python",
+    "Stars": 36924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-28T20:22:19Z",
+    "UpdatedAt": "2026-05-02T20:59:00Z",
+    "Owner": "satwikkansal",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lllyasviel/FramePack",
+    "Name": "FramePack",
+    "Url": "https://github.com/lllyasviel/FramePack",
+    "Description": "Lets make video diffusion practical!",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 16772,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-12T14:45:22Z",
+    "UpdatedAt": "2026-05-02T15:58:12Z",
+    "Owner": "lllyasviel",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flet-dev/flet",
+    "Name": "flet",
+    "Url": "https://github.com/flet-dev/flet",
+    "Description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+    "Topics": [
+      "android",
+      "cross-platform",
+      "desktop",
+      "flutter",
+      "ios",
+      "python",
+      "server-driven-ui",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 16013,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-24T15:44:12Z",
+    "UpdatedAt": "2026-05-03T01:31:47Z",
+    "Owner": "flet-dev",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "metabrainz/acousticbrainz-server",
+    "Name": "acousticbrainz-server",
+    "Url": "https://github.com/metabrainz/acousticbrainz-server",
+    "Description": "The server components for the AcousticBrainz project",
+    "Topics": [
+      "acousticbrainz-server",
+      "big-data",
+      "machine-learning",
+      "music",
+      "python",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-07T14:22:44Z",
+    "UpdatedAt": "2026-04-21T01:46:44Z",
+    "Owner": "metabrainz",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sparkdq-community/sparkdq",
+    "Name": "sparkdq",
+    "Url": "https://github.com/sparkdq-community/sparkdq",
+    "Description": "A declarative PySpark framework for row- and aggregate-level data quality validation.",
+    "Topics": [
+      "data-check",
+      "data-engineering",
+      "data-quality",
+      "data-validation",
+      "data-verification",
+      "dq-framework",
+      "pyspark",
+      "pyspark-validation",
+      "spark-data-quality"
+    ],
+    "Language": "Python",
+    "Stars": 72,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-25T06:38:50Z",
+    "UpdatedAt": "2026-04-26T19:37:39Z",
+    "Owner": "sparkdq-community",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "quixio/quix-streams",
+    "Name": "quix-streams",
+    "Url": "https://github.com/quixio/quix-streams",
+    "Description": "Python Streaming DataFrames for Kafka",
+    "Topics": [
+      "data-engineering",
+      "data-intensive-applications",
+      "data-science",
+      "event-driven-architecture",
+      "kafka",
+      "machine-learning",
+      "python",
+      "real-time-data-processing",
+      "stream-processing",
+      "stream-processor",
+      "streaming-data",
+      "streaming-data-pipelines",
+      "streaming-data-processing",
+      "time-series-data"
+    ],
+    "Language": "Python",
+    "Stars": 1546,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-17T20:36:03Z",
+    "UpdatedAt": "2026-04-30T14:27:58Z",
+    "Owner": "quixio",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ruc-datalab/DeepAnalyze",
+    "Name": "DeepAnalyze",
+    "Url": "https://github.com/ruc-datalab/DeepAnalyze",
+    "Description": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+    "Topics": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-scientist",
+      "chatbot",
+      "data",
+      "data-analysis",
+      "data-engineering",
+      "data-science",
+      "data-visualization",
+      "database",
+      "deep-research",
+      "jupyter",
+      "llm",
+      "open-source",
+      "python",
+      "python-programming",
+      "qwen",
+      "science"
+    ],
+    "Language": "Python",
+    "Stars": 4103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-11T11:19:21Z",
+    "UpdatedAt": "2026-05-03T04:34:49Z",
+    "Owner": "ruc-datalab",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fastapi/fastapi",
+    "Name": "fastapi",
+    "Url": "https://github.com/fastapi/fastapi",
+    "Description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "Topics": [
+      "api",
+      "async",
+      "asyncio",
+      "fastapi",
+      "framework",
+      "json",
+      "json-schema",
+      "openapi",
+      "openapi3",
+      "pydantic",
+      "python",
+      "python-types",
+      "python3",
+      "redoc",
+      "rest",
+      "starlette",
+      "swagger",
+      "swagger-ui",
+      "uvicorn",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 97829,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-08T08:21:47Z",
+    "UpdatedAt": "2026-05-03T04:14:38Z",
+    "Owner": "fastapi",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "resemble-ai/chatterbox",
+    "Name": "chatterbox",
+    "Url": "https://github.com/resemble-ai/chatterbox",
+    "Description": "SoTA open-source TTS",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 24549,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-23T08:16:38Z",
+    "UpdatedAt": "2026-05-03T04:16:43Z",
+    "Owner": "resemble-ai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Alishahryar1/free-claude-code",
+    "Name": "free-claude-code",
+    "Url": "https://github.com/Alishahryar1/free-claude-code",
+    "Description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 20308,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-28T19:02:30Z",
+    "UpdatedAt": "2026-05-03T04:39:52Z",
+    "Owner": "Alishahryar1",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FlareSolverr/FlareSolverr",
+    "Name": "FlareSolverr",
+    "Url": "https://github.com/FlareSolverr/FlareSolverr",
+    "Description": "Proxy server to bypass Cloudflare protection",
+    "Topics": [
+      "api",
+      "chrome",
+      "chromium",
+      "cloudflare",
+      "docker",
+      "hacktoberfest",
+      "proxy",
+      "puppeteer",
+      "rest",
+      "server"
+    ],
+    "Language": "Python",
+    "Stars": 13739,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-09T05:23:31Z",
+    "UpdatedAt": "2026-05-03T04:38:05Z",
+    "Owner": "FlareSolverr",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DataKitchen/data-observability-installer",
+    "Name": "data-observability-installer",
+    "Url": "https://github.com/DataKitchen/data-observability-installer",
+    "Description": "Installer for DataKitchen's Open Source Data Observability Products. Data breaks. Servers break. Your toolchain breaks. Ensure your team is the first to know and the first to solve with visibility across and down your data estate. Save time with simple, fast data quality test generation and execution. Trust your data, tools, and systems end to end.",
+    "Topics": [
+      "data",
+      "data-engineering",
+      "data-observability",
+      "data-profiling",
+      "data-quality",
+      "data-reliability",
+      "data-science",
+      "datachecker",
+      "datacleaner",
+      "datacleaning",
+      "dataops",
+      "dataquality",
+      "datatesting",
+      "datavalidation",
+      "mssql",
+      "pipeline-tests",
+      "postgresql",
+      "redshift",
+      "self-hosted",
+      "snowflake"
+    ],
+    "Language": "Python",
+    "Stars": 136,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-18T22:21:12Z",
+    "UpdatedAt": "2026-05-01T11:47:46Z",
+    "Owner": "DataKitchen",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/Open-Sora",
+    "Name": "Open-Sora",
+    "Url": "https://github.com/hpcaitech/Open-Sora",
+    "Description": "Open-Sora: Democratizing Efficient Video Production for All",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 28927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-20T03:01:34Z",
+    "UpdatedAt": "2026-05-03T01:48:38Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pallets/flask",
+    "Name": "flask",
+    "Url": "https://github.com/pallets/flask",
+    "Description": "The Python micro framework for building web applications.",
+    "Topics": [
+      "flask",
+      "jinja",
+      "pallets",
+      "python",
+      "web-framework",
+      "werkzeug",
+      "wsgi"
+    ],
+    "Language": "Python",
+    "Stars": 71480,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-04-06T11:11:59Z",
+    "UpdatedAt": "2026-05-03T03:07:40Z",
+    "Owner": "pallets",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "joke2k/faker",
+    "Name": "faker",
+    "Url": "https://github.com/joke2k/faker",
+    "Description": "Faker is a Python package that generates fake data for you.",
+    "Topics": [
+      "dataset",
+      "fake",
+      "fake-data",
+      "faker",
+      "faker-generator",
+      "python",
+      "test-data",
+      "test-data-generator",
+      "testing"
+    ],
+    "Language": "Python",
+    "Stars": 19233,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-11-12T23:00:09Z",
+    "UpdatedAt": "2026-05-02T20:01:09Z",
+    "Owner": "joke2k",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dengxianghua888-ops/ecoalign-forge",
+    "Name": "ecoalign-forge",
+    "Url": "https://github.com/dengxianghua888-ops/ecoalign-forge",
+    "Description": "Multi-Agent DPO Data Synthesis Factory — 多智能体偏好训练数据自动合成框架 | 红队攻击 → 多persona审核 → 终审裁决 → DPO偏好对",
+    "Topics": [
+      "content-moderation",
+      "data-quality",
+      "dpo",
+      "llm",
+      "multi-agent",
+      "preference-learning",
+      "pydantic",
+      "red-teaming",
+      "rlhf",
+      "synthetic-data"
+    ],
+    "Language": "Python",
+    "Stars": 209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-10T14:46:27Z",
+    "UpdatedAt": "2026-04-28T16:48:09Z",
+    "Owner": "dengxianghua888-ops",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "netbox-community/netbox",
+    "Name": "netbox",
+    "Url": "https://github.com/netbox-community/netbox",
+    "Description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+    "Topics": [
+      "cabling",
+      "dcim",
+      "django",
+      "infrastructure-management",
+      "ipam",
+      "netbox",
+      "network",
+      "network-automation",
+      "python",
+      "sot",
+      "sysadmin"
+    ],
+    "Language": "Python",
+    "Stars": 20409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-29T14:15:46Z",
+    "UpdatedAt": "2026-05-03T03:14:50Z",
+    "Owner": "netbox-community",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "home-assistant/core",
+    "Name": "core",
+    "Url": "https://github.com/home-assistant/core",
+    "Description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+    "Topics": [
+      "asyncio",
+      "hacktoberfest",
+      "home-automation",
+      "internet-of-things",
+      "iot",
+      "mqtt",
+      "python",
+      "raspberry-pi"
+    ],
+    "Language": "Python",
+    "Stars": 86897,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-17T07:29:48Z",
+    "UpdatedAt": "2026-05-03T03:04:36Z",
+    "Owner": "home-assistant",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBB-finance/OpenBB",
+    "Name": "OpenBB",
+    "Url": "https://github.com/OpenBB-finance/OpenBB",
+    "Description": "Financial data platform for analysts, quants and AI agents.",
+    "Topics": [
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "openbb",
+      "options",
+      "python",
+      "quantitative-finance",
+      "stocks"
+    ],
+    "Language": "Python",
+    "Stars": 66894,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-20T10:46:38Z",
+    "UpdatedAt": "2026-05-03T04:21:52Z",
+    "Owner": "OpenBB-finance",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "duoan/mega-data-factory",
+    "Name": "mega-data-factory",
+    "Url": "https://github.com/duoan/mega-data-factory",
+    "Description": "🏭 Mega Scale Multimodal DataPipeline for SOTA Foundation Models",
+    "Topics": [
+      "data-centric-ai",
+      "data-curation",
+      "data-quality",
+      "datapipeline",
+      "datapipelines",
+      "deeplearning",
+      "foundation-models",
+      "image-editing",
+      "image-generation",
+      "llm",
+      "machine-learning",
+      "mllm",
+      "multimodal",
+      "ray",
+      "rust",
+      "video-generation",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-17T21:51:33Z",
+    "UpdatedAt": "2026-04-14T16:50:14Z",
+    "Owner": "duoan",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oobabooga/textgen",
+    "Name": "textgen",
+    "Url": "https://github.com/oobabooga/textgen",
+    "Description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 46924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-21T04:17:37Z",
+    "UpdatedAt": "2026-05-03T04:18:54Z",
+    "Owner": "oobabooga",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pycaret/pycaret",
+    "Name": "pycaret",
+    "Url": "https://github.com/pycaret/pycaret",
+    "Description": "Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.",
+    "Topics": [
+      "anomaly-detection",
+      "automl",
+      "classification",
+      "clustering",
+      "data-science",
+      "fastapi",
+      "machine-learning",
+      "ml",
+      "mlops",
+      "open-source",
+      "pycaret",
+      "python",
+      "react",
+      "regression",
+      "scikit-learn"
+    ],
+    "Language": "Python",
+    "Stars": 9754,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-23T18:40:48Z",
+    "UpdatedAt": "2026-05-02T09:16:05Z",
+    "Owner": "pycaret",
+    "SourceQueries": [
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openai/gpt-oss",
+    "Name": "gpt-oss",
+    "Url": "https://github.com/openai/gpt-oss",
+    "Description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 20065,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-23T16:43:33Z",
+    "UpdatedAt": "2026-05-02T23:39:47Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "1Panel-dev/MaxKB",
+    "Name": "MaxKB",
+    "Url": "https://github.com/1Panel-dev/MaxKB",
+    "Description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "chatbot",
+      "deepseek-r1",
+      "knowledgebase",
+      "langchain",
+      "llama3",
+      "llm",
+      "maxkb",
+      "mcp-server",
+      "ollama",
+      "pgvector",
+      "qwen3",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 20871,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-14T02:05:12Z",
+    "UpdatedAt": "2026-05-03T02:37:06Z",
+    "Owner": "1Panel-dev",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sodadata/soda-spark",
+    "Name": "soda-spark",
+    "Url": "https://github.com/sodadata/soda-spark",
+    "Description": "Soda Spark is a PySpark library that helps you with testing your data in Spark Dataframes",
+    "Topics": [
+      "data-engineering",
+      "data-observability",
+      "data-quality",
+      "data-testing",
+      "pyspark",
+      "python",
+      "soda-sql",
+      "spark"
+    ],
+    "Language": "Python",
+    "Stars": 64,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-30T09:05:17Z",
+    "UpdatedAt": "2026-04-29T21:31:16Z",
+    "Owner": "sodadata",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mage-ai/mage-ai",
+    "Name": "mage-ai",
+    "Url": "https://github.com/mage-ai/mage-ai",
+    "Description": "🧙 Build, run, and manage data pipelines for integrating and transforming data.",
+    "Topics": [
+      "artificial-intelligence",
+      "data",
+      "data-engineering",
+      "data-integration",
+      "data-pipelines",
+      "data-science",
+      "dbt",
+      "elt",
+      "etl",
+      "machine-learning",
+      "orchestration",
+      "pipeline",
+      "pipelines",
+      "python",
+      "reverse-etl",
+      "spark",
+      "sql",
+      "transformation"
+    ],
+    "Language": "Python",
+    "Stars": 8712,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-16T22:11:39Z",
+    "UpdatedAt": "2026-05-03T01:41:56Z",
+    "Owner": "mage-ai",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "monte-carlo-data/mc-agent-toolkit",
+    "Name": "mc-agent-toolkit",
+    "Url": "https://github.com/monte-carlo-data/mc-agent-toolkit",
+    "Description": "Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability — monitoring, triaging, troubleshooting, health checks  — into Claude Code, Cursor, and more.",
+    "Topics": [
+      "agent-observability",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "codex-skills",
+      "cursor",
+      "data-observability",
+      "data-quality",
+      "mcp",
+      "monte-carlo",
+      "opencode",
+      "skill-md",
+      "skillsmp",
+      "vscode"
+    ],
+    "Language": "Python",
+    "Stars": 80,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-25T18:28:07Z",
+    "UpdatedAt": "2026-05-03T03:34:36Z",
+    "Owner": "monte-carlo-data",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "usestrix/strix",
+    "Name": "strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+    "Topics": [
+      "agents",
+      "artificial-intelligence",
+      "cybersecurity",
+      "generative-ai",
+      "llm",
+      "penetration-testing"
+    ],
+    "Language": "Python",
+    "Stars": 24781,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-05T21:28:30Z",
+    "UpdatedAt": "2026-05-03T02:29:15Z",
+    "Owner": "usestrix",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dbt-labs/dbt-mcp",
+    "Name": "dbt-mcp",
+    "Url": "https://github.com/dbt-labs/dbt-mcp",
+    "Description": "A MCP (Model Context Protocol) server for interacting with dbt.",
+    "Topics": [
+      "data-analytics",
+      "data-engineering",
+      "dbt",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol"
+    ],
+    "Language": "Python",
+    "Stars": 551,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-12T20:13:12Z",
+    "UpdatedAt": "2026-05-02T11:32:31Z",
+    "Owner": "dbt-labs",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Swiple/swiple",
+    "Name": "swiple",
+    "Url": "https://github.com/Swiple/swiple",
+    "Description": "Swiple enables you to easily observe, understand, validate and improve the quality of your data",
+    "Topics": [
+      "data",
+      "data-analytics",
+      "data-observability",
+      "data-profiling",
+      "data-quality",
+      "data-quality-checks",
+      "data-quality-framework",
+      "data-quality-monitoring",
+      "data-reliability",
+      "data-science",
+      "fastapi",
+      "observability",
+      "python",
+      "swiple",
+      "validation"
+    ],
+    "Language": "Python",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-15T08:45:08Z",
+    "UpdatedAt": "2026-04-01T11:53:54Z",
+    "Owner": "Swiple",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DataKitchen/dataops-testgen",
+    "Name": "dataops-testgen",
+    "Url": "https://github.com/DataKitchen/dataops-testgen",
+    "Description": "DataOps Data Quality TestGen is part of DataKitchen's Open Source Data Observability.   DataOps TestGen delivers simple, fast data quality test generation and execution by data profiling,  new dataset hygiene review, AI generation of data quality validation tests, ongoing testing of data refreshes, & continuous anomaly monitoring",
+    "Topics": [
+      "data",
+      "data-engineering",
+      "data-observability",
+      "data-quality",
+      "data-science",
+      "data-testing",
+      "datachecker",
+      "dataops",
+      "dataprofiling",
+      "dataquality",
+      "datavalidation",
+      "mssql",
+      "postgresql",
+      "python",
+      "redshift",
+      "self-hosted",
+      "snowflake"
+    ],
+    "Language": "Python",
+    "Stars": 73,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-17T19:54:23Z",
+    "UpdatedAt": "2026-04-30T12:07:00Z",
+    "Owner": "DataKitchen",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kimtth/software-architect-mindmap",
+    "Name": "software-architect-mindmap",
+    "Url": "https://github.com/kimtth/software-architect-mindmap",
+    "Description": "🧠Mindmap of 🗺️Software Architecture, Software engineering: An Overview of Software Terminologies and Concepts.",
+    "Topics": [
+      "architectural-patterns",
+      "architecture",
+      "aws",
+      "azure",
+      "data-engineering",
+      "datascience",
+      "deep-learning",
+      "gcp",
+      "machine-learning",
+      "microservice",
+      "mindmap",
+      "roadmap",
+      "software-architecture",
+      "software-engineering",
+      "system-design"
+    ],
+    "Language": "Python",
+    "Stars": 413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-02T10:16:50Z",
+    "UpdatedAt": "2026-05-02T01:21:36Z",
+    "Owner": "kimtth",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "blockchain-etl/ethereum-etl-airflow",
+    "Name": "ethereum-etl-airflow",
+    "Url": "https://github.com/blockchain-etl/ethereum-etl-airflow",
+    "Description": "Airflow DAGs for exporting, loading, and parsing the Ethereum blockchain data. How to get any Ethereum smart contract into BigQuery https://towardsdatascience.com/how-to-get-any-ethereum-smart-contract-into-bigquery-in-8-mins-bab5db1fdeee",
+    "Topics": [
+      "apache-airflow",
+      "blockchain-analytics",
+      "crypto",
+      "cryptocurrency",
+      "data-analytics",
+      "data-engineering",
+      "ethereum",
+      "etl",
+      "gcp",
+      "google-cloud",
+      "google-cloud-platform",
+      "on-chain-analysis",
+      "web3"
+    ],
+    "Language": "Python",
+    "Stars": 438,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-21T17:01:21Z",
+    "UpdatedAt": "2026-04-02T08:37:40Z",
+    "Owner": "blockchain-etl",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ageitgey/face_recognition",
+    "Name": "face_recognition",
+    "Url": "https://github.com/ageitgey/face_recognition",
+    "Description": "The world's simplest facial recognition api for Python and the command line",
+    "Topics": [
+      "face-detection",
+      "face-recognition",
+      "machine-learning",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 56364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-03T21:52:39Z",
+    "UpdatedAt": "2026-05-02T21:19:47Z",
+    "Owner": "ageitgey",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vmware/versatile-data-kit",
+    "Name": "versatile-data-kit",
+    "Url": "https://github.com/vmware/versatile-data-kit",
+    "Description": "One framework to develop, deploy and operate data workflows with Python and SQL.",
+    "Topics": [
+      "analytics",
+      "data",
+      "data-engineer",
+      "data-engineering",
+      "data-engineering-pipeline",
+      "data-lineage",
+      "data-pipelines",
+      "data-science",
+      "data-structures",
+      "data-warehouse",
+      "database",
+      "dataops",
+      "elt",
+      "etl",
+      "pipeline",
+      "python",
+      "snowflake",
+      "sql",
+      "trino",
+      "warehouse"
+    ],
+    "Language": "Python",
+    "Stars": 481,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-20T08:28:09Z",
+    "UpdatedAt": "2026-04-21T15:39:28Z",
+    "Owner": "vmware",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openinterpreter/open-interpreter",
+    "Name": "open-interpreter",
+    "Url": "https://github.com/openinterpreter/open-interpreter",
+    "Description": "A natural language interface for computers",
+    "Topics": [
+      "chatgpt",
+      "gpt-4",
+      "interpreter",
+      "javascript",
+      "nodejs",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 63370,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-14T07:10:44Z",
+    "UpdatedAt": "2026-05-03T03:54:07Z",
+    "Owner": "openinterpreter",
+    "SourceQueries": [
+      "open language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "encode/django-rest-framework",
+    "Name": "django-rest-framework",
+    "Url": "https://github.com/encode/django-rest-framework",
+    "Description": "Web APIs for Django. 🎸",
+    "Topics": [
+      "api",
+      "django",
+      "python",
+      "rest"
+    ],
+    "Language": "Python",
+    "Stars": 29990,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-03-02T17:13:56Z",
+    "UpdatedAt": "2026-05-02T18:17:57Z",
+    "Owner": "encode",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cocoindex-io/cocoindex",
+    "Name": "cocoindex",
+    "Url": "https://github.com/cocoindex-io/cocoindex",
+    "Description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+    "Topics": [
+      "agentic-data-framework",
+      "ai",
+      "ai-agents",
+      "change-data-capture",
+      "codebase-intelligence",
+      "context-engineering",
+      "data-engineering",
+      "data-indexing",
+      "data-processing",
+      "etl",
+      "help-wanted",
+      "indexing",
+      "knowledge-graph",
+      "llm",
+      "long-horizon-agent",
+      "python",
+      "rag",
+      "real-time",
+      "rust",
+      "semantic-search"
+    ],
+    "Language": "Python",
+    "Stars": 7561,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-03T23:03:09Z",
+    "UpdatedAt": "2026-05-03T04:43:16Z",
+    "Owner": "cocoindex-io",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gabledata/recap",
+    "Name": "recap",
+    "Url": "https://github.com/gabledata/recap",
+    "Description": "Work with your web service, database, and streaming schemas in a single format.",
+    "Topics": [
+      "data-catalog",
+      "data-discovery",
+      "data-engineering",
+      "data-integration",
+      "data-pipelines",
+      "etl",
+      "metadata",
+      "recap"
+    ],
+    "Language": "Python",
+    "Stars": 351,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-07T17:50:44Z",
+    "UpdatedAt": "2026-04-04T22:52:12Z",
+    "Owner": "gabledata",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aai-institute/pyDVL",
+    "Name": "pyDVL",
+    "Url": "https://github.com/aai-institute/pyDVL",
+    "Description": "pyDVL is a library of stable implementations of algorithms for data valuation and influence function computation",
+    "Topics": [
+      "banzhaf-index",
+      "data-centric-ai",
+      "data-cleaning",
+      "data-pruning",
+      "data-quality",
+      "data-valuation",
+      "game-theory",
+      "influence-functions",
+      "least-core",
+      "machine-learning",
+      "robust-machine-learning",
+      "shapley-value",
+      "transferlab"
+    ],
+    "Language": "Python",
+    "Stars": 145,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-02T19:46:57Z",
+    "UpdatedAt": "2026-04-02T01:59:23Z",
+    "Owner": "aai-institute",
+    "SourceQueries": [
+      "topic:data-quality language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mabel-dev/opteryx",
+    "Name": "opteryx",
+    "Url": "https://github.com/mabel-dev/opteryx",
+    "Description": "🦖 A SQL-on-everything Query Engine you can execute over multiple databases and file formats. Query your data, where it lives.",
+    "Topics": [
+      "analytics",
+      "arrow",
+      "aws",
+      "big-data",
+      "cloud-native",
+      "command-line",
+      "cross-platform",
+      "data-analytics",
+      "database",
+      "gcp",
+      "iceberg",
+      "python",
+      "query-engine",
+      "query-federation",
+      "query-processor",
+      "serverless",
+      "serverless-database",
+      "sql",
+      "sql-engine",
+      "zero-etl"
+    ],
+    "Language": "Python",
+    "Stars": 112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-28T11:27:22Z",
+    "UpdatedAt": "2026-03-12T12:53:51Z",
+    "Owner": "mabel-dev",
+    "SourceQueries": [
+      "topic:big-data language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lllyasviel/Fooocus",
+    "Name": "Fooocus",
+    "Url": "https://github.com/lllyasviel/Fooocus",
+    "Description": "Focus on prompting and generating",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 48298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-09T18:43:40Z",
+    "UpdatedAt": "2026-05-03T04:30:36Z",
+    "Owner": "lllyasviel",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lm-sys/FastChat",
+    "Name": "FastChat",
+    "Url": "https://github.com/lm-sys/FastChat",
+    "Description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 39461,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-19T00:18:02Z",
+    "UpdatedAt": "2026-05-02T23:24:53Z",
+    "Owner": "lm-sys",
+    "SourceQueries": [
+      "open language:Python stars:>=50",
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "facefusion/facefusion",
+    "Name": "facefusion",
+    "Url": "https://github.com/facefusion/facefusion",
+    "Description": "Industry leading face manipulation platform",
+    "Topics": [
+      "ai",
+      "deep-fake",
+      "deepfake",
+      "face-swap",
+      "faceswap",
+      "lip-sync",
+      "lipsync"
+    ],
+    "Language": "Python",
+    "Stars": 28117,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T19:59:55Z",
+    "UpdatedAt": "2026-05-03T01:55:17Z",
+    "Owner": "facefusion",
+    "SourceQueries": [
+      "f language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "great-expectations/great_expectations",
+    "Name": "great_expectations",
+    "Url": "https://github.com/great-expectations/great_expectations",
+    "Description": "Always know what to expect from your data.",
+    "Topics": [
+      "cleandata",
+      "data-engineering",
+      "data-profilers",
+      "data-profiling",
+      "data-quality",
+      "data-science",
+      "data-unit-tests",
+      "datacleaner",
+      "datacleaning",
+      "dataquality",
+      "dataunittest",
+      "eda",
+      "exploratory-analysis",
+      "exploratory-data-analysis",
+      "exploratorydataanalysis",
+      "mlops",
+      "pipeline",
+      "pipeline-debt",
+      "pipeline-testing",
+      "pipeline-tests"
+    ],
+    "Language": "Python",
+    "Stars": 11456,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-11T00:18:46Z",
+    "UpdatedAt": "2026-05-02T23:23:52Z",
+    "Owner": "great-expectations",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50",
+      "topic:data-quality language:Python stars:>=50",
+      "topic:mlops stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Avaiga/taipy",
+    "Name": "taipy",
+    "Url": "https://github.com/Avaiga/taipy",
+    "Description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+    "Topics": [
+      "automation",
+      "data-engineering",
+      "data-integration",
+      "data-ops",
+      "data-visualization",
+      "datascience",
+      "developer-tools",
+      "hacktoberfest",
+      "hacktoberfest2023",
+      "job-scheduler",
+      "mlops",
+      "orchestration",
+      "pipeline",
+      "pipelines",
+      "python",
+      "scenario",
+      "scenario-analysis",
+      "taipy-core",
+      "taipy-gui",
+      "workflow"
+    ],
+    "Language": "Python",
+    "Stars": 19173,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-18T15:55:45Z",
+    "UpdatedAt": "2026-05-02T17:57:55Z",
+    "Owner": "Avaiga",
+    "SourceQueries": [
+      "topic:data-engineering language:Python stars:>=50",
+      "topic:mlops stars:>=100"
+    ]
+  }
+]

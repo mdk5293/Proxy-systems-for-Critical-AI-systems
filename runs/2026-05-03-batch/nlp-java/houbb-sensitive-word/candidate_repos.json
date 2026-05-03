@@ -1,0 +1,2493 @@
+[
+  {
+    "FullName": "stanford-oval/storm",
+    "Name": "storm",
+    "Url": "https://github.com/stanford-oval/storm",
+    "Description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "Topics": [
+      "agentic-rag",
+      "deep-research",
+      "emnlp2024",
+      "knowledge-curation",
+      "large-language-models",
+      "naacl",
+      "nlp",
+      "report-generation",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 28156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-24T16:23:39Z",
+    "UpdatedAt": "2026-05-03T10:07:20Z",
+    "Owner": "stanford-oval",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jflex-de/jflex",
+    "Name": "jflex",
+    "Url": "https://github.com/jflex-de/jflex",
+    "Description": "The fast scanner generator for Java™ with full Unicode support",
+    "Topics": [
+      "bazel-rules",
+      "cup",
+      "dfa",
+      "dfa-minimization",
+      "flex",
+      "grammar",
+      "java",
+      "lexer",
+      "lexer-generator",
+      "lexical-analyzer",
+      "maven-plugin",
+      "nfa",
+      "parsing",
+      "regexp",
+      "scanner",
+      "scanner-generator",
+      "tokenizer",
+      "yacc"
+    ],
+    "Language": "Java",
+    "Stars": 630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-15T05:33:03Z",
+    "UpdatedAt": "2026-04-15T06:25:47Z",
+    "Owner": "jflex-de",
+    "SourceQueries": [
+      "topic:dfa language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tangyudi/Ai-Learn",
+    "Name": "Ai-Learn",
+    "Url": "https://github.com/tangyudi/Ai-Learn",
+    "Description": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域",
+    "Topics": [
+      "algorithm",
+      "artificial-intelligence",
+      "caffe",
+      "cv",
+      "data-analysis",
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "keras",
+      "machine-learning",
+      "mathematics",
+      "matplotlib",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "seaborn",
+      "tensorflow",
+      "tensorflow2"
+    ],
+    "Language": "",
+    "Stars": 12947,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-28T01:55:06Z",
+    "UpdatedAt": "2026-05-03T10:42:10Z",
+    "Owner": "tangyudi",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/FinGPT",
+    "Name": "FinGPT",
+    "Url": "https://github.com/AI4Finance-Foundation/FinGPT",
+    "Description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+    "Topics": [
+      "chatgpt",
+      "finance",
+      "fingpt",
+      "fintech",
+      "large-language-models",
+      "machine-learning",
+      "nlp",
+      "prompt-engineering",
+      "pytorch",
+      "reinforcement-learning",
+      "robo-advisor",
+      "sentiment-analysis",
+      "technical-analysis"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 19921,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T20:21:34Z",
+    "UpdatedAt": "2026-05-03T17:04:16Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "uestccokey/EZFilter",
+    "Name": "EZFilter",
+    "Url": "https://github.com/uestccokey/EZFilter",
+    "Description": "A lightweight (<180KB), easy-to-extend Android filter and dynamic sticker framework for adding filters and stickers for camera, video, bitmap and view.(一个轻量级（<180KB）、易扩展的Android滤镜和动态贴纸框架，支持摄像头、视频、图片和视图添加滤镜和贴纸。)",
+    "Topics": [
+      "bitmap",
+      "camera",
+      "filter",
+      "gpu-image",
+      "offscreen-render",
+      "opengl",
+      "opengl-es",
+      "shader",
+      "video"
+    ],
+    "Language": "Java",
+    "Stars": 216,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-18T04:01:32Z",
+    "UpdatedAt": "2026-03-13T02:29:54Z",
+    "Owner": "uestccokey",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mirrajabi/view-effects",
+    "Name": "view-effects",
+    "Url": "https://github.com/mirrajabi/view-effects",
+    "Description": "Apply custom effects on view backgrounds",
+    "Topics": [
+      "android",
+      "android-library",
+      "effects",
+      "filter",
+      "ui-components",
+      "view"
+    ],
+    "Language": "Java",
+    "Stars": 176,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-13T00:16:38Z",
+    "UpdatedAt": "2026-02-26T01:38:22Z",
+    "Owner": "mirrajabi",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nltk/nltk",
+    "Name": "nltk",
+    "Url": "https://github.com/nltk/nltk",
+    "Description": "NLTK Source",
+    "Topics": [
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "nltk",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 14603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-09-07T10:53:58Z",
+    "UpdatedAt": "2026-05-03T11:03:07Z",
+    "Owner": "nltk",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pratikbutani/MultiSelectSpinner",
+    "Name": "MultiSelectSpinner",
+    "Url": "https://github.com/pratikbutani/MultiSelectSpinner",
+    "Description": "Android - Select Multiple Items from Spinner with Filtration.",
+    "Topics": [
+      "android",
+      "android-library",
+      "android-spinner",
+      "filter",
+      "gradle",
+      "hacktoberfest",
+      "multiselect",
+      "multiselect-library",
+      "spinner"
+    ],
+    "Language": "Java",
+    "Stars": 256,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-27T03:49:38Z",
+    "UpdatedAt": "2026-02-06T02:34:06Z",
+    "Owner": "pratikbutani",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openvinotoolkit/openvino",
+    "Name": "openvino",
+    "Url": "https://github.com/openvinotoolkit/openvino",
+    "Description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+    "Topics": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "deploy-ai",
+      "diffusion-models",
+      "generative-ai",
+      "good-first-issue",
+      "inference",
+      "llm-inference",
+      "natural-language-processing",
+      "nlp",
+      "openvino",
+      "optimize-ai",
+      "performance-boost",
+      "recommendation-system",
+      "speech-recognition",
+      "stable-diffusion",
+      "transformers",
+      "yolo"
+    ],
+    "Language": "C++",
+    "Stars": 10169,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-15T10:54:40Z",
+    "UpdatedAt": "2026-05-03T07:12:08Z",
+    "Owner": "openvinotoolkit",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JessYanCoding/CameraFilters",
+    "Name": "CameraFilters",
+    "Url": "https://github.com/JessYanCoding/CameraFilters",
+    "Description": "📷 摄像头实时滤镜处理库,自带10多种滤镜,支持滤镜扩展,并且兼容七牛云直播滤镜处理",
+    "Topics": [
+      "camera",
+      "filter"
+    ],
+    "Language": "Java",
+    "Stars": 192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-18T06:09:51Z",
+    "UpdatedAt": "2026-04-02T13:05:39Z",
+    "Owner": "JessYanCoding",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "allurx/blur",
+    "Name": "blur",
+    "Url": "https://github.com/allurx/blur",
+    "Description": "Blur is a Java library for masking and obfuscating sensitive data in any data structure",
+    "Topics": [
+      "annotatedtype",
+      "based-on-java-reflection",
+      "desensitization",
+      "jdk21",
+      "sensitive-data"
+    ],
+    "Language": "Java",
+    "Stars": 143,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-05T13:54:47Z",
+    "UpdatedAt": "2026-03-30T10:35:57Z",
+    "Owner": "allurx",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-LLaMA-Alpaca",
+    "Name": "Chinese-LLaMA-Alpaca",
+    "Url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "Description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+    "Topics": [
+      "alpaca",
+      "alpaca-2",
+      "large-language-models",
+      "llama",
+      "llama-2",
+      "llm",
+      "lora",
+      "nlp",
+      "plm",
+      "pre-trained-language-models",
+      "quantization"
+    ],
+    "Language": "Python",
+    "Stars": 18944,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-15T11:09:39Z",
+    "UpdatedAt": "2026-05-03T15:11:47Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ACassimiro/TSNsched",
+    "Name": "TSNsched",
+    "Url": "https://github.com/ACassimiro/TSNsched",
+    "Description": "Automated Schedule Generation for Time-Sensitive Networks (TSN).",
+    "Topics": [
+      "formal-methods",
+      "network",
+      "schedule",
+      "z3"
+    ],
+    "Language": "Java",
+    "Stars": 116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-21T22:39:16Z",
+    "UpdatedAt": "2026-04-03T02:59:51Z",
+    "Owner": "ACassimiro",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "code-crusher/Dimmer",
+    "Name": "Dimmer",
+    "Url": "https://github.com/code-crusher/Dimmer",
+    "Description": "Android app to provide Blue-Light filter to reduce strain on eyes.",
+    "Topics": [
+      "android-application",
+      "bluelight",
+      "filter",
+      "playstore"
+    ],
+    "Language": "Java",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-20T15:55:12Z",
+    "UpdatedAt": "2026-01-06T07:53:06Z",
+    "Owner": "code-crusher",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "amigoscode/java-streams",
+    "Name": "java-streams",
+    "Url": "https://github.com/amigoscode/java-streams",
+    "Description": "",
+    "Topics": [
+      "filter",
+      "java",
+      "java-stream-api",
+      "map",
+      "reduce"
+    ],
+    "Language": "Java",
+    "Stars": 134,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-16T22:41:58Z",
+    "UpdatedAt": "2026-04-11T07:24:27Z",
+    "Owner": "amigoscode",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Ericsongyl/S-Browser",
+    "Name": "S-Browser",
+    "Url": "https://github.com/Ericsongyl/S-Browser",
+    "Description": "Android：S-Browser（S浏览器，S的意义：sensitive-灵敏、灵活，super-超级，simple-简单、简洁），V2.0改用TBS X5的内核，app体积大大减小，只有1.4M左右，用户体验大大提升，页面加载很快；而原来V1.0使用Chromium_WebView内核，基于TintBrowser框架实现的，app有34M左右。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 121,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-02T10:41:47Z",
+    "UpdatedAt": "2025-01-17T18:47:49Z",
+    "Owner": "Ericsongyl",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NLP-LOVE/ML-NLP",
+    "Name": "ML-NLP",
+    "Url": "https://github.com/NLP-LOVE/ML-NLP",
+    "Description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 17650,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-05T12:49:53Z",
+    "UpdatedAt": "2026-05-03T01:53:40Z",
+    "Owner": "NLP-LOVE",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "neuml/txtai",
+    "Name": "txtai",
+    "Url": "https://github.com/neuml/txtai",
+    "Description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "embeddings",
+      "information-retrieval",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "search",
+      "search-engine",
+      "semantic-search",
+      "sentence-embeddings",
+      "transformers",
+      "txtai",
+      "vector-database",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 12454,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-09T19:14:59Z",
+    "UpdatedAt": "2026-05-03T17:36:29Z",
+    "Owner": "neuml",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hankcs/HanLP",
+    "Name": "HanLP",
+    "Url": "https://github.com/hankcs/HanLP",
+    "Description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
+    "Topics": [
+      "dependency-parser",
+      "hanlp",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pos-tagging",
+      "semantic-parsing",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 36293,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-09T06:36:16Z",
+    "UpdatedAt": "2026-05-03T17:27:42Z",
+    "Owner": "hankcs",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "flairNLP/flair",
+    "Name": "flair",
+    "Url": "https://github.com/flairNLP/flair",
+    "Description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "Topics": [
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "pytorch",
+      "semantic-role-labeling",
+      "sequence-labeling",
+      "word-embeddings"
+    ],
+    "Language": "Python",
+    "Stars": 14373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-11T11:04:18Z",
+    "UpdatedAt": "2026-05-02T18:37:18Z",
+    "Owner": "flairNLP",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "LearnLib/learnlib",
+    "Name": "learnlib",
+    "Url": "https://github.com/LearnLib/learnlib",
+    "Description": "A free, open-source Java library for automata learning algorithms",
+    "Topics": [
+      "active-automata-learning",
+      "automata",
+      "automata-learning",
+      "dfa",
+      "finite-state-machine",
+      "java",
+      "lstar",
+      "mealy-machine",
+      "model-based-learning",
+      "model-based-testing",
+      "model-learning",
+      "pushdown-automata",
+      "rpni",
+      "test-case-generation",
+      "ttt"
+    ],
+    "Language": "Java",
+    "Stars": 225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-05-20T12:18:14Z",
+    "UpdatedAt": "2026-04-26T17:08:58Z",
+    "Owner": "LearnLib",
+    "SourceQueries": [
+      "topic:dfa language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "i2p/i2p.i2p",
+    "Name": "i2p.i2p",
+    "Url": "https://github.com/i2p/i2p.i2p",
+    "Description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. ",
+    "Topics": [
+      "anonymity",
+      "crypto",
+      "i2p",
+      "java",
+      "monotone",
+      "network",
+      "p2p",
+      "router"
+    ],
+    "Language": "Java",
+    "Stars": 2525,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-05-26T20:54:59Z",
+    "UpdatedAt": "2026-05-03T15:38:46Z",
+    "Owner": "i2p",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Doikki/DKVideoPlayer",
+    "Name": "DKVideoPlayer",
+    "Url": "https://github.com/Doikki/DKVideoPlayer",
+    "Description": "Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜",
+    "Topics": [
+      "android",
+      "exoplayer",
+      "ffmpeg",
+      "filter",
+      "ijkplayer",
+      "mediaplayer",
+      "opengl",
+      "player",
+      "tiktok",
+      "video",
+      "video-player",
+      "watermark"
+    ],
+    "Language": "Java",
+    "Stars": 5309,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-11T01:33:38Z",
+    "UpdatedAt": "2026-05-03T08:58:37Z",
+    "Owner": "Doikki",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tdebatty/java-LSH",
+    "Name": "java-LSH",
+    "Url": "https://github.com/tdebatty/java-LSH",
+    "Description": "A Java implementation of Locality Sensitive Hashing (LSH)",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 300,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-28T14:15:25Z",
+    "UpdatedAt": "2026-04-28T03:47:06Z",
+    "Owner": "tdebatty",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apachecn/ailearning",
+    "Name": "ailearning",
+    "Url": "https://github.com/apachecn/ailearning",
+    "Description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "Topics": [
+      "adaboost",
+      "apriori",
+      "deeplearning",
+      "dnn",
+      "fp-growth",
+      "kmeans",
+      "logistic",
+      "lstm",
+      "mahchine-leaning",
+      "naivebayes",
+      "nlp",
+      "pca",
+      "python",
+      "recommendedsystem",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "sklearn",
+      "svd",
+      "svm"
+    ],
+    "Language": "Python",
+    "Stars": 42221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-25T08:53:02Z",
+    "UpdatedAt": "2026-05-03T13:46:54Z",
+    "Owner": "apachecn",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "broadinstitute/mutect",
+    "Name": "mutect",
+    "Url": "https://github.com/broadinstitute/mutect",
+    "Description": "MuTect -- Accurate and sensitive cancer mutation detection",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-01-29T15:09:43Z",
+    "UpdatedAt": "2026-03-22T03:25:46Z",
+    "Owner": "broadinstitute",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "armenak/DataDefender",
+    "Name": "DataDefender",
+    "Url": "https://github.com/armenak/DataDefender",
+    "Description": "Sensitive Data Management: Data Discovery and Anonymization toolkit",
+    "Topics": [
+      "anonymization",
+      "compliance",
+      "gdpr",
+      "obfuscation",
+      "privacy",
+      "sensitive-data",
+      "sensitive-data-discovery",
+      "sensitive-data-security",
+      "sensitive-personal-data"
+    ],
+    "Language": "Java",
+    "Stars": 161,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-11T19:54:28Z",
+    "UpdatedAt": "2026-03-25T21:43:08Z",
+    "Owner": "armenak",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "crazyzhangxl/WindowShowDemo",
+    "Name": "WindowShowDemo",
+    "Url": "https://github.com/crazyzhangxl/WindowShowDemo",
+    "Description": "Android 弹窗案例总结(仿淘宝弹窗 咸鱼菜单 筛选列表)",
+    "Topics": [
+      "android",
+      "bottomsheetdialog",
+      "dialog",
+      "dialogfragment",
+      "filter",
+      "java",
+      "popupwindow",
+      "progress",
+      "toast",
+      "view"
+    ],
+    "Language": "Java",
+    "Stars": 110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-13T03:43:54Z",
+    "UpdatedAt": "2025-04-19T23:28:35Z",
+    "Owner": "crazyzhangxl",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "turkraft/springfilter",
+    "Name": "springfilter",
+    "Url": "https://github.com/turkraft/springfilter",
+    "Description": "Dynamically filter JPA entities, Mongo collections, and Java in-memory objects with a user-friendly query syntax. Seamless integration with Spring APIs. Star to support the project! ❤️",
+    "Topics": [
+      "filter",
+      "hibernate",
+      "java",
+      "jpa",
+      "mongodb",
+      "odata",
+      "query",
+      "search",
+      "spring"
+    ],
+    "Language": "Java",
+    "Stars": 279,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-08T06:37:47Z",
+    "UpdatedAt": "2026-04-29T21:38:31Z",
+    "Owner": "turkraft",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CYS4srl/SensitiveDiscoverer",
+    "Name": "SensitiveDiscoverer",
+    "Url": "https://github.com/CYS4srl/SensitiveDiscoverer",
+    "Description": "Sensitive Discoverer, a Burp extension to discovers sensitive information inside HTTP messages.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-25T07:35:39Z",
+    "UpdatedAt": "2025-11-09T15:44:48Z",
+    "Owner": "CYS4srl",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rkonovalov/jfilter",
+    "Name": "jfilter",
+    "Url": "https://github.com/rkonovalov/jfilter",
+    "Description": "JFilter library for filtering REST Spring Web Service type application responses.",
+    "Topics": [
+      "filter",
+      "jackson",
+      "java",
+      "json",
+      "spring",
+      "spring-boot",
+      "spring-mvc",
+      "springboot",
+      "springframework",
+      "xml"
+    ],
+    "Language": "Java",
+    "Stars": 68,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-13T18:29:43Z",
+    "UpdatedAt": "2025-06-11T01:29:48Z",
+    "Owner": "rkonovalov",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marbl/MHAP",
+    "Name": "MHAP",
+    "Url": "https://github.com/marbl/MHAP",
+    "Description": "MinHash Alignment Process (MHAP, pronounced MAP): locality-sensitive hashing to detect long-read overlaps and utilities",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 99,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-13T16:27:23Z",
+    "UpdatedAt": "2026-04-06T23:20:47Z",
+    "Owner": "marbl",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "818000/bus",
+    "Name": "bus",
+    "Url": "https://github.com/818000/bus",
+    "Description": "Bus (Enterprise Application/Service Bus) is a foundational framework and service suite; a lightweight enterprise-grade application/service framework built on Java 17+, providing standardized service suites and distributed middleware solutions.",
+    "Topics": [
+      "ai",
+      "cache",
+      "crypto",
+      "dubbo",
+      "gateway",
+      "graalvm",
+      "hl7",
+      "java21",
+      "limiter",
+      "logger",
+      "mapper",
+      "mybatis",
+      "opencv",
+      "pagger",
+      "sensitive",
+      "socket",
+      "spring-boot",
+      "starter",
+      "tracer"
+    ],
+    "Language": "Java",
+    "Stars": 599,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-19T02:00:47Z",
+    "UpdatedAt": "2026-05-02T07:14:47Z",
+    "Owner": "818000",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "obsidiandynamics/zerolog",
+    "Name": "zerolog",
+    "Url": "https://github.com/obsidiandynamics/zerolog",
+    "Description": "Low-overhead logging façade for performance-sensitive applications",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-02T22:41:52Z",
+    "UpdatedAt": "2026-03-19T14:17:19Z",
+    "Owner": "obsidiandynamics",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/teaclave-java-tee-sdk",
+    "Name": "teaclave-java-tee-sdk",
+    "Url": "https://github.com/apache/teaclave-java-tee-sdk",
+    "Description": "Apache Teaclave (incubating) Java TEE SDK is an open source universal confidential computing framework, making java computation on privacy-sensitive data safe and simple.",
+    "Topics": [
+      "confidential-computing",
+      "graalvm",
+      "java",
+      "sgx",
+      "tee",
+      "trusted-execution-environment"
+    ],
+    "Language": "Java",
+    "Stars": 63,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-01T03:21:43Z",
+    "UpdatedAt": "2026-04-30T02:52:18Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "elvishew/xLog",
+    "Name": "xLog",
+    "Url": "https://github.com/elvishew/xLog",
+    "Description": "Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.",
+    "Topics": [
+      "android",
+      "android-log",
+      "backup",
+      "clean",
+      "file",
+      "filter",
+      "json",
+      "log",
+      "logcat",
+      "logger",
+      "save",
+      "xlog",
+      "xml"
+    ],
+    "Language": "Java",
+    "Stars": 3335,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-12-17T05:50:05Z",
+    "UpdatedAt": "2026-04-28T10:18:58Z",
+    "Owner": "elvishew",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T17:55:00Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/tokenizers",
+    "Name": "tokenizers",
+    "Url": "https://github.com/huggingface/tokenizers",
+    "Description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "Topics": [
+      "bert",
+      "gpt",
+      "language-model",
+      "natural-language-processing",
+      "natural-language-understanding",
+      "nlp",
+      "transformers"
+    ],
+    "Language": "Rust",
+    "Stars": 10689,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-01T17:52:20Z",
+    "UpdatedAt": "2026-05-03T17:31:34Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "0xAwali/WebSocketChecker",
+    "Name": "WebSocketChecker",
+    "Url": "https://github.com/0xAwali/WebSocketChecker",
+    "Description": "Burp suite extension to find sensitive information by checking incoming text OR binary websocket messages",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 59,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-14T19:47:15Z",
+    "UpdatedAt": "2026-04-26T09:05:02Z",
+    "Owner": "0xAwali",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/CoreNLP",
+    "Name": "CoreNLP",
+    "Url": "https://github.com/stanfordnlp/CoreNLP",
+    "Description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+    "Topics": [
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp",
+      "nlp-parsing",
+      "stanford-nlp"
+    ],
+    "Language": "Java",
+    "Stars": 10070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-06-27T21:13:49Z",
+    "UpdatedAt": "2026-05-01T19:40:06Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/unilm",
+    "Name": "unilm",
+    "Url": "https://github.com/microsoft/unilm",
+    "Description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "Topics": [
+      "beit",
+      "beit-3",
+      "bitnet",
+      "deepnet",
+      "document-ai",
+      "foundation-models",
+      "kosmos",
+      "kosmos-1",
+      "layoutlm",
+      "layoutxlm",
+      "llm",
+      "minilm",
+      "mllm",
+      "multimodal",
+      "nlp",
+      "pre-trained-model",
+      "textdiffuser",
+      "trocr",
+      "unilm",
+      "xlm-e"
+    ],
+    "Language": "Python",
+    "Stars": 22114,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-23T04:15:28Z",
+    "UpdatedAt": "2026-05-03T02:16:58Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "666ghj/BettaFish",
+    "Name": "BettaFish",
+    "Url": "https://github.com/666ghj/BettaFish",
+    "Description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "Topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 40729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-01T13:11:38Z",
+    "UpdatedAt": "2026-05-03T17:26:47Z",
+    "Owner": "666ghj",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "virgili0/Virgilio",
+    "Name": "Virgilio",
+    "Url": "https://github.com/virgili0/Virgilio",
+    "Description": "Your new Mentor for Data Science E-Learning.",
+    "Topics": [
+      "business-intelligence",
+      "computer-vision",
+      "data-science",
+      "datascience",
+      "guide",
+      "guidelines",
+      "hacktoberfest",
+      "learning",
+      "learning-python",
+      "machine-learning",
+      "machine-vision",
+      "nlp",
+      "path",
+      "python",
+      "scikit-learn",
+      "statistics",
+      "study",
+      "studypath",
+      "tensorflow",
+      "virgilio"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 14328,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-12T18:45:36Z",
+    "UpdatedAt": "2026-05-02T09:15:26Z",
+    "Owner": "virgili0",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "core-lib/loadkit",
+    "Name": "loadkit",
+    "Url": "https://github.com/core-lib/loadkit",
+    "Description": "Java 资源加载器，充分拓展ClassLoader#getResources(name)的能力，实现递归加载，支持普通风格 / 包名风格 / ANT风格 / 正则风格路径的资源加载同时支持自定义过滤器，通常作为框架的基础类库。",
+    "Topics": [
+      "ant",
+      "classloader",
+      "file",
+      "filter",
+      "jar",
+      "loader",
+      "recursion",
+      "regex"
+    ],
+    "Language": "Java",
+    "Stars": 54,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-02T01:44:32Z",
+    "UpdatedAt": "2026-02-11T16:35:57Z",
+    "Owner": "core-lib",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dataApps/chlorine-finder",
+    "Name": "chlorine-finder",
+    "Url": "https://github.com/dataApps/chlorine-finder",
+    "Description": "A Java Library to detect and mask sensitive data",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-19T05:07:08Z",
+    "UpdatedAt": "2025-08-23T12:50:36Z",
+    "Owner": "dataApps",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "moeinfatehi/Backup-Finder",
+    "Name": "Backup-Finder",
+    "Url": "https://github.com/moeinfatehi/Backup-Finder",
+    "Description": "A burp suite extension that reviews backup, old, temporary and unreferenced files on web server for sensitive information (OWASP WSTG-CONF-04, OTG-CONFIG-004)",
+    "Topics": [
+      "application-security",
+      "appsecurity",
+      "backupfinder",
+      "burp",
+      "burp-extensions",
+      "burpsuite",
+      "burpsuite-extender",
+      "data-leakage",
+      "owasp",
+      "owasp-top-10",
+      "owasp-top-ten",
+      "penetration-testing",
+      "pentesting",
+      "portswigger",
+      "sensitive-data-exposure"
+    ],
+    "Language": "Java",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-10T06:14:24Z",
+    "UpdatedAt": "2026-03-27T12:16:18Z",
+    "Owner": "moeinfatehi",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T17:37:42Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "piskvorky/gensim",
+    "Name": "gensim",
+    "Url": "https://github.com/piskvorky/gensim",
+    "Description": "Topic Modelling for Humans",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "document-similarity",
+      "fasttext",
+      "gensim",
+      "information-retrieval",
+      "machine-learning",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "python",
+      "topic-modeling",
+      "word-embeddings",
+      "word-similarity",
+      "word2vec"
+    ],
+    "Language": "Python",
+    "Stars": 16405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-10T07:43:04Z",
+    "UpdatedAt": "2026-05-03T17:51:04Z",
+    "Owner": "piskvorky",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cansik/processing-postfx",
+    "Name": "processing-postfx",
+    "Url": "https://github.com/cansik/processing-postfx",
+    "Description": "A shader based postFX library for processing.",
+    "Topics": [
+      "effect",
+      "filter",
+      "fx",
+      "post",
+      "postfx-library",
+      "processing",
+      "processing-postfx",
+      "shader"
+    ],
+    "Language": "Java",
+    "Stars": 156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-21T21:18:58Z",
+    "UpdatedAt": "2026-03-24T07:53:48Z",
+    "Owner": "cansik",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepset-ai/haystack",
+    "Name": "haystack",
+    "Url": "https://github.com/deepset-ai/haystack",
+    "Description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "Topics": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "orchestration",
+      "python",
+      "pytorch",
+      "question-answering",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "summarization",
+      "transformers"
+    ],
+    "Language": "MDX",
+    "Stars": 25064,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T09:05:28Z",
+    "UpdatedAt": "2026-05-03T15:01:45Z",
+    "Owner": "deepset-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Unstructured-IO/unstructured",
+    "Name": "unstructured",
+    "Url": "https://github.com/Unstructured-IO/unstructured",
+    "Description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+    "Topics": [
+      "data-pipelines",
+      "deep-learning",
+      "document-image-analysis",
+      "document-image-processing",
+      "document-parser",
+      "document-parsing",
+      "docx",
+      "donut",
+      "information-retrieval",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "ml",
+      "natural-language-processing",
+      "nlp",
+      "ocr",
+      "pdf",
+      "pdf-to-json",
+      "pdf-to-text",
+      "preprocessing"
+    ],
+    "Language": "HTML",
+    "Stars": 14617,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-26T21:53:41Z",
+    "UpdatedAt": "2026-05-03T12:53:12Z",
+    "Owner": "Unstructured-IO",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "akto-api-security/akto",
+    "Name": "akto",
+    "Url": "https://github.com/akto-api-security/akto",
+    "Description": "Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure",
+    "Topics": [
+      "api-discovery",
+      "api-security",
+      "api-security-posture",
+      "api-security-testing",
+      "api-testing",
+      "authentication",
+      "authorization",
+      "devsecops",
+      "devsecops-pipeline",
+      "hacktoberfest",
+      "hacktoberfest2023",
+      "idor",
+      "owasp-top-10",
+      "security",
+      "security-testing",
+      "sensitive-data-exposure",
+      "threat-detection"
+    ],
+    "Language": "Java",
+    "Stars": 1470,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-31T09:07:07Z",
+    "UpdatedAt": "2026-05-02T04:55:17Z",
+    "Owner": "akto-api-security",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Krupen/FabulousFilter",
+    "Name": "FabulousFilter",
+    "Url": "https://github.com/Krupen/FabulousFilter",
+    "Description": "Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa",
+    "Topics": [
+      "animate",
+      "animation",
+      "bottomsheet",
+      "bottomsheetbehavior",
+      "bottomsheetdialog",
+      "dialog",
+      "expand",
+      "fab",
+      "filter",
+      "floating-action-button",
+      "floatingactionbutton",
+      "java",
+      "library",
+      "morph"
+    ],
+    "Language": "Java",
+    "Stars": 2651,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-26T11:36:38Z",
+    "UpdatedAt": "2026-05-03T12:20:54Z",
+    "Owner": "Krupen",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tylersuehr7/chips-input-layout",
+    "Name": "chips-input-layout",
+    "Url": "https://github.com/tylersuehr7/chips-input-layout",
+    "Description": "A customizable Android ViewGroup for displaying Chips (specified in the Material Design Guide). ",
+    "Topics": [
+      "android",
+      "android-viewgroup",
+      "chip",
+      "chips",
+      "chips-view",
+      "contacts",
+      "custom-chips",
+      "design",
+      "filter",
+      "filter-existing-chips",
+      "filterable",
+      "material",
+      "view",
+      "viewgroup"
+    ],
+    "Language": "Java",
+    "Stars": 583,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-06T02:21:59Z",
+    "UpdatedAt": "2026-03-06T22:37:08Z",
+    "Owner": "tylersuehr7",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ymcui/Chinese-BERT-wwm",
+    "Name": "Chinese-BERT-wwm",
+    "Url": "https://github.com/ymcui/Chinese-BERT-wwm",
+    "Description": "Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）",
+    "Topics": [
+      "bert",
+      "bert-wwm",
+      "bert-wwm-ext",
+      "chinese-bert",
+      "nlp",
+      "pytorch",
+      "rbt",
+      "roberta",
+      "roberta-wwm",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 10202,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-19T22:55:01Z",
+    "UpdatedAt": "2026-05-03T07:05:33Z",
+    "Owner": "ymcui",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "keyboardsurfer/Crouton",
+    "Name": "Crouton",
+    "Url": "https://github.com/keyboardsurfer/Crouton",
+    "Description": "Context sensitive notifications for Android  ",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2985,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-03T11:04:36Z",
+    "UpdatedAt": "2026-04-21T06:42:15Z",
+    "Owner": "keyboardsurfer",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "botpress/botpress",
+    "Name": "botpress",
+    "Url": "https://github.com/botpress/botpress",
+    "Description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+    "Topics": [
+      "agent",
+      "ai",
+      "botpress",
+      "chatbot",
+      "chatgpt",
+      "gpt",
+      "gpt-4",
+      "langchain",
+      "llm",
+      "nlp",
+      "openai",
+      "prompt"
+    ],
+    "Language": "TypeScript",
+    "Stars": 14666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-16T21:57:59Z",
+    "UpdatedAt": "2026-05-03T13:39:04Z",
+    "Owner": "botpress",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hooj0/sensitive-words-filter",
+    "Name": "sensitive-words-filter",
+    "Url": "https://github.com/hooj0/sensitive-words-filter",
+    "Description": ":page_facing_up:Sensitive word filtering items provide TTMP, DFA, DAT, hash bucket, and Tire algorithm support filtering. Supports text highlighting, filtering, verdicts, and alternative interface support.敏感词过滤项目，提供TTMP、DFA、DAT、hash bucket、Tire算法支持过滤。可以支持文本的高亮、过滤、判词、替换的接口支持。",
+    "Topics": [
+      "dat",
+      "dfa",
+      "hash-bucket",
+      "hashing",
+      "sensitive",
+      "sensitive-words-filter",
+      "tire",
+      "ttmp",
+      "wordfilter"
+    ],
+    "Language": "Java",
+    "Stars": 262,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-26T06:57:43Z",
+    "UpdatedAt": "2026-04-14T15:25:35Z",
+    "Owner": "hooj0",
+    "SourceQueries": [
+      "topic:dfa language:Java stars:>=50",
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "takahi-i/likelike",
+    "Name": "likelike",
+    "Url": "https://github.com/takahi-i/likelike",
+    "Description": "An implementation of locality sensitive hashing with Hadoop",
+    "Topics": [
+      "hadoop",
+      "java",
+      "lsh",
+      "recommender-system"
+    ],
+    "Language": "Java",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-12-26T13:26:45Z",
+    "UpdatedAt": "2026-04-17T07:16:38Z",
+    "Owner": "takahi-i",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "polok/PinCodePicker",
+    "Name": "PinCodePicker",
+    "Url": "https://github.com/polok/PinCodePicker",
+    "Description": "PinCodePicker was created for Android platform as a view which allows to take passwords/codes or some other sensitive data from end user in easy way, so developers can focus on the core functionalities of their application",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T20:05:28Z",
+    "UpdatedAt": "2026-04-16T22:33:06Z",
+    "Owner": "polok",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wouterbulten/kalmanjs",
+    "Name": "kalmanjs",
+    "Url": "https://github.com/wouterbulten/kalmanjs",
+    "Description": "Javascript based Kalman filter for 1D data",
+    "Topics": [
+      "filter",
+      "javascript",
+      "javascript-library",
+      "kalman-filter",
+      "noise",
+      "noise-filtering"
+    ],
+    "Language": "Java",
+    "Stars": 450,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-24T21:13:05Z",
+    "UpdatedAt": "2026-05-02T05:39:16Z",
+    "Owner": "wouterbulten",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marianobarrios/dregex",
+    "Name": "dregex",
+    "Url": "https://github.com/marianobarrios/dregex",
+    "Description": "dregex is a Java library that implements a regular expression engine using deterministic finite automata (DFA). It supports some Perl-style features and yet retains linear matching time, and also offers set operations.",
+    "Topics": [
+      "dfa",
+      "java-library",
+      "regex",
+      "regular-expression",
+      "regular-expression-engine",
+      "scala"
+    ],
+    "Language": "Java",
+    "Stars": 52,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-20T22:38:39Z",
+    "UpdatedAt": "2026-04-25T08:27:25Z",
+    "Owner": "marianobarrios",
+    "SourceQueries": [
+      "topic:dfa language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "costerwi/rezip",
+    "Name": "rezip",
+    "Url": "https://github.com/costerwi/rezip",
+    "Description": "Git clean filter to output uncompressed zip files for better delta compression while packing repository objects",
+    "Topics": [
+      "delta-compression",
+      "filter",
+      "git",
+      "office-document"
+    ],
+    "Language": "Java",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-05T15:50:41Z",
+    "UpdatedAt": "2025-11-10T06:08:26Z",
+    "Owner": "costerwi",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dair-ai/AI-Papers-of-the-Week",
+    "Name": "AI-Papers-of-the-Week",
+    "Url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+    "Description": "🔥Highlighting the top ML papers every week.",
+    "Topics": [
+      "ai",
+      "data-science",
+      "deeplearning",
+      "machine-learning",
+      "nlp"
+    ],
+    "Language": "",
+    "Stars": 12377,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-08T19:26:35Z",
+    "UpdatedAt": "2026-05-03T16:50:52Z",
+    "Owner": "dair-ai",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wysaid/Android-ffmpeg-CameraRecord",
+    "Name": "Android-ffmpeg-CameraRecord",
+    "Url": "https://github.com/wysaid/Android-ffmpeg-CameraRecord",
+    "Description": "使用JavaCV提供的支持， 使用OpenGL实时处理+显示摄像头采集的图像， 并使用FFMPEG实时录制音视频",
+    "Topics": [
+      "camera",
+      "ffmpeg",
+      "filter",
+      "javacv",
+      "opengl"
+    ],
+    "Language": "Java",
+    "Stars": 361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-17T03:12:46Z",
+    "UpdatedAt": "2026-01-13T08:16:06Z",
+    "Owner": "wysaid",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zzt93/syncer",
+    "Name": "syncer",
+    "Url": "https://github.com/zzt93/syncer",
+    "Description": "Sync & Manipulate data from MySQL/MongoDB to Elasticsearch/MySQL/Kafka Endpoint",
+    "Topics": [
+      "binlog",
+      "elasticsearch",
+      "filter",
+      "kafka",
+      "mongodb",
+      "mysql",
+      "oplog-tailing",
+      "syncer"
+    ],
+    "Language": "Java",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-08T09:50:34Z",
+    "UpdatedAt": "2026-04-16T03:37:35Z",
+    "Owner": "zzt93",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "memvid/memvid",
+    "Name": "memvid",
+    "Url": "https://github.com/memvid/memvid",
+    "Description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+    "Topics": [
+      "ai",
+      "context",
+      "embedded",
+      "faiss",
+      "knowledge-base",
+      "knowledge-graph",
+      "llm",
+      "machine-learning",
+      "memory",
+      "memvid",
+      "mv2",
+      "nlp",
+      "offline-first",
+      "opencv",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "vector-database",
+      "video-processing"
+    ],
+    "Language": "Rust",
+    "Stars": 15339,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-27T16:01:08Z",
+    "UpdatedAt": "2026-05-03T15:27:07Z",
+    "Owner": "memvid",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JorenSix/TarsosLSH",
+    "Name": "TarsosLSH",
+    "Url": "https://github.com/JorenSix/TarsosLSH",
+    "Description": "A Java library implementing practical nearest neighbour search algorithm for multidimensional vectors that operates in sublinear time. It implements Locality-sensitive Hashing (LSH) and multi index hashing for hamming space.",
+    "Topics": [
+      "java",
+      "lsh",
+      "multi-dimensional-hashing",
+      "nearest-neighbor-search"
+    ],
+    "Language": "Java",
+    "Stars": 203,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-03-25T13:57:36Z",
+    "UpdatedAt": "2026-03-28T10:54:59Z",
+    "Owner": "JorenSix",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MasayukiSuda/GPUVideo-android",
+    "Name": "GPUVideo-android",
+    "Url": "https://github.com/MasayukiSuda/GPUVideo-android",
+    "Description": "This library apply video filter on generate an Mp4 and on ExoPlayer video and  Video Recording with Camera2.",
+    "Topics": [
+      "android-camera2",
+      "android-library",
+      "camera2",
+      "custom-filter",
+      "exoplayer",
+      "exoplayer-video",
+      "exoplayer2",
+      "filter",
+      "glsl-shaders",
+      "gpu",
+      "gpuimage",
+      "mediacodec",
+      "mediacodec-api",
+      "opengl-es",
+      "video-filter",
+      "video-filtering",
+      "video-processing",
+      "video-processor",
+      "video-recording",
+      "videoeditor"
+    ],
+    "Language": "Java",
+    "Stars": 677,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-17T03:17:05Z",
+    "UpdatedAt": "2026-04-22T13:18:39Z",
+    "Owner": "MasayukiSuda",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vijjayy81/spring-boot-jpa-rest-demo-filter-paging-sorting",
+    "Name": "spring-boot-jpa-rest-demo-filter-paging-sorting",
+    "Url": "https://github.com/vijjayy81/spring-boot-jpa-rest-demo-filter-paging-sorting",
+    "Description": "Spring Boot Data JPA with Filter, Pagination and Sorting ",
+    "Topics": [
+      "filter",
+      "filter-pagination-sorting",
+      "filtering",
+      "pagination",
+      "sort",
+      "sorting",
+      "spring",
+      "spring-boot",
+      "spring-data",
+      "spring-data-jpa",
+      "spring-mvc"
+    ],
+    "Language": "Java",
+    "Stars": 77,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-28T13:59:38Z",
+    "UpdatedAt": "2025-08-16T06:08:57Z",
+    "Owner": "vijjayy81",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LearnLib/automatalib",
+    "Name": "automatalib",
+    "Url": "https://github.com/LearnLib/automatalib",
+    "Description": "A free, open-source Java library for automata, graphs, and transition systems",
+    "Topics": [
+      "automata",
+      "automata-visualization",
+      "conformance-testing",
+      "dfa",
+      "graph",
+      "m3c",
+      "mealy-machine",
+      "minimization",
+      "model-checking",
+      "procedural-systems",
+      "test-case-generation",
+      "timed-automata",
+      "transition-system",
+      "vpa"
+    ],
+    "Language": "Java",
+    "Stars": 100,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-03-15T04:02:44Z",
+    "UpdatedAt": "2026-04-08T10:06:42Z",
+    "Owner": "LearnLib",
+    "SourceQueries": [
+      "topic:dfa language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bigscience-workshop/petals",
+    "Name": "petals",
+    "Url": "https://github.com/bigscience-workshop/petals",
+    "Description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "Topics": [
+      "bloom",
+      "chatbot",
+      "deep-learning",
+      "distributed-systems",
+      "falcon",
+      "gpt",
+      "guanaco",
+      "language-models",
+      "large-language-models",
+      "llama",
+      "machine-learning",
+      "mixtral",
+      "neural-networks",
+      "nlp",
+      "pipeline-parallelism",
+      "pretrained-models",
+      "pytorch",
+      "tensor-parallelism",
+      "transformer",
+      "volunteer-computing"
+    ],
+    "Language": "Python",
+    "Stars": 10112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-12T00:10:27Z",
+    "UpdatedAt": "2026-05-03T17:15:38Z",
+    "Owner": "bigscience-workshop",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "DrMint/Litrato",
+    "Name": "Litrato",
+    "Url": "https://github.com/DrMint/Litrato",
+    "Description": "Android photo editing app with various filters and tools. Included advanced features like masking, histogram, color picker, EXIF viewer...",
+    "Topics": [
+      "android-app",
+      "android-application",
+      "android-studio",
+      "color-picker",
+      "exif",
+      "exif-metadata",
+      "exif-reader",
+      "filter",
+      "gaussian-blur",
+      "google-maps-api",
+      "histogram",
+      "image-editing",
+      "image-processing",
+      "java",
+      "laplacian-filter",
+      "mask-image",
+      "masking",
+      "photo-editing",
+      "renderscript",
+      "zoomingimageview"
+    ],
+    "Language": "Java",
+    "Stars": 109,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-07T17:41:32Z",
+    "UpdatedAt": "2026-05-01T16:46:18Z",
+    "Owner": "DrMint",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jrvansuita/GaussianBlur",
+    "Name": "GaussianBlur",
+    "Url": "https://github.com/jrvansuita/GaussianBlur",
+    "Description": "🎩 An easy and fast library to apply gaussian blur filter on any images. ",
+    "Topics": [
+      "android",
+      "bitmap",
+      "blur",
+      "blur-backgrounds",
+      "blurry",
+      "canvas",
+      "drawable",
+      "filter",
+      "filters",
+      "gaussian",
+      "gaussian-filter",
+      "gaussian-processes",
+      "gaussianblur",
+      "image",
+      "image-compression",
+      "image-processing",
+      "renderscript"
+    ],
+    "Language": "Java",
+    "Stars": 510,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-10T13:20:49Z",
+    "UpdatedAt": "2026-03-11T01:53:04Z",
+    "Owner": "jrvansuita",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "imgly/pesdk-android-demo",
+    "Name": "pesdk-android-demo",
+    "Url": "https://github.com/imgly/pesdk-android-demo",
+    "Description": "PhotoEditor SDK: A fully customizable photo editor for your app.",
+    "Topics": [
+      "android",
+      "brush",
+      "crop",
+      "demo-app",
+      "filter",
+      "frames",
+      "framework",
+      "image-editor",
+      "image-manipulation",
+      "image-processing",
+      "java",
+      "opengl",
+      "overlay",
+      "photo-editor",
+      "renderscript",
+      "sdk",
+      "text"
+    ],
+    "Language": "Java",
+    "Stars": 643,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-27T08:25:44Z",
+    "UpdatedAt": "2026-04-15T11:02:17Z",
+    "Owner": "imgly",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eugener/oxbow",
+    "Name": "oxbow",
+    "Url": "https://github.com/eugener/oxbow",
+    "Description": "Swing UI Enhacements",
+    "Topics": [
+      "dialog",
+      "filter",
+      "java",
+      "jtable",
+      "swing"
+    ],
+    "Language": "Java",
+    "Stars": 171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-02T03:25:05Z",
+    "UpdatedAt": "2026-04-06T02:44:50Z",
+    "Owner": "eugener",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ajmas/JH-Labs-Java-Image-Filters",
+    "Name": "JH-Labs-Java-Image-Filters",
+    "Url": "https://github.com/ajmas/JH-Labs-Java-Image-Filters",
+    "Description": "A collection of image filters, written in Java",
+    "Topics": [
+      "filter",
+      "hacktoberfest",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 70,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-03-31T15:03:44Z",
+    "UpdatedAt": "2026-04-16T07:07:11Z",
+    "Owner": "ajmas",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AccumulateMore/CV",
+    "Name": "CV",
+    "Url": "https://github.com/AccumulateMore/CV",
+    "Description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+    "Topics": [
+      "agent",
+      "agents",
+      "book",
+      "chinese",
+      "computer-vision",
+      "cv",
+      "deep-learning",
+      "jupyter-notebook",
+      "llm",
+      "llms",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "notebook",
+      "python",
+      "rag"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 20604,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-31T13:19:32Z",
+    "UpdatedAt": "2026-05-03T16:03:58Z",
+    "Owner": "AccumulateMore",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "berndporr/iirj",
+    "Name": "iirj",
+    "Url": "https://github.com/berndporr/iirj",
+    "Description": "An efficient IIR filter library written in JAVA",
+    "Topics": [
+      "bandpass",
+      "bandpass-filter",
+      "bandstop",
+      "bandstop-filter",
+      "filter",
+      "filter-plugin",
+      "filters",
+      "highpass",
+      "highpass-filter",
+      "iir",
+      "lowpass-filter",
+      "signal-processing"
+    ],
+    "Language": "Java",
+    "Stars": 152,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-07T22:07:59Z",
+    "UpdatedAt": "2026-03-24T09:04:02Z",
+    "Owner": "berndporr",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spencermountain/compromise",
+    "Name": "compromise",
+    "Url": "https://github.com/spencermountain/compromise",
+    "Description": "modest natural-language processing",
+    "Topics": [
+      "named-entity-recognition",
+      "nlp",
+      "part-of-speech"
+    ],
+    "Language": "JavaScript",
+    "Stars": 12083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-07-05T09:04:38Z",
+    "UpdatedAt": "2026-05-02T19:28:55Z",
+    "Owner": "spencermountain",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "GeeeekExplorer/nano-vllm",
+    "Name": "nano-vllm",
+    "Url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "Description": "Nano vLLM",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "llm",
+      "nlp",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 13237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-09T16:22:14Z",
+    "UpdatedAt": "2026-05-03T17:48:46Z",
+    "Owner": "GeeeekExplorer",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "andyzty/sensitivewd-filter",
+    "Name": "sensitivewd-filter",
+    "Url": "https://github.com/andyzty/sensitivewd-filter",
+    "Description": "敏感词过滤、广告词过滤、包含敏感词库，停顿词库。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 183,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-31T05:06:39Z",
+    "UpdatedAt": "2026-03-26T08:27:02Z",
+    "Owner": "andyzty",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T17:17:38Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:nlp stars:>=100"
+    ]
+  },
+  {
+    "FullName": "esastack/esa-restclient",
+    "Name": "esa-restclient",
+    "Url": "https://github.com/esastack/esa-restclient",
+    "Description": "An asynchronous event-driven HTTP client based on netty.",
+    "Topics": [
+      "asynchronous",
+      "chunking",
+      "filter",
+      "h2c",
+      "haproxy",
+      "http2",
+      "httpclient",
+      "https",
+      "interceptor",
+      "netty",
+      "retry"
+    ],
+    "Language": "Java",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-08T06:15:16Z",
+    "UpdatedAt": "2026-04-08T08:59:52Z",
+    "Owner": "esastack",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sangmingming/android-instagram-filter",
+    "Name": "android-instagram-filter",
+    "Url": "https://github.com/sangmingming/android-instagram-filter",
+    "Description": "a android image filter like instagram",
+    "Topics": [
+      "android",
+      "filter",
+      "gpuimage",
+      "image-filters",
+      "instagram-filters",
+      "java"
+    ],
+    "Language": "Java",
+    "Stars": 371,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-19T02:01:40Z",
+    "UpdatedAt": "2025-12-27T06:31:59Z",
+    "Owner": "sangmingming",
+    "SourceQueries": [
+      "topic:filter language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dsandler/markers",
+    "Name": "markers",
+    "Url": "https://github.com/dsandler/markers",
+    "Description": "Sample app demonstrating use of Android touch APIs for pressure-sensitive drawing.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 248,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-01-13T19:30:21Z",
+    "UpdatedAt": "2026-03-25T16:12:18Z",
+    "Owner": "dsandler",
+    "SourceQueries": [
+      "sensitive language:Java stars:>=50"
+    ]
+  }
+]

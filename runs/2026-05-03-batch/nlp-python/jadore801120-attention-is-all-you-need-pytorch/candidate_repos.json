@@ -1,0 +1,5710 @@
+[
+  {
+    "FullName": "ItzCrazyKns/Vane",
+    "Name": "Vane",
+    "Url": "https://github.com/ItzCrazyKns/Vane",
+    "Description": "Vane is an AI-powered answering engine.",
+    "Topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "Language": "TypeScript",
+    "Stars": 34115,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-09T10:51:32Z",
+    "UpdatedAt": "2026-05-03T07:32:26Z",
+    "Owner": "ItzCrazyKns",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "janhq/jan",
+    "Name": "jan",
+    "Url": "https://github.com/janhq/jan",
+    "Description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "Topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "Language": "TypeScript",
+    "Stars": 42339,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T02:17:10Z",
+    "UpdatedAt": "2026-05-03T07:32:55Z",
+    "Owner": "janhq",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "HKUDS/LightRAG",
+    "Name": "LightRAG",
+    "Url": "https://github.com/HKUDS/LightRAG",
+    "Description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "Topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 34682,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-02T11:57:54Z",
+    "UpdatedAt": "2026-05-03T08:12:48Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jayparks/transformer",
+    "Name": "transformer",
+    "Url": "https://github.com/jayparks/transformer",
+    "Description": "A Pytorch Implementation of \"Attention is All You Need\" and \"Weighted Transformer Network for Machine Translation\"",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "machine-translation",
+      "self-attention"
+    ],
+    "Language": "Python",
+    "Stars": 578,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-04T04:19:25Z",
+    "UpdatedAt": "2026-03-06T12:46:56Z",
+    "Owner": "jayparks",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "taki0112/UGATIT",
+    "Name": "UGATIT",
+    "Url": "https://github.com/taki0112/UGATIT",
+    "Description": "Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6130,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-26T00:33:54Z",
+    "UpdatedAt": "2026-05-03T06:53:46Z",
+    "Owner": "taki0112",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flashinfer-ai/flashinfer",
+    "Name": "flashinfer",
+    "Url": "https://github.com/flashinfer-ai/flashinfer",
+    "Description": "FlashInfer: Kernel Library for LLM Serving",
+    "Topics": [
+      "attention",
+      "cuda",
+      "distributed-inference",
+      "gpu",
+      "jit",
+      "large-large-models",
+      "llm-inference",
+      "moe",
+      "nvidia",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 5547,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-22T00:29:04Z",
+    "UpdatedAt": "2026-05-03T01:54:14Z",
+    "Owner": "flashinfer-ai",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37951,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-03T04:53:36Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lukas-blecher/LaTeX-OCR",
+    "Name": "LaTeX-OCR",
+    "Url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "Description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "Topics": [
+      "dataset",
+      "deep-learning",
+      "im2latex",
+      "im2markup",
+      "im2text",
+      "image-processing",
+      "image2text",
+      "latex",
+      "latex-ocr",
+      "machine-learning",
+      "math-ocr",
+      "ocr",
+      "python",
+      "pytorch",
+      "transformer",
+      "vision-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 16357,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T16:35:13Z",
+    "UpdatedAt": "2026-05-03T05:44:25Z",
+    "Owner": "lukas-blecher",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "allenai/bi-att-flow",
+    "Name": "bi-att-flow",
+    "Url": "https://github.com/allenai/bi-att-flow",
+    "Description": "Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.",
+    "Topics": [
+      "bidaf",
+      "nlp",
+      "question-answering",
+      "squad",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 1542,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-06-22T23:21:38Z",
+    "UpdatedAt": "2026-04-02T08:33:53Z",
+    "Owner": "allenai",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "philipperemy/keras-attention",
+    "Name": "keras-attention",
+    "Url": "https://github.com/philipperemy/keras-attention",
+    "Description": "Keras Attention Layer (Luong and Bahdanau scores).",
+    "Topics": [
+      "attention-mechanism",
+      "attention-model",
+      "deep-learning",
+      "keras",
+      "keras-neural-networks"
+    ],
+    "Language": "Python",
+    "Stars": 2813,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-23T05:28:01Z",
+    "UpdatedAt": "2026-04-21T07:04:42Z",
+    "Owner": "philipperemy",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lsdefine/attention-is-all-you-need-keras",
+    "Name": "attention-is-all-you-need-keras",
+    "Url": "https://github.com/lsdefine/attention-is-all-you-need-keras",
+    "Description": "A Keras+TensorFlow Implementation of the Transformer: Attention Is All You Need",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-seq2seq",
+      "deep-learning",
+      "keras",
+      "keras-tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 716,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-16T06:07:11Z",
+    "UpdatedAt": "2026-04-17T12:05:05Z",
+    "Owner": "lsdefine",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/LongNet",
+    "Name": "LongNet",
+    "Url": "https://github.com/kyegomez/LongNet",
+    "Description": "Implementation of plug in and play Attention from \"LongNet: Scaling Transformers to 1,000,000,000 Tokens\"",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "attention-is-all-you-need",
+      "attention-mechanisms",
+      "chatgpt",
+      "context-length",
+      "gpt3",
+      "gpt4",
+      "machine-learning",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 718,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-06T11:03:04Z",
+    "UpdatedAt": "2026-04-23T11:20:42Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sooftware/speech-transformer",
+    "Name": "speech-transformer",
+    "Url": "https://github.com/sooftware/speech-transformer",
+    "Description": "Transformer implementation speciaized in speech recognition tasks using Pytorch.  ",
+    "Topics": [
+      "asr",
+      "attention-is-all-you-need",
+      "end-to-end",
+      "pytorch",
+      "speech",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 65,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-17T18:38:27Z",
+    "UpdatedAt": "2025-12-06T04:56:37Z",
+    "Owner": "sooftware",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sooftware/attentions",
+    "Name": "attentions",
+    "Url": "https://github.com/sooftware/attentions",
+    "Description": "PyTorch implementation of some attentions for Deep Learning Researchers. ",
+    "Topics": [
+      "additive-attention",
+      "attention",
+      "dot-product-attention",
+      "location-aware-attention",
+      "location-sensitive-attension",
+      "multi-head-attention",
+      "pytorch",
+      "relative-multi-head-attention",
+      "relative-positional-encoding"
+    ],
+    "Language": "Python",
+    "Stars": 547,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-21T17:31:05Z",
+    "UpdatedAt": "2026-03-25T14:56:43Z",
+    "Owner": "sooftware",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "affaan-m/everything-claude-code",
+    "Name": "everything-claude-code",
+    "Url": "https://github.com/affaan-m/everything-claude-code",
+    "Description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "Language": "JavaScript",
+    "Stars": 172284,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-18T00:51:51Z",
+    "UpdatedAt": "2026-05-03T08:34:09Z",
+    "Owner": "affaan-m",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kyegomez/HLT",
+    "Name": "HLT",
+    "Url": "https://github.com/kyegomez/HLT",
+    "Description": "Implementation of the transformer from the paper: \"Real-World Humanoid Locomotion with Reinforcement Learning\"",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "attention",
+      "attention-is-all-you-need",
+      "ml",
+      "multi-modal",
+      "robotics",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 64,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-01T23:14:10Z",
+    "UpdatedAt": "2026-04-23T07:35:10Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kaushalshetty/Structured-Self-Attention",
+    "Name": "Structured-Self-Attention",
+    "Url": "https://github.com/kaushalshetty/Structured-Self-Attention",
+    "Description": "A Structured Self-attentive Sentence Embedding",
+    "Topics": [
+      "attention",
+      "attention-mechanism",
+      "attention-model",
+      "attention-weights",
+      "classification",
+      "deep-learning",
+      "python3",
+      "pytorch",
+      "self-attention",
+      "self-attentive-rnn",
+      "sentence-embeddings",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 493,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-01T07:38:55Z",
+    "UpdatedAt": "2026-04-10T19:11:13Z",
+    "Owner": "kaushalshetty",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rentainhe/visualization",
+    "Name": "visualization",
+    "Url": "https://github.com/rentainhe/visualization",
+    "Description": "a collection of visualization function",
+    "Topics": [
+      "attention",
+      "attention-map",
+      "attention-mechanism",
+      "data-visualization",
+      "deep-learning",
+      "transformer",
+      "vision",
+      "vision-mlp",
+      "vision-transformer",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-25T06:24:58Z",
+    "UpdatedAt": "2026-04-28T21:54:35Z",
+    "Owner": "rentainhe",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/qlib",
+    "Name": "qlib",
+    "Url": "https://github.com/microsoft/qlib",
+    "Description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "Topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "Language": "Python",
+    "Stars": 41869,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-14T06:46:00Z",
+    "UpdatedAt": "2026-05-03T08:33:55Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-02T07:58:19Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38297,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T08:12:42Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "johnsmithm/multi-heads-attention-image-classification",
+    "Name": "multi-heads-attention-image-classification",
+    "Url": "https://github.com/johnsmithm/multi-heads-attention-image-classification",
+    "Description": "Multi heads attention for image classification",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanisms",
+      "computer-vision",
+      "keras",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 80,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-19T09:32:58Z",
+    "UpdatedAt": "2025-11-19T11:17:59Z",
+    "Owner": "johnsmithm",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "argusswift/YOLOv4-pytorch",
+    "Name": "YOLOv4-pytorch",
+    "Url": "https://github.com/argusswift/YOLOv4-pytorch",
+    "Description": "This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO",
+    "Topics": [
+      "attention",
+      "cbam",
+      "mobilenetv2",
+      "mobilenetv3",
+      "object-detection",
+      "pytorch",
+      "senet",
+      "yolov4"
+    ],
+    "Language": "Python",
+    "Stars": 1677,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-19T05:36:46Z",
+    "UpdatedAt": "2026-04-18T18:08:53Z",
+    "Owner": "argusswift",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "camel-ai/camel",
+    "Name": "camel",
+    "Url": "https://github.com/camel-ai/camel",
+    "Description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "Topics": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence",
+      "communicative-ai",
+      "cooperative-ai",
+      "deep-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "natural-language-processing"
+    ],
+    "Language": "Python",
+    "Stars": 16862,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-17T21:41:54Z",
+    "UpdatedAt": "2026-05-03T04:26:09Z",
+    "Owner": "camel-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/mac-network",
+    "Name": "mac-network",
+    "Url": "https://github.com/stanfordnlp/mac-network",
+    "Description": "Implementation for the paper \"Compositional Attention Networks for Machine Reasoning\" (Hudson and Manning, ICLR 2018)",
+    "Topics": [
+      "attention",
+      "clevr",
+      "compositional-attention-networks",
+      "machine-reasoning",
+      "question-answering",
+      "tensorflow",
+      "vqa"
+    ],
+    "Language": "Python",
+    "Stars": 514,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-14T03:14:11Z",
+    "UpdatedAt": "2026-04-16T06:57:48Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "houqb/CoordAttention",
+    "Name": "CoordAttention",
+    "Url": "https://github.com/houqb/CoordAttention",
+    "Description": "Code for our CVPR2021 paper coordinate attention",
+    "Topics": [
+      "attention",
+      "mobilenetv2",
+      "mobilenext"
+    ],
+    "Language": "Python",
+    "Stars": 1141,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T03:35:06Z",
+    "UpdatedAt": "2026-05-02T08:20:38Z",
+    "Owner": "houqb",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52648,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-03T08:31:28Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21482,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T01:03:12Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "modelscope/FunASR",
+    "Name": "FunASR",
+    "Url": "https://github.com/modelscope/FunASR",
+    "Description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+    "Topics": [
+      "audio-visual-speech-recognition",
+      "conformer",
+      "dfsmn",
+      "paraformer",
+      "pretrained-model",
+      "punctuation",
+      "pytorch",
+      "rnnt",
+      "speaker-diarization",
+      "speech-recognition",
+      "speechgpt",
+      "speechllm",
+      "vad",
+      "voice-activity-detection",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 15938,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-24T02:28:11Z",
+    "UpdatedAt": "2026-05-03T08:35:16Z",
+    "Owner": "modelscope",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sooftware/kospeech",
+    "Name": "kospeech",
+    "Url": "https://github.com/sooftware/kospeech",
+    "Description": "Open-Source Toolkit for End-to-End Korean Automatic Speech Recognition leveraging PyTorch and Hydra.",
+    "Topics": [
+      "asr",
+      "attention-is-all-you-need",
+      "conformer",
+      "e2e-asr",
+      "end-to-end",
+      "jasper",
+      "korean-speech",
+      "ksponspeech",
+      "las",
+      "las-models",
+      "pytorch",
+      "seq2seq",
+      "speech-recognition",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 637,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-30T08:43:28Z",
+    "UpdatedAt": "2026-04-12T00:49:58Z",
+    "Owner": "sooftware",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "awslabs/sockeye",
+    "Name": "sockeye",
+    "Url": "https://github.com/awslabs/sockeye",
+    "Description": "Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "attention-model",
+      "deep-learning",
+      "deep-neural-networks",
+      "encoder-decoder",
+      "machine-learning",
+      "machine-translation",
+      "neural-machine-translation",
+      "pytorch",
+      "seq2seq",
+      "sequence-to-sequence",
+      "sequence-to-sequence-models",
+      "sockeye",
+      "transformer",
+      "transformer-architecture",
+      "transformer-network",
+      "translation"
+    ],
+    "Language": "Python",
+    "Stars": 1215,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-08T07:44:30Z",
+    "UpdatedAt": "2026-04-19T13:28:28Z",
+    "Owner": "awslabs",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jina-ai/serve",
+    "Name": "serve",
+    "Url": "https://github.com/jina-ai/serve",
+    "Description": "☁️ Build multimodal AI applications with cloud-native stack",
+    "Topics": [
+      "cloud-native",
+      "cncf",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "framework",
+      "generative-ai",
+      "grpc",
+      "jaeger",
+      "kubernetes",
+      "llmops",
+      "machine-learning",
+      "microservice",
+      "mlops",
+      "multimodal",
+      "neural-search",
+      "opentelemetry",
+      "orchestration",
+      "pipeline",
+      "prometheus"
+    ],
+    "Language": "Python",
+    "Stars": 21872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-13T17:04:44Z",
+    "UpdatedAt": "2026-05-03T08:33:46Z",
+    "Owner": "jina-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CASIA-IVA-Lab/DANet",
+    "Name": "DANet",
+    "Url": "https://github.com/CASIA-IVA-Lab/DANet",
+    "Description": "Dual Attention Network for Scene Segmentation (CVPR2019)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2459,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-11T10:03:15Z",
+    "UpdatedAt": "2026-04-30T12:57:14Z",
+    "Owner": "CASIA-IVA-Lab",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "phohenecker/pytorch-transformer",
+    "Name": "pytorch-transformer",
+    "Url": "https://github.com/phohenecker/pytorch-transformer",
+    "Description": "A PyTorch implementation of the Transformer model from \"Attention Is All You Need\".",
+    "Topics": [
+      "attention-is-all-you-need",
+      "deep-learning",
+      "python3",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 60,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-31T14:01:58Z",
+    "UpdatedAt": "2025-12-04T15:48:19Z",
+    "Owner": "phohenecker",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ollama/ollama",
+    "Name": "ollama",
+    "Url": "https://github.com/ollama/ollama",
+    "Description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "Topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "Language": "Go",
+    "Stars": 170592,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T19:39:32Z",
+    "UpdatedAt": "2026-05-03T08:32:44Z",
+    "Owner": "ollama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 25105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-03T07:04:19Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "diegoantognini/pyGAT",
+    "Name": "pyGAT",
+    "Url": "https://github.com/diegoantognini/pyGAT",
+    "Description": "Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)",
+    "Topics": [
+      "attention-mechanism",
+      "graph-attention-networks",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "self-attention"
+    ],
+    "Language": "Python",
+    "Stars": 3121,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-02T10:20:26Z",
+    "UpdatedAt": "2026-04-22T07:59:08Z",
+    "Owner": "diegoantognini",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langgenius/dify",
+    "Name": "dify",
+    "Url": "https://github.com/langgenius/dify",
+    "Description": "Production-ready platform for agentic workflow development.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "Language": "TypeScript",
+    "Stars": 139924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T07:40:24Z",
+    "UpdatedAt": "2026-05-03T08:25:29Z",
+    "Owner": "langgenius",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "The-AI-Summer/self-attention-cv",
+    "Name": "self-attention-cv",
+    "Url": "https://github.com/The-AI-Summer/self-attention-cv",
+    "Description": "Implementation of various self-attention mechanisms focused on computer vision. Ongoing repository. ",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "attention-mechanism",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "self-attention",
+      "transformer",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1216,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-31T21:28:59Z",
+    "UpdatedAt": "2026-04-06T03:22:52Z",
+    "Owner": "The-AI-Summer",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SmallDoges/small-doge",
+    "Name": "small-doge",
+    "Url": "https://github.com/SmallDoges/small-doge",
+    "Description": "Doge Family of Small Language Models",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "chinese",
+      "cross-domain-mixture-of-experts",
+      "deep-learning",
+      "deepseek-r1",
+      "dynamic-mask-attention",
+      "foundation-models",
+      "mechine-learning",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "pytorch",
+      "r1",
+      "reinforcement-learning",
+      "small-language-models",
+      "transformer",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-01T04:20:41Z",
+    "UpdatedAt": "2026-04-23T04:05:45Z",
+    "Owner": "SmallDoges",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milvus-io/milvus",
+    "Name": "milvus",
+    "Url": "https://github.com/milvus-io/milvus",
+    "Description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "Topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "Language": "Go",
+    "Stars": 44098,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-16T06:43:43Z",
+    "UpdatedAt": "2026-05-03T08:28:07Z",
+    "Owner": "milvus-io",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kyegomez/Jamba",
+    "Name": "Jamba",
+    "Url": "https://github.com/kyegomez/Jamba",
+    "Description": "PyTorch Implementation of Jamba: \"Jamba: A Hybrid Transformer-Mamba Language Model\"",
+    "Topics": [
+      "ai",
+      "artificial-neural-networks",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "attention-mechanisms",
+      "gpt",
+      "ml",
+      "ssm",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 214,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-01T15:56:24Z",
+    "UpdatedAt": "2026-04-23T01:58:15Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eeyhsong/EEG-Conformer",
+    "Name": "EEG-Conformer",
+    "Url": "https://github.com/eeyhsong/EEG-Conformer",
+    "Description": "[TNSRE 23] EEG Transformer 2.0. i. Convolutional Transformer for EEG Decoding. ii. Novel visualization - Class Activation Topography.",
+    "Topics": [
+      "activation-map",
+      "attention",
+      "conformer",
+      "eeg",
+      "eeg-transformer",
+      "eeg-visualization",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 732,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-26T07:58:58Z",
+    "UpdatedAt": "2026-05-03T05:38:43Z",
+    "Owner": "eeyhsong",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/x-transformers",
+    "Name": "x-transformers",
+    "Url": "https://github.com/lucidrains/x-transformers",
+    "Description": "A concise but complete full-attention transformer with a set of promising experimental features from various papers",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "deep-learning",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 5850,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-24T22:13:25Z",
+    "UpdatedAt": "2026-05-02T22:27:35Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Dao-AILab/flash-attention",
+    "Name": "flash-attention",
+    "Url": "https://github.com/Dao-AILab/flash-attention",
+    "Description": "Fast and memory-efficient exact attention",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23628,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-19T21:22:06Z",
+    "UpdatedAt": "2026-05-03T07:36:15Z",
+    "Owner": "Dao-AILab",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-research/scenic",
+    "Name": "scenic",
+    "Url": "https://github.com/google-research/scenic",
+    "Description": "Scenic: A Jax Library for Computer Vision Research and Beyond",
+    "Topics": [
+      "attention",
+      "computer-vision",
+      "deep-learning",
+      "jax",
+      "research",
+      "transformers",
+      "vision-transformer"
+    ],
+    "Language": "Python",
+    "Stars": 3798,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-12T14:27:08Z",
+    "UpdatedAt": "2026-05-01T15:58:46Z",
+    "Owner": "google-research",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "recommenders-team/recommenders",
+    "Name": "recommenders",
+    "Url": "https://github.com/recommenders-team/recommenders",
+    "Description": "Best Practices on Recommendation Systems",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "operationalization",
+      "python",
+      "ranking",
+      "rating",
+      "recommendation",
+      "recommendation-algorithm",
+      "recommendation-engine",
+      "recommendation-system",
+      "recommender",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 21667,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-19T10:06:07Z",
+    "UpdatedAt": "2026-05-03T06:26:54Z",
+    "Owner": "recommenders-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77593,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-03T08:12:36Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kevinzakka/spatial-transformer-network",
+    "Name": "spatial-transformer-network",
+    "Url": "https://github.com/kevinzakka/spatial-transformer-network",
+    "Description": "A Tensorflow implementation of Spatial Transformer Networks.",
+    "Topics": [
+      "affine-transformation",
+      "attention",
+      "convnet",
+      "spatial-transformer-network",
+      "stn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 1008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-07T10:02:58Z",
+    "UpdatedAt": "2026-04-24T04:45:36Z",
+    "Owner": "kevinzakka",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/SparseAttention",
+    "Name": "SparseAttention",
+    "Url": "https://github.com/kyegomez/SparseAttention",
+    "Description": "Pytorch Implementation of the sparse attention from the paper: \"Generating Long Sequences with Sparse Transformers\"",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "attention-mechanisms",
+      "machine-learning",
+      "sparse-attn",
+      "sparse-matrix"
+    ],
+    "Language": "Python",
+    "Stars": 97,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-25T04:47:57Z",
+    "UpdatedAt": "2026-05-01T20:57:57Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BerriAI/litellm",
+    "Name": "litellm",
+    "Url": "https://github.com/BerriAI/litellm",
+    "Description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "Topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "Language": "Python",
+    "Stars": 45525,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-27T00:09:52Z",
+    "UpdatedAt": "2026-05-03T08:28:04Z",
+    "Owner": "BerriAI",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ilivans/tf-rnn-attention",
+    "Name": "tf-rnn-attention",
+    "Url": "https://github.com/ilivans/tf-rnn-attention",
+    "Description": "Tensorflow implementation of attention mechanism for text classification tasks.",
+    "Topics": [
+      "attention",
+      "rnn",
+      "sentiment-analysis",
+      "tensorflow",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 745,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-27T11:18:25Z",
+    "UpdatedAt": "2026-04-29T23:16:30Z",
+    "Owner": "ilivans",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arc53/DocsGPT",
+    "Name": "DocsGPT",
+    "Url": "https://github.com/arc53/DocsGPT",
+    "Description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+    "Topics": [
+      "agent-builder",
+      "agents",
+      "ai",
+      "chatgpt",
+      "docsgpt",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "information-retrieval",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "rag",
+      "react",
+      "search",
+      "semantic-search",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 17872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-02T11:03:23Z",
+    "UpdatedAt": "2026-05-02T11:59:16Z",
+    "Owner": "arc53",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dorarad/gansformer",
+    "Name": "gansformer",
+    "Url": "https://github.com/dorarad/gansformer",
+    "Description": "Generative Adversarial Transformers",
+    "Topics": [
+      "attention",
+      "compositionality",
+      "gans",
+      "generative-adversarial-networks",
+      "image-generation",
+      "scene-generation",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1347,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-01T13:39:07Z",
+    "UpdatedAt": "2026-04-20T23:32:11Z",
+    "Owner": "dorarad",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34361,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-03T07:12:14Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55203,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-03T06:57:28Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "franciszzj/Leffa",
+    "Name": "Leffa",
+    "Url": "https://github.com/franciszzj/Leffa",
+    "Description": "[CVPR 2025] Learning Flow Fields in Attention for Controllable Person Image Generation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1652,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-05T14:45:51Z",
+    "UpdatedAt": "2026-05-01T16:39:29Z",
+    "Owner": "franciszzj",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "serengil/deepface",
+    "Name": "deepface",
+    "Url": "https://github.com/serengil/deepface",
+    "Description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "Topics": [
+      "age-prediction",
+      "arcface",
+      "deep-learning",
+      "deepface",
+      "deepid",
+      "emotion-recognition",
+      "face-analysis",
+      "face-recognition",
+      "facenet",
+      "facial-expression-recognition",
+      "facial-recognition",
+      "gender-prediction",
+      "machine-learning",
+      "openface",
+      "python",
+      "race-classification",
+      "vgg-face"
+    ],
+    "Language": "Python",
+    "Stars": 22661,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-08T20:42:28Z",
+    "UpdatedAt": "2026-05-03T01:44:36Z",
+    "Owner": "serengil",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/OpenMythos",
+    "Name": "OpenMythos",
+    "Url": "https://github.com/kyegomez/OpenMythos",
+    "Description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "attention",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-mythos",
+      "claude-sonnet",
+      "deepmind",
+      "gpt-5",
+      "gpt-7",
+      "jax",
+      "looped-transformers",
+      "ml",
+      "pytorch",
+      "sonnet",
+      "torch"
+    ],
+    "Language": "Python",
+    "Stars": 11490,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-18T12:57:52Z",
+    "UpdatedAt": "2026-05-03T08:24:18Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Shuijing725/CrowdNav_Prediction_AttnGraph",
+    "Name": "CrowdNav_Prediction_AttnGraph",
+    "Url": "https://github.com/Shuijing725/CrowdNav_Prediction_AttnGraph",
+    "Description": "[ICRA 2023] Intention Aware Robot Crowd Navigation with Attention-Based Interaction Graph",
+    "Topics": [
+      "attention-is-all-you-need",
+      "collision-avoidance",
+      "crowd-navigation",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "human-robot-interaction",
+      "reinforcement-learning",
+      "trajectory-prediction"
+    ],
+    "Language": "Python",
+    "Stars": 254,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-03T22:50:41Z",
+    "UpdatedAt": "2026-04-28T20:09:30Z",
+    "Owner": "Shuijing725",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JiahuiYu/generative_inpainting",
+    "Name": "generative_inpainting",
+    "Url": "https://github.com/JiahuiYu/generative_inpainting",
+    "Description": "DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral",
+    "Topics": [
+      "attention-model",
+      "deep-neural-networks",
+      "deepfill",
+      "generative-adversarial-network",
+      "image-inpainting",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 3457,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-24T06:17:13Z",
+    "UpdatedAt": "2026-05-03T06:56:52Z",
+    "Owner": "JiahuiYu",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/VoxCPM",
+    "Name": "VoxCPM",
+    "Url": "https://github.com/OpenBMB/VoxCPM",
+    "Description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "Topics": [
+      "audio",
+      "deeplearning",
+      "minicpm",
+      "multilingual",
+      "python",
+      "pytorch",
+      "speech",
+      "speech-synthesis",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "voice-cloning",
+      "voice-design",
+      "voxcpm"
+    ],
+    "Language": "Python",
+    "Stars": 17075,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-16T03:41:49Z",
+    "UpdatedAt": "2026-05-03T08:34:23Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/ScreenAI",
+    "Name": "ScreenAI",
+    "Url": "https://github.com/kyegomez/ScreenAI",
+    "Description": "Implementation of the ScreenAI model from the paper: \"A Vision-Language Model for UI and Infographics Understanding\"",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "attention",
+      "attention-is-all-you-need",
+      "gpt-4",
+      "machine-learning",
+      "ml",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 383,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-08T06:48:49Z",
+    "UpdatedAt": "2026-04-26T16:41:01Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fla-org/flash-linear-attention",
+    "Name": "flash-linear-attention",
+    "Url": "https://github.com/fla-org/flash-linear-attention",
+    "Description": "🚀 Efficient implementations for emerging model architectures",
+    "Topics": [
+      "large-language-models",
+      "machine-learning-systems",
+      "natural-language-processing",
+      "sequence-modeling"
+    ],
+    "Language": "Python",
+    "Stars": 5029,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-20T06:50:18Z",
+    "UpdatedAt": "2026-05-02T20:17:29Z",
+    "Owner": "fla-org",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl",
+    "Name": "firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "TypeScript",
+    "Stars": 114393,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-15T21:02:29Z",
+    "UpdatedAt": "2026-05-03T08:25:00Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/magika",
+    "Name": "magika",
+    "Url": "https://github.com/google/magika",
+    "Description": "Fast and accurate AI powered file content types detection ",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "filetype",
+      "keras-classification-models",
+      "keras-models",
+      "mime-types",
+      "onnx"
+    ],
+    "Language": "Python",
+    "Stars": 16867,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-22T09:36:55Z",
+    "UpdatedAt": "2026-05-03T06:18:12Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29389,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-03T04:57:21Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Davidham3/ASTGCN-2019-mxnet",
+    "Name": "ASTGCN-2019-mxnet",
+    "Url": "https://github.com/Davidham3/ASTGCN-2019-mxnet",
+    "Description": "⚠️[Deprecated] no longer maintained, please use the code in https://github.com/guoshnBJTU/ASTGCN-r-pytorch",
+    "Topics": [
+      "aaai",
+      "attention",
+      "graph",
+      "time-series",
+      "traffic-flow-forecasting"
+    ],
+    "Language": "Python",
+    "Stars": 429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-20T05:39:09Z",
+    "UpdatedAt": "2026-04-21T11:06:26Z",
+    "Owner": "Davidham3",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/performer-pytorch",
+    "Name": "performer-pytorch",
+    "Url": "https://github.com/lucidrains/performer-pytorch",
+    "Description": "An implementation of Performer, a linear attention-based transformer, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "attention-mechanism",
+      "deep-learning",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1177,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T03:41:36Z",
+    "UpdatedAt": "2026-04-09T10:01:10Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytorch/pytorch",
+    "Name": "pytorch",
+    "Url": "https://github.com/pytorch/pytorch",
+    "Description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 99593,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-13T05:26:41Z",
+    "UpdatedAt": "2026-05-03T07:43:13Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56692,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-03T07:47:41Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/LiqudNet",
+    "Name": "LiqudNet",
+    "Url": "https://github.com/kyegomez/LiqudNet",
+    "Description": "Implementation of Liquid Nets in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "liquidnets",
+      "machine-learning",
+      "recurrent-neural-network",
+      "recurrent-neural-networks"
+    ],
+    "Language": "Python",
+    "Stars": 71,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-06T02:49:52Z",
+    "UpdatedAt": "2026-04-21T18:36:22Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "XPixelGroup/HAT",
+    "Name": "HAT",
+    "Url": "https://github.com/XPixelGroup/HAT",
+    "Description": "CVPR2023 - Activating More Pixels in Image Super-Resolution Transformer TPAMI - HAT: Hybrid Attention Transformer for Image Restoration",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1530,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-27T11:44:25Z",
+    "UpdatedAt": "2026-05-03T04:26:15Z",
+    "Owner": "XPixelGroup",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "EverMind-AI/MSA",
+    "Name": "MSA",
+    "Url": "https://github.com/EverMind-AI/MSA",
+    "Description": "Memory Sparse Attention -  A scalable, end-to-end trainable latent-memory framework for 100M-token contexts.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3349,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-29T10:05:21Z",
+    "UpdatedAt": "2026-05-03T07:52:44Z",
+    "Owner": "EverMind-AI",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HadoopIt/rnn-nlu",
+    "Name": "rnn-nlu",
+    "Url": "https://github.com/HadoopIt/rnn-nlu",
+    "Description": "A TensorFlow implementation of Recurrent Neural Networks for Sequence Classification and Sequence Labeling",
+    "Topics": [
+      "attention",
+      "intent-detection",
+      "recurrent-neural-networks",
+      "sequence-classification",
+      "sequence-labeling",
+      "slot-filling",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 492,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-05T19:03:59Z",
+    "UpdatedAt": "2026-03-16T07:06:05Z",
+    "Owner": "HadoopIt",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ozan-oktay/Attention-Gated-Networks",
+    "Name": "Attention-Gated-Networks",
+    "Url": "https://github.com/ozan-oktay/Attention-Gated-Networks",
+    "Description": "Use of Attention Gates in a Convolutional Neural Network / Medical Image Classification and Segmentation",
+    "Topics": [
+      "attention-gates",
+      "attention-model",
+      "convolutional-neural-networks",
+      "image-classification",
+      "image-segmentation"
+    ],
+    "Language": "Python",
+    "Stars": 2055,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-02T21:50:07Z",
+    "UpdatedAt": "2026-05-01T18:31:18Z",
+    "Owner": "ozan-oktay",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apachecn/ailearning",
+    "Name": "ailearning",
+    "Url": "https://github.com/apachecn/ailearning",
+    "Description": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+    "Topics": [
+      "adaboost",
+      "apriori",
+      "deeplearning",
+      "dnn",
+      "fp-growth",
+      "kmeans",
+      "logistic",
+      "lstm",
+      "mahchine-leaning",
+      "naivebayes",
+      "nlp",
+      "pca",
+      "python",
+      "recommendedsystem",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "sklearn",
+      "svd",
+      "svm"
+    ],
+    "Language": "Python",
+    "Stars": 42220,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-25T08:53:02Z",
+    "UpdatedAt": "2026-05-03T08:32:26Z",
+    "Owner": "apachecn",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "feifeibear/long-context-attention",
+    "Name": "long-context-attention",
+    "Url": "https://github.com/feifeibear/long-context-attention",
+    "Description": "USP: Unified (a.k.a. Hybrid, 2D) Sequence Parallel Attention for Long Context Transformers Model Training and Inference",
+    "Topics": [
+      "attention-is-all-you-need",
+      "deepspeed-ulysses",
+      "llm-inference",
+      "llm-training",
+      "pytorch",
+      "ring-attention"
+    ],
+    "Language": "Python",
+    "Stars": 666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-27T12:33:12Z",
+    "UpdatedAt": "2026-04-26T13:53:16Z",
+    "Owner": "feifeibear",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datawhalechina/hello-agents",
+    "Name": "hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "Topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 42271,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-07T09:50:24Z",
+    "UpdatedAt": "2026-05-03T08:32:49Z",
+    "Owner": "datawhalechina",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72534,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-03T08:22:06Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "pyg-team/pytorch_geometric",
+    "Name": "pytorch_geometric",
+    "Url": "https://github.com/pyg-team/pytorch_geometric",
+    "Description": "Graph Neural Network Library for PyTorch",
+    "Topics": [
+      "deep-learning",
+      "geometric-deep-learning",
+      "graph-convolutional-networks",
+      "graph-neural-networks",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 23717,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-06T16:03:03Z",
+    "UpdatedAt": "2026-05-03T08:35:40Z",
+    "Owner": "pyg-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leondgarse/keras_cv_attention_models",
+    "Name": "keras_cv_attention_models",
+    "Url": "https://github.com/leondgarse/keras_cv_attention_models",
+    "Description": "Keras beit,caformer,CMT,CoAtNet,convnext,davit,dino,efficientdet,edgenext,efficientformer,efficientnet,eva,fasternet,fastervit,fastvit,flexivit,gcvit,ghostnet,gpvit,hornet,hiera,iformer,inceptionnext,lcnet,levit,maxvit,mobilevit,moganet,nat,nfnets,pvt,swin,tinynet,tinyvit,uniformer,volo,vanillanet,yolor,yolov7,yolov8,yolox,gpt2,llama2, alias kecam",
+    "Topics": [
+      "attention",
+      "clip",
+      "coco",
+      "ddpm",
+      "detection",
+      "imagenet",
+      "keras",
+      "model",
+      "recognition",
+      "segment-anything",
+      "stable-diffusion",
+      "tensorflow",
+      "tf",
+      "tf2",
+      "visualizing"
+    ],
+    "Language": "Python",
+    "Stars": 625,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-02T00:59:55Z",
+    "UpdatedAt": "2026-04-22T10:37:54Z",
+    "Owner": "leondgarse",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MuLabPKU/TransArch",
+    "Name": "TransArch",
+    "Url": "https://github.com/MuLabPKU/TransArch",
+    "Description": "Design hardware-friendly model architectures and migrate existing LLMs with minimal performance loss ",
+    "Topics": [
+      "attention",
+      "deepseek",
+      "mla"
+    ],
+    "Language": "Python",
+    "Stars": 460,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-02T11:00:39Z",
+    "UpdatedAt": "2026-04-28T06:15:13Z",
+    "Owner": "MuLabPKU",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhvng/open-musiclm",
+    "Name": "open-musiclm",
+    "Url": "https://github.com/zhvng/open-musiclm",
+    "Description": "Implementation of MusicLM, a text to music model published by Google Research, with a few modifications.",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "music-generation",
+      "text-to-music",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 562,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-29T05:11:22Z",
+    "UpdatedAt": "2026-04-20T23:32:50Z",
+    "Owner": "zhvng",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shareAI-lab/learn-claude-code",
+    "Name": "learn-claude-code",
+    "Url": "https://github.com/shareAI-lab/learn-claude-code",
+    "Description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "Topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "Language": "TypeScript",
+    "Stars": 57868,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-29T15:34:15Z",
+    "UpdatedAt": "2026-05-03T08:33:09Z",
+    "Owner": "shareAI-lab",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/JARVIS",
+    "Name": "JARVIS",
+    "Url": "https://github.com/microsoft/JARVIS",
+    "Description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "Topics": [
+      "deep-learning",
+      "platform",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 24686,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-30T02:57:12Z",
+    "UpdatedAt": "2026-05-03T06:52:09Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Anjok07/ultimatevocalremovergui",
+    "Name": "ultimatevocalremovergui",
+    "Url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "Description": " GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "Topics": [
+      "audio",
+      "instrumental",
+      "karaoke",
+      "kareokee",
+      "music",
+      "pytorch",
+      "separation",
+      "source",
+      "spectrogram",
+      "vocal",
+      "vocal-remover",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 24496,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-20T21:29:01Z",
+    "UpdatedAt": "2026-05-03T07:35:55Z",
+    "Owner": "Anjok07",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ddbourgin/numpy-ml",
+    "Name": "numpy-ml",
+    "Url": "https://github.com/ddbourgin/numpy-ml",
+    "Description": "Machine learning, in numpy",
+    "Topics": [
+      "attention",
+      "bayesian-inference",
+      "gaussian-mixture-models",
+      "gaussian-processes",
+      "good-turing-smoothing",
+      "gradient-boosting",
+      "hidden-markov-models",
+      "knn",
+      "lstm",
+      "machine-learning",
+      "mfcc",
+      "neural-networks",
+      "reinforcement-learning",
+      "resnet",
+      "topic-modeling",
+      "vae",
+      "wavenet",
+      "wgan-gp",
+      "word2vec"
+    ],
+    "Language": "Python",
+    "Stars": 16344,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-06T22:29:49Z",
+    "UpdatedAt": "2026-05-02T12:03:44Z",
+    "Owner": "ddbourgin",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "graphdeeplearning/graphtransformer",
+    "Name": "graphtransformer",
+    "Url": "https://github.com/graphdeeplearning/graphtransformer",
+    "Description": "Graph Transformer Architecture. Source code for \"A Generalization of Transformer Networks to Graphs\", DLG-AAAI'21.",
+    "Topics": [
+      "aaai",
+      "attention",
+      "graph-deep-learning",
+      "graph-neural-networks",
+      "graph-transformer",
+      "transformer",
+      "transformer-networks",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1024,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-17T11:13:51Z",
+    "UpdatedAt": "2026-04-22T01:18:07Z",
+    "Owner": "graphdeeplearning",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/pytorch-image-models",
+    "Name": "pytorch-image-models",
+    "Url": "https://github.com/huggingface/pytorch-image-models",
+    "Description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+    "Topics": [
+      "augmix",
+      "convnext",
+      "distributed-training",
+      "efficientnet",
+      "image-classification",
+      "imagenet",
+      "maxvit",
+      "mixnet",
+      "mobile-deep-learning",
+      "mobilenet-v2",
+      "mobilenetv3",
+      "nfnets",
+      "normalization-free-training",
+      "optimizer",
+      "pretrained-models",
+      "pretrained-weights",
+      "pytorch",
+      "randaugment",
+      "resnet",
+      "vision-transformer-models"
+    ],
+    "Language": "Python",
+    "Stars": 36739,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-02T05:51:12Z",
+    "UpdatedAt": "2026-05-02T22:50:27Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39124,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-03T06:22:15Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "linto-ai/whisper-timestamped",
+    "Name": "whisper-timestamped",
+    "Url": "https://github.com/linto-ai/whisper-timestamped",
+    "Description": "Multilingual Automatic Speech Recognition with word-level timestamps and confidence",
+    "Topics": [
+      "asr",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "attention-model",
+      "attention-network",
+      "attention-seq2seq",
+      "attention-visualization",
+      "deep-learning",
+      "machine-learning",
+      "multilingual-models",
+      "python",
+      "python3",
+      "pytorch",
+      "speaker-diarization",
+      "speech",
+      "speech-processing",
+      "speech-recognition",
+      "speech-to-text",
+      "transformers",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 2809,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-13T11:30:19Z",
+    "UpdatedAt": "2026-05-02T14:21:27Z",
+    "Owner": "linto-ai",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/MetaGPT",
+    "Name": "MetaGPT",
+    "Url": "https://github.com/FoundationAgents/MetaGPT",
+    "Description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "Language": "Python",
+    "Stars": 67644,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-30T09:04:55Z",
+    "UpdatedAt": "2026-05-03T07:19:14Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-02T15:18:56Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50809,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-03T08:31:32Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kyegomez/PALM-E",
+    "Name": "PALM-E",
+    "Url": "https://github.com/kyegomez/PALM-E",
+    "Description": "Implementation of \"PaLM-E: An Embodied Multimodal Language Model\"",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "deep-learning",
+      "deeplearning",
+      "gpt4",
+      "multimodal"
+    ],
+    "Language": "Python",
+    "Stars": 334,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-09T00:08:33Z",
+    "UpdatedAt": "2026-04-24T01:17:41Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sgl-project/sglang",
+    "Name": "sglang",
+    "Url": "https://github.com/sgl-project/sglang",
+    "Description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+    "Topics": [
+      "attention",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "diffusion",
+      "glm",
+      "gpt-oss",
+      "inference",
+      "llama",
+      "llm",
+      "minimax",
+      "moe",
+      "qwen",
+      "qwen-image",
+      "reinforcement-learning",
+      "transformer",
+      "vlm",
+      "wan"
+    ],
+    "Language": "Python",
+    "Stars": 26989,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-08T04:15:52Z",
+    "UpdatedAt": "2026-05-03T08:24:54Z",
+    "Owner": "sgl-project",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets",
+    "Name": "Unet-Segmentation-Pytorch-Nest-of-Unets",
+    "Url": "https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets",
+    "Description": "Implementation of different kinds of Unet Models for Image Segmentation - Unet , RCNN-Unet, Attention Unet, RCNN-Attention Unet, Nested Unet",
+    "Topics": [
+      "imagesegmentation",
+      "python3",
+      "pytorch",
+      "segmentation",
+      "tensorvision",
+      "torch",
+      "torchvision",
+      "unet"
+    ],
+    "Language": "Python",
+    "Stars": 2228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-14T15:45:56Z",
+    "UpdatedAt": "2026-04-23T14:07:15Z",
+    "Owner": "bigmb",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rtk-ai/rtk",
+    "Name": "rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "Language": "Rust",
+    "Stars": 40237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T16:54:16Z",
+    "UpdatedAt": "2026-05-03T08:35:17Z",
+    "Owner": "rtk-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "willGuimont/learnable_fourier_positional_encoding",
+    "Name": "learnable_fourier_positional_encoding",
+    "Url": "https://github.com/willGuimont/learnable_fourier_positional_encoding",
+    "Description": "Learnable Fourier Features for Multi-Dimensional Spatial Positional Encoding",
+    "Topics": [
+      "attention-is-all-you-need",
+      "deep-learning",
+      "deep-neural-networks",
+      "deeplearning",
+      "positional-encoding",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 55,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-14T17:42:45Z",
+    "UpdatedAt": "2025-10-09T12:17:33Z",
+    "Owner": "willGuimont",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mit-han-lab/streaming-llm",
+    "Name": "streaming-llm",
+    "Url": "https://github.com/mit-han-lab/streaming-llm",
+    "Description": "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 7225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-29T17:45:40Z",
+    "UpdatedAt": "2026-04-29T21:52:00Z",
+    "Owner": "mit-han-lab",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coqui-ai/TTS",
+    "Name": "TTS",
+    "Url": "https://github.com/coqui-ai/TTS",
+    "Description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "Topics": [
+      "deep-learning",
+      "glow-tts",
+      "hifigan",
+      "melgan",
+      "multi-speaker-tts",
+      "python",
+      "pytorch",
+      "speaker-encoder",
+      "speaker-encodings",
+      "speech",
+      "speech-synthesis",
+      "tacotron",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "vocoder",
+      "voice-cloning",
+      "voice-conversion",
+      "voice-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 45208,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T15:45:28Z",
+    "UpdatedAt": "2026-05-03T05:48:42Z",
+    "Owner": "coqui-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-mmlab/mmdetection",
+    "Name": "mmdetection",
+    "Url": "https://github.com/open-mmlab/mmdetection",
+    "Description": "OpenMMLab Detection Toolbox and Benchmark",
+    "Topics": [
+      "cascade-rcnn",
+      "convnext",
+      "detr",
+      "fast-rcnn",
+      "faster-rcnn",
+      "glip",
+      "grounding-dino",
+      "instance-segmentation",
+      "mask-rcnn",
+      "object-detection",
+      "panoptic-segmentation",
+      "pytorch",
+      "retinanet",
+      "rtmdet",
+      "semisupervised-learning",
+      "ssd",
+      "swin-transformer",
+      "transformer",
+      "vision-transformer",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 32653,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-22T07:06:06Z",
+    "UpdatedAt": "2026-05-03T08:26:03Z",
+    "Owner": "open-mmlab",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "iPERDance/iPERCore",
+    "Name": "iPERCore",
+    "Url": "https://github.com/iPERDance/iPERCore",
+    "Description": "Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2401,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-17T15:36:25Z",
+    "UpdatedAt": "2026-05-03T06:50:11Z",
+    "Owner": "iPERDance",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SYSTRAN/faster-whisper",
+    "Name": "faster-whisper",
+    "Url": "https://github.com/SYSTRAN/faster-whisper",
+    "Description": "Faster Whisper transcription with CTranslate2",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "openai",
+      "quantization",
+      "speech-recognition",
+      "speech-to-text",
+      "transformer",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 22577,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T09:17:27Z",
+    "UpdatedAt": "2026-05-03T08:10:50Z",
+    "Owner": "SYSTRAN",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asgeirtj/system_prompts_leaks",
+    "Name": "system_prompts_leaks",
+    "Url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "Description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+    "Topics": [
+      "ai",
+      "ai-transparency",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "gemini",
+      "generative-ai",
+      "gpt-5",
+      "grok",
+      "large-language-models",
+      "llm",
+      "openai",
+      "perplexity",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts",
+      "xai"
+    ],
+    "Language": "",
+    "Stars": 39399,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-03T02:43:56Z",
+    "UpdatedAt": "2026-05-03T08:16:01Z",
+    "Owner": "asgeirtj",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MiniMax-AI/MiniMax-01",
+    "Name": "MiniMax-01",
+    "Url": "https://github.com/MiniMax-AI/MiniMax-01",
+    "Description": "The official repo of MiniMax-Text-01 and MiniMax-VL-01, large-language-model & vision-language-model based on Linear Attention",
+    "Topics": [
+      "large-language-models",
+      "llm",
+      "llms",
+      "minimax-text-01",
+      "minimax-vl-01",
+      "vision-language-model",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 3419,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-14T15:43:28Z",
+    "UpdatedAt": "2026-05-02T18:05:56Z",
+    "Owner": "MiniMax-AI",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenImagingLab/FlashVSR",
+    "Name": "FlashVSR",
+    "Url": "https://github.com/OpenImagingLab/FlashVSR",
+    "Description": "[CVPR 2026] Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder.",
+    "Topics": [
+      "diffusion-models",
+      "video-restoration",
+      "video-super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 1567,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-14T12:20:30Z",
+    "UpdatedAt": "2026-05-03T08:05:05Z",
+    "Owner": "OpenImagingLab",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183948,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-03T08:35:28Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "weiaicunzai/pytorch-cifar100",
+    "Name": "pytorch-cifar100",
+    "Url": "https://github.com/weiaicunzai/pytorch-cifar100",
+    "Description": "Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, NasNet, Residual Attention Network, SENet, WideResNet)",
+    "Topics": [
+      "cifar100",
+      "deep-learning",
+      "densenet",
+      "googlenet",
+      "image-classification",
+      "inception-resnet-v2",
+      "inceptionv3",
+      "inceptionv4",
+      "mobilenet",
+      "nasnet",
+      "pytorch",
+      "resnet",
+      "resnext",
+      "shufflenet",
+      "squeezenet",
+      "wideresnet",
+      "xception"
+    ],
+    "Language": "Python",
+    "Stars": 4771,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-22T14:11:57Z",
+    "UpdatedAt": "2026-05-03T06:21:47Z",
+    "Owner": "weiaicunzai",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-03T08:33:23Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xinntao/Real-ESRGAN",
+    "Name": "Real-ESRGAN",
+    "Url": "https://github.com/xinntao/Real-ESRGAN",
+    "Description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "Topics": [
+      "amine",
+      "denoise",
+      "esrgan",
+      "image-restoration",
+      "jpeg-compression",
+      "pytorch",
+      "real-esrgan",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 35281,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-19T03:23:30Z",
+    "UpdatedAt": "2026-05-03T07:43:34Z",
+    "Owner": "xinntao",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mudler/LocalAI",
+    "Name": "LocalAI",
+    "Url": "https://github.com/mudler/LocalAI",
+    "Description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "Topics": [
+      "agents",
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ],
+    "Language": "Go",
+    "Stars": 46016,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-18T22:58:02Z",
+    "UpdatedAt": "2026-05-03T08:32:33Z",
+    "Owner": "mudler",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43978,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-03T07:16:52Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135271,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-03T08:12:46Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36356,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T06:46:05Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kyegomez/MambaTransformer",
+    "Name": "MambaTransformer",
+    "Url": "https://github.com/kyegomez/MambaTransformer",
+    "Description": "Integrating Mamba/SSMs with Transformer for Enhanced Long Context and High-Quality Sequence Modeling",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "attention-is-all-you-need",
+      "attention-mechanisms",
+      "gpt4",
+      "language",
+      "machine-learning",
+      "multimodal",
+      "neural-network",
+      "neural-networks",
+      "pytorch",
+      "recurrent-neural-networks",
+      "rnns",
+      "ssm",
+      "tensorflow",
+      "zeta"
+    ],
+    "Language": "Python",
+    "Stars": 220,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-13T04:58:52Z",
+    "UpdatedAt": "2026-04-19T03:55:13Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deezer/spleeter",
+    "Name": "spleeter",
+    "Url": "https://github.com/deezer/spleeter",
+    "Description": "Deezer source separation library including pretrained models.",
+    "Topics": [
+      "audio-processing",
+      "bass",
+      "deep-learning",
+      "deezer",
+      "drums",
+      "model",
+      "pretrained-models",
+      "python",
+      "tensorflow",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 28198,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-26T15:40:46Z",
+    "UpdatedAt": "2026-05-03T07:49:41Z",
+    "Owner": "deezer",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56124,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-03T08:33:33Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hyunwoongko/transformer",
+    "Name": "transformer",
+    "Url": "https://github.com/hyunwoongko/transformer",
+    "Description": "Transformer: PyTorch Implementation of \"Attention Is All You Need\"",
+    "Topics": [
+      "attention",
+      "dataset",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 4545,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-15T10:36:00Z",
+    "UpdatedAt": "2026-05-03T01:07:14Z",
+    "Owner": "hyunwoongko",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "brightmart/bert_language_understanding",
+    "Name": "bert_language_understanding",
+    "Url": "https://github.com/brightmart/bert_language_understanding",
+    "Description": "Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN",
+    "Topics": [
+      "attention-is-all-you-need",
+      "bert-model",
+      "document-classification",
+      "fasttext",
+      "language-model",
+      "language-understanding",
+      "nlp",
+      "pre-training",
+      "question-answering",
+      "self-attention",
+      "text-classification",
+      "textcnn",
+      "transfer-learning",
+      "transformer-encoder"
+    ],
+    "Language": "Python",
+    "Stars": 966,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-23T20:58:53Z",
+    "UpdatedAt": "2026-04-09T03:32:40Z",
+    "Owner": "brightmart",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "buppt/ChineseNRE",
+    "Name": "ChineseNRE",
+    "Url": "https://github.com/buppt/ChineseNRE",
+    "Description": "中文实体关系抽取，pytorch，bilstm+attention",
+    "Topics": [
+      "attention",
+      "bilstm",
+      "bilstm-attention",
+      "chinese",
+      "nre",
+      "pytorch",
+      "relation-extraction"
+    ],
+    "Language": "Python",
+    "Stars": 766,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-07T03:23:23Z",
+    "UpdatedAt": "2026-04-22T01:01:07Z",
+    "Owner": "buppt",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78900,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-03T08:18:38Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ottokart/punctuator2",
+    "Name": "punctuator2",
+    "Url": "https://github.com/ottokart/punctuator2",
+    "Description": "A bidirectional recurrent neural network model with attention mechanism for restoring missing punctuation in unsegmented text",
+    "Topics": [
+      "attention",
+      "demo",
+      "punctuation",
+      "recurrent-neural-networks",
+      "theano"
+    ],
+    "Language": "Python",
+    "Stars": 683,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-23T23:34:56Z",
+    "UpdatedAt": "2026-03-06T07:35:07Z",
+    "Owner": "ottokart",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Mintplex-Labs/anything-llm",
+    "Name": "anything-llm",
+    "Url": "https://github.com/Mintplex-Labs/anything-llm",
+    "Description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "Topics": [
+      "ai-agents",
+      "custom-ai-agents",
+      "deepseek",
+      "kimi",
+      "llama3",
+      "llm",
+      "lmstudio",
+      "local-llm",
+      "localai",
+      "mcp",
+      "mcp-servers",
+      "moonshot",
+      "multimodal",
+      "no-code",
+      "ollama",
+      "qwen3",
+      "rag",
+      "vector-database",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 59434,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-04T02:29:14Z",
+    "UpdatedAt": "2026-05-03T08:20:02Z",
+    "Owner": "Mintplex-Labs",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "upstash/context7",
+    "Name": "context7",
+    "Url": "https://github.com/upstash/context7",
+    "Description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "Topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "Language": "TypeScript",
+    "Stars": 54325,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-26T23:40:39Z",
+    "UpdatedAt": "2026-05-03T08:12:50Z",
+    "Owner": "upstash",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42238,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-03T07:20:05Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63478,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-03T08:00:29Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "gradio-app/gradio",
+    "Name": "gradio",
+    "Url": "https://github.com/gradio-app/gradio",
+    "Description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "deploy",
+      "gradio",
+      "gradio-interface",
+      "interface",
+      "machine-learning",
+      "models",
+      "python",
+      "python-notebook",
+      "ui",
+      "ui-components"
+    ],
+    "Language": "Python",
+    "Stars": 42486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T08:24:04Z",
+    "UpdatedAt": "2026-05-03T07:41:52Z",
+    "Owner": "gradio-app",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browser-use/browser-use",
+    "Name": "browser-use",
+    "Url": "https://github.com/browser-use/browser-use",
+    "Description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 91769,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T16:00:56Z",
+    "UpdatedAt": "2026-05-03T08:31:52Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31410,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-03T05:55:26Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jeya-maria-jose/Medical-Transformer",
+    "Name": "Medical-Transformer",
+    "Url": "https://github.com/jeya-maria-jose/Medical-Transformer",
+    "Description": "Official Pytorch Code for \"Medical Transformer: Gated Axial-Attention for Medical Image Segmentation\" - MICCAI 2021",
+    "Topics": [
+      "attention",
+      "deep-learning",
+      "medical-image-analysis",
+      "medical-imaging",
+      "pytorch",
+      "segmentation",
+      "transformer",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-14T03:00:14Z",
+    "UpdatedAt": "2026-04-20T01:40:58Z",
+    "Owner": "jeya-maria-jose",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Shuijing725/CrowdNav_HEIGHT",
+    "Name": "CrowdNav_HEIGHT",
+    "Url": "https://github.com/Shuijing725/CrowdNav_HEIGHT",
+    "Description": "[T-ASE 2026] \"HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments\"",
+    "Topics": [
+      "attention-is-all-you-need",
+      "collision-avoidance",
+      "crowd-navigation",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "human-robot-interaction",
+      "reinforcement-learning",
+      "sim-to-real",
+      "spatio-temporal-graph",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-08T19:10:48Z",
+    "UpdatedAt": "2026-04-24T09:14:28Z",
+    "Owner": "Shuijing725",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hirofumi0810/neural_sp",
+    "Name": "neural_sp",
+    "Url": "https://github.com/hirofumi0810/neural_sp",
+    "Description": "End-to-end ASR/LM implementation with PyTorch",
+    "Topics": [
+      "asr",
+      "attention",
+      "attention-mechanism",
+      "automatic-speech-recognition",
+      "ctc",
+      "language-model",
+      "language-modeling",
+      "pytorch",
+      "rnn-transducer",
+      "seq2seq",
+      "sequence-to-sequence",
+      "speech",
+      "speech-recognition",
+      "streaming",
+      "transformer",
+      "transformer-xl"
+    ],
+    "Language": "Python",
+    "Stars": 594,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-10T06:33:28Z",
+    "UpdatedAt": "2025-12-22T05:52:34Z",
+    "Owner": "hirofumi0810",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "649453932/Chinese-Text-Classification-Pytorch",
+    "Name": "Chinese-Text-Classification-Pytorch",
+    "Url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+    "Description": "中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 5733,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-11T01:38:08Z",
+    "UpdatedAt": "2026-04-28T21:53:39Z",
+    "Owner": "649453932",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-team/keras",
+    "Name": "keras",
+    "Url": "https://github.com/keras-team/keras",
+    "Description": "Deep Learning for humans",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 64059,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T00:35:42Z",
+    "UpdatedAt": "2026-05-03T01:11:59Z",
+    "Owner": "keras-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kaituoxu/Speech-Transformer",
+    "Name": "Speech-Transformer",
+    "Url": "https://github.com/kaituoxu/Speech-Transformer",
+    "Description": "A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese.",
+    "Topics": [
+      "asr",
+      "attention",
+      "attention-is-all-you-need",
+      "end-to-end",
+      "pytorch",
+      "self-attention",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 809,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-22T10:53:01Z",
+    "UpdatedAt": "2026-03-05T14:54:16Z",
+    "Owner": "kaituoxu",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xmu-xiaoma666/External-Attention-pytorch",
+    "Name": "External-Attention-pytorch",
+    "Url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "Description": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "Topics": [
+      "attention",
+      "cbam",
+      "excitation-networks",
+      "linear-layers",
+      "paper",
+      "pytorch",
+      "squeeze",
+      "visual-tasks"
+    ],
+    "Language": "Python",
+    "Stars": 12180,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-05-08T13:11:46Z",
+    "UpdatedAt": "2026-05-03T01:21:05Z",
+    "Owner": "xmu-xiaoma666",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-03T08:19:52Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Lightning-AI/lit-llama",
+    "Name": "lit-llama",
+    "Url": "https://github.com/Lightning-AI/lit-llama",
+    "Description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6084,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-22T14:28:32Z",
+    "UpdatedAt": "2026-04-23T01:21:22Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hellonlp/classifier-multi-label",
+    "Name": "classifier-multi-label",
+    "Url": "https://github.com/hellonlp/classifier-multi-label",
+    "Description": "多标签文本分类，多标签分类，文本分类, multi-label, classifier, text classification, BERT, seq2seq，attention, multi-label-classification",
+    "Topics": [
+      "attention",
+      "bert",
+      "classifier-multi-label",
+      "cnn",
+      "multi-label",
+      "multi-label-classification",
+      "seq2seq",
+      "tensorflow",
+      "text-classification",
+      "text-classifier",
+      "textcnn"
+    ],
+    "Language": "Python",
+    "Stars": 804,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-13T14:02:17Z",
+    "UpdatedAt": "2026-04-02T07:21:18Z",
+    "Owner": "hellonlp",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-03T08:34:16Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CorentinJ/Real-Time-Voice-Cloning",
+    "Name": "Real-Time-Voice-Cloning",
+    "Url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "Description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "deep-learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tts",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 59708,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T08:56:15Z",
+    "UpdatedAt": "2026-05-03T08:22:00Z",
+    "Owner": "CorentinJ",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 130224,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-03T08:36:15Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lucidrains/transfusion-pytorch",
+    "Name": "transfusion-pytorch",
+    "Url": "https://github.com/lucidrains/transfusion-pytorch",
+    "Description": "Pytorch implementation of Transfusion, \"Predict the Next Token and Diffuse Images with One Multi-Modal Model\", from MetaAI",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "flow-matching",
+      "multi-modal",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 1356,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-08-23T16:53:51Z",
+    "UpdatedAt": "2026-04-28T17:00:51Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chengzeyi/ParaAttention",
+    "Name": "ParaAttention",
+    "Url": "https://github.com/chengzeyi/ParaAttention",
+    "Description": "https://wavespeed.ai/ Context parallel attention that accelerates DiT model inference with dynamic caching",
+    "Topics": [
+      "attention",
+      "diffusers",
+      "flux",
+      "hunyuan-video",
+      "inference",
+      "inference-engine",
+      "parallel-computing",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 426,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-28T11:01:12Z",
+    "UpdatedAt": "2026-04-06T02:07:08Z",
+    "Owner": "chengzeyi",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/PyTorch-GAN",
+    "Name": "PyTorch-GAN",
+    "Url": "https://github.com/eriklindernoren/PyTorch-GAN",
+    "Description": "PyTorch implementations of Generative Adversarial Networks.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 17453,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-21T13:06:40Z",
+    "UpdatedAt": "2026-04-30T13:30:29Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/native-sparse-attention-pytorch",
+    "Name": "native-sparse-attention-pytorch",
+    "Url": "https://github.com/lucidrains/native-sparse-attention-pytorch",
+    "Description": "Implementation of the sparse attention pattern proposed by the Deepseek team in their \"Native Sparse Attention\" paper",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "deep-learning",
+      "sparse-attention"
+    ],
+    "Language": "Python",
+    "Stars": 804,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-19T03:37:52Z",
+    "UpdatedAt": "2026-04-28T21:14:17Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/CM3Leon",
+    "Name": "CM3Leon",
+    "Url": "https://github.com/kyegomez/CM3Leon",
+    "Description": "An open source implementation of \"Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning\", an all-new multi modal AI that uses just a decoder to generate both text and images",
+    "Topics": [
+      "attention",
+      "attention-is-all-you-need",
+      "dalle",
+      "imagegeneration",
+      "multimodal",
+      "multimodal-learning",
+      "multimodality"
+    ],
+    "Language": "Python",
+    "Stars": 365,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-14T21:56:03Z",
+    "UpdatedAt": "2026-02-18T08:28:20Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WenjieDu/SAITS",
+    "Name": "SAITS",
+    "Url": "https://github.com/WenjieDu/SAITS",
+    "Description": "The official PyTorch implementation of the paper \"SAITS: Self-Attention-based Imputation for Time Series\". A fast and state-of-the-art (SOTA) deep-learning neural network model for efficient time-series imputation (impute multivariate incomplete time series containing NaN missing data/values with machine learning). https://arxiv.org/abs/2202.08516",
+    "Topics": [
+      "attention",
+      "attention-mechanism",
+      "deep-learning",
+      "imputation",
+      "imputation-model",
+      "impute",
+      "incomplete-data",
+      "incomplete-time-series",
+      "interpolation",
+      "irregular-sampling",
+      "machine-learning",
+      "missing-values",
+      "partially-observed",
+      "partially-observed-data",
+      "partially-observed-time-series",
+      "pytorch",
+      "self-attention",
+      "time-series",
+      "time-series-imputation",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-07T14:57:37Z",
+    "UpdatedAt": "2026-04-30T04:37:35Z",
+    "Owner": "WenjieDu",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33539,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T03:37:47Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "karpathy/minGPT",
+    "Name": "minGPT",
+    "Url": "https://github.com/karpathy/minGPT",
+    "Description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 24283,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-17T07:08:48Z",
+    "UpdatedAt": "2026-05-03T08:29:46Z",
+    "Owner": "karpathy",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yongzhuo/Keras-TextClassification",
+    "Name": "Keras-TextClassification",
+    "Url": "https://github.com/yongzhuo/Keras-TextClassification",
+    "Description": "中文长文本分类、短句子分类、多标签分类、两句子相似度（Chinese Text Classification of Keras NLP, multi-label classify, or sentence classify, long or short），字词句向量嵌入层（embeddings）和网络层（graph）构建基类，FastText，TextCNN，CharCNN，TextRNN,  RCNN,  DCNN, DPCNN, VDCNN, CRNN, Bert, Xlnet, Albert, Attention, DeepMoji, HAN, 胶囊网络-CapsuleNet, Transformer-encode,  Seq2seq,  SWEM, LEAM, TextGCN",
+    "Topics": [
+      "albert",
+      "bert",
+      "capsule",
+      "charcnn",
+      "crnn",
+      "dcnn",
+      "dpcnn",
+      "embeddings",
+      "fasttext",
+      "han",
+      "keras",
+      "keras-textclassification",
+      "leam",
+      "nlp",
+      "rcnn",
+      "text-classification",
+      "textcnn",
+      "transformer",
+      "vdcnn",
+      "xlnet"
+    ],
+    "Language": "Python",
+    "Stars": 1811,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T15:02:31Z",
+    "UpdatedAt": "2026-04-16T10:45:47Z",
+    "Owner": "yongzhuo",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/lambda-networks",
+    "Name": "lambda-networks",
+    "Url": "https://github.com/lucidrains/lambda-networks",
+    "Description": "Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute",
+    "Topics": [
+      "artificial-intelligence",
+      "attention",
+      "attention-mechanism",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "Language": "Python",
+    "Stars": 1526,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-08T19:01:15Z",
+    "UpdatedAt": "2026-04-28T08:23:38Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-03T08:01:36Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160194,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T07:44:38Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MILVLG/mcan-vqa",
+    "Name": "mcan-vqa",
+    "Url": "https://github.com/MILVLG/mcan-vqa",
+    "Description": "Deep Modular Co-Attention Networks for Visual Question Answering",
+    "Topics": [
+      "attention",
+      "visual-question-answering",
+      "visual-reasoning"
+    ],
+    "Language": "Python",
+    "Stars": 459,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-06T07:56:53Z",
+    "UpdatedAt": "2026-04-26T13:42:56Z",
+    "Owner": "MILVLG",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70848,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T08:20:04Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepinsight/insightface",
+    "Name": "insightface",
+    "Url": "https://github.com/deepinsight/insightface",
+    "Description": "State-of-the-art 2D and 3D Face Analysis Project",
+    "Topics": [
+      "age-estimation",
+      "arcface",
+      "face-alignment",
+      "face-detection",
+      "face-recognition",
+      "mxnet",
+      "oneflow",
+      "paddlepaddle",
+      "pytorch",
+      "retinaface"
+    ],
+    "Language": "Python",
+    "Stars": 28580,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-01T00:36:51Z",
+    "UpdatedAt": "2026-05-03T04:58:22Z",
+    "Owner": "deepinsight",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91844,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T08:06:29Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54637,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-03T08:25:52Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lucidrains/musiclm-pytorch",
+    "Name": "musiclm-pytorch",
+    "Url": "https://github.com/lucidrains/musiclm-pytorch",
+    "Description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanisms",
+      "deep-learning",
+      "music-synthesis",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 3292,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-27T15:39:13Z",
+    "UpdatedAt": "2026-04-27T18:20:11Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162700,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T08:35:26Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AnubhavGupta3377/Text-Classification-Models-Pytorch",
+    "Name": "Text-Classification-Models-Pytorch",
+    "Url": "https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch",
+    "Description": "Implementation of State-of-the-art Text Classification Models in Pytorch",
+    "Topics": [
+      "attention",
+      "classification",
+      "convolutional-neural-networks",
+      "deep-learning",
+      "fasttext",
+      "nlp",
+      "pytorch",
+      "rcnn",
+      "recurrent-neural-networks",
+      "seq2seq",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 491,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-25T11:29:48Z",
+    "UpdatedAt": "2026-02-28T08:03:21Z",
+    "Owner": "AnubhavGupta3377",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30258,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-03T08:12:43Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentARC/GFPGAN",
+    "Name": "GFPGAN",
+    "Url": "https://github.com/TencentARC/GFPGAN",
+    "Description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "Topics": [
+      "deep-learning",
+      "face-restoration",
+      "gan",
+      "gfpgan",
+      "image-restoration",
+      "pytorch",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 37443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-19T06:18:20Z",
+    "UpdatedAt": "2026-05-02T17:00:11Z",
+    "Owner": "TencentARC",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/Kosmos2.5",
+    "Name": "Kosmos2.5",
+    "Url": "https://github.com/kyegomez/Kosmos2.5",
+    "Description": "My implementation of Kosmos2.5 from the paper: \"KOSMOS-2.5: A Multimodal Literate Model\"",
+    "Topics": [
+      "attention",
+      "attention-is-all-you-need",
+      "gpt3",
+      "gpt4",
+      "kosmos",
+      "multi-modality",
+      "multimodal",
+      "multimodal-deep-learning",
+      "opensource"
+    ],
+    "Language": "Python",
+    "Stars": 74,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-22T01:14:39Z",
+    "UpdatedAt": "2025-11-20T09:18:14Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "znxlwm/UGATIT-pytorch",
+    "Name": "UGATIT-pytorch",
+    "Url": "https://github.com/znxlwm/UGATIT-pytorch",
+    "Description": "Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2545,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-29T07:44:56Z",
+    "UpdatedAt": "2026-05-03T06:53:50Z",
+    "Owner": "znxlwm",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Comfy-Org/ComfyUI",
+    "Name": "ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "Topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 111128,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-17T03:15:56Z",
+    "UpdatedAt": "2026-05-03T08:27:49Z",
+    "Owner": "Comfy-Org",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FreedomIntelligence/TextClassificationBenchmark",
+    "Name": "TextClassificationBenchmark",
+    "Url": "https://github.com/FreedomIntelligence/TextClassificationBenchmark",
+    "Description": "A Benchmark of Text Classification in PyTorch",
+    "Topics": [
+      "attention-is-all-you-need",
+      "benchmark",
+      "capusle",
+      "cnn",
+      "cnn-classification",
+      "crnn",
+      "lstm",
+      "lstm-sentiment-analysis",
+      "pytorch",
+      "quantum",
+      "rcnn",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 607,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-13T09:08:33Z",
+    "UpdatedAt": "2026-03-31T06:45:45Z",
+    "Owner": "FreedomIntelligence",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T06:14:02Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "TatevKaren/BabyGPT-Build_GPT_From_Scratch",
+    "Name": "BabyGPT-Build_GPT_From_Scratch",
+    "Url": "https://github.com/TatevKaren/BabyGPT-Build_GPT_From_Scratch",
+    "Description": "BabyGPT: Build Your Own GPT Large Language Model from Scratch Pre-Training Generative Transformer Models: Building GPT from Scratch with a Step-by-Step Guide to Generative AI in PyTorch and Python",
+    "Topics": [
+      "attention-is-all-you-need",
+      "dropout-layers",
+      "gpt",
+      "gpt-3",
+      "large-language-models",
+      "layer-normalization",
+      "llm-training",
+      "llms",
+      "multi-head-self-attention",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "residual-connections",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 119,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-01T12:22:12Z",
+    "UpdatedAt": "2026-05-03T02:47:53Z",
+    "Owner": "TatevKaren",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PetarV-/GAT",
+    "Name": "GAT",
+    "Url": "https://github.com/PetarV-/GAT",
+    "Description": "Graph Attention Networks (https://arxiv.org/abs/1710.10903)",
+    "Topics": [
+      "attention-mechanism",
+      "graph-attention-networks",
+      "neural-networks",
+      "python",
+      "self-attention",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 3526,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-01T02:17:22Z",
+    "UpdatedAt": "2026-04-30T18:56:14Z",
+    "Owner": "PetarV-",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TobiasLee/Text-Classification",
+    "Name": "Text-Classification",
+    "Url": "https://github.com/TobiasLee/Text-Classification",
+    "Description": "Implementation of papers for text classification task on DBpedia",
+    "Topics": [
+      "attention",
+      "cnn",
+      "lstm",
+      "tensorflow",
+      "text-classification"
+    ],
+    "Language": "Python",
+    "Stars": 735,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-30T05:19:09Z",
+    "UpdatedAt": "2026-02-13T11:58:13Z",
+    "Owner": "TobiasLee",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MoonshotAI/MoBA",
+    "Name": "MoBA",
+    "Url": "https://github.com/MoonshotAI/MoBA",
+    "Description": "MoBA: Mixture of Block Attention for Long-Context LLMs",
+    "Topics": [
+      "flash-attention",
+      "llm",
+      "llm-serving",
+      "llm-training",
+      "moe",
+      "pytorch",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 2108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-17T13:27:30Z",
+    "UpdatedAt": "2026-05-02T10:31:00Z",
+    "Owner": "MoonshotAI",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20757,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-03T02:57:57Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 63686,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-03T08:36:22Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sunsmarterjie/yolov12",
+    "Name": "yolov12",
+    "Url": "https://github.com/sunsmarterjie/yolov12",
+    "Description": "[NeurIPS 2025] YOLOv12: Attention-Centric Real-Time Object Detectors",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2858,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-06T20:05:57Z",
+    "UpdatedAt": "2026-04-27T17:05:59Z",
+    "Owner": "sunsmarterjie",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135657,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-03T08:27:46Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ai4co/rl4co",
+    "Name": "rl4co",
+    "Url": "https://github.com/ai4co/rl4co",
+    "Description": "A PyTorch library for all things Reinforcement Learning (RL) for Combinatorial Optimization (CO)",
+    "Topics": [
+      "attention",
+      "attention-model",
+      "benchmark",
+      "combinatorial-optimization",
+      "cvrp",
+      "electronic-design-automation",
+      "hydra",
+      "neural-combinatorial-optimization",
+      "operations-research",
+      "pytorch-lightning",
+      "reinforcement-learning",
+      "scheduling",
+      "tensordict",
+      "torchrl",
+      "tsp",
+      "vehicle-routing-problem"
+    ],
+    "Language": "Python",
+    "Stars": 867,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-23T03:18:41Z",
+    "UpdatedAt": "2026-05-01T18:42:20Z",
+    "Owner": "ai4co",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15811,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-02T17:08:26Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LeeJunHyun/Image_Segmentation",
+    "Name": "Image_Segmentation",
+    "Url": "https://github.com/LeeJunHyun/Image_Segmentation",
+    "Description": "Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3096,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-18T08:27:27Z",
+    "UpdatedAt": "2026-04-29T14:20:50Z",
+    "Owner": "LeeJunHyun",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41543,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-03T08:19:02Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Jongchan/attention-module",
+    "Name": "attention-module",
+    "Url": "https://github.com/Jongchan/attention-module",
+    "Description": "Official PyTorch code for \"BAM: Bottleneck Attention Module (BMVC2018)\" and \"CBAM: Convolutional Block Attention Module (ECCV2018)\"",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2220,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-07T06:25:26Z",
+    "UpdatedAt": "2026-05-02T10:03:26Z",
+    "Owner": "Jongchan",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "run-llama/llama_index",
+    "Name": "llama_index",
+    "Url": "https://github.com/run-llama/llama_index",
+    "Description": "LlamaIndex is the leading document agent and OCR platform",
+    "Topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 49105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-02T04:24:54Z",
+    "UpdatedAt": "2026-05-03T07:42:25Z",
+    "Owner": "run-llama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lvapeab/nmt-keras",
+    "Name": "nmt-keras",
+    "Url": "https://github.com/lvapeab/nmt-keras",
+    "Description": "Neural Machine Translation with Keras ",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "attention-model",
+      "attention-seq2seq",
+      "deep-learning",
+      "gru",
+      "keras",
+      "lstm-networks",
+      "machine-learning",
+      "machine-translation",
+      "neural-machine-translation",
+      "nmt",
+      "sequence-to-sequence",
+      "tensorflow",
+      "theano",
+      "transformer",
+      "web-demo"
+    ],
+    "Language": "Python",
+    "Stars": 532,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-22T14:04:09Z",
+    "UpdatedAt": "2026-03-26T03:09:04Z",
+    "Owner": "lvapeab",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jessevig/bertviz",
+    "Name": "bertviz",
+    "Url": "https://github.com/jessevig/bertviz",
+    "Description": "BertViz: Visualize Attention in Transformer Models",
+    "Topics": [
+      "bert",
+      "gpt2",
+      "machine-learning",
+      "natural-language-processing",
+      "neural-network",
+      "nlp",
+      "pytorch",
+      "roberta",
+      "transformer",
+      "transformers",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 8039,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-16T16:50:42Z",
+    "UpdatedAt": "2026-05-03T03:22:33Z",
+    "Owner": "jessevig",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/peft",
+    "Name": "peft",
+    "Url": "https://github.com/huggingface/peft",
+    "Description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "Topics": [
+      "adapter",
+      "diffusion",
+      "fine-tuning",
+      "llm",
+      "lora",
+      "parameter-efficient-learning",
+      "peft",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 21040,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-25T03:51:09Z",
+    "UpdatedAt": "2026-05-03T08:28:55Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MiniMax-AI/MiniMax-M1",
+    "Name": "MiniMax-M1",
+    "Url": "https://github.com/MiniMax-AI/MiniMax-M1",
+    "Description": "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.",
+    "Topics": [
+      "large-language-models",
+      "llm",
+      "minimax-m1",
+      "reasoning-models"
+    ],
+    "Language": "Python",
+    "Stars": 3148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-14T08:54:06Z",
+    "UpdatedAt": "2026-05-02T11:59:59Z",
+    "Owner": "MiniMax-AI",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/diffusers",
+    "Name": "diffusers",
+    "Url": "https://github.com/huggingface/diffusers",
+    "Description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "Topics": [
+      "deep-learning",
+      "diffusion",
+      "flux",
+      "image-generation",
+      "image2image",
+      "image2video",
+      "latent-diffusion-models",
+      "pytorch",
+      "qwen-image",
+      "score-based-generative-modeling",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text2image",
+      "text2video",
+      "video2video"
+    ],
+    "Language": "Python",
+    "Stars": 33525,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T16:04:02Z",
+    "UpdatedAt": "2026-05-03T08:34:22Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rayleizhu/BiFormer",
+    "Name": "BiFormer",
+    "Url": "https://github.com/rayleizhu/BiFormer",
+    "Description": "[CVPR 2023] Official code release of our paper \"BiFormer: Vision Transformer with Bi-Level Routing Attention\"",
+    "Topics": [
+      "attention",
+      "computer-vision",
+      "cvpr2023",
+      "image-classification",
+      "object-detection",
+      "semantic-segmentation",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 579,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-28T05:03:47Z",
+    "UpdatedAt": "2026-04-23T07:45:48Z",
+    "Owner": "rayleizhu",
+    "SourceQueries": [
+      "topic:attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/JeecgBoot",
+    "Name": "JeecgBoot",
+    "Url": "https://github.com/jeecgboot/JeecgBoot",
+    "Description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+    "Topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "Language": "Java",
+    "Stars": 46069,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T10:40:00Z",
+    "UpdatedAt": "2026-05-03T03:53:58Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ultralytics/yolov5",
+    "Name": "yolov5",
+    "Url": "https://github.com/ultralytics/yolov5",
+    "Description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "Topics": [
+      "coreml",
+      "deep-learning",
+      "ios",
+      "machine-learning",
+      "ml",
+      "object-detection",
+      "onnx",
+      "pytorch",
+      "tflite",
+      "ultralytics",
+      "yolo",
+      "yolov3",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 57329,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-18T03:45:11Z",
+    "UpdatedAt": "2026-05-03T07:04:35Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jshuadvd/LongRoPE",
+    "Name": "LongRoPE",
+    "Url": "https://github.com/jshuadvd/LongRoPE",
+    "Description": "Implementation of the LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens Paper",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "attention-is-all-you-need",
+      "attention-mechanisms",
+      "deep-learning",
+      "gpt",
+      "language-model",
+      "llm",
+      "machine-learning",
+      "natural",
+      "natural-language-inference",
+      "natural-language-processing",
+      "natural-language-procressing",
+      "natural-language-understanding",
+      "nlp",
+      "tokenization",
+      "tokenizers",
+      "transformer-architecture",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 153,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-06T06:30:54Z",
+    "UpdatedAt": "2026-03-23T22:38:25Z",
+    "Owner": "jshuadvd",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Kyubyong/transformer",
+    "Name": "transformer",
+    "Url": "https://github.com/Kyubyong/transformer",
+    "Description": "A TensorFlow Implementation of the Transformer: Attention Is All You Need",
+    "Topics": [
+      "attention-is-all-you-need",
+      "attention-mechanism",
+      "implementation",
+      "transformer",
+      "translation"
+    ],
+    "Language": "Python",
+    "Stars": 4467,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-17T11:08:40Z",
+    "UpdatedAt": "2026-04-29T02:53:34Z",
+    "Owner": "Kyubyong",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50",
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/RT-X",
+    "Name": "RT-X",
+    "Url": "https://github.com/kyegomez/RT-X",
+    "Description": "Pytorch implementation of the models RT-1-X and RT-2-X from the paper: \"Open X-Embodiment: Robotic Learning Datasets and RT-X Models\"",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-is-all-you-need",
+      "attention-model",
+      "computer-vision",
+      "gpt4",
+      "gpt4all",
+      "multimodal",
+      "vision",
+      "vision-transformer"
+    ],
+    "Language": "Python",
+    "Stars": 241,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-04T21:44:26Z",
+    "UpdatedAt": "2026-04-21T03:27:58Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tinygrad/tinygrad",
+    "Name": "tinygrad",
+    "Url": "https://github.com/tinygrad/tinygrad",
+    "Description": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 32610,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-18T16:23:12Z",
+    "UpdatedAt": "2026-05-03T07:28:38Z",
+    "Owner": "tinygrad",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leviswind/pytorch-transformer",
+    "Name": "pytorch-transformer",
+    "Url": "https://github.com/leviswind/pytorch-transformer",
+    "Description": "pytorch implementation of Attention is all you need",
+    "Topics": [
+      "attention-is-all-you-need",
+      "pytorch",
+      "transformer",
+      "translation"
+    ],
+    "Language": "Python",
+    "Stars": 240,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-05T08:00:01Z",
+    "UpdatedAt": "2026-02-25T08:38:01Z",
+    "Owner": "leviswind",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhanghang1989/ResNeSt",
+    "Name": "ResNeSt",
+    "Url": "https://github.com/zhanghang1989/ResNeSt",
+    "Description": "ResNeSt: Split-Attention Networks",
+    "Topics": [
+      "deep-learning",
+      "detectron-models",
+      "pytorch",
+      "resnest",
+      "resnet",
+      "split-attention-networks"
+    ],
+    "Language": "Python",
+    "Stars": 3263,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-15T18:42:11Z",
+    "UpdatedAt": "2026-04-23T07:15:56Z",
+    "Owner": "zhanghang1989",
+    "SourceQueries": [
+      "attention language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/vit-pytorch",
+    "Name": "vit-pytorch",
+    "Url": "https://github.com/lucidrains/vit-pytorch",
+    "Description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "computer-vision",
+      "image-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 25139,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T22:47:24Z",
+    "UpdatedAt": "2026-05-03T07:44:12Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvat-ai/cvat",
+    "Name": "cvat",
+    "Url": "https://github.com/cvat-ai/cvat",
+    "Description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+    "Topics": [
+      "annotation",
+      "annotation-tool",
+      "annotations",
+      "boundingbox",
+      "computer-vision",
+      "computer-vision-annotation",
+      "dataset",
+      "deep-learning",
+      "image-annotation",
+      "image-classification",
+      "image-labeling",
+      "image-labelling-tool",
+      "imagenet",
+      "labeling",
+      "labeling-tool",
+      "object-detection",
+      "pytorch",
+      "semantic-segmentation",
+      "tensorflow",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T14:02:45Z",
+    "UpdatedAt": "2026-05-02T13:31:04Z",
+    "Owner": "cvat-ai",
+    "SourceQueries": [
+      "pytorch language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "whr94621/NJUNMT-pytorch",
+    "Name": "NJUNMT-pytorch",
+    "Url": "https://github.com/whr94621/NJUNMT-pytorch",
+    "Description": "",
+    "Topics": [
+      "attention-is-all-you-need",
+      "neural-machine-translation",
+      "nmt",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 93,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-31T09:19:51Z",
+    "UpdatedAt": "2025-02-21T13:37:29Z",
+    "Owner": "whr94621",
+    "SourceQueries": [
+      "topic:attention-is-all-you-need language:Python stars:>=50"
+    ]
+  }
+]

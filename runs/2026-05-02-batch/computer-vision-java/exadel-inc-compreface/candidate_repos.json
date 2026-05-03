@@ -1,0 +1,3606 @@
+[
+  {
+    "FullName": "singerdmx/BulletJournal",
+    "Name": "BulletJournal",
+    "Url": "https://github.com/singerdmx/BulletJournal",
+    "Description": "An organizational system that helps you keep track of everything in your busy life",
+    "Topics": [
+      "ant-design",
+      "docker",
+      "docker-compose",
+      "elasticsearch",
+      "firebase",
+      "firebase-messaging",
+      "golang",
+      "gradle",
+      "java",
+      "nodejs",
+      "postgresql",
+      "react",
+      "redis",
+      "redux",
+      "redux-saga",
+      "spring-boot",
+      "tyepscript",
+      "webrtc",
+      "websocket"
+    ],
+    "Language": "Java",
+    "Stars": 164,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-02T23:43:33Z",
+    "UpdatedAt": "2026-02-21T12:35:01Z",
+    "Owner": "singerdmx",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mostafacs/ecommerce-microservices-spring-reactive-webflux",
+    "Name": "ecommerce-microservices-spring-reactive-webflux",
+    "Url": "https://github.com/mostafacs/ecommerce-microservices-spring-reactive-webflux",
+    "Description": "E-commerce demo with spring reactive webflux and spring cloud microservice",
+    "Topics": [
+      "docker",
+      "docker-compose",
+      "flyway",
+      "java",
+      "java-8",
+      "maven",
+      "microservices",
+      "microservices-architecture",
+      "postgresql",
+      "r2dbc",
+      "r2dbc-postgresql",
+      "reactive-streams",
+      "spring-boot",
+      "spring-cloud",
+      "spring-data-r2dbc",
+      "spring-security",
+      "spring-webflux"
+    ],
+    "Language": "Java",
+    "Stars": 209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-20T02:51:43Z",
+    "UpdatedAt": "2026-04-02T08:38:55Z",
+    "Owner": "mostafacs",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rcherara/microservice-architecture",
+    "Name": "microservice-architecture",
+    "Url": "https://github.com/rcherara/microservice-architecture",
+    "Description": "Architecture Microservice with Spring Cloud and Best Practices",
+    "Topics": [
+      "apache-kafka",
+      "architecture",
+      "auth-server",
+      "discovery-service",
+      "docker-compose",
+      "dockerfile",
+      "gateway-api",
+      "gateway-microservice",
+      "iaas",
+      "kubernetes-deployment",
+      "microservices-architecture",
+      "rabbitmq",
+      "reactjs",
+      "saas",
+      "spring-boot",
+      "spring-boot-admin",
+      "spring-cloud",
+      "spring-cloud-config",
+      "spring-cloud-eureka",
+      "swagger2"
+    ],
+    "Language": "Java",
+    "Stars": 121,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-12T05:45:40Z",
+    "UpdatedAt": "2026-04-17T06:42:16Z",
+    "Owner": "rcherara",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bytedeco/javacv",
+    "Name": "javacv",
+    "Url": "https://github.com/bytedeco/javacv",
+    "Description": "Java interface to OpenCV, FFmpeg, and more",
+    "Topics": [
+      "computer-vision",
+      "ffmpeg",
+      "java",
+      "javacv",
+      "maven",
+      "multimedia",
+      "opencv",
+      "opencv-java"
+    ],
+    "Language": "Java",
+    "Stars": 8308,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-21T13:50:26Z",
+    "UpdatedAt": "2026-05-02T15:57:46Z",
+    "Owner": "bytedeco",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dockersamples/wordsmith",
+    "Name": "wordsmith",
+    "Url": "https://github.com/dockersamples/wordsmith",
+    "Description": "Sample project with Docker containers running under Kubernetes",
+    "Topics": [
+      "demo",
+      "docker",
+      "docker-compose",
+      "example",
+      "kubernetes",
+      "sample",
+      "swarm"
+    ],
+    "Language": "Java",
+    "Stars": 289,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-09T10:15:33Z",
+    "UpdatedAt": "2026-05-01T23:22:30Z",
+    "Owner": "dockersamples",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mars885/doc-skanner",
+    "Name": "doc-skanner",
+    "Url": "https://github.com/mars885/doc-skanner",
+    "Description": "An Android application that makes it possible to automatically scan and digitize documents from photos.",
+    "Topics": [
+      "android",
+      "android-application",
+      "computer-vision",
+      "doc-scanner",
+      "document-scanner",
+      "opencv"
+    ],
+    "Language": "Java",
+    "Stars": 128,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-09T15:37:29Z",
+    "UpdatedAt": "2026-04-26T02:31:46Z",
+    "Owner": "mars885",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lilishop/lilishop",
+    "Name": "lilishop",
+    "Url": "https://github.com/lilishop/lilishop",
+    "Description": "开源商城 JAVA商城 多语言商城 分销商城  uniapp商城 小程序商城  SAAS商城 ",
+    "Topics": [
+      "docker-compose",
+      "elasticsearch",
+      "elk",
+      "jwt",
+      "k8s",
+      "mall",
+      "mybatis-plus",
+      "redis",
+      "rocketmq",
+      "shop",
+      "spring-cloud",
+      "springboot",
+      "uniapp",
+      "vue",
+      "xxl-job"
+    ],
+    "Language": "Java",
+    "Stars": 4171,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-05-14T01:28:51Z",
+    "UpdatedAt": "2026-05-02T06:37:29Z",
+    "Owner": "lilishop",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall-swarm",
+    "Name": "mall-swarm",
+    "Url": "https://github.com/macrozheng/mall-swarm",
+    "Description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。",
+    "Topics": [
+      "docker",
+      "elasticsearch",
+      "java",
+      "k8s",
+      "kubernetes",
+      "mongodb",
+      "mybatis",
+      "mysql",
+      "rabbitmq",
+      "redis",
+      "spring-boot",
+      "spring-cloud",
+      "springboot",
+      "springcloud"
+    ],
+    "Language": "Java",
+    "Stars": 12930,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-25T06:55:31Z",
+    "UpdatedAt": "2026-05-02T11:27:05Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ali-bouali/spring-boot-3-jwt-security",
+    "Name": "spring-boot-3-jwt-security",
+    "Url": "https://github.com/ali-bouali/spring-boot-3-jwt-security",
+    "Description": "Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6",
+    "Topics": [
+      "authentication",
+      "docker",
+      "docker-compose",
+      "intellij-idea",
+      "jwt",
+      "jwt-authentication",
+      "postgressql",
+      "spring-boot",
+      "spring-security"
+    ],
+    "Language": "Java",
+    "Stars": 2045,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-29T13:21:52Z",
+    "UpdatedAt": "2026-04-30T11:42:23Z",
+    "Owner": "ali-bouali",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50",
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "however-yir/knowledgeops-agent",
+    "Name": "knowledgeops-agent",
+    "Url": "https://github.com/however-yir/knowledgeops-agent",
+    "Description": "Enterprise-ready Spring AI platform for RAG, tool calling, async ingestion, JWT/RBAC security, and observability.",
+    "Topics": [
+      "ai-platform",
+      "backend",
+      "docker-compose",
+      "enterprise-ai",
+      "java",
+      "llm",
+      "multi-tenancy",
+      "multimodal",
+      "observability",
+      "pdf-rag",
+      "pgvector",
+      "rag",
+      "rbac",
+      "react-agent",
+      "spring-ai",
+      "spring-boot",
+      "tenant-isolation",
+      "tool-calling"
+    ],
+    "Language": "Java",
+    "Stars": 205,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-30T12:19:37Z",
+    "UpdatedAt": "2026-05-02T15:02:22Z",
+    "Owner": "however-yir",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "colmap/colmap",
+    "Name": "colmap",
+    "Url": "https://github.com/colmap/colmap",
+    "Description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "Topics": [
+      "computer-vision",
+      "geometry",
+      "multi-view-stereo",
+      "reconstruction",
+      "structure-from-motion"
+    ],
+    "Language": "C++",
+    "Stars": 11588,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-16T00:55:31Z",
+    "UpdatedAt": "2026-05-02T16:54:17Z",
+    "Owner": "colmap",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38292,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-02T16:26:53Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "obsidiandynamics/kafdrop",
+    "Name": "kafdrop",
+    "Url": "https://github.com/obsidiandynamics/kafdrop",
+    "Description": "Kafka Web UI",
+    "Topics": [
+      "consumer-group",
+      "consumer-producer",
+      "docker",
+      "event-sourcing",
+      "event-streaming",
+      "kafka",
+      "kafka-tools",
+      "kafka-ui",
+      "kafka-utils",
+      "kubernetes",
+      "pub-sub",
+      "topic",
+      "web-ui",
+      "zookeeper"
+    ],
+    "Language": "Java",
+    "Stars": 6127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-27T08:46:56Z",
+    "UpdatedAt": "2026-05-01T21:08:12Z",
+    "Owner": "obsidiandynamics",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "carla-simulator/carla",
+    "Name": "carla",
+    "Url": "https://github.com/carla-simulator/carla",
+    "Description": "Open-source simulator for autonomous driving research.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "autonomous-driving",
+      "autonomous-vehicles",
+      "carla",
+      "carla-simulator",
+      "computer-vision",
+      "cross-platform",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "imitation-learning",
+      "research",
+      "ros",
+      "self-driving-car",
+      "simulator",
+      "ue4",
+      "unreal-engine-4"
+    ],
+    "Language": "C++",
+    "Stars": 13910,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-24T09:06:23Z",
+    "UpdatedAt": "2026-05-02T16:21:40Z",
+    "Owner": "carla-simulator",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "BatooOrg/BatooJPA",
+    "Name": "BatooJPA",
+    "Url": "https://github.com/BatooOrg/BatooJPA",
+    "Description": "Batoo JPA - Fastest JPA Implementation Ever! Over 15 times faster than the leading JPA implementations.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 138,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-23T19:50:02Z",
+    "UpdatedAt": "2026-03-24T02:32:00Z",
+    "Owner": "BatooOrg",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SeldonIO/seldon-server",
+    "Name": "seldon-server",
+    "Url": "https://github.com/SeldonIO/seldon-server",
+    "Description": "Machine Learning Platform and Recommendation Engine built on Kubernetes",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1479,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-11T13:49:35Z",
+    "UpdatedAt": "2026-04-14T18:09:16Z",
+    "Owner": "SeldonIO",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 15811,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-02T17:08:26Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "forezp/SpringBootLearning",
+    "Name": "SpringBootLearning",
+    "Url": "https://github.com/forezp/SpringBootLearning",
+    "Description": "《Spring Boot教程》源码",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2328,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-21T15:57:41Z",
+    "UpdatedAt": "2026-04-27T18:36:39Z",
+    "Owner": "forezp",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opencv/opencv",
+    "Name": "opencv",
+    "Url": "https://github.com/opencv/opencv",
+    "Description": "Open Source Computer Vision Library",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 87315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-19T09:40:17Z",
+    "UpdatedAt": "2026-05-02T17:20:00Z",
+    "Owner": "opencv",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cansik/deep-vision-processing",
+    "Name": "deep-vision-processing",
+    "Url": "https://github.com/cansik/deep-vision-processing",
+    "Description": "Deep computer-vision algorithms for the Processing framework.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-23T10:57:12Z",
+    "UpdatedAt": "2026-03-12T04:54:48Z",
+    "Owner": "cansik",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marinsborg/UrlShortener-API",
+    "Name": "UrlShortener-API",
+    "Url": "https://github.com/marinsborg/UrlShortener-API",
+    "Description": "API for converting long urls to short urls",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 85,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-02T20:12:07Z",
+    "UpdatedAt": "2026-04-17T03:42:27Z",
+    "Owner": "marinsborg",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZongXR/SuperMarket",
+    "Name": "SuperMarket",
+    "Url": "https://github.com/ZongXR/SuperMarket",
+    "Description": "设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存、分库分表、读写分离、全文检索、消息队列等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-01T14:48:51Z",
+    "UpdatedAt": "2026-04-30T23:39:37Z",
+    "Owner": "ZongXR",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stanfordnlp/CoreNLP",
+    "Name": "CoreNLP",
+    "Url": "https://github.com/stanfordnlp/CoreNLP",
+    "Description": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 10070,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-06-27T21:13:49Z",
+    "UpdatedAt": "2026-05-01T19:40:06Z",
+    "Owner": "stanfordnlp",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wxiaoqi/Spring-Cloud-Platform",
+    "Name": "Spring-Cloud-Platform",
+    "Url": "https://github.com/wxiaoqi/Spring-Cloud-Platform",
+    "Description": "🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6428,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-25T10:35:26Z",
+    "UpdatedAt": "2026-05-01T09:46:03Z",
+    "Owner": "wxiaoqi",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "voxel51/fiftyone",
+    "Name": "fiftyone",
+    "Url": "https://github.com/voxel51/fiftyone",
+    "Description": "Refine high-quality datasets and visual AI models",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 10630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-22T13:43:28Z",
+    "UpdatedAt": "2026-05-02T17:17:51Z",
+    "Owner": "voxel51",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tanerdiler/spring-boot-microservice-eureka-zuul-docker-gateway-kubernetes",
+    "Name": "spring-boot-microservice-eureka-zuul-docker-gateway-kubernetes",
+    "Url": "https://github.com/tanerdiler/spring-boot-microservice-eureka-zuul-docker-gateway-kubernetes",
+    "Description": "Spring Boot rest microservices using Kubernetes, ConfigMap, Eureka, Zuul / Spring Boot Gateway, Docker. Monitoring with logstash, logback, elasticsearch, kibana.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-24T15:00:14Z",
+    "UpdatedAt": "2026-03-04T15:57:53Z",
+    "Owner": "tanerdiler",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stacksimplify/aws-eks-kubernetes-masterclass",
+    "Name": "aws-eks-kubernetes-masterclass",
+    "Url": "https://github.com/stacksimplify/aws-eks-kubernetes-masterclass",
+    "Description": "AWS EKS Kubernetes - Masterclass | DevOps, Microservices",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1761,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-20T11:41:14Z",
+    "UpdatedAt": "2026-05-02T15:01:09Z",
+    "Owner": "stacksimplify",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jonathanyin12/Food.AI",
+    "Name": "Food.AI",
+    "Url": "https://github.com/jonathanyin12/Food.AI",
+    "Description": "Real-time object detection on Android for easy calorie tracking.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 52,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-21T20:06:21Z",
+    "UpdatedAt": "2026-02-28T10:32:21Z",
+    "Owner": "jonathanyin12",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NaTieJun/orise-charge-cloud",
+    "Name": "orise-charge-cloud",
+    "Url": "https://github.com/NaTieJun/orise-charge-cloud",
+    "Description": "⚡️充电桩开源云平台⚡️完整源代码，包含模拟桩模块，可通过docker编排快速部署测试。技术栈：SpringCloud、MySQL、Redis、RabbitMQ，前后端管理系统（管理后台、小程序），支持互联互通协议、市政协议、一对多方平台支持。支持高并发业务、业务动态伸缩、桩通信负载均衡（NLB）。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-23T04:22:53Z",
+    "UpdatedAt": "2026-04-29T07:58:28Z",
+    "Owner": "NaTieJun",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "phillipi/pix2pix",
+    "Name": "pix2pix",
+    "Url": "https://github.com/phillipi/pix2pix",
+    "Description": "Image-to-image translation with conditional adversarial nets",
+    "Topics": [],
+    "Language": "Lua",
+    "Stars": 10631,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-16T22:48:50Z",
+    "UpdatedAt": "2026-05-01T05:52:12Z",
+    "Owner": "phillipi",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zzzzbw/Fame",
+    "Name": "Fame",
+    "Url": "https://github.com/zzzzbw/Fame",
+    "Description": "A blog power by spring-boot and vue",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 203,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-07T13:44:22Z",
+    "UpdatedAt": "2026-03-28T11:12:54Z",
+    "Owner": "zzzzbw",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kornia/kornia",
+    "Name": "kornia",
+    "Url": "https://github.com/kornia/kornia",
+    "Description": "🐍 Geometric Computer Vision Library for Spatial AI",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-22T10:31:37Z",
+    "UpdatedAt": "2026-05-02T09:17:43Z",
+    "Owner": "kornia",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "docker-java/docker-java",
+    "Name": "docker-java",
+    "Url": "https://github.com/docker-java/docker-java",
+    "Description": "Java Docker API Client",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3185,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-02T18:47:31Z",
+    "UpdatedAt": "2026-04-30T14:40:54Z",
+    "Owner": "docker-java",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 77585,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-02T17:43:23Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "material-components/material-components-android",
+    "Name": "material-components-android",
+    "Url": "https://github.com/material-components/material-components-android",
+    "Description": "Modular and customizable Material Design UI components for Android",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 17270,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-12-05T16:11:29Z",
+    "UpdatedAt": "2026-05-02T11:04:00Z",
+    "Owner": "material-components",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datagym-ai/datagym-core",
+    "Name": "datagym-core",
+    "Url": "https://github.com/datagym-ai/datagym-core",
+    "Description": "Open source annotation and labeling tool for image and video assets",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 52,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-12-15T10:05:12Z",
+    "UpdatedAt": "2026-03-18T19:07:06Z",
+    "Owner": "datagym-ai",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VideoExpertsGroup/VXG.Media.SDK.Android",
+    "Name": "VXG.Media.SDK.Android",
+    "Url": "https://github.com/VideoExpertsGroup/VXG.Media.SDK.Android",
+    "Description": "Market leading Android SDK with encoding, streaming & playback functionality. Connect any ONVIF, RTSP or any video source. Convert your phone into an IP camera, or broadcast video to millions, thanks to streaming in all popular formats such as WebRTC, RTSP, RTMP and HLS.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 144,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-04-13T12:52:14Z",
+    "UpdatedAt": "2026-03-14T17:23:45Z",
+    "Owner": "VideoExpertsGroup",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pig-mesh/pig",
+    "Name": "pig",
+    "Url": "https://github.com/pig-mesh/pig",
+    "Description": "↥ ↥ ↥ Follow for updates An RBAC permission management system based on Spring Cloud 2025, Spring Boot 4, and OAuth2.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6619,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-26T03:24:53Z",
+    "UpdatedAt": "2026-04-30T07:44:43Z",
+    "Owner": "pig-mesh",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "linhaojun857/aurora",
+    "Name": "aurora",
+    "Url": "https://github.com/linhaojun857/aurora",
+    "Description": "基于SpringBoot+Vue开发的个人博客系统",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 4638,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-19T13:39:16Z",
+    "UpdatedAt": "2026-05-02T15:57:42Z",
+    "Owner": "linhaojun857",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "risesoft-y9/Digital-Infrastructure",
+    "Name": "Digital-Infrastructure",
+    "Url": "https://github.com/risesoft-y9/Digital-Infrastructure",
+    "Description": "数字底座是一款面向大型政府、企业数字化转型，基于身份认证、组织架构、岗位职务、应用系统、资源角色、数据目录、安全控制等功能构建的统一且安全的管理支撑平台。数字底座基于三员管理模式，具备微服务、多租户、容器化和国产化，支持用户利用代码生成器快速构建自己的业务应用，同时可关联诸多成熟且好用的内部生态应用。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2584,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T03:13:33Z",
+    "UpdatedAt": "2026-04-28T01:33:41Z",
+    "Owner": "risesoft-y9",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oskopek/javaanpr",
+    "Name": "javaanpr",
+    "Url": "https://github.com/oskopek/javaanpr",
+    "Description": "JavaANPR - Automatic Number Plate Recognition System for Java",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 162,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-11T11:13:58Z",
+    "UpdatedAt": "2026-03-25T03:07:34Z",
+    "Owner": "oskopek",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bagaturchess/ChessBoardScanner",
+    "Name": "ChessBoardScanner",
+    "Url": "https://github.com/bagaturchess/ChessBoardScanner",
+    "Description": "Java based Chess Board Scanner, which converts 2D chess board image into a machine readable format a.k.a. Forsyth–Edwards Notation (FEN). It uses OpenCV and Deeplearning4j frameworks, complemented with some proprietary algorithms implemented for realizing the goal. It currently supports the chess board and pieces sets of the most common online chess platforms chess.com and lichess.org.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 63,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-28T19:27:29Z",
+    "UpdatedAt": "2026-02-15T19:41:06Z",
+    "Owner": "bagaturchess",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall-learning",
+    "Name": "mall-learning",
+    "Url": "https://github.com/macrozheng/mall-learning",
+    "Description": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 13378,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-12T13:20:31Z",
+    "UpdatedAt": "2026-05-02T10:01:10Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "esimov/caire",
+    "Name": "caire",
+    "Url": "https://github.com/esimov/caire",
+    "Description": "Content aware image resize library",
+    "Topics": [],
+    "Language": "Go",
+    "Stars": 10473,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-08T19:23:04Z",
+    "UpdatedAt": "2026-05-01T16:42:38Z",
+    "Owner": "esimov",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/AirSim",
+    "Name": "AirSim",
+    "Url": "https://github.com/microsoft/AirSim",
+    "Description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 18146,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-14T00:52:29Z",
+    "UpdatedAt": "2026-05-01T21:38:46Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ron190/jsql-injection",
+    "Name": "jsql-injection",
+    "Url": "https://github.com/ron190/jsql-injection",
+    "Description": "jSQL Injection is a Java application for automatic SQL database injection.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1765,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-18T18:07:09Z",
+    "UpdatedAt": "2026-05-02T12:21:26Z",
+    "Owner": "ron190",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nayuki/QR-Code-generator",
+    "Name": "QR-Code-generator",
+    "Url": "https://github.com/nayuki/QR-Code-generator",
+    "Description": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6552,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-04-15T02:19:41Z",
+    "UpdatedAt": "2026-05-02T02:37:41Z",
+    "Owner": "nayuki",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlfoundations/open_clip",
+    "Name": "open_clip",
+    "Url": "https://github.com/mlfoundations/open_clip",
+    "Description": "An open source implementation of CLIP.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 13763,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-28T23:24:39Z",
+    "UpdatedAt": "2026-05-02T11:52:31Z",
+    "Owner": "mlfoundations",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "amusi/CVPR2026-Papers-with-Code",
+    "Name": "CVPR2026-Papers-with-Code",
+    "Url": "https://github.com/amusi/CVPR2026-Papers-with-Code",
+    "Description": "CVPR 2026 论文和开源项目合集",
+    "Topics": [],
+    "Language": "",
+    "Stars": 22513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-26T06:04:25Z",
+    "UpdatedAt": "2026-05-02T17:07:42Z",
+    "Owner": "amusi",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "virgili0/Virgilio",
+    "Name": "Virgilio",
+    "Url": "https://github.com/virgili0/Virgilio",
+    "Description": "Your new Mentor for Data Science E-Learning.",
+    "Topics": [],
+    "Language": "Jupyter Notebook",
+    "Stars": 14328,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-12T18:45:36Z",
+    "UpdatedAt": "2026-05-02T09:15:26Z",
+    "Owner": "virgili0",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google-ai-edge/mediapipe",
+    "Name": "mediapipe",
+    "Url": "https://github.com/google-ai-edge/mediapipe",
+    "Description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 35036,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T19:16:41Z",
+    "UpdatedAt": "2026-05-02T14:41:15Z",
+    "Owner": "google-ai-edge",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "android10/Android-CleanArchitecture",
+    "Name": "Android-CleanArchitecture",
+    "Url": "https://github.com/android10/Android-CleanArchitecture",
+    "Description": "This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 15548,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-08-19T14:09:26Z",
+    "UpdatedAt": "2026-05-02T09:59:37Z",
+    "Owner": "android10",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZHENFENG13/My-Blog",
+    "Name": "My-Blog",
+    "Url": "https://github.com/ZHENFENG13/My-Blog",
+    "Description": ":palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3888,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-04T09:17:00Z",
+    "UpdatedAt": "2026-05-02T14:36:48Z",
+    "Owner": "ZHENFENG13",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huanghaibin-dev/CalendarView",
+    "Name": "CalendarView",
+    "Url": "https://github.com/huanghaibin-dev/CalendarView",
+    "Description": "RecyclerView? ListView or ViewGroup? No, it's Canvas! Ultra performance and free customization interface! Vertical and horizontal, Fast rendering and extremely low memory.  Android上一个优雅、万能自定义UI、仿iOS、自定义动画，支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，热插拔实现UI定制！Canvas绘制，渲染速度快、占用内存低，你真的想不到日历居然还可以如此优雅。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9370,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-11T07:16:09Z",
+    "UpdatedAt": "2026-05-02T10:00:33Z",
+    "Owner": "huanghaibin-dev",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AccumulateMore/CV",
+    "Name": "CV",
+    "Url": "https://github.com/AccumulateMore/CV",
+    "Description": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+    "Topics": [],
+    "Language": "Jupyter Notebook",
+    "Stars": 20588,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-31T13:19:32Z",
+    "UpdatedAt": "2026-05-02T14:46:21Z",
+    "Owner": "AccumulateMore",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Throyer/springboot-api-rest-example",
+    "Name": "springboot-api-rest-example",
+    "Url": "https://github.com/Throyer/springboot-api-rest-example",
+    "Description": "Spring Boot API RESTful with tests, swagger e JWT 🚀",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 223,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-17T00:28:32Z",
+    "UpdatedAt": "2026-04-28T07:40:33Z",
+    "Owner": "Throyer",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dianping/cat",
+    "Name": "cat",
+    "Url": "https://github.com/dianping/cat",
+    "Description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 18958,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-05T02:31:48Z",
+    "UpdatedAt": "2026-05-01T16:39:54Z",
+    "Owner": "dianping",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wushuo894/ani-rss",
+    "Name": "ani-rss",
+    "Url": "https://github.com/wushuo894/ani-rss",
+    "Description": "基于RSS自动追番、订阅、下载、刮削",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3306,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-22T14:46:56Z",
+    "UpdatedAt": "2026-05-02T15:17:34Z",
+    "Owner": "wushuo894",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arquillian/arquillian-cube",
+    "Name": "arquillian-cube",
+    "Url": "https://github.com/arquillian/arquillian-cube",
+    "Description": "Control (docker, kubernetes, openshift) containers in your tests with ease!",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 124,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-22T09:47:10Z",
+    "UpdatedAt": "2026-04-16T08:42:07Z",
+    "Owner": "arquillian",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "palantir/docker-compose-rule",
+    "Name": "docker-compose-rule",
+    "Url": "https://github.com/palantir/docker-compose-rule",
+    "Description": "A JUnit rule to manage docker containers using docker-compose",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 425,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-27T22:24:46Z",
+    "UpdatedAt": "2026-04-25T15:45:22Z",
+    "Owner": "palantir",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cryptomator/cryptomator",
+    "Name": "cryptomator",
+    "Url": "https://github.com/cryptomator/cryptomator",
+    "Description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 15041,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-02-02T00:43:47Z",
+    "UpdatedAt": "2026-05-02T10:10:34Z",
+    "Owner": "cryptomator",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CodePhiliaX/Chat2DB",
+    "Name": "Chat2DB",
+    "Url": "https://github.com/CodePhiliaX/Chat2DB",
+    "Description": "AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 25463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T14:05:26Z",
+    "UpdatedAt": "2026-05-02T17:16:31Z",
+    "Owner": "CodePhiliaX",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MisterBooo/LeetCodeAnimation",
+    "Name": "LeetCodeAnimation",
+    "Url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "Description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 76641,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-06T08:01:22Z",
+    "UpdatedAt": "2026-05-02T15:18:13Z",
+    "Owner": "MisterBooo",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hdodenhof/CircleImageView",
+    "Name": "CircleImageView",
+    "Url": "https://github.com/hdodenhof/CircleImageView",
+    "Description": "A circular ImageView for Android",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 14520,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-17T16:44:46Z",
+    "UpdatedAt": "2026-05-02T09:59:28Z",
+    "Owner": "hdodenhof",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Blankj/AndroidUtilCode",
+    "Name": "AndroidUtilCode",
+    "Url": "https://github.com/Blankj/AndroidUtilCode",
+    "Description": ":fire: Android developers should collect the following utils(updating).",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 33682,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-30T18:18:32Z",
+    "UpdatedAt": "2026-05-02T10:00:20Z",
+    "Owner": "Blankj",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yangzongzhuan/RuoYi-Cloud",
+    "Name": "RuoYi-Cloud",
+    "Url": "https://github.com/yangzongzhuan/RuoYi-Cloud",
+    "Description": ":tada: (RuoYi)官方仓库 基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1688,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-25T04:04:33Z",
+    "UpdatedAt": "2026-04-30T07:21:26Z",
+    "Owner": "yangzongzhuan",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GoogleContainerTools/jib",
+    "Name": "jib",
+    "Url": "https://github.com/GoogleContainerTools/jib",
+    "Description": "🏗 Build container images for your Java applications.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 14385,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-22T18:30:43Z",
+    "UpdatedAt": "2026-05-02T14:05:09Z",
+    "Owner": "GoogleContainerTools",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pytorch/vision",
+    "Name": "vision",
+    "Url": "https://github.com/pytorch/vision",
+    "Description": "Datasets, Transforms and Models specific to Computer Vision",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 17655,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-09T23:11:43Z",
+    "UpdatedAt": "2026-05-02T13:02:07Z",
+    "Owner": "pytorch",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "clojure/clojure",
+    "Name": "clojure",
+    "Url": "https://github.com/clojure/clojure",
+    "Description": "The Clojure programming language",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 10871,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-06-29T20:03:33Z",
+    "UpdatedAt": "2026-05-02T15:16:17Z",
+    "Owner": "clojure",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jonashackt/spring-boot-vuejs",
+    "Name": "spring-boot-vuejs",
+    "Url": "https://github.com/jonashackt/spring-boot-vuejs",
+    "Description": "Example project showing how to build a Spring Boot App providing a GUI with Vue.js",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2126,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-11T09:42:52Z",
+    "UpdatedAt": "2026-05-01T15:56:10Z",
+    "Owner": "jonashackt",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agonyforge/arbitrader",
+    "Name": "arbitrader",
+    "Url": "https://github.com/agonyforge/arbitrader",
+    "Description": "A market neutral cryptocurrency trading bot.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 189,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-10T02:13:05Z",
+    "UpdatedAt": "2026-04-20T02:00:55Z",
+    "Owner": "agonyforge",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ArthurHub/Android-Image-Cropper",
+    "Name": "Android-Image-Cropper",
+    "Url": "https://github.com/ArthurHub/Android-Image-Cropper",
+    "Description": "Image Cropping Library for Android, optimized for Camera / Gallery.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6425,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-15T10:49:37Z",
+    "UpdatedAt": "2026-04-22T14:45:23Z",
+    "Owner": "ArthurHub",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mohamed-taman/Springy-Store-Microservices",
+    "Name": "Springy-Store-Microservices",
+    "Url": "https://github.com/mohamed-taman/Springy-Store-Microservices",
+    "Description": "Springy Store is a conceptual simple μServices-based project using the latest cutting-edge technologies, to demonstrate how the Store services are created to be a cloud-native and 12-factor app agnostic. Those μServices are developed based on Spring Boot & Cloud framework that implements cloud-native intuitive, design patterns, and best practices.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-29T00:34:49Z",
+    "UpdatedAt": "2026-04-20T08:55:51Z",
+    "Owner": "mohamed-taman",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bytedeco/sbt-javacv",
+    "Name": "sbt-javacv",
+    "Url": "https://github.com/bytedeco/sbt-javacv",
+    "Description": "Start using OpenCV in your JVM project in just 1 line, no separate compiling, installing OpenCV, or fussing with your system required",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 93,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-20T10:10:42Z",
+    "UpdatedAt": "2026-03-16T13:57:47Z",
+    "Owner": "bytedeco",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ben-manes/caffeine",
+    "Name": "caffeine",
+    "Url": "https://github.com/ben-manes/caffeine",
+    "Description": "A high performance caching library for Java",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 17632,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-12-13T08:45:11Z",
+    "UpdatedAt": "2026-05-02T16:31:34Z",
+    "Owner": "ben-manes",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "forezp/SpringCloudLearning",
+    "Name": "SpringCloudLearning",
+    "Url": "https://github.com/forezp/SpringCloudLearning",
+    "Description": "《史上最简单的Spring Cloud教程源码》",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 17965,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-08T10:06:56Z",
+    "UpdatedAt": "2026-05-01T04:44:29Z",
+    "Owner": "forezp",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AwakenCN/Almost-Famous",
+    "Name": "Almost-Famous",
+    "Url": "https://github.com/AwakenCN/Almost-Famous",
+    "Description": ":star2: Almost-Famous(成名之路) ——卡牌游戏开源项目，架构使用SpringBoot+Netty+Maven+SpringCloud来搭建多进程分布式框架，包括Cloud、Unique、Login、Game、Match、Battle 等服务。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-05T06:54:58Z",
+    "UpdatedAt": "2026-04-03T03:08:59Z",
+    "Owner": "AwakenCN",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vzakharchenko/keycloak-radius-plugin",
+    "Name": "keycloak-radius-plugin",
+    "Url": "https://github.com/vzakharchenko/keycloak-radius-plugin",
+    "Description": "Make the radius server as part of keycloak SSO",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 243,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-10T07:43:15Z",
+    "UpdatedAt": "2026-04-14T02:32:58Z",
+    "Owner": "vzakharchenko",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "in28minutes/spring-microservices",
+    "Name": "spring-microservices",
+    "Url": "https://github.com/in28minutes/spring-microservices",
+    "Description": "OLD - Microservices using Spring Boot, Spring Cloud, Docker and Kubernetes. Replaced by https://github.com/in28minutes/spring-microservices-v3",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1867,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T13:24:37Z",
+    "UpdatedAt": "2026-05-01T15:56:10Z",
+    "Owner": "in28minutes",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "Name": "GitHub-Chinese-Top-Charts",
+    "Url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "Description": ":cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 107799,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-05T03:01:56Z",
+    "UpdatedAt": "2026-05-02T16:48:30Z",
+    "Owner": "GrowingGit",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jarvis2f/telegram-files",
+    "Name": "telegram-files",
+    "Url": "https://github.com/jarvis2f/telegram-files",
+    "Description": "A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2245,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-21T03:49:33Z",
+    "UpdatedAt": "2026-05-02T07:21:24Z",
+    "Owner": "jarvis2f",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [],
+    "Language": "Jupyter Notebook",
+    "Stars": 47123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-02T16:55:07Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sqshq/piggymetrics",
+    "Name": "piggymetrics",
+    "Url": "https://github.com/sqshq/piggymetrics",
+    "Description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 13904,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-29T17:56:31Z",
+    "UpdatedAt": "2026-05-01T21:15:03Z",
+    "Owner": "sqshq",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "graphdeco-inria/gaussian-splatting",
+    "Name": "gaussian-splatting",
+    "Url": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "Description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 21624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-04T07:51:38Z",
+    "UpdatedAt": "2026-05-02T15:01:46Z",
+    "Owner": "graphdeco-inria",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "MaaAssistantArknights/MaaAssistantArknights",
+    "Name": "MaaAssistantArknights",
+    "Url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+    "Description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 20557,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-09T18:26:38Z",
+    "UpdatedAt": "2026-05-02T17:36:23Z",
+    "Owner": "MaaAssistantArknights",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "anupsarkar-dev/ExoVisix",
+    "Name": "ExoVisix",
+    "Url": "https://github.com/anupsarkar-dev/ExoVisix",
+    "Description": "Auto Attendance System Using Real Time Face Recognition With Various Computer Vision & Machine Learning Tools",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-08T13:08:38Z",
+    "UpdatedAt": "2026-03-21T17:06:13Z",
+    "Owner": "anupsarkar-dev",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alicevision/Meshroom",
+    "Name": "Meshroom",
+    "Url": "https://github.com/alicevision/Meshroom",
+    "Description": "Node-based Visual Programming Toolbox",
+    "Topics": [],
+    "Language": "QML",
+    "Stars": 12701,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-04-22T17:33:16Z",
+    "UpdatedAt": "2026-05-02T14:39:12Z",
+    "Owner": "alicevision",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 56678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-02T17:45:42Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "seart-group/ghs",
+    "Name": "ghs",
+    "Url": "https://github.com/seart-group/ghs",
+    "Description": "GitHub Search: Platform used to crawl, store and present projects from GitHub, as well as any statistics related to them",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-28T22:34:55Z",
+    "UpdatedAt": "2026-04-30T17:58:45Z",
+    "Owner": "seart-group",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FaceOnLive/Face-Liveness-Detection-SDK-Android",
+    "Name": "Face-Liveness-Detection-SDK-Android",
+    "Url": "https://github.com/FaceOnLive/Face-Liveness-Detection-SDK-Android",
+    "Description": "Robust, Realtime, On-Device Face Liveness Detection (Face Anti Spoofing) Android",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 220,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-04T16:35:47Z",
+    "UpdatedAt": "2026-03-08T22:22:42Z",
+    "Owner": "FaceOnLive",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davidsandberg/facenet",
+    "Name": "facenet",
+    "Url": "https://github.com/davidsandberg/facenet",
+    "Description": "Face recognition using Tensorflow",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 14319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-12T22:14:40Z",
+    "UpdatedAt": "2026-05-01T21:35:48Z",
+    "Owner": "davidsandberg",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "guoguibing/librec",
+    "Name": "librec",
+    "Url": "https://github.com/guoguibing/librec",
+    "Description": "LibRec: A Leading Java Library for Recommender Systems, see",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3259,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-09T16:06:11Z",
+    "UpdatedAt": "2026-04-29T11:35:11Z",
+    "Owner": "guoguibing",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "inspectIT/inspectIT",
+    "Name": "inspectIT",
+    "Url": "https://github.com/inspectIT/inspectIT",
+    "Description": "(UNMAINTAINED) inspectIT is the leading Open Source APM (Application Performance Management) tool for analyzing your Java (EE) applications.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 541,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-01-19T15:14:27Z",
+    "UpdatedAt": "2026-04-17T06:54:39Z",
+    "Owner": "inspectIT",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Media-tv/Android",
+    "Name": "Android",
+    "Url": "https://github.com/Media-tv/Android",
+    "Description": "Plex is the best leading subscription service for watching TV episodes and movies on your phone. This plex mobile application delivers the best experience anywhere, anytime.  Get the free app as a part of your plex membership and you can instantly watch thousands of TV episodes & movies on your phone.   If you are not a plex member sign up for plex and start enjoying immediately on your phone with our one-month free trial.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 83,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-02T16:03:49Z",
+    "UpdatedAt": "2026-03-29T21:28:26Z",
+    "Owner": "Media-tv",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tahaemara/real-time-distance-measurement",
+    "Name": "real-time-distance-measurement",
+    "Url": "https://github.com/tahaemara/real-time-distance-measurement",
+    "Description": "Real-time Distance Measurement Using Single Image",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 56,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-10T19:39:48Z",
+    "UpdatedAt": "2025-09-20T16:02:48Z",
+    "Owner": "tahaemara",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ludwig-ai/ludwig",
+    "Name": "ludwig",
+    "Url": "https://github.com/ludwig-ai/ludwig",
+    "Description": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11682,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-27T23:58:12Z",
+    "UpdatedAt": "2026-05-02T09:20:14Z",
+    "Owner": "ludwig-ai",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zalandoresearch/fashion-mnist",
+    "Name": "fashion-mnist",
+    "Url": "https://github.com/zalandoresearch/fashion-mnist",
+    "Description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 12723,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-25T12:05:15Z",
+    "UpdatedAt": "2026-05-02T16:15:44Z",
+    "Owner": "zalandoresearch",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wkrzywiec/library-hexagonal",
+    "Name": "library-hexagonal",
+    "Url": "https://github.com/wkrzywiec/library-hexagonal",
+    "Description": "An example application written in Hexagonal (Ports and Adapter) architecture",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 279,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-29T18:41:36Z",
+    "UpdatedAt": "2026-04-19T11:01:09Z",
+    "Owner": "wkrzywiec",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cuongnh28/spring-microservices-blueprint",
+    "Name": "spring-microservices-blueprint",
+    "Url": "https://github.com/cuongnh28/spring-microservices-blueprint",
+    "Description": "Java Spring Boot microservices stack (PostgreSQL, Kafka, Elasticsearch, Kibana, Fluentd, JWT Auth, Swagger) — easily build & run all services in two commands.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 141,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-16T10:40:06Z",
+    "UpdatedAt": "2026-04-27T13:23:11Z",
+    "Owner": "cuongnh28",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "supertokens/supertokens-core",
+    "Name": "supertokens-core",
+    "Url": "https://github.com/supertokens/supertokens-core",
+    "Description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito ",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 15027,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-05T13:30:52Z",
+    "UpdatedAt": "2026-05-02T16:21:04Z",
+    "Owner": "supertokens",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CMU-Perceptual-Computing-Lab/openpose",
+    "Name": "openpose",
+    "Url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "Description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 34056,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-24T14:06:31Z",
+    "UpdatedAt": "2026-05-02T05:32:30Z",
+    "Owner": "CMU-Perceptual-Computing-Lab",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "daggerok/streaming-file-server",
+    "Name": "streaming-file-server",
+    "Url": "https://github.com/daggerok/streaming-file-server",
+    "Description": "full-stack java file server with no limitation for files uploads and downloads: spring-boot + Gradle Kotlin DSL, postgres / h2, apache fileUpload, lombok, mustache, docker, jgiven, powermock, gradle, CI, bootstrap 4, bootstrap-filelinput, webjars, maven github-release-plugin, nginx, haproxy, reverse-proxy",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 88,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-27T23:21:49Z",
+    "UpdatedAt": "2026-04-20T08:01:13Z",
+    "Owner": "daggerok",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nerfstudio-project/nerfstudio",
+    "Name": "nerfstudio",
+    "Url": "https://github.com/nerfstudio-project/nerfstudio",
+    "Description": "A collaboration friendly studio for NeRFs",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11507,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-31T18:17:37Z",
+    "UpdatedAt": "2026-05-02T14:37:37Z",
+    "Owner": "nerfstudio-project",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall-tiny",
+    "Name": "mall-tiny",
+    "Url": "https://github.com/macrozheng/mall-tiny",
+    "Description": "mall-tiny是一款基于SpringBoot+MyBatis-Plus的快速开发脚手架，拥有完整的权限管理功能，可对接Vue前端，开箱即用。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2082,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-10T02:03:02Z",
+    "UpdatedAt": "2026-05-01T03:04:46Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "brettwooldridge/HikariCP",
+    "Name": "HikariCP",
+    "Url": "https://github.com/brettwooldridge/HikariCP",
+    "Description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 21108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-10-08T05:43:03Z",
+    "UpdatedAt": "2026-05-02T14:59:13Z",
+    "Owner": "brettwooldridge",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oxylabs/shein-scraper",
+    "Name": "shein-scraper",
+    "Url": "https://github.com/oxylabs/shein-scraper",
+    "Description": "The Shein Scraper API is a powerful tool for extracting product data from Shein, a leading international e-commerce platform. Easily retrieve product details, pricing, and reviews for analysis.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-18T10:36:15Z",
+    "UpdatedAt": "2026-04-27T02:51:01Z",
+    "Owner": "oxylabs",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deeplearning4j/deeplearning4j",
+    "Name": "deeplearning4j",
+    "Url": "https://github.com/deeplearning4j/deeplearning4j",
+    "Description": "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 14228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-11-27T02:03:28Z",
+    "UpdatedAt": "2026-05-01T20:22:33Z",
+    "Owner": "deeplearning4j",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rerun-io/rerun",
+    "Name": "rerun",
+    "Url": "https://github.com/rerun-io/rerun",
+    "Description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data",
+    "Topics": [],
+    "Language": "Rust",
+    "Stars": 10626,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-08T07:30:05Z",
+    "UpdatedAt": "2026-05-02T16:13:33Z",
+    "Owner": "rerun-io",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "macrozheng/mall",
+    "Name": "mall",
+    "Url": "https://github.com/macrozheng/mall",
+    "Description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 83530,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-04T01:11:44Z",
+    "UpdatedAt": "2026-05-02T15:16:44Z",
+    "Owner": "macrozheng",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ReactVision/viro",
+    "Name": "viro",
+    "Url": "https://github.com/ReactVision/viro",
+    "Description": "ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1765,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-27T00:40:37Z",
+    "UpdatedAt": "2026-05-01T23:44:47Z",
+    "Owner": "ReactVision",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/cassandra",
+    "Name": "cassandra",
+    "Url": "https://github.com/apache/cassandra",
+    "Description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-05-21T02:10:09Z",
+    "UpdatedAt": "2026-05-01T12:53:03Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/spring-cloud-alibaba",
+    "Name": "spring-cloud-alibaba",
+    "Url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "Description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 29104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-01T20:49:15Z",
+    "UpdatedAt": "2026-05-02T14:41:11Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "YunaiV/yudao-cloud",
+    "Name": "yudao-cloud",
+    "Url": "https://github.com/YunaiV/yudao-cloud",
+    "Description": "ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 18877,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-02T16:06:49Z",
+    "UpdatedAt": "2026-05-02T11:31:37Z",
+    "Owner": "YunaiV",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HumanSignal/label-studio",
+    "Name": "label-studio",
+    "Url": "https://github.com/HumanSignal/label-studio",
+    "Description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+    "Topics": [],
+    "Language": "TypeScript",
+    "Stars": 27190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-19T02:00:44Z",
+    "UpdatedAt": "2026-05-02T17:00:17Z",
+    "Owner": "HumanSignal",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "WPIRoboticsProjects/GRIP",
+    "Name": "GRIP",
+    "Url": "https://github.com/WPIRoboticsProjects/GRIP",
+    "Description": "Program for rapidly developing computer vision applications",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 390,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-27T18:59:07Z",
+    "UpdatedAt": "2026-04-28T20:40:21Z",
+    "Owner": "WPIRoboticsProjects",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PhotonVision/photonvision",
+    "Name": "photonvision",
+    "Url": "https://github.com/PhotonVision/photonvision",
+    "Description": "PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-27T18:30:21Z",
+    "UpdatedAt": "2026-05-02T09:18:54Z",
+    "Owner": "PhotonVision",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "stacksimplify/docker-in-a-weekend",
+    "Name": "docker-in-a-weekend",
+    "Url": "https://github.com/stacksimplify/docker-in-a-weekend",
+    "Description": "Docker in a Weekend: 40 Practical Demos for DevOps Learners",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 88,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-11T11:46:10Z",
+    "UpdatedAt": "2026-04-16T11:48:26Z",
+    "Owner": "stacksimplify",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Yalantis/uCrop",
+    "Name": "uCrop",
+    "Url": "https://github.com/Yalantis/uCrop",
+    "Description": "Image Cropping Library for Android",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 12091,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-05T13:41:06Z",
+    "UpdatedAt": "2026-04-30T14:59:32Z",
+    "Owner": "Yalantis",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "checkstyle/checkstyle",
+    "Name": "checkstyle",
+    "Url": "https://github.com/checkstyle/checkstyle",
+    "Description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 8934,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-08-31T02:05:05Z",
+    "UpdatedAt": "2026-05-02T11:02:23Z",
+    "Owner": "checkstyle",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ityouknow/spring-boot-leaning",
+    "Name": "spring-boot-leaning",
+    "Url": "https://github.com/ityouknow/spring-boot-leaning",
+    "Description": "Spring Boot 2.X 最全课程代码",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2097,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-30T09:37:28Z",
+    "UpdatedAt": "2026-04-25T17:19:07Z",
+    "Owner": "ityouknow",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sensifai/Mobile_Image-Video_Enhancement",
+    "Name": "Mobile_Image-Video_Enhancement",
+    "Url": "https://github.com/sensifai/Mobile_Image-Video_Enhancement",
+    "Description": "Sensifai image and video enhancement module on mobiles",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 66,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-18T07:45:48Z",
+    "UpdatedAt": "2026-01-08T13:21:50Z",
+    "Owner": "sensifai",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/CycleGAN",
+    "Name": "CycleGAN",
+    "Url": "https://github.com/junyanz/CycleGAN",
+    "Description": "Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.",
+    "Topics": [],
+    "Language": "Lua",
+    "Stars": 12856,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-30T15:56:21Z",
+    "UpdatedAt": "2026-04-29T14:30:53Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bmuschko/gradle-docker-plugin",
+    "Name": "gradle-docker-plugin",
+    "Url": "https://github.com/bmuschko/gradle-docker-plugin",
+    "Description": "Gradle plugin for managing Docker images and containers.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1240,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-08T21:35:02Z",
+    "UpdatedAt": "2026-04-11T09:28:57Z",
+    "Owner": "bmuschko",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 21481,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-02T15:54:32Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "adaline-ankit/Fitness-Trainer-Application",
+    "Name": "Fitness-Trainer-Application",
+    "Url": "https://github.com/adaline-ankit/Fitness-Trainer-Application",
+    "Description": "An AI-Driven fitness mobile application that provides real-time feedback. Works on the Meidapipe Pose Estimation Model and Tensorflow Pose Classification Models. The main Functionality of the application is to provide correct real-time feedback to the user about the Correct Posture for more than 7 exercises and Yoga Poses and also keep a Repetition count.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 51,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-21T08:48:35Z",
+    "UpdatedAt": "2026-04-26T22:15:19Z",
+    "Owner": "adaline-ankit",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oleg-sta/MakeUp",
+    "Name": "MakeUp",
+    "Url": "https://github.com/oleg-sta/MakeUp",
+    "Description": "Android application that uses Virtual Reality effect: put makeup on the face from camera in real time.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-18T10:55:53Z",
+    "UpdatedAt": "2026-04-09T08:58:33Z",
+    "Owner": "oleg-sta",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "felipewind/fix-trading-simulator",
+    "Name": "fix-trading-simulator",
+    "Url": "https://github.com/felipewind/fix-trading-simulator",
+    "Description": "A trading simulator between a Broker and a Stock Exchange using the Financial Information eXchange (FIX) Protocol. It's a study project using QuickFIX/J, Quarkus, Angular, Docker, Docker Compose and PostgreSQL.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-08T23:32:39Z",
+    "UpdatedAt": "2026-03-03T22:17:36Z",
+    "Owner": "felipewind",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spring-petclinic/spring-petclinic-microservices",
+    "Name": "spring-petclinic-microservices",
+    "Url": "https://github.com/spring-petclinic/spring-petclinic-microservices",
+    "Description": "Distributed version of Spring Petclinic built with Spring Cloud",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2108,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-12T14:57:30Z",
+    "UpdatedAt": "2026-05-02T15:05:44Z",
+    "Owner": "spring-petclinic",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cvat-ai/cvat",
+    "Name": "cvat",
+    "Url": "https://github.com/cvat-ai/cvat",
+    "Description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 15755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T14:02:45Z",
+    "UpdatedAt": "2026-05-02T13:31:04Z",
+    "Owner": "cvat-ai",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dromara/MaxKey",
+    "Name": "MaxKey",
+    "Url": "https://github.com/dromara/MaxKey",
+    "Description": "Dromara MaxKey 🗝️ SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1878,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-16T03:06:50Z",
+    "UpdatedAt": "2026-05-02T10:25:54Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "networknt/light-4j",
+    "Name": "light-4j",
+    "Url": "https://github.com/networknt/light-4j",
+    "Description": "A fast, lightweight and more productive microservices framework",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3680,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-09T22:28:14Z",
+    "UpdatedAt": "2026-04-30T08:28:24Z",
+    "Owner": "networknt",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "imagej/ImageJ",
+    "Name": "ImageJ",
+    "Url": "https://github.com/imagej/ImageJ",
+    "Description": "Public domain software for processing and analyzing scientific images",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 749,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-08-01T12:29:11Z",
+    "UpdatedAt": "2026-04-26T20:14:17Z",
+    "Owner": "imagej",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dromara/Jpom",
+    "Name": "Jpom",
+    "Url": "https://github.com/dromara/Jpom",
+    "Description": "【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1907,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-04T05:38:56Z",
+    "UpdatedAt": "2026-05-01T17:45:45Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "laigeoffer/pmhub",
+    "Name": "pmhub",
+    "Url": "https://github.com/laigeoffer/pmhub",
+    "Description": "PmHub，一个基于 SpringCloud & LLM 的智能项目管理系统，该项目旨在帮助小伙伴们快速掌握微服务/分布式项目的架构设计和开发流程。如果你想在校招或者社招中拿到一个满意的 offer，PmHub 将是一个非常 nice 的选择😄。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 552,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-02T17:29:16Z",
+    "UpdatedAt": "2026-04-25T08:59:03Z",
+    "Owner": "laigeoffer",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/COLA",
+    "Name": "COLA",
+    "Url": "https://github.com/alibaba/COLA",
+    "Description": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 12936,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-06T13:46:27Z",
+    "UpdatedAt": "2026-05-01T03:37:35Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/jspwiki",
+    "Name": "jspwiki",
+    "Url": "https://github.com/apache/jspwiki",
+    "Description": "Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP)",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 115,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2009-03-27T15:41:58Z",
+    "UpdatedAt": "2026-04-25T16:06:10Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jetlinks/jetlinks-community",
+    "Name": "jetlinks-community",
+    "Url": "https://github.com/jetlinks/jetlinks-community",
+    "Description": "JetLinks  基于Java,Spring Boot ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6471,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-02T07:27:34Z",
+    "UpdatedAt": "2026-05-02T03:35:12Z",
+    "Owner": "jetlinks",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aws-containers/retail-store-sample-app",
+    "Name": "retail-store-sample-app",
+    "Url": "https://github.com/aws-containers/retail-store-sample-app",
+    "Description": "💼 Sample application for demonstrating container platforms and related technology",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 557,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-04T16:30:46Z",
+    "UpdatedAt": "2026-05-01T13:27:01Z",
+    "Owner": "aws-containers",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FlowCI/flow-core-x",
+    "Name": "flow-core-x",
+    "Url": "https://github.com/FlowCI/flow-core-x",
+    "Description": "Powerful and user-friendly CI/CD server with high availability, parallel processing, runner auto-scaling ",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1646,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-03T07:03:17Z",
+    "UpdatedAt": "2026-04-16T08:07:38Z",
+    "Owner": "FlowCI",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qubvel-org/segmentation_models.pytorch",
+    "Name": "segmentation_models.pytorch",
+    "Url": "https://github.com/qubvel-org/segmentation_models.pytorch",
+    "Description": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11522,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-01T16:21:21Z",
+    "UpdatedAt": "2026-05-02T16:54:54Z",
+    "Owner": "qubvel-org",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nashtech-garage/yas",
+    "Name": "yas",
+    "Url": "https://github.com/nashtech-garage/yas",
+    "Description": "YAS: Yet Another Shop, a sample microservices project in Java",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1955,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-18T02:29:43Z",
+    "UpdatedAt": "2026-05-02T16:52:29Z",
+    "Owner": "nashtech-garage",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkrzywiec/kanban-board",
+    "Name": "kanban-board",
+    "Url": "https://github.com/wkrzywiec/kanban-board",
+    "Description": "Single-click full-stack application (Postgres, Spring Boot & Angular) using Docker Compose",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 192,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-28T16:01:05Z",
+    "UpdatedAt": "2026-04-29T11:29:04Z",
+    "Owner": "wkrzywiec",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "conductor-oss/conductor",
+    "Name": "conductor",
+    "Url": "https://github.com/conductor-oss/conductor",
+    "Description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 31747,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-08T06:06:09Z",
+    "UpdatedAt": "2026-05-02T16:27:16Z",
+    "Owner": "conductor-oss",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apereo/cas",
+    "Name": "cas",
+    "Url": "https://github.com/apereo/cas",
+    "Description": "Apereo CAS - Identity & Single Sign On for all earthlings and beyond.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 11322,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-09-09T01:36:42Z",
+    "UpdatedAt": "2026-05-02T12:26:55Z",
+    "Owner": "apereo",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kmario23/deep-learning-drizzle",
+    "Name": "deep-learning-drizzle",
+    "Url": "https://github.com/kmario23/deep-learning-drizzle",
+    "Description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+    "Topics": [],
+    "Language": "HTML",
+    "Stars": 12807,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T01:17:36Z",
+    "UpdatedAt": "2026-05-01T21:38:20Z",
+    "Owner": "kmario23",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lucidrains/vit-pytorch",
+    "Name": "vit-pytorch",
+    "Url": "https://github.com/lucidrains/vit-pytorch",
+    "Description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 25137,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T22:47:24Z",
+    "UpdatedAt": "2026-05-02T06:00:48Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "haifengl/smile",
+    "Name": "smile",
+    "Url": "https://github.com/haifengl/smile",
+    "Description": "Statistical Machine Intelligence & Learning Engine",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6368,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-20T16:28:12Z",
+    "UpdatedAt": "2026-05-01T18:16:29Z",
+    "Owner": "haifengl",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ddev/ddev-intellij-plugin",
+    "Name": "ddev-intellij-plugin",
+    "Url": "https://github.com/ddev/ddev-intellij-plugin",
+    "Description": "DDEV Integration for JetBrains IDEs",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-30T12:01:04Z",
+    "UpdatedAt": "2026-03-25T20:04:44Z",
+    "Owner": "ddev",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aeron-io/aeron",
+    "Name": "aeron",
+    "Url": "https://github.com/aeron-io/aeron",
+    "Description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 8610,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-02-07T17:16:58Z",
+    "UpdatedAt": "2026-05-02T13:17:35Z",
+    "Owner": "aeron-io",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xpipe-io/xpipe",
+    "Name": "xpipe",
+    "Url": "https://github.com/xpipe-io/xpipe",
+    "Description": "Access your entire server infrastructure from your local desktop",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 14048,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-27T02:25:38Z",
+    "UpdatedAt": "2026-05-02T06:43:03Z",
+    "Owner": "xpipe-io",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 25105,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-02T08:14:16Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bezkoder/docker-compose-spring-boot-mysql",
+    "Name": "docker-compose-spring-boot-mysql",
+    "Url": "https://github.com/bezkoder/docker-compose-spring-boot-mysql",
+    "Description": "Dockerize Spring Boot and MySQL example - using Docker Compose to connect Spring Boot to MySQL",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 85,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-19T03:02:39Z",
+    "UpdatedAt": "2026-01-31T15:19:54Z",
+    "Owner": "bezkoder",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rosehgal/TrashEmail",
+    "Name": "TrashEmail",
+    "Url": "https://github.com/rosehgal/TrashEmail",
+    "Description": "A hosted disposable email telegram bot; Extremely privacy friendly; Proudly hosted for community.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 565,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-07T09:01:31Z",
+    "UpdatedAt": "2026-04-02T06:14:09Z",
+    "Owner": "rosehgal",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "doocs/source-code-hunter",
+    "Name": "source-code-hunter",
+    "Url": "https://github.com/doocs/source-code-hunter",
+    "Description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 23131,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-28T01:35:10Z",
+    "UpdatedAt": "2026-05-02T06:21:32Z",
+    "Owner": "doocs",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PointCloudLibrary/pcl",
+    "Name": "pcl",
+    "Url": "https://github.com/PointCloudLibrary/pcl",
+    "Description": "Point Cloud Library (PCL)",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 10974,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-12T16:40:25Z",
+    "UpdatedAt": "2026-05-02T13:08:49Z",
+    "Owner": "PointCloudLibrary",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dependency-check/DependencyCheck",
+    "Name": "DependencyCheck",
+    "Url": "https://github.com/dependency-check/DependencyCheck",
+    "Description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 7529,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-03T20:43:30Z",
+    "UpdatedAt": "2026-05-01T11:59:38Z",
+    "Owner": "dependency-check",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rapiddweller/rapiddweller-benerator-ce",
+    "Name": "rapiddweller-benerator-ce",
+    "Url": "https://github.com/rapiddweller/rapiddweller-benerator-ce",
+    "Description": "BENERATOR is a leading software solution to generate, obfuscate, pseudonymize and migrate data for development, testing, and training purposes with a model-driven approach.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 158,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-20T12:13:30Z",
+    "UpdatedAt": "2026-03-24T11:19:37Z",
+    "Owner": "rapiddweller",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eugeneyan/applied-ml",
+    "Name": "applied-ml",
+    "Url": "https://github.com/eugeneyan/applied-ml",
+    "Description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "Topics": [],
+    "Language": "",
+    "Stars": 28792,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-04T18:57:47Z",
+    "UpdatedAt": "2026-05-02T00:44:13Z",
+    "Owner": "eugeneyan",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JetBrains/intellij-community",
+    "Name": "intellij-community",
+    "Url": "https://github.com/JetBrains/intellij-community",
+    "Description": "IntelliJ IDEA & IntelliJ Platform",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 20051,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-09-30T13:33:05Z",
+    "UpdatedAt": "2026-05-02T17:44:06Z",
+    "Owner": "JetBrains",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bolo-blog/bolo-solo",
+    "Name": "bolo-solo",
+    "Url": "https://github.com/bolo-blog/bolo-solo",
+    "Description": "🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Linux  MacOS  Web容器 | 支持ARM处理器  X86/64处理器 | 🚚支持从Solo轻松迁移",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1344,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-28T13:27:48Z",
+    "UpdatedAt": "2026-04-25T20:11:05Z",
+    "Owner": "bolo-blog",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bonigarcia/webdrivermanager",
+    "Name": "webdrivermanager",
+    "Url": "https://github.com/bonigarcia/webdrivermanager",
+    "Description": "Automated driver management and other helper features for Selenium WebDriver in Java",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2685,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-15T19:52:36Z",
+    "UpdatedAt": "2026-04-30T08:13:56Z",
+    "Owner": "bonigarcia",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Rapter1990/SpringBootMicroservices",
+    "Name": "SpringBootMicroservices",
+    "Url": "https://github.com/Rapter1990/SpringBootMicroservices",
+    "Description": "Spring Boot Microservice Example(Eureka Server, Config Server, API Gateway, Services , RabbitMq, Keycloak)",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 154,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-23T11:38:47Z",
+    "UpdatedAt": "2026-04-26T23:42:20Z",
+    "Owner": "Rapter1990",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dyc87112/SpringCloud-Learning",
+    "Name": "SpringCloud-Learning",
+    "Url": "https://github.com/dyc87112/SpringCloud-Learning",
+    "Description": "Spring Cloud基础教程，持续连载更新中",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 7391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-08-21T03:39:52Z",
+    "UpdatedAt": "2026-05-02T14:29:39Z",
+    "Owner": "dyc87112",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microg/GmsCore",
+    "Name": "GmsCore",
+    "Url": "https://github.com/microg/GmsCore",
+    "Description": "Free implementation of Play Services",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 13125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-23T19:28:47Z",
+    "UpdatedAt": "2026-05-02T11:20:58Z",
+    "Owner": "microg",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "davisking/dlib",
+    "Name": "dlib",
+    "Url": "https://github.com/davisking/dlib",
+    "Description": "A toolkit for making real world machine learning and data analysis applications in C++",
+    "Topics": [],
+    "Language": "C++",
+    "Stars": 14372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-01-29T00:45:33Z",
+    "UpdatedAt": "2026-05-01T22:39:28Z",
+    "Owner": "davisking",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NVlabs/instant-ngp",
+    "Name": "instant-ngp",
+    "Url": "https://github.com/NVlabs/instant-ngp",
+    "Description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "Topics": [],
+    "Language": "Cuda",
+    "Stars": 17374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-05T17:11:30Z",
+    "UpdatedAt": "2026-05-02T16:49:43Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "testcontainers/testcontainers-java",
+    "Name": "testcontainers-java",
+    "Url": "https://github.com/testcontainers/testcontainers-java",
+    "Description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 8633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-04-12T12:44:59Z",
+    "UpdatedAt": "2026-05-02T14:37:26Z",
+    "Owner": "testcontainers",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50",
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fabric8io/docker-maven-plugin",
+    "Name": "docker-maven-plugin",
+    "Url": "https://github.com/fabric8io/docker-maven-plugin",
+    "Description": "Maven plugin for running and creating Docker images",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1929,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-03-26T06:10:05Z",
+    "UpdatedAt": "2026-05-02T09:05:01Z",
+    "Owner": "fabric8io",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "screenpipe/screenpipe",
+    "Name": "screenpipe",
+    "Url": "https://github.com/screenpipe/screenpipe",
+    "Description": "Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era",
+    "Topics": [],
+    "Language": "Rust",
+    "Stars": 18492,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-19T13:23:56Z",
+    "UpdatedAt": "2026-05-02T16:57:37Z",
+    "Owner": "screenpipe",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "RestComm/sip-servlets",
+    "Name": "sip-servlets",
+    "Url": "https://github.com/RestComm/sip-servlets",
+    "Description": "Leading SIP - IMS - WebRTC Application Server",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 252,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-17T14:07:17Z",
+    "UpdatedAt": "2026-04-26T16:04:31Z",
+    "Owner": "RestComm",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zq2599/blog_demos",
+    "Name": "blog_demos",
+    "Url": "https://github.com/zq2599/blog_demos",
+    "Description": "CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 4757,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-09T04:51:56Z",
+    "UpdatedAt": "2026-05-02T10:00:35Z",
+    "Owner": "zq2599",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eszdman/PhotonCamera",
+    "Name": "PhotonCamera",
+    "Url": "https://github.com/eszdman/PhotonCamera",
+    "Description": "Android Camera that uses Enhanced image processing",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 999,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-07T22:03:02Z",
+    "UpdatedAt": "2026-05-02T11:28:06Z",
+    "Owner": "eszdman",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hellokoding/dockercompose-springboot-mysql-nginx",
+    "Name": "dockercompose-springboot-mysql-nginx",
+    "Url": "https://github.com/hellokoding/dockercompose-springboot-mysql-nginx",
+    "Description": "Docker Compose with Spring Boot, MySQL and NGINX",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-09T15:16:56Z",
+    "UpdatedAt": "2026-05-01T10:06:29Z",
+    "Owner": "hellokoding",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/atlas",
+    "Name": "atlas",
+    "Url": "https://github.com/apache/atlas",
+    "Description": "Apache Atlas - Open Metadata Management and Governance capabilities across the Hadoop platform and beyond",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2094,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-07-22T07:00:08Z",
+    "UpdatedAt": "2026-05-02T05:15:38Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "minecrafter/RedisBungee",
+    "Name": "RedisBungee",
+    "Url": "https://github.com/minecrafter/RedisBungee",
+    "Description": "The leading player synchronization system for BungeeCord",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 166,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-29T02:27:53Z",
+    "UpdatedAt": "2026-02-23T03:45:17Z",
+    "Owner": "minecrafter",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ShusenTang/Dive-into-DL-PyTorch",
+    "Name": "Dive-into-DL-PyTorch",
+    "Url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+    "Description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+    "Topics": [],
+    "Language": "Jupyter Notebook",
+    "Stars": 19379,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-21T03:45:20Z",
+    "UpdatedAt": "2026-05-02T12:58:08Z",
+    "Owner": "ShusenTang",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "chrisipa/cloud-portal",
+    "Name": "cloud-portal",
+    "Url": "https://github.com/chrisipa/cloud-portal",
+    "Description": "Self service web portal for different Cloud platforms like Azure, AWS and VMWare vSphere.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 93,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-16T12:42:30Z",
+    "UpdatedAt": "2026-04-22T10:08:37Z",
+    "Owner": "chrisipa",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PhilJay/MPAndroidChart",
+    "Name": "MPAndroidChart",
+    "Url": "https://github.com/PhilJay/MPAndroidChart",
+    "Description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 38216,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-04-25T14:29:47Z",
+    "UpdatedAt": "2026-05-02T13:56:53Z",
+    "Owner": "PhilJay",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jacobgil/pytorch-grad-cam",
+    "Name": "pytorch-grad-cam",
+    "Url": "https://github.com/jacobgil/pytorch-grad-cam",
+    "Description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 12788,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-31T19:55:15Z",
+    "UpdatedAt": "2026-05-02T14:27:16Z",
+    "Owner": "jacobgil",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "extreme-assistant/CVPR2024-Paper-Code-Interpretation",
+    "Name": "CVPR2024-Paper-Code-Interpretation",
+    "Url": "https://github.com/extreme-assistant/CVPR2024-Paper-Code-Interpretation",
+    "Description": "cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理",
+    "Topics": [],
+    "Language": "",
+    "Stars": 12492,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-26T07:53:48Z",
+    "UpdatedAt": "2026-05-02T11:14:49Z",
+    "Owner": "extreme-assistant",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "moonufo/galaxyLight",
+    "Name": "galaxyLight",
+    "Url": "https://github.com/moonufo/galaxyLight",
+    "Description": "欢迎大家完善本系统，结合目前事务处理的精华，我开发了太极分布式事务处理框架MOONWATER，采用可靠消息服务和重试、补偿处理机制，使用事件驱动、最终一致的事务模型，巧妙地运用数据库的事务处理能力，对服务操作结果进行判断，调用应用系统自身的事务处理功能，自动进行事务处理，从而有效地解决微服务的分布式事务处理问题。框架采用消息机制调用服务，速度快、灵活，通过使用缓存，解决服务调用的冥等性和消息的冥等性，在事务处理时，采用异步并行调用对应的服务，提高了性能。MOONWATER是一个非常优秀的框架，优势在于提高了应用的成功率，自动进行分布式事务处理，事务处理速度快，提高了数据的一致性，把对事务的处理由不可控变为可控，需要人工处理的故障可一键完成，简单快捷，实现事务处理的自动化，框架提供SDK，开发使用方便，高效实用，可以支持任何微服务架构的项目，而且可以运用于任何其他项目，是一个业界领先的世界级成果，可以简单有效地实现CQRS+Event Sourcing领域模型DDD架构开发，及其他方式的微服务开发，实现一个路由灵活、数据可靠传输、高可用、高性能、易扩展的消息服务架构。  With the essence of the current transaction, I developed a Tai Chi distributed transaction processing framework MOONWATER, using reliable message service and retry, compensation mechanism, transaction model using event driven, a final agreement, the transaction processing database skillfully, to judge the service operation result, transaction processing function call application system itself. Automatic transaction processing, so as to effectively solve the problem of distributed transaction processing and micro services. Using the framework of message mechanism to invoke the service, fast and flexible, through the use of cache, solve the service invocation of the news and Ming Ming etc., in transaction processing, using asynchronous parallel call the corresponding service, improve the performance of. MOONWATER is an excellent framework, enhances the success rate of application, automatically distributed transaction processing, transaction processing speed, improve the consistency of the data, the handling of affairs by uncontrollable is controllable, fault need manual processing can be a key to complete, simple and quick, automated transaction the SDK provides a framework for development, use convenient, efficient and practical, can support any micro service architecture of the project, but also can be used in any other project, is an industry leading world-class achievements, can simply and effectively realize the development of DDD architecture CQRS+Event Sourcing domain model, and other means of micro service development, implementation a flexible routing, reliable data transmission, high availability, high performance and easy to extend message service architecture.Welcome everyone to improve the system,",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-02T08:21:15Z",
+    "UpdatedAt": "2026-04-09T11:02:36Z",
+    "Owner": "moonufo",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [],
+    "Language": "",
+    "Stars": 33392,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-02T17:22:15Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:computer-vision stars:>=100"
+    ]
+  },
+  {
+    "FullName": "floci-io/floci",
+    "Name": "floci",
+    "Url": "https://github.com/floci-io/floci",
+    "Description": "Light, fluffy, and always free - AWS Local Emulator ",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 4311,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-18T02:28:29Z",
+    "UpdatedAt": "2026-05-02T16:00:26Z",
+    "Owner": "floci-io",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alibaba/canal",
+    "Name": "canal",
+    "Url": "https://github.com/alibaba/canal",
+    "Description": "阿里巴巴 MySQL binlog 增量订阅&消费组件 ",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 29677,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-01-13T10:59:52Z",
+    "UpdatedAt": "2026-05-02T14:57:57Z",
+    "Owner": "alibaba",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junneyang/xxproject",
+    "Name": "xxproject",
+    "Url": "https://github.com/junneyang/xxproject",
+    "Description": "SpringCloud 微服务综合实例。分布式配置中心，服务发现&负载均衡，链路断路器，API网关，OAuth2认证授权，分布式追踪，ELK日志中心，Ansible/Docker持续交付等最佳实践。",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 394,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-19T07:33:41Z",
+    "UpdatedAt": "2026-04-02T08:35:32Z",
+    "Owner": "junneyang",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yuanguangxin/LeetCode",
+    "Name": "LeetCode",
+    "Url": "https://github.com/yuanguangxin/LeetCode",
+    "Description": "LeetCode刷题记录与面试整理",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 7485,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-11T01:02:02Z",
+    "UpdatedAt": "2026-05-01T00:21:56Z",
+    "Owner": "yuanguangxin",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "imagej/imagej2",
+    "Name": "imagej2",
+    "Url": "https://github.com/imagej/imagej2",
+    "Description": "Open scientific N-dimensional image processing :microscope: :sparkler:",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1365,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-01-26T18:32:43Z",
+    "UpdatedAt": "2026-05-01T12:21:52Z",
+    "Owner": "imagej",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NotHarshhaa/DevOps-Projects",
+    "Name": "DevOps-Projects",
+    "Url": "https://github.com/NotHarshhaa/DevOps-Projects",
+    "Description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 3988,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-09T04:19:38Z",
+    "UpdatedAt": "2026-05-02T17:19:53Z",
+    "Owner": "NotHarshhaa",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "krahets/hello-algo",
+    "Name": "hello-algo",
+    "Url": "https://github.com/krahets/hello-algo",
+    "Description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 125815,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-04T11:08:34Z",
+    "UpdatedAt": "2026-05-02T17:46:57Z",
+    "Owner": "krahets",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ENGYS/HELYX-OS",
+    "Name": "HELYX-OS",
+    "Url": "https://github.com/ENGYS/HELYX-OS",
+    "Description": "The market leading open-source GUI for OpenFOAM®",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 143,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-01-20T19:49:22Z",
+    "UpdatedAt": "2026-03-31T07:35:03Z",
+    "Owner": "ENGYS",
+    "SourceQueries": [
+      "leading language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Rapter1990/springbootmicroserviceswithsecurity",
+    "Name": "springbootmicroserviceswithsecurity",
+    "Url": "https://github.com/Rapter1990/springbootmicroserviceswithsecurity",
+    "Description": "Spring Boot Microservices with JWT (Eureka Server, API Gateway, Auth Service, User Service and Product Service, JUnit and Integration Tests, Docker, Github Actions)",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 91,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-14T11:09:37Z",
+    "UpdatedAt": "2026-04-29T05:51:44Z",
+    "Owner": "Rapter1990",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gabrielarchanjo/marvin-framework",
+    "Name": "marvin-framework",
+    "Url": "https://github.com/gabrielarchanjo/marvin-framework",
+    "Description": "Marvin Image Processing Framework provides features for processing images and videos in real-time.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 116,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-03T13:05:04Z",
+    "UpdatedAt": "2026-04-06T00:37:26Z",
+    "Owner": "gabrielarchanjo",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mudigal-technologies/microservices-sample",
+    "Name": "microservices-sample",
+    "Url": "https://github.com/mudigal-technologies/microservices-sample",
+    "Description": "Sample project to create an application using microservices architecture",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 444,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-13T11:54:47Z",
+    "UpdatedAt": "2026-04-20T12:08:56Z",
+    "Owner": "mudigal-technologies",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "crossoverJie/cim",
+    "Name": "cim",
+    "Url": "https://github.com/crossoverJie/cim",
+    "Description": "📲cim(cross IM) 适用于开发者的分布式即时通讯系统",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 9487,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-20T15:55:56Z",
+    "UpdatedAt": "2026-05-02T07:28:12Z",
+    "Owner": "crossoverJie",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Washingtonwei/hogwarts-artifacts-online",
+    "Name": "hogwarts-artifacts-online",
+    "Url": "https://github.com/Washingtonwei/hogwarts-artifacts-online",
+    "Description": "This is a sample back-end application designed to demonstrate typical use cases and best practices in Spring Boot development.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-26T14:06:11Z",
+    "UpdatedAt": "2026-04-08T05:13:51Z",
+    "Owner": "Washingtonwei",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/flink-cdc",
+    "Name": "flink-cdc",
+    "Url": "https://github.com/apache/flink-cdc",
+    "Description": "Flink CDC is a streaming data integration tool",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 6413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-27T19:23:33Z",
+    "UpdatedAt": "2026-05-02T15:01:06Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "c language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "afet-yonetim-sistemi/ays-be",
+    "Name": "ays-be",
+    "Url": "https://github.com/afet-yonetim-sistemi/ays-be",
+    "Description": "Afet Yönetim Sistemi Back-End",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 92,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-13T12:59:40Z",
+    "UpdatedAt": "2026-05-02T08:39:15Z",
+    "Owner": "afet-yonetim-sistemi",
+    "SourceQueries": [
+      "topic:docker-compose language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dromara/RuoYi-Vue-Plus",
+    "Name": "RuoYi-Vue-Plus",
+    "Url": "https://github.com/dromara/RuoYi-Vue-Plus",
+    "Description": "基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 2159,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-23T06:32:20Z",
+    "UpdatedAt": "2026-05-02T09:40:43Z",
+    "Owner": "dromara",
+    "SourceQueries": [
+      "topic:docker language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DevipriyaSarkar/OCR-Reader",
+    "Name": "OCR-Reader",
+    "Url": "https://github.com/DevipriyaSarkar/OCR-Reader",
+    "Description": "An Android app to extract text from camera preview directly.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 53,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-31T07:51:27Z",
+    "UpdatedAt": "2025-10-30T08:08:25Z",
+    "Owner": "DevipriyaSarkar",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lessthanoptimal/BoofCV",
+    "Name": "BoofCV",
+    "Url": "https://github.com/lessthanoptimal/BoofCV",
+    "Description": "Fast computer vision library for SFM, calibration, fiducials, tracking,  image processing, and more.",
+    "Topics": [],
+    "Language": "Java",
+    "Stars": 1176,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-04-19T14:51:10Z",
+    "UpdatedAt": "2026-04-30T18:26:30Z",
+    "Owner": "lessthanoptimal",
+    "SourceQueries": [
+      "topic:computer-vision language:Java stars:>=50"
+    ]
+  }
+]

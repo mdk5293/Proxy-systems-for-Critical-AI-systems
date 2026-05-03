@@ -1,0 +1,4808 @@
+[
+  {
+    "FullName": "ItzCrazyKns/Vane",
+    "Name": "Vane",
+    "Url": "https://github.com/ItzCrazyKns/Vane",
+    "Description": "Vane is an AI-powered answering engine.",
+    "Topics": [
+      "ai-agents",
+      "ai-search-engine",
+      "answering-engine",
+      "artificial-intelligence",
+      "llm",
+      "machine-learning",
+      "open-source-ai-search-engine",
+      "perplexica",
+      "rag",
+      "search-engine",
+      "searxng",
+      "searxng-copilot",
+      "self-hosted-ai",
+      "vane"
+    ],
+    "Language": "TypeScript",
+    "Stars": 34115,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-09T10:51:32Z",
+    "UpdatedAt": "2026-05-03T04:42:38Z",
+    "Owner": "ItzCrazyKns",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NadirRouter/NadirClaw",
+    "Name": "NadirClaw",
+    "Url": "https://github.com/NadirRouter/NadirClaw",
+    "Description": "Open-source LLM router & AI cost optimizer. Routes simple prompts to cheap/local models, complex ones to premium — automatically. Drop-in OpenAI-compatible proxy for Claude Code, Codex, Cursor, OpenClaw. Saves 40-70% on AI API costs. Self-hosted, no middleman.",
+    "Topics": [
+      "ai",
+      "ai-cost-reduction",
+      "ai-router",
+      "claude-code",
+      "codex",
+      "cost-optimization",
+      "gemini",
+      "llm",
+      "llm-gateway",
+      "llm-proxy",
+      "llm-router",
+      "model-routing",
+      "ollama",
+      "openai",
+      "openai-proxy",
+      "openclaw",
+      "prompt-routing",
+      "proxy",
+      "python",
+      "self-hosted"
+    ],
+    "Language": "Python",
+    "Stars": 444,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-11T02:36:08Z",
+    "UpdatedAt": "2026-05-02T20:18:46Z",
+    "Owner": "NadirRouter",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "boto/boto3",
+    "Name": "boto3",
+    "Url": "https://github.com/boto/boto3",
+    "Description": "Boto3, an AWS SDK for Python",
+    "Topics": [
+      "aws",
+      "aws-sdk",
+      "cloud",
+      "cloud-management",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 9784,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-03T21:38:03Z",
+    "UpdatedAt": "2026-05-01T19:35:47Z",
+    "Owner": "boto",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pgiri/dispy",
+    "Name": "dispy",
+    "Url": "https://github.com/pgiri/dispy",
+    "Description": "Distributed and Parallel Computing Framework with / for Python",
+    "Topics": [
+      "cloud-computing",
+      "distributed-computing",
+      "parallel-computing"
+    ],
+    "Language": "Python",
+    "Stars": 267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-25T17:08:06Z",
+    "UpdatedAt": "2026-04-15T22:37:24Z",
+    "Owner": "pgiri",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nicedreamzapp/claude-code-local",
+    "Name": "claude-code-local",
+    "Url": "https://github.com/nicedreamzapp/claude-code-local",
+    "Description": "Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / legal / healthcare workflows.",
+    "Topics": [
+      "abliterated",
+      "ai-privacy",
+      "airgap",
+      "ambient-computing",
+      "anthropic",
+      "apple-silicon",
+      "browser-agent",
+      "claude-code",
+      "gemma",
+      "llama",
+      "local-ai",
+      "local-llm",
+      "macos",
+      "mlx",
+      "mlx-lm",
+      "offline-ai",
+      "on-device-ai",
+      "private-ai",
+      "qwen",
+      "voice-ai"
+    ],
+    "Language": "Python",
+    "Stars": 2403,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-26T06:43:30Z",
+    "UpdatedAt": "2026-05-03T04:41:22Z",
+    "Owner": "nicedreamzapp",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/LightRAG",
+    "Name": "LightRAG",
+    "Url": "https://github.com/HKUDS/LightRAG",
+    "Description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "Topics": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 34681,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-02T11:57:54Z",
+    "UpdatedAt": "2026-05-03T04:06:14Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ivre/ivre",
+    "Name": "ivre",
+    "Url": "https://github.com/ivre/ivre",
+    "Description": "Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.",
+    "Topics": [
+      "bro",
+      "easm",
+      "external-attack-surface-management",
+      "hacktoberfest",
+      "masscan",
+      "network",
+      "network-discovery",
+      "network-recon",
+      "network-reconnaissance",
+      "network-security",
+      "nmap",
+      "nmap-parser",
+      "nmap-results-analyse",
+      "nmap-scripts",
+      "osint",
+      "projectdiscovery",
+      "scan-ports",
+      "scans",
+      "security",
+      "zeek"
+    ],
+    "Language": "Python",
+    "Stars": 4008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-09-12T13:34:56Z",
+    "UpdatedAt": "2026-05-02T21:06:28Z",
+    "Owner": "ivre",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "litmux4ai/litmux",
+    "Name": "litmux",
+    "Url": "https://github.com/litmux4ai/litmux",
+    "Description": "⚡ Unit tests for AI. Test prompts, compare models, save money.",
+    "Topics": [
+      "ai",
+      "cli",
+      "cost-optimization",
+      "developer-tools",
+      "evaluation",
+      "llm",
+      "open-source",
+      "prompt-engineering",
+      "python",
+      "testing"
+    ],
+    "Language": "Python",
+    "Stars": 103,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-11T19:30:17Z",
+    "UpdatedAt": "2026-04-28T17:51:57Z",
+    "Owner": "litmux4ai",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shadowsocks/shadowsocks",
+    "Name": "shadowsocks",
+    "Url": "https://github.com/shadowsocks/shadowsocks",
+    "Description": "",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 33594,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-04-20T13:10:49Z",
+    "UpdatedAt": "2026-05-03T03:25:21Z",
+    "Owner": "shadowsocks",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "affaan-m/everything-claude-code",
+    "Name": "everything-claude-code",
+    "Url": "https://github.com/affaan-m/everything-claude-code",
+    "Description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "Topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "Language": "JavaScript",
+    "Stars": 172191,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-18T00:51:51Z",
+    "UpdatedAt": "2026-05-03T04:51:51Z",
+    "Owner": "affaan-m",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "langgenius/dify",
+    "Name": "dify",
+    "Url": "https://github.com/langgenius/dify",
+    "Description": "Production-ready platform for agentic workflow development.",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai",
+      "gpt",
+      "gpt-4",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "orchestration",
+      "python",
+      "rag",
+      "workflow"
+    ],
+    "Language": "TypeScript",
+    "Stars": 139906,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-12T07:40:24Z",
+    "UpdatedAt": "2026-05-03T04:47:44Z",
+    "Owner": "langgenius",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lithops-cloud/lithops",
+    "Name": "lithops",
+    "Url": "https://github.com/lithops-cloud/lithops",
+    "Description": "A multi-cloud framework for big data analytics and embarrassingly parallel jobs, that provides an universal API for building parallel applications in the cloud ☁️🚀",
+    "Topics": [
+      "big-data",
+      "big-data-analytics",
+      "cloud-computing",
+      "data-processing",
+      "distributed",
+      "kubernetes",
+      "multicloud",
+      "multiprocessing",
+      "object-storage",
+      "parallel",
+      "python",
+      "serverless",
+      "serverless-computing",
+      "serverless-functions"
+    ],
+    "Language": "Python",
+    "Stars": 364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-23T09:02:25Z",
+    "UpdatedAt": "2026-04-25T19:43:23Z",
+    "Owner": "lithops-cloud",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scaleway/python-scaleway",
+    "Name": "python-scaleway",
+    "Url": "https://github.com/scaleway/python-scaleway",
+    "Description": ":snake: Python SDK to query Scaleway APIs.",
+    "Topics": [
+      "api-client",
+      "cloud-computing",
+      "cloud-management",
+      "cloud-storage",
+      "iaas",
+      "python",
+      "scaleway",
+      "sdk"
+    ],
+    "Language": "Python",
+    "Stars": 112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-14T16:10:22Z",
+    "UpdatedAt": "2025-12-22T09:13:04Z",
+    "Owner": "scaleway",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50",
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yihong0618/running_page",
+    "Name": "running_page",
+    "Url": "https://github.com/yihong0618/running_page",
+    "Description": "Make your own running home page",
+    "Topics": [
+      "adidas",
+      "club-nike",
+      "data-analysis",
+      "data-visualization",
+      "garmin",
+      "garmin-watch",
+      "github-secret",
+      "gpx",
+      "mapbox",
+      "nike",
+      "strava",
+      "vercel"
+    ],
+    "Language": "Python",
+    "Stars": 4443,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-17T05:59:22Z",
+    "UpdatedAt": "2026-05-02T11:46:04Z",
+    "Owner": "yihong0618",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38297,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T04:30:35Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T04:40:06Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "CommonstackAI/UncommonRoute",
+    "Name": "UncommonRoute",
+    "Url": "https://github.com/CommonstackAI/UncommonRoute",
+    "Description": "Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.",
+    "Topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "cost-optimization",
+      "llm",
+      "model-routing",
+      "openai",
+      "router"
+    ],
+    "Language": "Python",
+    "Stars": 518,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-12T10:15:45Z",
+    "UpdatedAt": "2026-05-02T22:19:06Z",
+    "Owner": "CommonstackAI",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52580,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-03T04:58:37Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "chatchat-space/Langchain-Chatchat",
+    "Name": "Langchain-Chatchat",
+    "Url": "https://github.com/chatchat-space/Langchain-Chatchat",
+    "Description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "Topics": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt",
+      "knowledge-base",
+      "langchain",
+      "langchain-chatglm",
+      "llama",
+      "llm",
+      "milvus",
+      "ollama",
+      "qwen",
+      "rag",
+      "retrieval-augmented-generation",
+      "streamlit",
+      "xinference"
+    ],
+    "Language": "Python",
+    "Stars": 37951,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-31T12:12:45Z",
+    "UpdatedAt": "2026-05-03T04:53:36Z",
+    "Owner": "chatchat-space",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "1rgs/claude-code-proxy",
+    "Name": "claude-code-proxy",
+    "Url": "https://github.com/1rgs/claude-code-proxy",
+    "Description": "Run Claude Code on OpenAI models",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3531,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-19T00:35:26Z",
+    "UpdatedAt": "2026-05-02T23:48:20Z",
+    "Owner": "1rgs",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "minimaxir/big-list-of-naughty-strings",
+    "Name": "big-list-of-naughty-strings",
+    "Url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "Description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 47631,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-08T20:57:20Z",
+    "UpdatedAt": "2026-05-03T02:44:12Z",
+    "Owner": "minimaxir",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "getsentry/sentry",
+    "Name": "sentry",
+    "Url": "https://github.com/getsentry/sentry",
+    "Description": "Developer-first error tracking and performance monitoring",
+    "Topics": [
+      "apm",
+      "crash-reporting",
+      "crash-reports",
+      "csp-report",
+      "devops",
+      "django",
+      "error-logging",
+      "error-monitoring",
+      "fair-source",
+      "hacktoberfest",
+      "monitor",
+      "monitoring",
+      "python",
+      "sentry",
+      "tag-production"
+    ],
+    "Language": "Python",
+    "Stars": 43754,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-08-30T22:06:41Z",
+    "UpdatedAt": "2026-05-02T17:54:06Z",
+    "Owner": "getsentry",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pengrambo3-tech/ZeusHammer",
+    "Name": "ZeusHammer",
+    "Url": "https://github.com/pengrambo3-tech/ZeusHammer",
+    "Description": "ZeusHammer - AI Super Agent with Local Brain, Voice Interaction & Three-Tier Memory",
+    "Topics": [
+      "ai-agent",
+      "china-llm",
+      "claude-code",
+      "cost-optimization",
+      "deepseek",
+      "developer-tools",
+      "docker",
+      "edge-tts",
+      "homebrew",
+      "intent-recognition",
+      "local-llm",
+      "openclaw",
+      "privacy-first",
+      "python",
+      "skill-matching",
+      "speech-recognition",
+      "text-to-speech",
+      "three-tier-memory",
+      "voice-assistant",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 65,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-19T17:59:20Z",
+    "UpdatedAt": "2026-05-02T18:58:42Z",
+    "Owner": "pengrambo3-tech",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "polakowo/vectorbt",
+    "Name": "vectorbt",
+    "Url": "https://github.com/polakowo/vectorbt",
+    "Description": "The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
+    "Topics": [
+      "algorithmic-trading",
+      "algorithmic-traiding",
+      "backtesting",
+      "cryptocurrency",
+      "data-science",
+      "data-visualization",
+      "finance",
+      "machine-learning",
+      "portfolio-optimization",
+      "quantitative-analysis",
+      "quantitative-finance",
+      "time-series",
+      "trading",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 7350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-14T11:56:32Z",
+    "UpdatedAt": "2026-05-02T23:50:09Z",
+    "Owner": "polakowo",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 63210,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-03T04:59:41Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Netflix/metaflow",
+    "Name": "metaflow",
+    "Url": "https://github.com/Netflix/metaflow",
+    "Description": "Build, Manage and Deploy AI/ML Systems",
+    "Topics": [
+      "agents",
+      "ai",
+      "aws",
+      "azure",
+      "cost-optimization",
+      "datascience",
+      "distributed-training",
+      "gcp",
+      "generative-ai",
+      "high-performance-computing",
+      "kubernetes",
+      "llm",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "ml-infrastructure",
+      "ml-platform",
+      "mlops",
+      "model-management",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 10071,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-17T17:48:25Z",
+    "UpdatedAt": "2026-05-02T07:55:12Z",
+    "Owner": "Netflix",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "milvus-io/milvus",
+    "Name": "milvus",
+    "Url": "https://github.com/milvus-io/milvus",
+    "Description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "Topics": [
+      "anns",
+      "cloud-native",
+      "diskann",
+      "distributed",
+      "embedding-database",
+      "embedding-similarity",
+      "embedding-store",
+      "faiss",
+      "golang",
+      "hnsw",
+      "image-search",
+      "llm",
+      "nearest-neighbor-search",
+      "rag",
+      "vector-database",
+      "vector-search",
+      "vector-similarity",
+      "vector-store"
+    ],
+    "Language": "Go",
+    "Stars": 44097,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-16T06:43:43Z",
+    "UpdatedAt": "2026-05-03T04:45:20Z",
+    "Owner": "milvus-io",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "testcontainers/testcontainers-python",
+    "Name": "testcontainers-python",
+    "Url": "https://github.com/testcontainers/testcontainers-python",
+    "Description": "Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.",
+    "Topics": [
+      "database",
+      "python",
+      "python3",
+      "selenium",
+      "testcontainers",
+      "testing"
+    ],
+    "Language": "Python",
+    "Stars": 2206,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-22T08:22:35Z",
+    "UpdatedAt": "2026-05-02T21:27:10Z",
+    "Owner": "testcontainers",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "donnemartin/saws",
+    "Name": "saws",
+    "Url": "https://github.com/donnemartin/saws",
+    "Description": "A supercharged AWS command line interface (CLI).",
+    "Topics": [
+      "aws",
+      "aws-cli",
+      "cli",
+      "client",
+      "cloud",
+      "cloud-management",
+      "developer-tools",
+      "development",
+      "linux",
+      "macos",
+      "programming",
+      "python",
+      "shell",
+      "terminal",
+      "utilities",
+      "utility",
+      "windows"
+    ],
+    "Language": "Python",
+    "Stars": 5302,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-24T10:21:15Z",
+    "UpdatedAt": "2026-05-01T20:01:15Z",
+    "Owner": "donnemartin",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coleam00/local-ai-packaged",
+    "Name": "local-ai-packaged",
+    "Url": "https://github.com/coleam00/local-ai-packaged",
+    "Description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3679,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-16T21:12:36Z",
+    "UpdatedAt": "2026-05-03T01:11:05Z",
+    "Owner": "coleam00",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browser-use/workflow-use",
+    "Name": "workflow-use",
+    "Url": "https://github.com/browser-use/workflow-use",
+    "Description": "⚙️ Create and run workflows (RPA 2.0)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3988,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-06T09:35:23Z",
+    "UpdatedAt": "2026-05-02T19:34:57Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/langextract",
+    "Name": "langextract",
+    "Url": "https://github.com/google/langextract",
+    "Description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "Topics": [
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
+      "llm",
+      "nlp",
+      "python",
+      "structured-data"
+    ],
+    "Language": "Python",
+    "Stars": 36356,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-08T20:46:06Z",
+    "UpdatedAt": "2026-05-03T04:12:12Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "stanford-oval/storm",
+    "Name": "storm",
+    "Url": "https://github.com/stanford-oval/storm",
+    "Description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "Topics": [
+      "agentic-rag",
+      "deep-research",
+      "emnlp2024",
+      "knowledge-curation",
+      "large-language-models",
+      "naacl",
+      "nlp",
+      "report-generation",
+      "retrieval-augmented-generation"
+    ],
+    "Language": "Python",
+    "Stars": 28156,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-24T16:23:39Z",
+    "UpdatedAt": "2026-05-02T18:54:18Z",
+    "Owner": "stanford-oval",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xorbitsai/inference",
+    "Name": "inference",
+    "Url": "https://github.com/xorbitsai/inference",
+    "Description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+    "Topics": [
+      "artificial-intelligence",
+      "chatglm",
+      "deployment",
+      "flan-t5",
+      "gemma",
+      "ggml",
+      "glm4",
+      "inference",
+      "llama",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "machine-learning",
+      "mistral",
+      "openai-api",
+      "pytorch",
+      "qwen",
+      "vllm",
+      "whisper",
+      "wizardlm"
+    ],
+    "Language": "Python",
+    "Stars": 9280,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-14T07:05:04Z",
+    "UpdatedAt": "2026-05-02T12:20:22Z",
+    "Owner": "xorbitsai",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "github/spec-kit",
+    "Name": "spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "Topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
+    "Language": "Python",
+    "Stars": 92211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-21T22:54:31Z",
+    "UpdatedAt": "2026-05-03T04:54:43Z",
+    "Owner": "github",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "acsicuib/YAFS",
+    "Name": "YAFS",
+    "Url": "https://github.com/acsicuib/YAFS",
+    "Description": "Yet Another Fog Simulator (YAFS)",
+    "Topics": [
+      "cloud-computing",
+      "fog-computing",
+      "orcid-0000-0002-2826-5970",
+      "orcid-0000-0003-2969-0597",
+      "ordcot",
+      "python",
+      "simulator",
+      "tin2017-88547-p"
+    ],
+    "Language": "Python",
+    "Stars": 120,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-27T09:23:01Z",
+    "UpdatedAt": "2026-04-22T15:01:57Z",
+    "Owner": "acsicuib",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ds2-lab/Wukong",
+    "Name": "Wukong",
+    "Url": "https://github.com/ds2-lab/Wukong",
+    "Description": "Wukong: A scalable and locality-enhanced serverless parallel framework (ACM SoCC'20)",
+    "Topics": [
+      "analytics",
+      "aws",
+      "aws-lambda",
+      "cloud-computing",
+      "dask",
+      "data-analytics",
+      "faas",
+      "linear-algebra",
+      "machine-learning",
+      "parallel-computing",
+      "python",
+      "serverless",
+      "serverless-computing"
+    ],
+    "Language": "Python",
+    "Stars": 76,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-05T00:55:13Z",
+    "UpdatedAt": "2025-07-29T15:11:16Z",
+    "Owner": "ds2-lab",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "asgeirtj/system_prompts_leaks",
+    "Name": "system_prompts_leaks",
+    "Url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "Description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+    "Topics": [
+      "ai",
+      "ai-transparency",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "gemini",
+      "generative-ai",
+      "gpt-5",
+      "grok",
+      "large-language-models",
+      "llm",
+      "openai",
+      "perplexity",
+      "prompt-engineering",
+      "system-prompt",
+      "system-prompts",
+      "xai"
+    ],
+    "Language": "",
+    "Stars": 39394,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-05-03T02:43:56Z",
+    "UpdatedAt": "2026-05-03T04:57:25Z",
+    "Owner": "asgeirtj",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "scrapy/scrapy",
+    "Name": "scrapy",
+    "Url": "https://github.com/scrapy/scrapy",
+    "Description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "Topics": [
+      "crawler",
+      "crawling",
+      "framework",
+      "hacktoberfest",
+      "python",
+      "scraping",
+      "web-scraping",
+      "web-scraping-python"
+    ],
+    "Language": "Python",
+    "Stars": 61531,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-02-22T02:01:14Z",
+    "UpdatedAt": "2026-05-03T00:27:13Z",
+    "Owner": "scrapy",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Huzaifa785/context-compressor",
+    "Name": "context-compressor",
+    "Url": "https://github.com/Huzaifa785/context-compressor",
+    "Description": "AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 50-60% while preserving semantic meaning with advanced compression strategies.",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "api-optimization",
+      "cost-optimization",
+      "extractive",
+      "fastapi",
+      "langchain",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "nlp",
+      "openai",
+      "python",
+      "rag",
+      "semantic-compression",
+      "summarization",
+      "text-compression",
+      "text-processing",
+      "token-reduction",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 85,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-14T19:41:30Z",
+    "UpdatedAt": "2026-04-19T16:54:02Z",
+    "Owner": "Huzaifa785",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aio-libs/aiobotocore",
+    "Name": "aiobotocore",
+    "Url": "https://github.com/aio-libs/aiobotocore",
+    "Description": "asyncio support for botocore library using aiohttp",
+    "Topics": [
+      "aiohttp",
+      "asyncio",
+      "aws",
+      "aws-sdk",
+      "botocore",
+      "cloud",
+      "cloud-management"
+    ],
+    "Language": "Python",
+    "Stars": 1404,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-05-31T19:28:54Z",
+    "UpdatedAt": "2026-05-01T10:23:27Z",
+    "Owner": "aio-libs",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jupyterhub/binderhub",
+    "Name": "binderhub",
+    "Url": "https://github.com/jupyterhub/binderhub",
+    "Description": "Run your code in the cloud, with technology so advanced, it feels like magic!",
+    "Topics": [
+      "binder",
+      "jupyter-notebook",
+      "jupyterhub"
+    ],
+    "Language": "Python",
+    "Stars": 2666,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-26T00:28:26Z",
+    "UpdatedAt": "2026-05-01T08:10:09Z",
+    "Owner": "jupyterhub",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sqlmapproject/sqlmap",
+    "Name": "sqlmap",
+    "Url": "https://github.com/sqlmapproject/sqlmap",
+    "Description": "Automatic SQL injection and database takeover tool",
+    "Topics": [
+      "database",
+      "detection",
+      "exploitation",
+      "pentesting",
+      "python",
+      "sql-injection",
+      "sqlmap",
+      "takeover",
+      "vulnerability-scanner"
+    ],
+    "Language": "Python",
+    "Stars": 37236,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-06-26T09:52:15Z",
+    "UpdatedAt": "2026-05-03T03:35:29Z",
+    "Owner": "sqlmapproject",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "browser-use/browser-use",
+    "Name": "browser-use",
+    "Url": "https://github.com/browser-use/browser-use",
+    "Description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "Topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 91747,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-31T16:00:56Z",
+    "UpdatedAt": "2026-05-03T04:53:06Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "oraios/serena",
+    "Name": "serena",
+    "Url": "https://github.com/oraios/serena",
+    "Description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "Topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "Language": "Python",
+    "Stars": 23748,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-23T22:35:24Z",
+    "UpdatedAt": "2026-05-03T04:49:03Z",
+    "Owner": "oraios",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bottlesdevs/Bottles",
+    "Name": "Bottles",
+    "Url": "https://github.com/bottlesdevs/Bottles",
+    "Description": "Run Windows software and games on Linux",
+    "Topics": [
+      "bottles",
+      "bottles-versioning",
+      "dxvk",
+      "games",
+      "gaming",
+      "gtk4",
+      "libadwaita",
+      "linux",
+      "msi",
+      "proton",
+      "python",
+      "wine",
+      "wine-prefixes",
+      "wineprefix",
+      "wineprefix-manager"
+    ],
+    "Language": "Python",
+    "Stars": 8362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-14T17:42:31Z",
+    "UpdatedAt": "2026-05-02T22:29:27Z",
+    "Owner": "bottlesdevs",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RangiLyu/nanodet",
+    "Name": "nanodet",
+    "Url": "https://github.com/RangiLyu/nanodet",
+    "Description": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+    "Topics": [
+      "anchor-free",
+      "android",
+      "deep-learning",
+      "deep-neural-networks",
+      "efficientnet",
+      "mnn",
+      "model-zoo",
+      "nanodet",
+      "nanodet-plus",
+      "ncnn",
+      "object-detection",
+      "openvino",
+      "pytorch",
+      "repvgg",
+      "shufflenet"
+    ],
+    "Language": "Python",
+    "Stars": 6197,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-19T08:36:25Z",
+    "UpdatedAt": "2026-05-02T17:21:17Z",
+    "Owner": "RangiLyu",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-Coder",
+    "Name": "DeepSeek-Coder",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+    "Description": "DeepSeek Coder: Let the Code Write Itself",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23225,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-20T06:38:01Z",
+    "UpdatedAt": "2026-05-03T02:12:34Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50796,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-03T04:59:11Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "s language:Python stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cloud-custodian/cloud-custodian",
+    "Name": "cloud-custodian",
+    "Url": "https://github.com/cloud-custodian/cloud-custodian",
+    "Description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "Topics": [
+      "aws",
+      "azure",
+      "cloud",
+      "cloud-computing",
+      "compliance",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "management",
+      "oci",
+      "rules-engine",
+      "serverless",
+      "tencent-cloud",
+      "terraform"
+    ],
+    "Language": "Python",
+    "Stars": 5979,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-01T01:11:20Z",
+    "UpdatedAt": "2026-04-30T03:42:07Z",
+    "Owner": "cloud-custodian",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Textualize/textual",
+    "Name": "textual",
+    "Url": "https://github.com/Textualize/textual",
+    "Description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+    "Topics": [
+      "cli",
+      "framework",
+      "python",
+      "rich",
+      "terminal",
+      "tui"
+    ],
+    "Language": "Python",
+    "Stars": 35687,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-08T15:24:47Z",
+    "UpdatedAt": "2026-05-03T04:05:19Z",
+    "Owner": "Textualize",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "awslabs/aws-shell",
+    "Name": "aws-shell",
+    "Url": "https://github.com/awslabs/aws-shell",
+    "Description": "An integrated shell for working with the AWS CLI.",
+    "Topics": [
+      "aws",
+      "aws-cli",
+      "cloud",
+      "cloud-management"
+    ],
+    "Language": "Python",
+    "Stars": 7348,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-29T19:04:16Z",
+    "UpdatedAt": "2026-05-01T16:29:09Z",
+    "Owner": "awslabs",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "D4Vinci/Scrapling",
+    "Name": "Scrapling",
+    "Url": "https://github.com/D4Vinci/Scrapling",
+    "Description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "Topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "Language": "Python",
+    "Stars": 41918,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-13T20:29:53Z",
+    "UpdatedAt": "2026-05-03T04:59:51Z",
+    "Owner": "D4Vinci",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datawhalechina/hello-agents",
+    "Name": "hello-agents",
+    "Url": "https://github.com/datawhalechina/hello-agents",
+    "Description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "Topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 42250,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-07T09:50:24Z",
+    "UpdatedAt": "2026-05-03T04:31:53Z",
+    "Owner": "datawhalechina",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72531,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-03T04:29:45Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "TransformerOptimus/SuperAGI",
+    "Name": "SuperAGI",
+    "Url": "https://github.com/TransformerOptimus/SuperAGI",
+    "Description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+    "Topics": [
+      "agents",
+      "agi",
+      "ai",
+      "artificial-general-intelligence",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "gpt-4",
+      "hacktoberfest",
+      "llm",
+      "llmops",
+      "nextjs",
+      "openai",
+      "pinecone",
+      "python",
+      "superagi"
+    ],
+    "Language": "Python",
+    "Stars": 17500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-13T08:55:24Z",
+    "UpdatedAt": "2026-05-02T19:38:35Z",
+    "Owner": "TransformerOptimus",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aws/aws-cli",
+    "Name": "aws-cli",
+    "Url": "https://github.com/aws/aws-cli",
+    "Description": "Universal Command Line Interface for Amazon Web Services",
+    "Topics": [
+      "aws",
+      "aws-cli",
+      "cloud",
+      "cloud-management"
+    ],
+    "Language": "Python",
+    "Stars": 16922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-11-20T16:07:36Z",
+    "UpdatedAt": "2026-05-02T17:42:50Z",
+    "Owner": "aws",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bentoml/OpenLLM",
+    "Name": "OpenLLM",
+    "Url": "https://github.com/bentoml/OpenLLM",
+    "Description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+    "Topics": [
+      "bentoml",
+      "fine-tuning",
+      "llama",
+      "llama2",
+      "llama3-1",
+      "llama3-2",
+      "llama3-2-vision",
+      "llm",
+      "llm-inference",
+      "llm-ops",
+      "llm-serving",
+      "llmops",
+      "mistral",
+      "mlops",
+      "model-inference",
+      "open-source-llm",
+      "openllm",
+      "vicuna"
+    ],
+    "Language": "Python",
+    "Stars": 12307,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-19T00:27:52Z",
+    "UpdatedAt": "2026-05-02T07:43:01Z",
+    "Owner": "bentoml",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dvmazur/mixtral-offloading",
+    "Name": "mixtral-offloading",
+    "Url": "https://github.com/dvmazur/mixtral-offloading",
+    "Description": "Run Mixtral-8x7B models in Colab or consumer desktops",
+    "Topics": [
+      "colab-notebook",
+      "deep-learning",
+      "google-colab",
+      "language-model",
+      "llm",
+      "mixture-of-experts",
+      "offloading",
+      "pytorch",
+      "quantization"
+    ],
+    "Language": "Python",
+    "Stars": 2330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-15T03:32:35Z",
+    "UpdatedAt": "2026-05-02T15:03:06Z",
+    "Owner": "dvmazur",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56058,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-03T04:57:08Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shareAI-lab/learn-claude-code",
+    "Name": "learn-claude-code",
+    "Url": "https://github.com/shareAI-lab/learn-claude-code",
+    "Description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "Topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ],
+    "Language": "TypeScript",
+    "Stars": 57848,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-29T15:34:15Z",
+    "UpdatedAt": "2026-05-03T04:52:24Z",
+    "Owner": "shareAI-lab",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ageitgey/face_recognition",
+    "Name": "face_recognition",
+    "Url": "https://github.com/ageitgey/face_recognition",
+    "Description": "The world's simplest facial recognition api for Python and the command line",
+    "Topics": [
+      "face-detection",
+      "face-recognition",
+      "machine-learning",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 56364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-03T21:52:39Z",
+    "UpdatedAt": "2026-05-02T21:19:47Z",
+    "Owner": "ageitgey",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "0x4m4/hexstrike-ai",
+    "Name": "hexstrike-ai",
+    "Url": "https://github.com/0x4m4/hexstrike-ai",
+    "Description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+    "Topics": [
+      "0x4m4",
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "artificial-intelligence",
+      "ctf-tools",
+      "generative-ai",
+      "hexstrike",
+      "kali-linux",
+      "kali-tools",
+      "llm",
+      "llm-integration",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "pentesting",
+      "pentesting-tools"
+    ],
+    "Language": "Python",
+    "Stars": 8473,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-10T17:53:18Z",
+    "UpdatedAt": "2026-05-03T02:15:54Z",
+    "Owner": "0x4m4",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pypa/pipx",
+    "Name": "pipx",
+    "Url": "https://github.com/pypa/pipx",
+    "Description": "Install and Run Python Applications in Isolated Environments",
+    "Topics": [
+      "cli",
+      "hacktoberfest",
+      "pip",
+      "pypi",
+      "python",
+      "venv"
+    ],
+    "Language": "Python",
+    "Stars": 12777,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-06T18:47:46Z",
+    "UpdatedAt": "2026-05-02T19:29:38Z",
+    "Owner": "pypa",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "certbot/certbot",
+    "Name": "certbot",
+    "Url": "https://github.com/certbot/certbot",
+    "Description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
+    "Topics": [
+      "acme",
+      "acme-client",
+      "certbot",
+      "certificate",
+      "letsencrypt",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 33019,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-12T02:52:20Z",
+    "UpdatedAt": "2026-05-02T14:31:59Z",
+    "Owner": "certbot",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mvanhorn/last30days-skill",
+    "Name": "last30days-skill",
+    "Url": "https://github.com/mvanhorn/last30days-skill",
+    "Description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "Topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ],
+    "Language": "Python",
+    "Stars": 24602,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-23T20:37:37Z",
+    "UpdatedAt": "2026-05-03T04:59:02Z",
+    "Owner": "mvanhorn",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ScrapeGraphAI/Scrapegraph-ai",
+    "Name": "Scrapegraph-ai",
+    "Url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+    "Description": "Python scraper based on AI",
+    "Topics": [
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "firecrawl-alternative",
+      "large-language-model",
+      "llm",
+      "markdown",
+      "rag",
+      "scraping",
+      "scraping-python",
+      "web-crawler",
+      "web-crawlers",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "Python",
+    "Stars": 23442,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-27T16:54:38Z",
+    "UpdatedAt": "2026-05-03T02:14:20Z",
+    "Owner": "ScrapeGraphAI",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenMOSS/MOSS-TTS-Nano",
+    "Name": "MOSS-TTS-Nano",
+    "Url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "Description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+    "Topics": [
+      "audio-tokenizer",
+      "chinese",
+      "english",
+      "multi-modality",
+      "multilingual",
+      "realtime",
+      "streaming-audio",
+      "tts",
+      "voice-clone"
+    ],
+    "Language": "Python",
+    "Stars": 2603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-10T16:25:07Z",
+    "UpdatedAt": "2026-05-03T03:19:24Z",
+    "Owner": "OpenMOSS",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-V3",
+    "Name": "DeepSeek-V3",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "Description": "",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 103352,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-26T09:52:40Z",
+    "UpdatedAt": "2026-05-03T04:15:10Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "Name": "ui-ux-pro-max-skill",
+    "Url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "Description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "Topics": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "command-line",
+      "copilot",
+      "cursor-ai",
+      "html5",
+      "kiro",
+      "landing-page",
+      "mobile-ui",
+      "qoder",
+      "react",
+      "tailwindcss",
+      "trae",
+      "ui-design",
+      "uikit",
+      "windsurf-ai"
+    ],
+    "Language": "Python",
+    "Stars": 73343,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-30T11:36:31Z",
+    "UpdatedAt": "2026-05-03T04:59:40Z",
+    "Owner": "nextlevelbuilder",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kosty-cloud/kosty",
+    "Name": "kosty",
+    "Url": "https://github.com/kosty-cloud/kosty",
+    "Description": "Scan 30+ AWS services. Find cost waste. Detect security gaps. Map your attack surface. One command.",
+    "Topics": [
+      "api-gateway",
+      "attack-surface",
+      "aws",
+      "aws-audit",
+      "bedrock",
+      "cloud",
+      "cloud-security",
+      "cost-optimization",
+      "devops",
+      "devsecops",
+      "finops",
+      "iam",
+      "privilege-escalation",
+      "python",
+      "sagemaker",
+      "waf"
+    ],
+    "Language": "Python",
+    "Stars": 268,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-26T08:45:50Z",
+    "UpdatedAt": "2026-04-26T21:33:16Z",
+    "Owner": "kosty-cloud",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RVC-Boss/GPT-SoVITS",
+    "Name": "GPT-SoVITS",
+    "Url": "https://github.com/RVC-Boss/GPT-SoVITS",
+    "Description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+    "Topics": [
+      "text-to-speech",
+      "tts",
+      "vits",
+      "voice-clone",
+      "voice-cloneai",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 57132,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-14T18:05:21Z",
+    "UpdatedAt": "2026-05-03T04:50:23Z",
+    "Owner": "RVC-Boss",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opengeos/geospatial-data-catalogs",
+    "Name": "geospatial-data-catalogs",
+    "Url": "https://github.com/opengeos/geospatial-data-catalogs",
+    "Description": "A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index",
+    "Topics": [
+      "amazon",
+      "aws",
+      "cloud-computing",
+      "earth-engine",
+      "geospatial",
+      "geospatial-data",
+      "nasa-data",
+      "opan-data",
+      "open-access",
+      "satellite-imagery"
+    ],
+    "Language": "Python",
+    "Stars": 638,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-22T19:54:55Z",
+    "UpdatedAt": "2026-05-02T05:44:38Z",
+    "Owner": "opengeos",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91842,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T04:58:57Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "Name": "linkedin-skill-assessments-quizzes",
+    "Url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "Description": "Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers ",
+    "Topics": [
+      "answers",
+      "assessment",
+      "english",
+      "exam",
+      "france",
+      "german",
+      "golang",
+      "hacktoberfest",
+      "hacktoberfest2020",
+      "hacktoberfest2021",
+      "hacktoberfest2022",
+      "hacktoberfest2023",
+      "hacktoberfest2024",
+      "hacktoberfest2025",
+      "linkedin",
+      "linkedin-questions",
+      "quiz",
+      "quiz-questions",
+      "skills"
+    ],
+    "Language": "Python",
+    "Stars": 28729,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-13T19:52:56Z",
+    "UpdatedAt": "2026-05-03T04:39:29Z",
+    "Owner": "Ebazhanov",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162693,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T04:12:10Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyinfra-dev/pyinfra",
+    "Name": "pyinfra",
+    "Url": "https://github.com/pyinfra-dev/pyinfra",
+    "Description": "🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.",
+    "Topics": [
+      "cloud-management",
+      "configuration-management",
+      "high-performance",
+      "infrastructure",
+      "pyinfra",
+      "python",
+      "remote-execution"
+    ],
+    "Language": "Python",
+    "Stars": 4972,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-10-19T19:37:45Z",
+    "UpdatedAt": "2026-05-02T21:56:51Z",
+    "Owner": "pyinfra-dev",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ranaroussi/yfinance",
+    "Name": "yfinance",
+    "Url": "https://github.com/ranaroussi/yfinance",
+    "Description": "Download market data from Yahoo! Finance's API",
+    "Topics": [
+      "financial-data",
+      "fix-yahoo-finance",
+      "market-data",
+      "pandas",
+      "python",
+      "stock-data",
+      "yahoo-finance",
+      "yahoo-finance-api"
+    ],
+    "Language": "Python",
+    "Stars": 23340,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-21T10:16:15Z",
+    "UpdatedAt": "2026-05-03T00:52:12Z",
+    "Owner": "ranaroussi",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "janhq/jan",
+    "Name": "jan",
+    "Url": "https://github.com/janhq/jan",
+    "Description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+    "Topics": [
+      "chatgpt",
+      "gpt",
+      "llamacpp",
+      "llm",
+      "localai",
+      "open-source",
+      "self-hosted",
+      "tauri"
+    ],
+    "Language": "TypeScript",
+    "Stars": 42335,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T02:17:10Z",
+    "UpdatedAt": "2026-05-03T04:09:16Z",
+    "Owner": "janhq",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mishal23/virtual-clinic",
+    "Name": "virtual-clinic",
+    "Url": "https://github.com/mishal23/virtual-clinic",
+    "Description": "Virtual Clinic - An Integrated Care System",
+    "Topics": [
+      "aws",
+      "cloud-computing",
+      "django",
+      "healthcare",
+      "heroku",
+      "software-engineering",
+      "srs-document",
+      "travis-ci",
+      "uml-diagrams",
+      "virtual-clinic"
+    ],
+    "Language": "Python",
+    "Stars": 97,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-11T18:10:55Z",
+    "UpdatedAt": "2026-04-27T13:18:09Z",
+    "Owner": "mishal23",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41537,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-03T04:55:13Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "browser-use/web-ui",
+    "Name": "web-ui",
+    "Url": "https://github.com/browser-use/web-ui",
+    "Description": "🖥️ Run AI Agent in your browser.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 15922,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-02T01:29:44Z",
+    "UpdatedAt": "2026-05-02T23:23:36Z",
+    "Owner": "browser-use",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chubin/cheat.sh",
+    "Name": "cheat.sh",
+    "Url": "https://github.com/chubin/cheat.sh",
+    "Description": "the only cheat sheet you need",
+    "Topics": [
+      "cheatsheet",
+      "cli",
+      "command-line",
+      "curl",
+      "documentation",
+      "examples",
+      "hacktoberfest2021",
+      "help",
+      "terminal",
+      "tldr"
+    ],
+    "Language": "Python",
+    "Stars": 41314,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-07T21:40:56Z",
+    "UpdatedAt": "2026-05-03T04:21:12Z",
+    "Owner": "chubin",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pgiri/asyncoro",
+    "Name": "asyncoro",
+    "Url": "https://github.com/pgiri/asyncoro",
+    "Description": "Python framework for asynchronous, concurrent, distributed, network programming with coroutines",
+    "Topics": [
+      "asynchronous-programming",
+      "cloud-computing",
+      "concurrent-programming",
+      "distributed-computing"
+    ],
+    "Language": "Python",
+    "Stars": 50,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-25T14:41:37Z",
+    "UpdatedAt": "2025-01-15T22:32:22Z",
+    "Owner": "pgiri",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jupyter/docker-stacks",
+    "Name": "docker-stacks",
+    "Url": "https://github.com/jupyter/docker-stacks",
+    "Description": "Ready-to-run Docker images containing Jupyter applications",
+    "Topics": [
+      "docker",
+      "ipython",
+      "ipython-notebook",
+      "jupyter",
+      "jupyter-notebook",
+      "jupyter-notebooks",
+      "jupyterhub",
+      "jupyterlab",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 8427,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-15T15:30:00Z",
+    "UpdatedAt": "2026-05-01T00:05:55Z",
+    "Owner": "jupyter",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "project-koku/koku",
+    "Name": "koku",
+    "Url": "https://github.com/project-koku/koku",
+    "Description": "An open source solution for cost management of cloud and hybrid cloud environments.",
+    "Topics": [
+      "cloud",
+      "cost",
+      "cost-control",
+      "cost-estimation",
+      "cost-optimization",
+      "koku"
+    ],
+    "Language": "Python",
+    "Stars": 308,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-23T14:29:23Z",
+    "UpdatedAt": "2026-05-01T12:23:25Z",
+    "Owner": "project-koku",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "upstash/context7",
+    "Name": "context7",
+    "Url": "https://github.com/upstash/context7",
+    "Description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "Topics": [
+      "llm",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "Language": "TypeScript",
+    "Stars": 54316,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-26T23:40:39Z",
+    "UpdatedAt": "2026-05-03T04:17:23Z",
+    "Owner": "upstash",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44427,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-03T00:31:47Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "aws-solutions/cost-optimizer-for-amazon-workspaces",
+    "Name": "cost-optimizer-for-amazon-workspaces",
+    "Url": "https://github.com/aws-solutions/cost-optimizer-for-amazon-workspaces",
+    "Description": "This solution analyzes all of your Amazon WorkSpaces usage data and automatically converts the WorkSpace to the most cost-effective billing option (hourly or monthly), depending on your individual usage. Use this with a single account, or with AWS Organizations across multiple accounts, to help you monitor your WorkSpace usage and optimize costs.",
+    "Topics": [
+      "aws",
+      "aws-solutions",
+      "cost-optimization",
+      "device-managment",
+      "virtual-desktop-optimization-tool"
+    ],
+    "Language": "Python",
+    "Stars": 104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-03T17:26:44Z",
+    "UpdatedAt": "2026-04-19T12:32:23Z",
+    "Owner": "aws-solutions",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sherlock-project/sherlock",
+    "Name": "sherlock",
+    "Url": "https://github.com/sherlock-project/sherlock",
+    "Description": "Hunt down social media accounts by username across social networks",
+    "Topics": [
+      "cli",
+      "cti",
+      "cybersecurity",
+      "forensics",
+      "hacktoberfest",
+      "information-gathering",
+      "infosec",
+      "linux",
+      "osint",
+      "pentesting",
+      "python",
+      "python3",
+      "reconnaissance",
+      "redteam",
+      "sherlock",
+      "tools"
+    ],
+    "Language": "Python",
+    "Stars": 82821,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-24T14:30:48Z",
+    "UpdatedAt": "2026-05-03T04:57:15Z",
+    "Owner": "sherlock-project",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mudler/LocalAI",
+    "Name": "LocalAI",
+    "Url": "https://github.com/mudler/LocalAI",
+    "Description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+    "Topics": [
+      "agents",
+      "ai",
+      "api",
+      "audio-generation",
+      "decentralized",
+      "distributed",
+      "image-generation",
+      "libp2p",
+      "llama",
+      "llm",
+      "mamba",
+      "mcp",
+      "musicgen",
+      "object-detection",
+      "rerank",
+      "stable-diffusion",
+      "text-generation",
+      "tts"
+    ],
+    "Language": "Go",
+    "Stars": 46014,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-18T22:58:02Z",
+    "UpdatedAt": "2026-05-03T04:50:35Z",
+    "Owner": "mudler",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43976,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-03T04:14:51Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/MetaGPT",
+    "Name": "MetaGPT",
+    "Url": "https://github.com/FoundationAgents/MetaGPT",
+    "Description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "Topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "Language": "Python",
+    "Stars": 67643,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-30T09:04:55Z",
+    "UpdatedAt": "2026-05-03T04:30:16Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deezer/spleeter",
+    "Name": "spleeter",
+    "Url": "https://github.com/deezer/spleeter",
+    "Description": "Deezer source separation library including pretrained models.",
+    "Topics": [
+      "audio-processing",
+      "bass",
+      "deep-learning",
+      "deezer",
+      "drums",
+      "model",
+      "pretrained-models",
+      "python",
+      "tensorflow",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 28197,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-26T15:40:46Z",
+    "UpdatedAt": "2026-05-02T20:47:29Z",
+    "Owner": "deezer",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "spotDL/spotify-downloader",
+    "Name": "spotify-downloader",
+    "Url": "https://github.com/spotDL/spotify-downloader",
+    "Description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+    "Topics": [
+      "download-music",
+      "hacktoberfest",
+      "mp3",
+      "music",
+      "playlists",
+      "python",
+      "song",
+      "song-lyrics",
+      "spotdl",
+      "spotdl-cli",
+      "spotify",
+      "youtube-music"
+    ],
+    "Language": "Python",
+    "Stars": 24621,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-06T18:19:20Z",
+    "UpdatedAt": "2026-05-03T03:43:18Z",
+    "Owner": "spotDL",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agno-agi/agno",
+    "Name": "agno",
+    "Url": "https://github.com/agno-agi/agno",
+    "Description": "Run agents as production software.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 39877,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-04T15:23:02Z",
+    "UpdatedAt": "2026-05-03T04:14:18Z",
+    "Owner": "agno-agi",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Fosowl/agenticSeek",
+    "Name": "agenticSeek",
+    "Url": "https://github.com/Fosowl/agenticSeek",
+    "Description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "autonomous-agents",
+      "deepseek-r1",
+      "llm",
+      "llm-agents",
+      "voice-assistant"
+    ],
+    "Language": "Python",
+    "Stars": 26170,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-19T18:03:06Z",
+    "UpdatedAt": "2026-05-03T04:27:18Z",
+    "Owner": "Fosowl",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30259,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-03T04:55:53Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/vllm",
+    "Name": "vllm",
+    "Url": "https://github.com/vllm-project/vllm",
+    "Description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "Topics": [
+      "amd",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "deepseek-v3",
+      "gpt",
+      "gpt-oss",
+      "inference",
+      "kimi",
+      "llama",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "moe",
+      "openai",
+      "pytorch",
+      "qwen",
+      "qwen3",
+      "tpu",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 78892,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-09T11:23:20Z",
+    "UpdatedAt": "2026-05-03T04:48:33Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lemony-ai/cascadeflow",
+    "Name": "cascadeflow",
+    "Url": "https://github.com/lemony-ai/cascadeflow",
+    "Description": "Cascading runtime for AI agents. Optimize cost, latency, quality, and policy decisions inside the agent loop.",
+    "Topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "api",
+      "budgets",
+      "claude",
+      "cost-optimization",
+      "cost-transparency",
+      "google-adk",
+      "gpt",
+      "huggingface",
+      "llm",
+      "model-cascading",
+      "n8n",
+      "ollama",
+      "openai",
+      "python",
+      "together-ai",
+      "typescript",
+      "vllm"
+    ],
+    "Language": "Python",
+    "Stars": 792,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-24T11:08:44Z",
+    "UpdatedAt": "2026-05-03T01:36:45Z",
+    "Owner": "lemony-ai",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39123,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-03T04:47:04Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Mintplex-Labs/anything-llm",
+    "Name": "anything-llm",
+    "Url": "https://github.com/Mintplex-Labs/anything-llm",
+    "Description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+    "Topics": [
+      "ai-agents",
+      "custom-ai-agents",
+      "deepseek",
+      "kimi",
+      "llama3",
+      "llm",
+      "lmstudio",
+      "local-llm",
+      "localai",
+      "mcp",
+      "mcp-servers",
+      "moonshot",
+      "multimodal",
+      "no-code",
+      "ollama",
+      "qwen3",
+      "rag",
+      "vector-database",
+      "web-scraping"
+    ],
+    "Language": "JavaScript",
+    "Stars": 59429,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-04T02:29:14Z",
+    "UpdatedAt": "2026-05-03T04:07:00Z",
+    "Owner": "Mintplex-Labs",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42239,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-03T04:52:24Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "unslothai/unsloth",
+    "Name": "unsloth",
+    "Url": "https://github.com/unslothai/unsloth",
+    "Description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "Topics": [
+      "agent",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ],
+    "Language": "Python",
+    "Stars": 63472,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T16:50:09Z",
+    "UpdatedAt": "2026-05-03T04:52:00Z",
+    "Owner": "unslothai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ARYANK-08/breaking-Prod",
+    "Name": "breaking-Prod",
+    "Url": "https://github.com/ARYANK-08/breaking-Prod",
+    "Description": "aryan learns ai and all cool stuff over here :)",
+    "Topics": [
+      "aws",
+      "cloud",
+      "cloud-computing",
+      "cybersecurity",
+      "django",
+      "docker",
+      "ec2-instance",
+      "kubernetes",
+      "networking",
+      "python",
+      "ruby",
+      "ruby-on-rails"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-14T21:34:28Z",
+    "UpdatedAt": "2026-04-27T08:31:30Z",
+    "Owner": "ARYANK-08",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "casualsnek/cassowary",
+    "Name": "cassowary",
+    "Url": "https://github.com/casualsnek/cassowary",
+    "Description": "Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI",
+    "Topics": [
+      "linux",
+      "opensource",
+      "python",
+      "vm",
+      "winapps",
+      "windows"
+    ],
+    "Language": "Python",
+    "Stars": 3491,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-10T19:30:02Z",
+    "UpdatedAt": "2026-05-02T22:52:18Z",
+    "Owner": "casualsnek",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31409,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-02T22:59:13Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firecrawl/firecrawl",
+    "Name": "firecrawl",
+    "Url": "https://github.com/firecrawl/firecrawl",
+    "Description": "🔥 The API to search, scrape, and interact with the web for AI",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "ai-crawler",
+      "ai-scraping",
+      "ai-search",
+      "crawler",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "markdown",
+      "scraper",
+      "scraping",
+      "web-crawler",
+      "web-data",
+      "web-data-extraction",
+      "web-scraper",
+      "web-scraping",
+      "web-search",
+      "webscraping"
+    ],
+    "Language": "TypeScript",
+    "Stars": 114348,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-15T21:02:29Z",
+    "UpdatedAt": "2026-05-03T04:55:40Z",
+    "Owner": "firecrawl",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/smolagents",
+    "Name": "smolagents",
+    "Url": "https://github.com/huggingface/smolagents",
+    "Description": "🤗 smolagents: a barebones library for agents that think in code.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 27052,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-05T11:28:04Z",
+    "UpdatedAt": "2026-05-03T04:41:02Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "containers/podman-compose",
+    "Name": "podman-compose",
+    "Url": "https://github.com/containers/podman-compose",
+    "Description": "a script to run docker-compose.yml using podman",
+    "Topics": [
+      "docker-compose",
+      "linux-containers",
+      "podman",
+      "rootless-containers"
+    ],
+    "Language": "Python",
+    "Stars": 6060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-04T08:52:30Z",
+    "UpdatedAt": "2026-05-03T00:11:32Z",
+    "Owner": "containers",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-OCR",
+    "Name": "DeepSeek-OCR",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "Description": "Contexts Optical Compression",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23030,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-17T06:14:27Z",
+    "UpdatedAt": "2026-05-03T04:24:13Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "seehiong/ats-buddy",
+    "Name": "ats-buddy",
+    "Url": "https://github.com/seehiong/ats-buddy",
+    "Description": "ATS Buddy is a production-ready, serverless AI resume analyzer built on AWS Bedrock (Nova Lite). It intelligently compares resumes against job descriptions, providing compatibility scores, missing keyword detection, and AI-powered resume enhancements—all while ensuring enterprise-grade PII protection and cost-efficient auto-scaling.",
+    "Topics": [
+      "ai",
+      "amazon-bedrock",
+      "ats",
+      "aws",
+      "aws-comprehend",
+      "aws-lambda",
+      "aws-textract",
+      "cost-optimization",
+      "dynamodb",
+      "hackathon",
+      "job-matching",
+      "mit-license",
+      "pii-protection",
+      "python",
+      "resume-analyzer",
+      "resume-optimization",
+      "s3",
+      "serverless"
+    ],
+    "Language": "Python",
+    "Stars": 65,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-29T03:40:40Z",
+    "UpdatedAt": "2026-05-02T14:58:20Z",
+    "Owner": "seehiong",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jcjorel/ec2-spot-converter",
+    "Name": "ec2-spot-converter",
+    "Url": "https://github.com/jcjorel/ec2-spot-converter",
+    "Description": "A tool to convert AWS EC2 instances back and forth between On-Demand and Spot billing models.",
+    "Topics": [
+      "billing-model",
+      "conversion",
+      "converter",
+      "cost-optimization",
+      "ec2",
+      "ec2-on-demand",
+      "ec2-spot",
+      "ec2-spot-instances",
+      "spot",
+      "tool"
+    ],
+    "Language": "Python",
+    "Stars": 199,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-21T10:13:52Z",
+    "UpdatedAt": "2026-04-06T03:04:58Z",
+    "Owner": "jcjorel",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "terrytangyuan/distributed-ml-patterns",
+    "Name": "distributed-ml-patterns",
+    "Url": "https://github.com/terrytangyuan/distributed-ml-patterns",
+    "Description": "Distributed Machine Learning Patterns from Manning Publications by Yuan Tang https://bit.ly/2RKv8Zo",
+    "Topics": [
+      "argo",
+      "argo-workflows",
+      "book",
+      "cloud-computing",
+      "cloud-native",
+      "data-science",
+      "devops",
+      "distributed-machine-learning",
+      "distributed-systems",
+      "kubeflow",
+      "kubernetes",
+      "large-scale-machine-learning",
+      "machine-learning",
+      "machine-learning-pipelines",
+      "manning-publications",
+      "mlops",
+      "python",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 501,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-15T19:51:37Z",
+    "UpdatedAt": "2026-04-22T11:11:50Z",
+    "Owner": "terrytangyuan",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SimplifyJobs/Summer2026-Internships",
+    "Name": "Summer2026-Internships",
+    "Url": "https://github.com/SimplifyJobs/Summer2026-Internships",
+    "Description": "Collection of Summer 2026 tech internships!",
+    "Topics": [
+      "internships",
+      "interview-preparation",
+      "jobs",
+      "university"
+    ],
+    "Language": "Python",
+    "Stars": 44406,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-23T20:53:18Z",
+    "UpdatedAt": "2026-05-03T04:30:46Z",
+    "Owner": "SimplifyJobs",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33727,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-03T04:54:19Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "s language:Python stars:>=50",
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "lavie/runlike",
+    "Name": "runlike",
+    "Url": "https://github.com/lavie/runlike",
+    "Description": "Given an existing docker container, prints the command line necessary to run a copy of it.",
+    "Topics": [
+      "docker",
+      "docker-container",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 2927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-04T05:12:31Z",
+    "UpdatedAt": "2026-04-29T09:52:11Z",
+    "Owner": "lavie",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 130021,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-03T04:57:43Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "alexcasalboni/ssm-cache-python",
+    "Name": "ssm-cache-python",
+    "Url": "https://github.com/alexcasalboni/ssm-cache-python",
+    "Description": "AWS System Manager Parameter Store caching client for Python",
+    "Topics": [
+      "amazon-web-services",
+      "aws",
+      "aws-lambda",
+      "aws-s3",
+      "cloud-computing",
+      "parameter-store",
+      "python",
+      "python2",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-21T09:39:55Z",
+    "UpdatedAt": "2025-08-23T18:09:01Z",
+    "Owner": "alexcasalboni",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70849,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T04:52:32Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sanic-org/sanic",
+    "Name": "sanic",
+    "Url": "https://github.com/sanic-org/sanic",
+    "Description": " Accelerate your web app development  | Build fast. Run fast.",
+    "Topics": [
+      "api-server",
+      "asgi",
+      "asyncio",
+      "framework",
+      "python",
+      "sanic",
+      "web",
+      "web-framework",
+      "web-server"
+    ],
+    "Language": "Python",
+    "Stars": 18644,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-26T04:38:22Z",
+    "UpdatedAt": "2026-05-03T03:32:39Z",
+    "Owner": "sanic-org",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Yelp/mrjob",
+    "Name": "mrjob",
+    "Url": "https://github.com/Yelp/mrjob",
+    "Description": "Run MapReduce jobs on Hadoop or Amazon Web Services",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2616,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-10-13T18:35:21Z",
+    "UpdatedAt": "2026-04-02T17:06:10Z",
+    "Owner": "Yelp",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TomAnthony/itermocil",
+    "Name": "itermocil",
+    "Url": "https://github.com/TomAnthony/itermocil",
+    "Description": "Create pre-defined window/pane layouts and run commands in iTerm",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2367,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-04T22:39:40Z",
+    "UpdatedAt": "2026-05-02T04:04:56Z",
+    "Owner": "TomAnthony",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "harelba/q",
+    "Name": "q",
+    "Url": "https://github.com/harelba/q",
+    "Description": "q - Run SQL directly on delimited files and multi-file sqlite databases",
+    "Topics": [
+      "cli",
+      "command-line",
+      "command-line-tool",
+      "csv",
+      "database",
+      "python",
+      "q",
+      "qtextasdata",
+      "sql",
+      "sqlite",
+      "sqlite3",
+      "textasdata",
+      "tsv"
+    ],
+    "Language": "Python",
+    "Stars": 10349,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-01-30T21:12:09Z",
+    "UpdatedAt": "2026-04-30T23:27:21Z",
+    "Owner": "harelba",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nesaorg/nesa",
+    "Name": "nesa",
+    "Url": "https://github.com/nesaorg/nesa",
+    "Description": "Run AI models end-to-end encrypted.",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "encryption",
+      "llms",
+      "privacy"
+    ],
+    "Language": "Python",
+    "Stars": 3090,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-22T04:53:59Z",
+    "UpdatedAt": "2026-04-29T18:11:22Z",
+    "Owner": "nesaorg",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scrapy/scrapyd",
+    "Name": "scrapyd",
+    "Url": "https://github.com/scrapy/scrapyd",
+    "Description": "A service daemon to run Scrapy spiders",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3089,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-01T19:06:43Z",
+    "UpdatedAt": "2026-04-28T17:40:35Z",
+    "Owner": "scrapy",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hystax/optscale",
+    "Name": "optscale",
+    "Url": "https://github.com/hystax/optscale",
+    "Description": "FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.",
+    "Topics": [
+      "aws",
+      "azure",
+      "cloud",
+      "cloud-cost",
+      "cloud-cost-intelligence",
+      "cost-optimization",
+      "devops",
+      "finops",
+      "gcp",
+      "kubernetes",
+      "paas-instrumentation",
+      "paas-profiling",
+      "s3-optimization"
+    ],
+    "Language": "Python",
+    "Stars": 2049,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-01T06:00:14Z",
+    "UpdatedAt": "2026-05-02T19:01:36Z",
+    "Owner": "hystax",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mistio/mist-ce",
+    "Name": "mist-ce",
+    "Url": "https://github.com/mistio/mist-ce",
+    "Description": "Mist is an open source, multicloud management platform",
+    "Topics": [
+      "aws",
+      "cloud",
+      "cloud-management",
+      "containers",
+      "devops",
+      "docker",
+      "hypervisors",
+      "kvm",
+      "monitoring",
+      "openstack",
+      "python",
+      "server",
+      "vsphere"
+    ],
+    "Language": "Python",
+    "Stars": 1910,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-09-19T16:11:37Z",
+    "UpdatedAt": "2026-05-02T15:19:10Z",
+    "Owner": "mistio",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BerriAI/litellm",
+    "Name": "litellm",
+    "Url": "https://github.com/BerriAI/litellm",
+    "Description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "Topics": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm",
+      "llm-gateway",
+      "llmops",
+      "mcp-gateway",
+      "openai",
+      "openai-proxy",
+      "vertex-ai"
+    ],
+    "Language": "Python",
+    "Stars": 45513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-27T00:09:52Z",
+    "UpdatedAt": "2026-05-03T04:49:36Z",
+    "Owner": "BerriAI",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135255,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-03T04:59:35Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "fishaudio/fish-speech",
+    "Name": "fish-speech",
+    "Url": "https://github.com/fishaudio/fish-speech",
+    "Description": "SOTA Open Source TTS",
+    "Topics": [
+      "llama",
+      "transformer",
+      "tts",
+      "valle",
+      "vits",
+      "vqgan",
+      "vqvae"
+    ],
+    "Language": "Python",
+    "Stars": 30043,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-10T03:16:51Z",
+    "UpdatedAt": "2026-05-03T04:51:12Z",
+    "Owner": "fishaudio",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "illuin-tech/colpali",
+    "Name": "colpali",
+    "Url": "https://github.com/illuin-tech/colpali",
+    "Description": "The code used to train and run inference with the ColVision models, e.g. ColPali, ColQwen2, and ColSmol.",
+    "Topics": [
+      "colpali",
+      "colqwen2",
+      "colsmol",
+      "information-retrieval",
+      "retrieval-augmented-generation",
+      "vision-language-model"
+    ],
+    "Language": "Python",
+    "Stars": 2611,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-20T16:14:06Z",
+    "UpdatedAt": "2026-05-02T02:33:40Z",
+    "Owner": "illuin-tech",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HDFGroup/hdf5-json",
+    "Name": "hdf5-json",
+    "Url": "https://github.com/HDFGroup/hdf5-json",
+    "Description": "Specification and tools for representing HDF5 in JSON",
+    "Topics": [
+      "cloud-computing",
+      "datacube",
+      "file-format",
+      "hdf5",
+      "json",
+      "machine-learning"
+    ],
+    "Language": "Python",
+    "Stars": 82,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-27T20:53:32Z",
+    "UpdatedAt": "2026-03-25T20:16:35Z",
+    "Owner": "HDFGroup",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bigscience-workshop/petals",
+    "Name": "petals",
+    "Url": "https://github.com/bigscience-workshop/petals",
+    "Description": "🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
+    "Topics": [
+      "bloom",
+      "chatbot",
+      "deep-learning",
+      "distributed-systems",
+      "falcon",
+      "gpt",
+      "guanaco",
+      "language-models",
+      "large-language-models",
+      "llama",
+      "machine-learning",
+      "mixtral",
+      "neural-networks",
+      "nlp",
+      "pipeline-parallelism",
+      "pretrained-models",
+      "pytorch",
+      "tensor-parallelism",
+      "transformer",
+      "volunteer-computing"
+    ],
+    "Language": "Python",
+    "Stars": 10110,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-12T00:10:27Z",
+    "UpdatedAt": "2026-05-03T03:08:54Z",
+    "Owner": "bigscience-workshop",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54618,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-03T04:22:37Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zoubohao/DenoisingDiffusionProbabilityModel-ddpm-",
+    "Name": "DenoisingDiffusionProbabilityModel-ddpm-",
+    "Url": "https://github.com/zoubohao/DenoisingDiffusionProbabilityModel-ddpm-",
+    "Description": "This may be the simplest implement of DDPM. You can directly run Main.py to train the UNet on CIFAR-10 dataset and see the amazing process of denoising.",
+    "Topics": [
+      "ddpm"
+    ],
+    "Language": "Python",
+    "Stars": 2170,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-25T02:34:13Z",
+    "UpdatedAt": "2026-05-02T08:26:07Z",
+    "Owner": "zoubohao",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ollama/ollama",
+    "Name": "ollama",
+    "Url": "https://github.com/ollama/ollama",
+    "Description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "Topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ],
+    "Language": "Go",
+    "Stars": 170587,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-26T19:39:32Z",
+    "UpdatedAt": "2026-05-03T04:04:28Z",
+    "Owner": "ollama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/Open-Sora",
+    "Name": "Open-Sora",
+    "Url": "https://github.com/hpcaitech/Open-Sora",
+    "Description": "Open-Sora: Democratizing Efficient Video Production for All",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 28927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-20T03:01:34Z",
+    "UpdatedAt": "2026-05-03T01:48:38Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "run-llama/llama_index",
+    "Name": "llama_index",
+    "Url": "https://github.com/run-llama/llama_index",
+    "Description": "LlamaIndex is the leading document agent and OCR platform",
+    "Topics": [
+      "agents",
+      "application",
+      "data",
+      "fine-tuning",
+      "framework",
+      "llamaindex",
+      "llm",
+      "multi-agents",
+      "rag",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 49100,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-02T04:24:54Z",
+    "UpdatedAt": "2026-05-03T01:56:02Z",
+    "Owner": "run-llama",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T04:49:41Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "2noise/ChatTTS",
+    "Name": "ChatTTS",
+    "Url": "https://github.com/2noise/ChatTTS",
+    "Description": "A generative speech model for daily dialogue.",
+    "Topics": [
+      "agent",
+      "chat",
+      "chatgpt",
+      "chattts",
+      "chinese",
+      "chinese-language",
+      "english",
+      "english-language",
+      "gpt",
+      "llm",
+      "llm-agent",
+      "natural-language-inference",
+      "python",
+      "text-to-speech",
+      "torch",
+      "torchaudio",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 39189,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-05-27T18:26:49Z",
+    "UpdatedAt": "2026-05-02T16:56:35Z",
+    "Owner": "2noise",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "skyplane-project/skyplane",
+    "Name": "skyplane",
+    "Url": "https://github.com/skyplane-project/skyplane",
+    "Description": "🔥 Blazing fast bulk data transfers between any cloud 🔥",
+    "Topics": [
+      "aws",
+      "azure",
+      "cloud",
+      "cloud-computing",
+      "data-antigravity",
+      "data-transfer",
+      "datasync",
+      "gcp",
+      "multi-cloud",
+      "multicloud",
+      "replication",
+      "rsync",
+      "sky",
+      "skyplane"
+    ],
+    "Language": "Python",
+    "Stars": 1212,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-27T18:20:37Z",
+    "UpdatedAt": "2026-04-28T15:38:19Z",
+    "Owner": "skyplane-project",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33539,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T03:37:47Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "imperial-qore/COSCO",
+    "Name": "COSCO",
+    "Url": "https://github.com/imperial-qore/COSCO",
+    "Description": "[TPDS'21] COSCO: Container Orchestration using Co-Simulation and Gradient Based Optimization for Fog Computing Environments",
+    "Topics": [
+      "cloud-computing",
+      "container-orchestration",
+      "edge-computing",
+      "iot-platform",
+      "simulation"
+    ],
+    "Language": "Python",
+    "Stars": 95,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-23T15:24:10Z",
+    "UpdatedAt": "2026-02-26T17:29:44Z",
+    "Owner": "imperial-qore",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "earthaccess-dev/earthaccess",
+    "Name": "earthaccess",
+    "Url": "https://github.com/earthaccess-dev/earthaccess",
+    "Description": "Python Library for NASA Earthdata APIs",
+    "Topics": [
+      "access",
+      "climate-data",
+      "cloud-computing",
+      "cmr",
+      "data",
+      "gis",
+      "nasa",
+      "nasa-api",
+      "nasa-data",
+      "open-science",
+      "openscience",
+      "pangeo",
+      "remote-sensing"
+    ],
+    "Language": "Python",
+    "Stars": 603,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-25T15:25:00Z",
+    "UpdatedAt": "2026-05-02T19:18:09Z",
+    "Owner": "earthaccess-dev",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "agentscope-ai/agentscope",
+    "Name": "agentscope",
+    "Url": "https://github.com/agentscope-ai/agentscope",
+    "Description": "Build and run agents you can see, understand and trust.",
+    "Topics": [
+      "agent",
+      "chatbot",
+      "large-language-models",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent",
+      "multi-modal",
+      "react-agent"
+    ],
+    "Language": "Python",
+    "Stars": 24547,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-12T03:41:59Z",
+    "UpdatedAt": "2026-05-03T02:19:40Z",
+    "Owner": "agentscope-ai",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "anthropics/skills",
+    "Name": "skills",
+    "Url": "https://github.com/anthropics/skills",
+    "Description": "Public repository for Agent Skills",
+    "Topics": [
+      "agent-skills"
+    ],
+    "Language": "Python",
+    "Stars": 127367,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-22T15:53:31Z",
+    "UpdatedAt": "2026-05-03T05:00:24Z",
+    "Owner": "anthropics",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135651,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-03T04:04:41Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183947,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-03T03:54:05Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "trackit/aws-cost-report",
+    "Name": "aws-cost-report",
+    "Url": "https://github.com/trackit/aws-cost-report",
+    "Description": "Generate Sheets (Google, Excel and CSV) with useful information about your AWS spendings.",
+    "Topics": [
+      "aws",
+      "cost-optimization",
+      "governance"
+    ],
+    "Language": "Python",
+    "Stars": 112,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-13T19:03:05Z",
+    "UpdatedAt": "2026-04-24T21:31:15Z",
+    "Owner": "trackit",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "searxng/searxng",
+    "Name": "searxng",
+    "Url": "https://github.com/searxng/searxng",
+    "Description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "Topics": [
+      "bing",
+      "brave",
+      "degoogle",
+      "duckduckgo",
+      "google",
+      "metasearch",
+      "privacy",
+      "python",
+      "qwant",
+      "search",
+      "search-engine",
+      "searx",
+      "searxng",
+      "startpage",
+      "yahoo"
+    ],
+    "Language": "Python",
+    "Stars": 29319,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-12T15:18:15Z",
+    "UpdatedAt": "2026-05-03T04:56:37Z",
+    "Owner": "searxng",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mage-ai/mage-ai",
+    "Name": "mage-ai",
+    "Url": "https://github.com/mage-ai/mage-ai",
+    "Description": "🧙 Build, run, and manage data pipelines for integrating and transforming data.",
+    "Topics": [
+      "artificial-intelligence",
+      "data",
+      "data-engineering",
+      "data-integration",
+      "data-pipelines",
+      "data-science",
+      "dbt",
+      "elt",
+      "etl",
+      "machine-learning",
+      "orchestration",
+      "pipeline",
+      "pipelines",
+      "python",
+      "reverse-etl",
+      "spark",
+      "sql",
+      "transformation"
+    ],
+    "Language": "Python",
+    "Stars": 8712,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-16T22:11:39Z",
+    "UpdatedAt": "2026-05-03T01:41:56Z",
+    "Owner": "mage-ai",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "usestrix/strix",
+    "Name": "strix",
+    "Url": "https://github.com/usestrix/strix",
+    "Description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+    "Topics": [
+      "agents",
+      "artificial-intelligence",
+      "cybersecurity",
+      "generative-ai",
+      "llm",
+      "penetration-testing"
+    ],
+    "Language": "Python",
+    "Stars": 24781,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-05T21:28:30Z",
+    "UpdatedAt": "2026-05-03T02:29:15Z",
+    "Owner": "usestrix",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "saltstack/salt",
+    "Name": "salt",
+    "Url": "https://github.com/saltstack/salt",
+    "Description": "Software to automate the management and configuration of infrastructure and applications at scale.",
+    "Topics": [
+      "cloud",
+      "cloud-management",
+      "cloud-providers",
+      "cloud-provisioning",
+      "configuration-management",
+      "edge",
+      "event-management",
+      "event-stream",
+      "infrastructure",
+      "infrastructure-as-a-code",
+      "infrastructure-as-code",
+      "infrastructure-automation",
+      "infrastructure-management",
+      "iot",
+      "python",
+      "remote-execution",
+      "zeromq"
+    ],
+    "Language": "Python",
+    "Stars": 15365,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-02-20T20:16:56Z",
+    "UpdatedAt": "2026-05-03T01:30:28Z",
+    "Owner": "saltstack",
+    "SourceQueries": [
+      "topic:cloud-management language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "scikit-learn/scikit-learn",
+    "Name": "scikit-learn",
+    "Url": "https://github.com/scikit-learn/scikit-learn",
+    "Description": "scikit-learn: machine learning in Python",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "machine-learning",
+      "python",
+      "statistics"
+    ],
+    "Language": "Python",
+    "Stars": 65968,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-08-17T09:43:38Z",
+    "UpdatedAt": "2026-05-03T04:40:25Z",
+    "Owner": "scikit-learn",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MustardChef/WSABuilds",
+    "Name": "WSABuilds",
+    "Url": "https://github.com/MustardChef/WSABuilds",
+    "Description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. ",
+    "Topics": [
+      "android",
+      "android-emulator",
+      "google-apps",
+      "kernelsu",
+      "magisk",
+      "magiskonwsa",
+      "magiskonwsalocal",
+      "subsystem",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "windows-subsystem-android",
+      "windows-subsystem-for-android",
+      "windows10",
+      "windowssubsystemforandroid",
+      "wsa",
+      "wsa-root",
+      "wsa-with-gapps-and-magisk",
+      "wsapatch"
+    ],
+    "Language": "Python",
+    "Stars": 16859,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-30T21:43:34Z",
+    "UpdatedAt": "2026-05-03T03:51:12Z",
+    "Owner": "MustardChef",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34360,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-03T03:57:35Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jeecgboot/JeecgBoot",
+    "Name": "JeecgBoot",
+    "Url": "https://github.com/jeecgboot/JeecgBoot",
+    "Description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+    "Topics": [
+      "activiti",
+      "agent",
+      "ai",
+      "antd",
+      "claude-code",
+      "cli",
+      "codegenerator",
+      "codex",
+      "flowable",
+      "langchain4j",
+      "llm",
+      "low-code",
+      "mcp",
+      "mybatis-plus",
+      "rag",
+      "skills",
+      "spring-ai",
+      "springboot",
+      "springcloud",
+      "vue3"
+    ],
+    "Language": "Java",
+    "Stars": 46069,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T10:40:00Z",
+    "UpdatedAt": "2026-05-03T03:53:58Z",
+    "Owner": "jeecgboot",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "exo-explore/exo",
+    "Name": "exo",
+    "Url": "https://github.com/exo-explore/exo",
+    "Description": "Run frontier AI locally.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 44302,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-06-24T18:36:22Z",
+    "UpdatedAt": "2026-05-03T04:09:19Z",
+    "Owner": "exo-explore",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "timeweb-cloud/twc",
+    "Name": "twc",
+    "Url": "https://github.com/timeweb-cloud/twc",
+    "Description": "Timeweb Cloud Command Line Interface",
+    "Topics": [
+      "cli",
+      "cloud",
+      "cloud-computing",
+      "timeweb"
+    ],
+    "Language": "Python",
+    "Stars": 65,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-27T16:12:47Z",
+    "UpdatedAt": "2026-04-24T08:31:13Z",
+    "Owner": "timeweb-cloud",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rtk-ai/rtk",
+    "Name": "rtk",
+    "Url": "https://github.com/rtk-ai/rtk",
+    "Description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "Topics": [
+      "agentic-coding",
+      "ai-coding",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "command-line-tool",
+      "cost-reduction",
+      "developer-tools",
+      "llm",
+      "open-source",
+      "productivity",
+      "rust",
+      "token-optimization"
+    ],
+    "Language": "Rust",
+    "Stars": 40158,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-22T16:54:16Z",
+    "UpdatedAt": "2026-05-03T05:00:17Z",
+    "Owner": "rtk-ai",
+    "SourceQueries": [
+      "topic:llm stars:>=100"
+    ]
+  },
+  {
+    "FullName": "aws-samples/service-screener-v2",
+    "Name": "service-screener-v2",
+    "Url": "https://github.com/aws-samples/service-screener-v2",
+    "Description": "A tool for customers to evaluate their AWS service configurations based on AWS and community best practices and receive recommendations on potential improvements.",
+    "Topics": [
+      "aws",
+      "cloudshell",
+      "cost-optimization",
+      "open-source",
+      "security",
+      "trusted-advisor",
+      "well-architected"
+    ],
+    "Language": "Python",
+    "Stars": 548,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-10T04:57:51Z",
+    "UpdatedAt": "2026-04-28T12:44:17Z",
+    "Owner": "aws-samples",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "avilum/minrlm",
+    "Name": "minrlm",
+    "Url": "https://github.com/avilum/minrlm",
+    "Description": "Stop forcing LLMs to answer in one pass. Give them a runtime. Recursive Language Model that improves any LLM, while reducing token usage up to 4X.",
+    "Topics": [
+      "agent",
+      "ai-agents",
+      "cost-optimization",
+      "latency-optimization",
+      "llm",
+      "llm-inference",
+      "llmops",
+      "recursive-language-model",
+      "rlm",
+      "token-optimization"
+    ],
+    "Language": "Python",
+    "Stars": 61,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-31T13:26:42Z",
+    "UpdatedAt": "2026-04-25T02:00:09Z",
+    "Owner": "avilum",
+    "SourceQueries": [
+      "topic:cost-optimization language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lablup/backend.ai",
+    "Name": "backend.ai",
+    "Url": "https://github.com/lablup/backend.ai",
+    "Description": "Backend.AI is a streamlined, container-based computing cluster platform that hosts popular computing/ML frameworks and diverse programming languages, with pluggable heterogeneous accelerator support including CUDA GPU, ROCm GPU, Gaudi NPU, Google TPU, GraphCore IPU and other NPUs.",
+    "Topics": [
+      "api",
+      "backendai",
+      "cloud-computing",
+      "containers",
+      "distributed-computing",
+      "docker",
+      "documentation",
+      "hpc",
+      "monitoring",
+      "paas",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 632,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-06T05:08:49Z",
+    "UpdatedAt": "2026-05-03T03:42:36Z",
+    "Owner": "lablup",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ml-explore/mlx-lm",
+    "Name": "mlx-lm",
+    "Url": "https://github.com/ml-explore/mlx-lm",
+    "Description": "Run LLMs with MLX",
+    "Topics": [
+      "llms",
+      "mlx"
+    ],
+    "Language": "Python",
+    "Stars": 5127,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T16:38:30Z",
+    "UpdatedAt": "2026-05-03T02:32:33Z",
+    "Owner": "ml-explore",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hydrusnetwork/hydrus",
+    "Name": "hydrus",
+    "Url": "https://github.com/hydrusnetwork/hydrus",
+    "Description": "A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3044,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-02-19T08:08:04Z",
+    "UpdatedAt": "2026-05-02T20:57:57Z",
+    "Owner": "hydrusnetwork",
+    "SourceQueries": [
+      "run language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sgl-project/sglang",
+    "Name": "sglang",
+    "Url": "https://github.com/sgl-project/sglang",
+    "Description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+    "Topics": [
+      "attention",
+      "blackwell",
+      "cuda",
+      "deepseek",
+      "diffusion",
+      "glm",
+      "gpt-oss",
+      "inference",
+      "llama",
+      "llm",
+      "minimax",
+      "moe",
+      "qwen",
+      "qwen-image",
+      "reinforcement-learning",
+      "transformer",
+      "vlm",
+      "wan"
+    ],
+    "Language": "Python",
+    "Stars": 26976,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-08T04:15:52Z",
+    "UpdatedAt": "2026-05-03T04:53:27Z",
+    "Owner": "sgl-project",
+    "SourceQueries": [
+      "s language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kaapana/kaapana",
+    "Name": "kaapana",
+    "Url": "https://github.com/kaapana/kaapana",
+    "Description": "Kaapana is an open source toolkit for state of the art platform provisioning in the field of medical data analysis. The applications comprise AI-based workflows and federated learning scenarios with a focus on radiological and radiotherapeutic imaging. The name Kaapana comes from the Hawaiian word kaʻāpana, meaning \"distributor\" or \"part\".",
+    "Topics": [
+      "ai",
+      "cloud-computing",
+      "imaging",
+      "kubernetes",
+      "medical-image-processing",
+      "medical-imaging",
+      "platform"
+    ],
+    "Language": "Python",
+    "Stars": 260,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-06T09:28:22Z",
+    "UpdatedAt": "2026-04-26T17:06:45Z",
+    "Owner": "kaapana",
+    "SourceQueries": [
+      "topic:cloud-computing language:Python stars:>=50"
+    ]
+  }
+]

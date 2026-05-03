@@ -1,0 +1,5268 @@
+[
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "p language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "GokuMohandas/Made-With-ML",
+    "Name": "Made-With-ML",
+    "Url": "https://github.com/GokuMohandas/Made-With-ML",
+    "Description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+    "Topics": [
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "distributed-ml",
+      "distributed-training",
+      "llms",
+      "machine-learning",
+      "mlops",
+      "natural-language-processing",
+      "python",
+      "pytorch",
+      "ray"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47486,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-05T03:44:27Z",
+    "UpdatedAt": "2026-05-03T18:46:16Z",
+    "Owner": "GokuMohandas",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "meta-pytorch/torchrec",
+    "Name": "torchrec",
+    "Url": "https://github.com/meta-pytorch/torchrec",
+    "Description": "Pytorch domain library for recommendation systems",
+    "Topics": [
+      "cuda",
+      "deep-learning",
+      "gpu",
+      "pytorch",
+      "recommendation-system",
+      "recommender-system",
+      "sharding"
+    ],
+    "Language": "Python",
+    "Stars": 2535,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-12T23:15:48Z",
+    "UpdatedAt": "2026-05-03T01:55:02Z",
+    "Owner": "meta-pytorch",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mouredev/Hello-Python",
+    "Name": "Hello-Python",
+    "Url": "https://github.com/mouredev/Hello-Python",
+    "Description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+    "Topics": [
+      "backend",
+      "chatgpt",
+      "chatgpt-api",
+      "fastapi",
+      "frontend",
+      "gpt-3",
+      "gpt-4",
+      "mongodb",
+      "openai",
+      "openai-api",
+      "python",
+      "python3",
+      "reflex",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 35465,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-03T17:14:53Z",
+    "UpdatedAt": "2026-05-03T17:27:05Z",
+    "Owner": "mouredev",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVlabs/storm",
+    "Name": "storm",
+    "Url": "https://github.com/NVlabs/storm",
+    "Description": "Stochastic Tensor Optimization for Robot Motion - A GPU Robot Motion Toolkit",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 243,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-27T20:54:27Z",
+    "UpdatedAt": "2026-04-25T05:50:55Z",
+    "Owner": "NVlabs",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyro-ppl/funsor",
+    "Name": "funsor",
+    "Url": "https://github.com/pyro-ppl/funsor",
+    "Description": "Functional tensors for probabilistic programming",
+    "Topics": [
+      "jax",
+      "machine-learning",
+      "numpy",
+      "probabilistic-programming",
+      "pyro",
+      "pytorch",
+      "symbolic"
+    ],
+    "Language": "Python",
+    "Stars": 246,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-30T23:13:39Z",
+    "UpdatedAt": "2026-05-02T10:44:43Z",
+    "Owner": "pyro-ppl",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pathwaycom/pathway",
+    "Name": "pathway",
+    "Url": "https://github.com/pathwaycom/pathway",
+    "Description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "Topics": [
+      "batch-processing",
+      "data-analytics",
+      "data-pipelines",
+      "data-processing",
+      "dataflow",
+      "etl",
+      "etl-framework",
+      "iot-analytics",
+      "kafka",
+      "machine-learning-algorithms",
+      "pathway",
+      "python",
+      "real-time",
+      "rust",
+      "stream-processing",
+      "streaming",
+      "time-series-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 63353,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-27T13:01:14Z",
+    "UpdatedAt": "2026-05-03T18:04:38Z",
+    "Owner": "pathwaycom",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20762,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-03T18:27:35Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "emmabostian/developer-portfolios",
+    "Name": "developer-portfolios",
+    "Url": "https://github.com/emmabostian/developer-portfolios",
+    "Description": "A list of developer portfolios for your inspiration",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 22363,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-13T14:18:58Z",
+    "UpdatedAt": "2026-05-03T18:19:17Z",
+    "Owner": "emmabostian",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/cutile-python",
+    "Name": "cutile-python",
+    "Url": "https://github.com/NVIDIA/cutile-python",
+    "Description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+    "Topics": [
+      "cutile",
+      "gpu",
+      "kernel",
+      "parallel-kernels",
+      "python",
+      "tile",
+      "tile-based-programming"
+    ],
+    "Language": "Python",
+    "Stars": 2036,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-13T22:07:17Z",
+    "UpdatedAt": "2026-05-01T11:05:21Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA-Merlin/NVTabular",
+    "Name": "NVTabular",
+    "Url": "https://github.com/NVIDIA-Merlin/NVTabular",
+    "Description": "NVTabular is a feature engineering and preprocessing library for tabular data designed to quickly and easily manipulate terabyte scale datasets used to train deep learning based recommender systems.",
+    "Topics": [
+      "deep-learning",
+      "feature-engineering",
+      "feature-selection",
+      "gpu",
+      "machine-learning",
+      "nvidia",
+      "preprocessing",
+      "recommendation-system",
+      "recommender-system"
+    ],
+    "Language": "Python",
+    "Stars": 1143,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-03T16:01:17Z",
+    "UpdatedAt": "2026-04-12T04:53:31Z",
+    "Owner": "NVIDIA-Merlin",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ROCm/Tensile",
+    "Name": "Tensile",
+    "Url": "https://github.com/ROCm/Tensile",
+    "Description": "[DEPRECATED] Moved to ROCm/rocm-libraries repo",
+    "Topics": [
+      "amd",
+      "assembly",
+      "auto-tuning",
+      "blas",
+      "dnn",
+      "gemm",
+      "gpu",
+      "gpu-acceleration",
+      "gpu-computing",
+      "hip",
+      "machine-learning",
+      "matrix-multiplication",
+      "neural-networks",
+      "opencl",
+      "python",
+      "radeon",
+      "tensor-contraction",
+      "tensors"
+    ],
+    "Language": "Python",
+    "Stars": 258,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-05T13:58:49Z",
+    "UpdatedAt": "2026-04-27T03:29:10Z",
+    "Owner": "ROCm",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pypa/pipenv",
+    "Name": "pipenv",
+    "Url": "https://github.com/pypa/pipenv",
+    "Description": " Python Development Workflow for Humans.",
+    "Topics": [
+      "packaging",
+      "pip",
+      "pipfile",
+      "python",
+      "virtualenv"
+    ],
+    "Language": "Python",
+    "Stars": 25077,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-01-20T00:44:02Z",
+    "UpdatedAt": "2026-05-03T13:47:47Z",
+    "Owner": "pypa",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZuzooVn/machine-learning-for-software-engineers",
+    "Name": "machine-learning-for-software-engineers",
+    "Url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "Description": "A complete daily plan for studying to become a machine learning engineer.",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "software-engineer"
+    ],
+    "Language": "",
+    "Stars": 28760,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-09T21:20:25Z",
+    "UpdatedAt": "2026-05-03T17:45:26Z",
+    "Owner": "ZuzooVn",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "safetensors/safetensors",
+    "Name": "safetensors",
+    "Url": "https://github.com/safetensors/safetensors",
+    "Description": "Simple, safe way to store and distribute tensors",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 3737,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-22T14:54:51Z",
+    "UpdatedAt": "2026-05-03T07:29:03Z",
+    "Owner": "safetensors",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "inducer/pyopencl",
+    "Name": "pyopencl",
+    "Url": "https://github.com/inducer/pyopencl",
+    "Description": "OpenCL integration for Python, plus shiny features",
+    "Topics": [
+      "amd",
+      "array",
+      "cuda",
+      "gpu",
+      "heterogeneous-parallel-programming",
+      "multidimensional-arrays",
+      "nvidia",
+      "opencl",
+      "opengl",
+      "parallel-algorithm",
+      "parallel-computing",
+      "performance",
+      "prefix-sum",
+      "pyopencl",
+      "python",
+      "reduction",
+      "scientific-computing",
+      "shared-memory",
+      "sorting"
+    ],
+    "Language": "Python",
+    "Stars": 1137,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-04-06T02:51:33Z",
+    "UpdatedAt": "2026-04-29T21:10:13Z",
+    "Owner": "inducer",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nabla-ml/nabla",
+    "Name": "nabla",
+    "Url": "https://github.com/nabla-ml/nabla",
+    "Description": "Nabla: High-Performance Scientific Computing",
+    "Topics": [
+      "amd",
+      "apple-silicon",
+      "autodiff",
+      "autograd",
+      "gpu-programming",
+      "jax",
+      "machine-learning",
+      "mojo",
+      "nvidia",
+      "python",
+      "pytorch",
+      "scientific-computing",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 335,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-18T11:35:53Z",
+    "UpdatedAt": "2026-04-18T20:29:03Z",
+    "Owner": "nabla-ml",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/hummingbird",
+    "Name": "hummingbird",
+    "Url": "https://github.com/microsoft/hummingbird",
+    "Description": "Hummingbird compiles trained ML models into tensor computation for faster inference.",
+    "Topics": [
+      "machine-learning",
+      "neural-networks",
+      "pytorch",
+      "scikit-learn",
+      "tensor-computation"
+    ],
+    "Language": "Python",
+    "Stars": 3534,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-12T20:27:03Z",
+    "UpdatedAt": "2026-05-03T12:19:09Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SunOner/sunone_aimbot",
+    "Name": "sunone_aimbot",
+    "Url": "https://github.com/SunOner/sunone_aimbot",
+    "Description": "Aim-bot based on AI for all FPS games",
+    "Topics": [
+      "ai",
+      "ai-aimbot",
+      "aimbot",
+      "cs2",
+      "deadlock",
+      "destiny2",
+      "detection",
+      "finals",
+      "fortnite",
+      "gpu",
+      "nvidia",
+      "onnx",
+      "pubg",
+      "python",
+      "tensorrt",
+      "ultralytics",
+      "warface",
+      "yolo12",
+      "yolov10",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 855,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-16T11:32:57Z",
+    "UpdatedAt": "2026-05-03T05:57:41Z",
+    "Owner": "SunOner",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "XuehaiPan/nvitop",
+    "Name": "nvitop",
+    "Url": "https://github.com/XuehaiPan/nvitop",
+    "Description": "An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.",
+    "Topics": [
+      "command-line-tool",
+      "console",
+      "cuda",
+      "curses",
+      "gpu",
+      "gpu-monitoring",
+      "grafana",
+      "grafana-dashboard",
+      "htop",
+      "monitoring",
+      "monitoring-tool",
+      "nvidia",
+      "nvidia-smi",
+      "nvml",
+      "process-monitoring",
+      "prometheus",
+      "prometheus-exporter",
+      "resource-monitor",
+      "top"
+    ],
+    "Language": "Python",
+    "Stars": 6858,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-25T12:17:02Z",
+    "UpdatedAt": "2026-05-03T18:30:29Z",
+    "Owner": "XuehaiPan",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "roboflow/supervision",
+    "Name": "supervision",
+    "Url": "https://github.com/roboflow/supervision",
+    "Description": "We write your reusable computer vision tools. 💜",
+    "Topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ],
+    "Language": "Python",
+    "Stars": 38299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-28T14:08:44Z",
+    "UpdatedAt": "2026-05-03T18:29:42Z",
+    "Owner": "roboflow",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "VectifyAI/PageIndex",
+    "Name": "PageIndex",
+    "Url": "https://github.com/VectifyAI/PageIndex",
+    "Description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 26083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-01T10:53:54Z",
+    "UpdatedAt": "2026-05-03T18:51:01Z",
+    "Owner": "VectifyAI",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jhao104/proxy_pool",
+    "Name": "proxy_pool",
+    "Url": "https://github.com/jhao104/proxy_pool",
+    "Description": "Python ProxyPool for web spider",
+    "Topics": [
+      "crawler",
+      "http",
+      "proxy",
+      "redis",
+      "spider"
+    ],
+    "Language": "Python",
+    "Stars": 23322,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-25T13:49:07Z",
+    "UpdatedAt": "2026-05-03T10:11:00Z",
+    "Owner": "jhao104",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CMU-Perceptual-Computing-Lab/openpose",
+    "Name": "openpose",
+    "Url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+    "Description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+    "Topics": [
+      "caffe",
+      "computer-vision",
+      "cpp",
+      "cvpr-2017",
+      "deep-learning",
+      "face",
+      "foot-estimation",
+      "hand-estimation",
+      "human-behavior-understanding",
+      "human-pose",
+      "human-pose-estimation",
+      "keypoint-detection",
+      "keypoints",
+      "machine-learning",
+      "multi-person",
+      "opencv",
+      "openpose",
+      "pose",
+      "pose-estimation",
+      "real-time"
+    ],
+    "Language": "C++",
+    "Stars": 34060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-24T14:06:31Z",
+    "UpdatedAt": "2026-05-03T13:59:40Z",
+    "Owner": "CMU-Perceptual-Computing-Lab",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "WeltXing/PyDyNet",
+    "Name": "PyDyNet",
+    "Url": "https://github.com/WeltXing/PyDyNet",
+    "Description": "NumPy-based Dynamic Deep Learning Framework",
+    "Topics": [
+      "autograd",
+      "cnn",
+      "cuda",
+      "cupy",
+      "deep-learning-framework",
+      "numpy",
+      "python",
+      "pytorch",
+      "pytorch-implementation",
+      "rnn",
+      "transformer"
+    ],
+    "Language": "Python",
+    "Stars": 87,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-06T10:38:06Z",
+    "UpdatedAt": "2026-03-27T05:06:54Z",
+    "Owner": "WeltXing",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "automata/mojograd",
+    "Name": "mojograd",
+    "Url": "https://github.com/automata/mojograd",
+    "Description": "Implementation of Karpathy's micrograd in Mojo :fire:",
+    "Topics": [
+      "ai",
+      "autograd",
+      "micrograd",
+      "mojo",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-29T16:32:25Z",
+    "UpdatedAt": "2026-01-10T09:47:07Z",
+    "Owner": "automata",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "faif/python-patterns",
+    "Name": "python-patterns",
+    "Url": "https://github.com/faif/python-patterns",
+    "Description": "A collection of design patterns/idioms in Python",
+    "Topics": [
+      "design-patterns",
+      "idioms",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 42736,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-06-06T21:02:35Z",
+    "UpdatedAt": "2026-05-03T17:39:13Z",
+    "Owner": "faif",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thomasahle/tensorgrad",
+    "Name": "tensorgrad",
+    "Url": "https://github.com/thomasahle/tensorgrad",
+    "Description": "Machine Learning with Symbolic Tensors",
+    "Topics": [
+      "autograd",
+      "derivatives",
+      "neurosymbolic",
+      "probability",
+      "symbolic-computation",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-02T18:16:37Z",
+    "UpdatedAt": "2026-04-12T13:40:35Z",
+    "Owner": "thomasahle",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50",
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wkentaro/labelme",
+    "Name": "labelme",
+    "Url": "https://github.com/wkentaro/labelme",
+    "Description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+    "Topics": [
+      "annotations",
+      "classification",
+      "computer-vision",
+      "deep-learning",
+      "image-annotation",
+      "instance-segmentation",
+      "python",
+      "semantic-segmentation",
+      "video-annotation"
+    ],
+    "Language": "Python",
+    "Stars": 15813,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-09T12:30:26Z",
+    "UpdatedAt": "2026-05-03T15:08:55Z",
+    "Owner": "wkentaro",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Name": "pytorch-CycleGAN-and-pix2pix",
+    "Url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+    "Description": "Image-to-Image Translation in PyTorch",
+    "Topics": [
+      "computer-graphics",
+      "computer-vision",
+      "cyclegan",
+      "deep-learning",
+      "gan",
+      "gans",
+      "generative-adversarial-network",
+      "image-generation",
+      "image-manipulation",
+      "pix2pix",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 25104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-18T10:33:05Z",
+    "UpdatedAt": "2026-05-03T15:08:42Z",
+    "Owner": "junyanz",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "harry0703/MoneyPrinterTurbo",
+    "Name": "MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "Topics": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "moviepy",
+      "python",
+      "shortvideo",
+      "tiktok"
+    ],
+    "Language": "Python",
+    "Stars": 56678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-11T02:57:34Z",
+    "UpdatedAt": "2026-05-03T18:47:03Z",
+    "Owner": "harry0703",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "cupy/cupy",
+    "Name": "cupy",
+    "Url": "https://github.com/cupy/cupy",
+    "Description": "NumPy & SciPy for GPU",
+    "Topics": [
+      "cublas",
+      "cuda",
+      "cudnn",
+      "cupy",
+      "curand",
+      "cusolver",
+      "cusparse",
+      "cusparselt",
+      "cutensor",
+      "gpu",
+      "nccl",
+      "numpy",
+      "nvrtc",
+      "nvtx",
+      "python",
+      "rocm",
+      "scipy",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 10924,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-01T09:54:45Z",
+    "UpdatedAt": "2026-05-02T14:45:20Z",
+    "Owner": "cupy",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zetane/viewer",
+    "Name": "viewer",
+    "Url": "https://github.com/zetane/viewer",
+    "Description": "ML models and internal tensors 3D visualizer",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1786,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-17T16:12:05Z",
+    "UpdatedAt": "2026-04-29T14:01:33Z",
+    "Owner": "zetane",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SYSTRAN/faster-whisper",
+    "Name": "faster-whisper",
+    "Url": "https://github.com/SYSTRAN/faster-whisper",
+    "Description": "Faster Whisper transcription with CTranslate2",
+    "Topics": [
+      "deep-learning",
+      "inference",
+      "openai",
+      "quantization",
+      "speech-recognition",
+      "speech-to-text",
+      "transformer",
+      "whisper"
+    ],
+    "Language": "Python",
+    "Stars": 22590,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-02-11T09:17:27Z",
+    "UpdatedAt": "2026-05-03T16:41:25Z",
+    "Owner": "SYSTRAN",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "xwying/torchshow",
+    "Name": "torchshow",
+    "Url": "https://github.com/xwying/torchshow",
+    "Description": "Visualize PyTorch tensors with a single line of code.",
+    "Topics": [
+      "image-tensor",
+      "notebook",
+      "pytorch",
+      "tensor",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 709,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T21:22:38Z",
+    "UpdatedAt": "2026-04-22T16:35:50Z",
+    "Owner": "xwying",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rsokl/MyGrad",
+    "Name": "MyGrad",
+    "Url": "https://github.com/rsokl/MyGrad",
+    "Description": "Drop-in autodiff for NumPy.",
+    "Topics": [
+      "autodiff",
+      "autodifferentiation",
+      "autograd",
+      "backpropagate",
+      "deep-learning",
+      "numpy"
+    ],
+    "Language": "Python",
+    "Stars": 216,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-07-17T03:31:24Z",
+    "UpdatedAt": "2026-04-13T23:24:38Z",
+    "Owner": "rsokl",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepspeedai/DeepSpeed",
+    "Name": "DeepSpeed",
+    "Url": "https://github.com/deepspeedai/DeepSpeed",
+    "Description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "Topics": [
+      "billion-parameters",
+      "compression",
+      "data-parallelism",
+      "deep-learning",
+      "gpu",
+      "inference",
+      "machine-learning",
+      "mixture-of-experts",
+      "model-parallelism",
+      "pipeline-parallelism",
+      "pytorch",
+      "trillion-parameters",
+      "zero"
+    ],
+    "Language": "Python",
+    "Stars": 42248,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T18:35:18Z",
+    "UpdatedAt": "2026-05-03T18:01:59Z",
+    "Owner": "deepspeedai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:gpu language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "naptha/tesseract.js",
+    "Name": "tesseract.js",
+    "Url": "https://github.com/naptha/tesseract.js",
+    "Description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "Topics": [
+      "deep-learning",
+      "javascript",
+      "ocr",
+      "tesseract",
+      "webassembly"
+    ],
+    "Language": "JavaScript",
+    "Stars": 38045,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-24T02:49:52Z",
+    "UpdatedAt": "2026-05-03T15:53:58Z",
+    "Owner": "naptha",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hakandundar34coding/system-monitoring-center",
+    "Name": "system-monitoring-center",
+    "Url": "https://github.com/hakandundar34coding/system-monitoring-center",
+    "Description": "Multi-featured system monitor",
+    "Topics": [
+      "cpu",
+      "disk",
+      "gpu",
+      "network",
+      "performance",
+      "process",
+      "ram",
+      "sensors",
+      "services",
+      "storage",
+      "system",
+      "system-information",
+      "system-monitor",
+      "task-manager",
+      "users"
+    ],
+    "Language": "Python",
+    "Stars": 971,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-22T15:22:40Z",
+    "UpdatedAt": "2026-05-02T21:11:53Z",
+    "Owner": "hakandundar34coding",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "chrisranderson/beholder",
+    "Name": "beholder",
+    "Url": "https://github.com/chrisranderson/beholder",
+    "Description": "A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains.",
+    "Topics": [
+      "neural-networks",
+      "tensorboard",
+      "tensorflow",
+      "video",
+      "visualization"
+    ],
+    "Language": "Python",
+    "Stars": 463,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-26T15:10:39Z",
+    "UpdatedAt": "2025-11-14T15:44:09Z",
+    "Owner": "chrisranderson",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "streamlit/streamlit",
+    "Name": "streamlit",
+    "Url": "https://github.com/streamlit/streamlit",
+    "Description": "Streamlit — A faster way to build and share data apps.",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "developer-tools",
+      "machine-learning",
+      "python",
+      "streamlit"
+    ],
+    "Language": "Python",
+    "Stars": 44432,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-08-24T00:14:52Z",
+    "UpdatedAt": "2026-05-03T18:55:12Z",
+    "Owner": "streamlit",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "sktime/pytorch-forecasting",
+    "Name": "pytorch-forecasting",
+    "Url": "https://github.com/sktime/pytorch-forecasting",
+    "Description": "Time series forecasting with PyTorch",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "forecasting",
+      "gpu",
+      "hacktoberfest",
+      "machine-learning",
+      "neural-networks",
+      "pandas",
+      "python",
+      "pytorch",
+      "pytorch-lightning",
+      "temporal",
+      "timeseries",
+      "timeseries-forecasting",
+      "uncertainty"
+    ],
+    "Language": "Python",
+    "Stars": 4882,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-03T13:05:24Z",
+    "UpdatedAt": "2026-05-03T15:02:18Z",
+    "Owner": "sktime",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tlkh/asitop",
+    "Name": "asitop",
+    "Url": "https://github.com/tlkh/asitop",
+    "Description": "Perf monitoring CLI tool for Apple Silicon",
+    "Topics": [
+      "apple-silicon",
+      "cli",
+      "cpu",
+      "gpu",
+      "m1",
+      "macos"
+    ],
+    "Language": "Python",
+    "Stars": 4554,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-27T15:50:16Z",
+    "UpdatedAt": "2026-05-02T20:47:53Z",
+    "Owner": "tlkh",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "graphistry/pygraphistry",
+    "Name": "pygraphistry",
+    "Url": "https://github.com/graphistry/pygraphistry",
+    "Description": "PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer",
+    "Topics": [
+      "csv",
+      "cudf",
+      "cugraph",
+      "gpu",
+      "graph",
+      "graph-visualization",
+      "graphistry",
+      "igraph",
+      "jupyter",
+      "neo4j",
+      "network-analysis",
+      "network-visualization",
+      "networkx",
+      "pandas",
+      "python",
+      "rapids",
+      "splunk",
+      "tigergraph",
+      "visualization",
+      "webgl"
+    ],
+    "Language": "Python",
+    "Stars": 2475,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-02T20:28:42Z",
+    "UpdatedAt": "2026-05-03T16:40:46Z",
+    "Owner": "graphistry",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oseledets/ttpy",
+    "Name": "ttpy",
+    "Url": "https://github.com/oseledets/ttpy",
+    "Description": "Python implementation of the TT-Toolbox",
+    "Topics": [
+      "tensors",
+      "tt-format"
+    ],
+    "Language": "Python",
+    "Stars": 256,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-08-21T18:22:27Z",
+    "UpdatedAt": "2026-04-21T08:12:32Z",
+    "Owner": "oseledets",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "Name": "deep-learning-for-image-processing",
+    "Url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "Description": "deep learning for image processing including classification and object-detection etc.",
+    "Topics": [
+      "bilibili",
+      "classification",
+      "deep-learning",
+      "object-detection",
+      "pytorch",
+      "segmentation",
+      "tensorflow2"
+    ],
+    "Language": "Python",
+    "Stars": 26229,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-14T15:02:27Z",
+    "UpdatedAt": "2026-05-03T09:19:26Z",
+    "Owner": "WZMIAOMIAO",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jina-ai/serve",
+    "Name": "serve",
+    "Url": "https://github.com/jina-ai/serve",
+    "Description": "☁️ Build multimodal AI applications with cloud-native stack",
+    "Topics": [
+      "cloud-native",
+      "cncf",
+      "deep-learning",
+      "docker",
+      "fastapi",
+      "framework",
+      "generative-ai",
+      "grpc",
+      "jaeger",
+      "kubernetes",
+      "llmops",
+      "machine-learning",
+      "microservice",
+      "mlops",
+      "multimodal",
+      "neural-search",
+      "opentelemetry",
+      "orchestration",
+      "pipeline",
+      "prometheus"
+    ],
+    "Language": "Python",
+    "Stars": 21872,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-13T17:04:44Z",
+    "UpdatedAt": "2026-05-03T08:33:46Z",
+    "Owner": "jina-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/transformers",
+    "Name": "transformers",
+    "Url": "https://github.com/huggingface/transformers",
+    "Description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "Topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ],
+    "Language": "Python",
+    "Stars": 160211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T13:56:00Z",
+    "UpdatedAt": "2026-05-03T17:50:07Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "PrefectHQ/prefect",
+    "Name": "prefect",
+    "Url": "https://github.com/PrefectHQ/prefect",
+    "Description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "Topics": [
+      "automation",
+      "data",
+      "data-engineering",
+      "data-ops",
+      "data-science",
+      "infrastructure",
+      "ml-ops",
+      "observability",
+      "orchestration",
+      "pipeline",
+      "prefect",
+      "python",
+      "workflow",
+      "workflow-engine"
+    ],
+    "Language": "Python",
+    "Stars": 22290,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-29T21:59:26Z",
+    "UpdatedAt": "2026-05-03T17:43:26Z",
+    "Owner": "PrefectHQ",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/openai-agents-python",
+    "Name": "openai-agents-python",
+    "Url": "https://github.com/openai/openai-agents-python",
+    "Description": "A lightweight, powerful framework for multi-agent workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 25819,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T03:42:36Z",
+    "UpdatedAt": "2026-05-03T18:55:31Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "python-telegram-bot/python-telegram-bot",
+    "Name": "python-telegram-bot",
+    "Url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "Description": "We have made you a wrapper you can't refuse",
+    "Topics": [
+      "bot",
+      "chatbot",
+      "framework",
+      "python",
+      "telegram"
+    ],
+    "Language": "Python",
+    "Stars": 29077,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-07-07T15:30:39Z",
+    "UpdatedAt": "2026-05-03T14:00:03Z",
+    "Owner": "python-telegram-bot",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tencent-quantum-lab/tensorcircuit",
+    "Name": "tensorcircuit",
+    "Url": "https://github.com/tencent-quantum-lab/tensorcircuit",
+    "Description": "Tensor network based quantum software framework for the NISQ era",
+    "Topics": [
+      "automatic-differentiation",
+      "jax",
+      "machine-learning",
+      "matrix-product-states",
+      "neural-network",
+      "nisq",
+      "open-quantum-systems",
+      "pytorch",
+      "quantum",
+      "quantum-algorithms",
+      "quantum-circuit",
+      "quantum-computing",
+      "quantum-dynamics",
+      "quantum-error-mitigation",
+      "quantum-machine-learning",
+      "quantum-noise",
+      "quantum-simulation",
+      "tensor-network",
+      "tensorflow",
+      "variational-quantum-algorithms"
+    ],
+    "Language": "Python",
+    "Stars": 350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-16T02:31:33Z",
+    "UpdatedAt": "2026-04-26T16:15:51Z",
+    "Owner": "tencent-quantum-lab",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/CLIP",
+    "Name": "CLIP",
+    "Url": "https://github.com/openai/CLIP",
+    "Description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+    "Topics": [
+      "deep-learning",
+      "machine-learning"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 33391,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-16T11:24:42Z",
+    "UpdatedAt": "2026-05-03T17:39:20Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "skypilot-org/skypilot",
+    "Name": "skypilot",
+    "Url": "https://github.com/skypilot-org/skypilot",
+    "Description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).",
+    "Topics": [
+      "cloud-computing",
+      "cloud-management",
+      "cost-optimization",
+      "deep-learning",
+      "distributed-training",
+      "gpu",
+      "hyperparameter-tuning",
+      "job-queue",
+      "job-scheduler",
+      "llm-serving",
+      "llm-training",
+      "machine-learning",
+      "ml-infrastructure",
+      "ml-platform",
+      "mlops",
+      "multicloud",
+      "slurm",
+      "spot-instances",
+      "tpu"
+    ],
+    "Language": "Python",
+    "Stars": 9928,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-11T23:32:15Z",
+    "UpdatedAt": "2026-05-03T18:02:21Z",
+    "Owner": "skypilot-org",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "swisskyrepo/PayloadsAllTheThings",
+    "Name": "PayloadsAllTheThings",
+    "Url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "Description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "Topics": [
+      "bounty",
+      "bugbounty",
+      "bypass",
+      "cheatsheet",
+      "enumeration",
+      "hacking",
+      "hacktoberfest",
+      "methodology",
+      "payload",
+      "payloads",
+      "penetration-testing",
+      "pentest",
+      "privilege-escalation",
+      "redteam",
+      "security",
+      "vulnerability",
+      "web-application"
+    ],
+    "Language": "Python",
+    "Stars": 77437,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-18T07:29:07Z",
+    "UpdatedAt": "2026-05-03T18:45:40Z",
+    "Owner": "swisskyrepo",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "selkies-project/selkies",
+    "Name": "selkies",
+    "Url": "https://github.com/selkies-project/selkies",
+    "Description": "Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC",
+    "Topics": [
+      "cloud-gaming",
+      "docker",
+      "game-streaming",
+      "gpu",
+      "gstreamer",
+      "hacktoberfest",
+      "html5",
+      "jupyter",
+      "kubernetes",
+      "linux-gaming",
+      "nvidia",
+      "opengl",
+      "rdp",
+      "remote-access",
+      "remote-control",
+      "remote-desktop",
+      "vnc",
+      "vulkan",
+      "webrtc",
+      "x11"
+    ],
+    "Language": "Python",
+    "Stars": 1688,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-20T02:40:04Z",
+    "UpdatedAt": "2026-05-03T18:44:16Z",
+    "Owner": "selkies-project",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/ultralytics",
+    "Name": "ultralytics",
+    "Url": "https://github.com/ultralytics/ultralytics",
+    "Description": "Ultralytics YOLO 🚀",
+    "Topics": [
+      "cli",
+      "computer-vision",
+      "deep-learning",
+      "hub",
+      "image-classification",
+      "instance-segmentation",
+      "machine-learning",
+      "object-detection",
+      "pose-estimation",
+      "python",
+      "pytorch",
+      "rotated-object-detection",
+      "segment-anything",
+      "tracking",
+      "ultralytics",
+      "yolo",
+      "yolo-world",
+      "yolo11",
+      "yolo26",
+      "yolov8"
+    ],
+    "Language": "Python",
+    "Stars": 56706,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-11T16:39:45Z",
+    "UpdatedAt": "2026-05-03T18:38:41Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-03T13:23:48Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "walter201230/Python",
+    "Name": "Python",
+    "Url": "https://github.com/walter201230/Python",
+    "Description": "小白 python 教程",
+    "Topics": [
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 25857,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-07T11:52:22Z",
+    "UpdatedAt": "2026-05-03T16:04:08Z",
+    "Owner": "walter201230",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jacobgil/pytorch-tensor-decompositions",
+    "Name": "pytorch-tensor-decompositions",
+    "Url": "https://github.com/jacobgil/pytorch-tensor-decompositions",
+    "Description": "PyTorch implementation of [1412.6553] and [1511.06530] tensor decomposition methods for convolutional layers. ",
+    "Topics": [
+      "deep-learning",
+      "pytorch",
+      "tensorly"
+    ],
+    "Language": "Python",
+    "Stars": 288,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-23T19:55:48Z",
+    "UpdatedAt": "2025-11-12T09:21:53Z",
+    "Owner": "jacobgil",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vllm-project/compressed-tensors",
+    "Name": "compressed-tensors",
+    "Url": "https://github.com/vllm-project/compressed-tensors",
+    "Description": "A safetensors extension to efficiently store sparse quantized tensors on disk",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 275,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-02T15:12:29Z",
+    "UpdatedAt": "2026-04-29T05:38:59Z",
+    "Owner": "vllm-project",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "triton-inference-server/pytriton",
+    "Name": "pytriton",
+    "Url": "https://github.com/triton-inference-server/pytriton",
+    "Description": "PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments.",
+    "Topics": [
+      "deep-learning",
+      "gpu",
+      "inference"
+    ],
+    "Language": "Python",
+    "Stars": 844,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-11-08T17:00:55Z",
+    "UpdatedAt": "2026-04-21T13:37:28Z",
+    "Owner": "triton-inference-server",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fferflo/einx",
+    "Name": "einx",
+    "Url": "https://github.com/fferflo/einx",
+    "Description": "Universal Notation for Tensor Operations in Python",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 498,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-19T14:27:22Z",
+    "UpdatedAt": "2026-05-02T13:33:31Z",
+    "Owner": "fferflo",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "python-poetry/poetry",
+    "Name": "poetry",
+    "Url": "https://github.com/python-poetry/poetry",
+    "Description": "Python packaging and dependency management made easy",
+    "Topics": [
+      "dependency-manager",
+      "package-manager",
+      "packaging",
+      "poetry",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 34276,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-28T15:23:47Z",
+    "UpdatedAt": "2026-05-03T17:06:14Z",
+    "Owner": "python-poetry",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lukas-blecher/LaTeX-OCR",
+    "Name": "LaTeX-OCR",
+    "Url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "Description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "Topics": [
+      "dataset",
+      "deep-learning",
+      "im2latex",
+      "im2markup",
+      "im2text",
+      "image-processing",
+      "image2text",
+      "latex",
+      "latex-ocr",
+      "machine-learning",
+      "math-ocr",
+      "ocr",
+      "python",
+      "pytorch",
+      "transformer",
+      "vision-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 16357,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T16:35:13Z",
+    "UpdatedAt": "2026-05-03T15:54:09Z",
+    "Owner": "lukas-blecher",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pyg-team/pytorch_geometric",
+    "Name": "pytorch_geometric",
+    "Url": "https://github.com/pyg-team/pytorch_geometric",
+    "Description": "Graph Neural Network Library for PyTorch",
+    "Topics": [
+      "deep-learning",
+      "geometric-deep-learning",
+      "graph-convolutional-networks",
+      "graph-neural-networks",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 23718,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-06T16:03:03Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "pyg-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/MinkowskiEngine",
+    "Name": "MinkowskiEngine",
+    "Url": "https://github.com/NVIDIA/MinkowskiEngine",
+    "Description": "Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors",
+    "Topics": [
+      "3d-convolutional-network",
+      "3d-vision",
+      "4d-convolutional-neural-network",
+      "auto-differentiation",
+      "computer-vision",
+      "convolutional-neural-networks",
+      "cuda",
+      "deep-learning",
+      "high-dimensional-data",
+      "high-dimensional-inference",
+      "minkowski-engine",
+      "neural-network",
+      "pytorch",
+      "semantic-segmentation",
+      "space-time",
+      "sparse-convolution",
+      "sparse-tensor-network",
+      "sparse-tensors",
+      "spatio-temporal-analysis",
+      "trilateral-filter"
+    ],
+    "Language": "Python",
+    "Stars": 2914,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-04T01:52:33Z",
+    "UpdatedAt": "2026-05-02T20:45:00Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thu-pacman/chitu",
+    "Name": "chitu",
+    "Url": "https://github.com/thu-pacman/chitu",
+    "Description": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+    "Topics": [
+      "deepseek",
+      "gpu",
+      "llm",
+      "llm-serving",
+      "model-serving",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 3371,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-20T06:34:38Z",
+    "UpdatedAt": "2026-04-30T12:56:28Z",
+    "Owner": "thu-pacman",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ray-project/ray",
+    "Name": "ray",
+    "Url": "https://github.com/ray-project/ray",
+    "Description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "deployment",
+      "distributed",
+      "hyperparameter-optimization",
+      "hyperparameter-search",
+      "large-language-models",
+      "llm",
+      "llm-inference",
+      "llm-serving",
+      "machine-learning",
+      "optimization",
+      "parallel",
+      "python",
+      "pytorch",
+      "ray",
+      "reinforcement-learning",
+      "rllib",
+      "serving",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 42411,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-25T19:38:30Z",
+    "UpdatedAt": "2026-05-03T18:40:53Z",
+    "Owner": "ray-project",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Oldpan/Pytorch-Memory-Utils",
+    "Name": "Pytorch-Memory-Utils",
+    "Url": "https://github.com/Oldpan/Pytorch-Memory-Utils",
+    "Description": "pytorch memory track code",
+    "Topics": [
+      "gpu",
+      "memory",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 1015,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-08T13:27:20Z",
+    "UpdatedAt": "2026-04-03T09:27:26Z",
+    "Owner": "Oldpan",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pranftw/neograd",
+    "Name": "neograd",
+    "Url": "https://github.com/pranftw/neograd",
+    "Description": "A deep learning framework created from scratch with Python and NumPy",
+    "Topics": [
+      "ai",
+      "autograd",
+      "automatic-differentiation",
+      "deep-learning",
+      "deep-learning-framework",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "pytorch-api",
+      "scratch-implementation"
+    ],
+    "Language": "Python",
+    "Stars": 237,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T17:18:40Z",
+    "UpdatedAt": "2026-03-31T01:14:38Z",
+    "Owner": "pranftw",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TingFree/NLPer-Arsenal",
+    "Name": "NLPer-Arsenal",
+    "Url": "https://github.com/TingFree/NLPer-Arsenal",
+    "Description": "收录NLP竞赛策略实现、各任务baseline、相关竞赛经验贴（当前赛事、往期赛事、训练赛）、NLP会议时间、常用自媒体、GPU推荐等，持续更新中",
+    "Topics": [
+      "baselines",
+      "gpu",
+      "nlp",
+      "nlp-competition",
+      "nlp-conference",
+      "nlp-media",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 2242,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-27T10:51:10Z",
+    "UpdatedAt": "2026-04-30T16:09:30Z",
+    "Owner": "TingFree",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eugeneyan/applied-ml",
+    "Name": "applied-ml",
+    "Url": "https://github.com/eugeneyan/applied-ml",
+    "Description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "Topics": [
+      "applied-data-science",
+      "applied-machine-learning",
+      "computer-vision",
+      "data-discovery",
+      "data-engineering",
+      "data-quality",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "production",
+      "recsys",
+      "reinforcement-learning",
+      "search"
+    ],
+    "Language": "",
+    "Stars": 28793,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-04T18:57:47Z",
+    "UpdatedAt": "2026-05-03T08:03:53Z",
+    "Owner": "eugeneyan",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ttrouill/complex",
+    "Name": "complex",
+    "Url": "https://github.com/ttrouill/complex",
+    "Description": "Source code for experiments in the papers \"Complex Embeddings for Simple Link Prediction\" (ICML 2016) and \"Knowledge Graph Completion via Complex Tensor Factorization\" (JMLR 2017).",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 331,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-24T22:07:06Z",
+    "UpdatedAt": "2026-04-13T13:22:45Z",
+    "Owner": "ttrouill",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RightTyper/RightTyper",
+    "Name": "RightTyper",
+    "Url": "https://github.com/RightTyper/RightTyper",
+    "Description": "A fast and efficient type assistant for Python, including tensor shape inference",
+    "Topics": [
+      "python",
+      "typing"
+    ],
+    "Language": "Python",
+    "Stars": 355,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-31T23:28:14Z",
+    "UpdatedAt": "2026-05-02T23:37:53Z",
+    "Owner": "RightTyper",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Pythagora-io/gpt-pilot",
+    "Name": "gpt-pilot",
+    "Url": "https://github.com/Pythagora-io/gpt-pilot",
+    "Description": "The first real AI developer",
+    "Topics": [
+      "ai",
+      "codegen",
+      "coding-assistant",
+      "developer-tools",
+      "gpt-4",
+      "research-project"
+    ],
+    "Language": "Python",
+    "Stars": 33771,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-16T11:56:07Z",
+    "UpdatedAt": "2026-05-03T17:24:44Z",
+    "Owner": "Pythagora-io",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oreilly-japan/deep-learning-from-scratch-3",
+    "Name": "deep-learning-from-scratch-3",
+    "Url": "https://github.com/oreilly-japan/deep-learning-from-scratch-3",
+    "Description": "『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)",
+    "Topics": [
+      "autograd",
+      "automatic-differentiation",
+      "deep-learning",
+      "gpu",
+      "nueral-networks",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-25T04:59:43Z",
+    "UpdatedAt": "2026-04-30T04:47:08Z",
+    "Owner": "oreilly-japan",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50",
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rusty1s/pytorch_sparse",
+    "Name": "pytorch_sparse",
+    "Url": "https://github.com/rusty1s/pytorch_sparse",
+    "Description": "PyTorch Extension Library of Optimized Autograd Sparse Matrix Operations",
+    "Topics": [
+      "autograd",
+      "pytorch",
+      "sparse",
+      "sparse-matrices"
+    ],
+    "Language": "Python",
+    "Stars": 1095,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-28T18:46:53Z",
+    "UpdatedAt": "2026-04-18T03:03:13Z",
+    "Owner": "rusty1s",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pydantic/pydantic",
+    "Name": "pydantic",
+    "Url": "https://github.com/pydantic/pydantic",
+    "Description": "Data validation using Python type hints",
+    "Topics": [
+      "hints",
+      "json-schema",
+      "parsing",
+      "pydantic",
+      "python",
+      "python310",
+      "python311",
+      "python312",
+      "python313",
+      "python39",
+      "validation"
+    ],
+    "Language": "Python",
+    "Stars": 27668,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-03T21:23:58Z",
+    "UpdatedAt": "2026-05-03T18:50:29Z",
+    "Owner": "pydantic",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jcmgray/cotengra",
+    "Name": "cotengra",
+    "Url": "https://github.com/jcmgray/cotengra",
+    "Description": "Hyper optimized contraction trees for large tensor networks and einsums",
+    "Topics": [
+      "contraction-order",
+      "einsum",
+      "opt-einsum",
+      "quimb",
+      "tensor",
+      "tensor-contraction",
+      "tensor-network",
+      "tensor-networks"
+    ],
+    "Language": "Python",
+    "Stars": 241,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-22T16:22:26Z",
+    "UpdatedAt": "2026-05-02T22:33:39Z",
+    "Owner": "jcmgray",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Jittor/jittor",
+    "Name": "jittor",
+    "Url": "https://github.com/Jittor/jittor",
+    "Description": "Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.",
+    "Topics": [
+      "cuda",
+      "deep-learning",
+      "gpu",
+      "jittor",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 3222,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-18T14:06:07Z",
+    "UpdatedAt": "2026-05-03T05:12:20Z",
+    "Owner": "Jittor",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "serengil/deepface",
+    "Name": "deepface",
+    "Url": "https://github.com/serengil/deepface",
+    "Description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "Topics": [
+      "age-prediction",
+      "arcface",
+      "deep-learning",
+      "deepface",
+      "deepid",
+      "emotion-recognition",
+      "face-analysis",
+      "face-recognition",
+      "facenet",
+      "facial-expression-recognition",
+      "facial-recognition",
+      "gender-prediction",
+      "machine-learning",
+      "openface",
+      "python",
+      "race-classification",
+      "vgg-face"
+    ],
+    "Language": "Python",
+    "Stars": 22662,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-02-08T20:42:28Z",
+    "UpdatedAt": "2026-05-03T11:18:29Z",
+    "Owner": "serengil",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tenpy/tenpy",
+    "Name": "tenpy",
+    "Url": "https://github.com/tenpy/tenpy",
+    "Description": "Tensor Network Python (TeNPy)",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 479,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-19T13:17:11Z",
+    "UpdatedAt": "2026-04-29T12:03:14Z",
+    "Owner": "tenpy",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleOCR",
+    "Name": "PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "Topics": [
+      "ai4science",
+      "chineseocr",
+      "document-parsing",
+      "document-translation",
+      "kie",
+      "ocr",
+      "paddleocr-vl",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pdf2markdown",
+      "pp-ocr",
+      "pp-structure",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 77008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-08T10:38:16Z",
+    "UpdatedAt": "2026-05-03T18:51:17Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mars-project/mars",
+    "Name": "mars",
+    "Url": "https://github.com/mars-project/mars",
+    "Description": "Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.",
+    "Topics": [
+      "dask",
+      "dataframe",
+      "joblib",
+      "lightgbm",
+      "machine-learning",
+      "numpy",
+      "pandas",
+      "python",
+      "pytorch",
+      "ray",
+      "scikit-learn",
+      "statsmodels",
+      "tensor",
+      "tensorflow",
+      "xgboost"
+    ],
+    "Language": "Python",
+    "Stars": 2743,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-05T16:04:03Z",
+    "UpdatedAt": "2026-04-28T14:48:32Z",
+    "Owner": "mars-project",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "camel-ai/camel",
+    "Name": "camel",
+    "Url": "https://github.com/camel-ai/camel",
+    "Description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+    "Topics": [
+      "agent",
+      "ai-societies",
+      "artificial-intelligence",
+      "communicative-ai",
+      "cooperative-ai",
+      "deep-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "natural-language-processing"
+    ],
+    "Language": "Python",
+    "Stars": 16863,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-17T21:41:54Z",
+    "UpdatedAt": "2026-05-03T14:02:51Z",
+    "Owner": "camel-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lutzroeder/netron",
+    "Name": "netron",
+    "Url": "https://github.com/lutzroeder/netron",
+    "Description": "Visualizer for neural network, deep learning and machine learning models",
+    "Topics": [
+      "ai",
+      "coreml",
+      "deep-learning",
+      "deeplearning",
+      "keras",
+      "machine-learning",
+      "machinelearning",
+      "ml",
+      "neural-network",
+      "numpy",
+      "onnx",
+      "pytorch",
+      "safetensors",
+      "tensorflow",
+      "tensorflow-lite",
+      "visualizer"
+    ],
+    "Language": "JavaScript",
+    "Stars": 32832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-12-26T12:53:43Z",
+    "UpdatedAt": "2026-05-03T18:11:05Z",
+    "Owner": "lutzroeder",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "robertcprice/nCPU",
+    "Name": "nCPU",
+    "Url": "https://github.com/robertcprice/nCPU",
+    "Description": "nCPU: model-native and tensor-optimized CPU research runtimes with organized workloads, tools, and docs",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 638,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-11T03:06:44Z",
+    "UpdatedAt": "2026-05-02T08:58:30Z",
+    "Owner": "robertcprice",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/diffusers",
+    "Name": "diffusers",
+    "Url": "https://github.com/huggingface/diffusers",
+    "Description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "Topics": [
+      "deep-learning",
+      "diffusion",
+      "flux",
+      "image-generation",
+      "image2image",
+      "image2video",
+      "latent-diffusion-models",
+      "pytorch",
+      "qwen-image",
+      "score-based-generative-modeling",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "text2image",
+      "text2video",
+      "video2video"
+    ],
+    "Language": "Python",
+    "Stars": 33529,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T16:04:02Z",
+    "UpdatedAt": "2026-05-03T12:04:57Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "triton-inference-server/server",
+    "Name": "server",
+    "Url": "https://github.com/triton-inference-server/server",
+    "Description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution. ",
+    "Topics": [
+      "cloud",
+      "datacenter",
+      "deep-learning",
+      "edge",
+      "gpu",
+      "inference",
+      "machine-learning"
+    ],
+    "Language": "Python",
+    "Stars": 10635,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-04T21:10:30Z",
+    "UpdatedAt": "2026-05-03T16:17:54Z",
+    "Owner": "triton-inference-server",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kaiyuyue/torchshard",
+    "Name": "torchshard",
+    "Url": "https://github.com/kaiyuyue/torchshard",
+    "Description": "Slicing a PyTorch Tensor Into Parallel Shards",
+    "Topics": [
+      "model-parallelism",
+      "pytorch",
+      "tensor-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 300,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-27T09:38:55Z",
+    "UpdatedAt": "2026-02-26T07:15:55Z",
+    "Owner": "kaiyuyue",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/TransformerEngine",
+    "Name": "TransformerEngine",
+    "Url": "https://github.com/NVIDIA/TransformerEngine",
+    "Description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+    "Topics": [
+      "cuda",
+      "deep-learning",
+      "fp4",
+      "fp8",
+      "gpu",
+      "jax",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 3315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-20T15:20:26Z",
+    "UpdatedAt": "2026-05-02T09:41:30Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jcmgray/quimb",
+    "Name": "quimb",
+    "Url": "https://github.com/jcmgray/quimb",
+    "Description": "A python library for quantum information and many-body calculations including tensor networks.",
+    "Topics": [
+      "dmrg",
+      "entanglement",
+      "mera",
+      "peps",
+      "physics",
+      "python",
+      "python3",
+      "quantum",
+      "quantum-circuit",
+      "quantum-circuit-simulator",
+      "quantum-computing",
+      "tebd",
+      "tensor-network",
+      "tensor-networks",
+      "tensors"
+    ],
+    "Language": "Python",
+    "Stars": 633,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-12-09T14:02:41Z",
+    "UpdatedAt": "2026-05-01T02:10:18Z",
+    "Owner": "jcmgray",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "charlax/professional-programming",
+    "Name": "professional-programming",
+    "Url": "https://github.com/charlax/professional-programming",
+    "Description": "A collection of learning resources for curious software engineers",
+    "Topics": [
+      "architecture",
+      "computer-science",
+      "concepts",
+      "documentation",
+      "engineer",
+      "learning",
+      "lessons-learned",
+      "professional",
+      "programmer",
+      "programming-language",
+      "read-articles",
+      "scalability",
+      "software-engineering"
+    ],
+    "Language": "Python",
+    "Stars": 50779,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T05:07:52Z",
+    "UpdatedAt": "2026-05-03T18:05:05Z",
+    "Owner": "charlax",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "coreweave/tensorizer",
+    "Name": "tensorizer",
+    "Url": "https://github.com/coreweave/tensorizer",
+    "Description": "Module, Model, and Tensor Serialization/Deserialization",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 306,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-25T22:28:23Z",
+    "UpdatedAt": "2026-04-25T23:58:09Z",
+    "Owner": "coreweave",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "johnmarktaylor91/torchlens",
+    "Name": "torchlens",
+    "Url": "https://github.com/johnmarktaylor91/torchlens",
+    "Description": "Package for extracting and mapping the results of every single tensor operation in a PyTorch model in one line of code. ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 641,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-14T01:24:55Z",
+    "UpdatedAt": "2026-05-01T19:01:29Z",
+    "Owner": "johnmarktaylor91",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "flashinfer-ai/flashinfer",
+    "Name": "flashinfer",
+    "Url": "https://github.com/flashinfer-ai/flashinfer",
+    "Description": "FlashInfer: Kernel Library for LLM Serving",
+    "Topics": [
+      "attention",
+      "cuda",
+      "distributed-inference",
+      "gpu",
+      "jit",
+      "large-large-models",
+      "llm-inference",
+      "moe",
+      "nvidia",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 5548,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-22T00:29:04Z",
+    "UpdatedAt": "2026-05-03T18:32:29Z",
+    "Owner": "flashinfer-ai",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepfakes/faceswap",
+    "Name": "faceswap",
+    "Url": "https://github.com/deepfakes/faceswap",
+    "Description": "Deepfakes Software For All",
+    "Topics": [
+      "deep-face-swap",
+      "deep-learning",
+      "deep-neural-networks",
+      "deepface",
+      "deepfakes",
+      "deeplearning",
+      "face-swap",
+      "faceswap",
+      "fakeapp",
+      "machine-learning",
+      "myfakeapp",
+      "neural-nets",
+      "neural-networks",
+      "openfaceswap"
+    ],
+    "Language": "Python",
+    "Stars": 55204,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-19T09:44:13Z",
+    "UpdatedAt": "2026-05-03T13:10:29Z",
+    "Owner": "deepfakes",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "wookayin/gpustat",
+    "Name": "gpustat",
+    "Url": "https://github.com/wookayin/gpustat",
+    "Description": "📊 A simple command-line utility for querying and monitoring GPU status",
+    "Topics": [
+      "command-line",
+      "gpu",
+      "gpustat",
+      "monitoring",
+      "nvidia-smi",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 4364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-04-24T10:46:43Z",
+    "UpdatedAt": "2026-04-27T12:51:49Z",
+    "Owner": "wookayin",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MVIG-SJTU/AlphaPose",
+    "Name": "AlphaPose",
+    "Url": "https://github.com/MVIG-SJTU/AlphaPose",
+    "Description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+    "Topics": [
+      "accurate",
+      "alpha-pose",
+      "alphapose",
+      "crowdpose",
+      "full-body",
+      "gpu",
+      "human-computer-interaction",
+      "human-joints",
+      "human-pose-estimation",
+      "human-pose-tracking",
+      "human-tracking",
+      "keypoints",
+      "person-pose-estimation",
+      "pose-estimation",
+      "posetracking",
+      "pytorch",
+      "realtime",
+      "skeleton",
+      "tracking",
+      "whole-body"
+    ],
+    "Language": "Python",
+    "Stars": 8559,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-17T02:33:17Z",
+    "UpdatedAt": "2026-04-30T08:22:18Z",
+    "Owner": "MVIG-SJTU",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mosecorg/mosec",
+    "Name": "mosec",
+    "Url": "https://github.com/mosecorg/mosec",
+    "Description": "A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine",
+    "Topics": [
+      "cv",
+      "deep-learning",
+      "gpu",
+      "hacktoberfest",
+      "jax",
+      "llm",
+      "llm-serving",
+      "machine-learning",
+      "machine-learning-platform",
+      "mlops",
+      "model-serving",
+      "mxnet",
+      "nerual-network",
+      "python",
+      "pytorch",
+      "rust",
+      "tensorflow",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 899,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-13T04:07:20Z",
+    "UpdatedAt": "2026-04-18T21:43:00Z",
+    "Owner": "mosecorg",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "apache/tvm",
+    "Name": "tvm",
+    "Url": "https://github.com/apache/tvm",
+    "Description": "Open Machine Learning Compiler Framework",
+    "Topics": [
+      "compiler",
+      "deep-learning",
+      "gpu",
+      "javascript",
+      "machine-learning",
+      "metal",
+      "opencl",
+      "performance",
+      "rocm",
+      "spirv",
+      "tensor",
+      "tvm",
+      "vulkan"
+    ],
+    "Language": "Python",
+    "Stars": 13324,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-12T22:20:28Z",
+    "UpdatedAt": "2026-05-03T12:20:12Z",
+    "Owner": "apache",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FujiwaraChoki/MoneyPrinterV2",
+    "Name": "MoneyPrinterV2",
+    "Url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "Description": "Automate the process of making money online.",
+    "Topics": [
+      "automation",
+      "cli",
+      "json",
+      "money",
+      "outreach",
+      "python",
+      "twitter",
+      "youtube"
+    ],
+    "Language": "Python",
+    "Stars": 30358,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-12T11:20:42Z",
+    "UpdatedAt": "2026-05-03T16:32:11Z",
+    "Owner": "FujiwaraChoki",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rbonghi/jetson_stats",
+    "Name": "jetson_stats",
+    "Url": "https://github.com/rbonghi/jetson_stats",
+    "Description": "📊 Simple package for monitoring and control your NVIDIA Jetson [Orin, Xavier, Nano, TX] series",
+    "Topics": [
+      "cpu-monitoring",
+      "gpu",
+      "gpu-monitoring",
+      "jetson",
+      "jetson-config",
+      "jetson-nano",
+      "jetson-orin",
+      "jetson-stats",
+      "jetson-xavier",
+      "jetson-xavier-nx",
+      "jtop",
+      "memory-monitoring",
+      "nvidia",
+      "nvidia-jetson",
+      "pypi",
+      "python",
+      "tegra",
+      "tegrastats"
+    ],
+    "Language": "Python",
+    "Stars": 2543,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-24T19:42:07Z",
+    "UpdatedAt": "2026-05-03T04:01:30Z",
+    "Owner": "rbonghi",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "paperless-ngx/paperless-ngx",
+    "Name": "paperless-ngx",
+    "Url": "https://github.com/paperless-ngx/paperless-ngx",
+    "Description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "Topics": [
+      "angular",
+      "archiving",
+      "django",
+      "dms",
+      "document-management",
+      "document-management-system",
+      "hacktoberfest",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "pdf"
+    ],
+    "Language": "Python",
+    "Stars": 40197,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-12T21:56:52Z",
+    "UpdatedAt": "2026-05-03T18:37:53Z",
+    "Owner": "paperless-ngx",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RightNow-AI/autokernel",
+    "Name": "autokernel",
+    "Url": "https://github.com/RightNow-AI/autokernel",
+    "Description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+    "Topics": [
+      "autoresearch",
+      "cuda",
+      "gpu",
+      "kernel-optimization",
+      "pytorch",
+      "triton"
+    ],
+    "Language": "Python",
+    "Stars": 1335,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-11T00:12:46Z",
+    "UpdatedAt": "2026-05-03T04:17:16Z",
+    "Owner": "RightNow-AI",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rasbt/LLMs-from-scratch",
+    "Name": "LLMs-from-scratch",
+    "Url": "https://github.com/rasbt/LLMs-from-scratch",
+    "Description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "gpt",
+      "language-model",
+      "large-language-models",
+      "llm",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "transformers"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 91864,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-23T18:15:57Z",
+    "UpdatedAt": "2026-05-03T17:28:02Z",
+    "Owner": "rasbt",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "scikit-hep/pyhf",
+    "Name": "pyhf",
+    "Url": "https://github.com/scikit-hep/pyhf",
+    "Description": "pure-Python HistFactory implementation with tensors and autodiff",
+    "Topics": [
+      "asymptotic-formulas",
+      "closember",
+      "cls",
+      "frequentist-statistics",
+      "hep",
+      "hep-ex",
+      "high-energy-physics",
+      "histfactory",
+      "jax",
+      "numpy",
+      "python",
+      "scientific-computations",
+      "scikit-hep",
+      "scipy",
+      "statistical-inference",
+      "statistics"
+    ],
+    "Language": "Python",
+    "Stars": 299,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-01-24T16:14:39Z",
+    "UpdatedAt": "2026-04-21T00:27:19Z",
+    "Owner": "scikit-hep",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "GlassyWing/text-detection-ocr",
+    "Name": "text-detection-ocr",
+    "Url": "https://github.com/GlassyWing/text-detection-ocr",
+    "Description": "Chinese text detection and recognition based on CTPN + DENSENET using Keras and Tensor Flow，使用keras和tensorflow基于CTPN+Densenet实现的中文文本检测和识别",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 288,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-09T09:06:26Z",
+    "UpdatedAt": "2026-04-01T14:24:27Z",
+    "Owner": "GlassyWing",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-ai-edge/mediapipe",
+    "Name": "mediapipe",
+    "Url": "https://github.com/google-ai-edge/mediapipe",
+    "Description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "Topics": [
+      "android",
+      "audio-processing",
+      "c-plus-plus",
+      "calculator",
+      "computer-vision",
+      "deep-learning",
+      "framework",
+      "graph-based",
+      "graph-framework",
+      "inference",
+      "machine-learning",
+      "mediapipe",
+      "mobile-development",
+      "perception",
+      "pipeline-framework",
+      "stream-processing",
+      "video-processing"
+    ],
+    "Language": "C++",
+    "Stars": 35048,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-13T19:16:41Z",
+    "UpdatedAt": "2026-05-03T16:12:46Z",
+    "Owner": "google-ai-edge",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "tensorly/tensorly",
+    "Name": "tensorly",
+    "Url": "https://github.com/tensorly/tensorly",
+    "Description": "TensorLy: Tensor Learning in Python.",
+    "Topics": [
+      "cupy",
+      "decomposition",
+      "jax",
+      "machine-learning",
+      "mxnet",
+      "numpy",
+      "python",
+      "pytorch",
+      "regression",
+      "tensor",
+      "tensor-algebra",
+      "tensor-decomposition",
+      "tensor-factorization",
+      "tensor-learning",
+      "tensor-methods",
+      "tensor-regression",
+      "tensorflow",
+      "tensorly"
+    ],
+    "Language": "Python",
+    "Stars": 1675,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-10-21T23:14:52Z",
+    "UpdatedAt": "2026-04-23T12:50:09Z",
+    "Owner": "tensorly",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "marin-community/levanter",
+    "Name": "levanter",
+    "Url": "https://github.com/marin-community/levanter",
+    "Description": "Legible, Scalable, Reproducible Foundation Models with Named Tensors and Jax",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 704,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-24T22:26:27Z",
+    "UpdatedAt": "2026-05-01T02:18:03Z",
+    "Owner": "marin-community",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/JARVIS",
+    "Name": "JARVIS",
+    "Url": "https://github.com/microsoft/JARVIS",
+    "Description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "Topics": [
+      "deep-learning",
+      "platform",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 24688,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-30T02:57:12Z",
+    "UpdatedAt": "2026-05-03T17:25:45Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/vit-pytorch",
+    "Name": "vit-pytorch",
+    "Url": "https://github.com/lucidrains/vit-pytorch",
+    "Description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanism",
+      "computer-vision",
+      "image-classification",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 25141,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-03T22:47:24Z",
+    "UpdatedAt": "2026-05-03T14:16:37Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sebastianruder/NLP-progress",
+    "Name": "NLP-progress",
+    "Url": "https://github.com/sebastianruder/NLP-progress",
+    "Description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "Topics": [
+      "dialogue",
+      "machine-learning",
+      "machine-translation",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "nlp-tasks"
+    ],
+    "Language": "Python",
+    "Stars": 22971,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-22T17:43:55Z",
+    "UpdatedAt": "2026-05-01T14:43:48Z",
+    "Owner": "sebastianruder",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorflow/tensorflow",
+    "Name": "tensorflow",
+    "Url": "https://github.com/tensorflow/tensorflow",
+    "Description": "An Open Source Machine Learning Framework for Everyone",
+    "Topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ],
+    "Language": "C++",
+    "Stars": 194979,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-11-07T01:19:20Z",
+    "UpdatedAt": "2026-05-03T18:43:11Z",
+    "Owner": "tensorflow",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ROCm/aiter",
+    "Name": "aiter",
+    "Url": "https://github.com/ROCm/aiter",
+    "Description": "AI Tensor Engine for ROCm",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 422,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-11-11T10:38:20Z",
+    "UpdatedAt": "2026-05-03T14:14:33Z",
+    "Owner": "ROCm",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mnick/scikit-tensor",
+    "Name": "scikit-tensor",
+    "Url": "https://github.com/mnick/scikit-tensor",
+    "Description": "Python library for multilinear algebra and tensor factorizations",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 405,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-18T10:31:38Z",
+    "UpdatedAt": "2026-04-01T17:34:40Z",
+    "Owner": "mnick",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zylon-ai/private-gpt",
+    "Name": "private-gpt",
+    "Url": "https://github.com/zylon-ai/private-gpt",
+    "Description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 57209,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-02T09:15:31Z",
+    "UpdatedAt": "2026-05-03T15:37:17Z",
+    "Owner": "zylon-ai",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "helmholtz-analytics/heat",
+    "Name": "heat",
+    "Url": "https://github.com/helmholtz-analytics/heat",
+    "Description": "Distributed tensors and Machine Learning framework with GPU and MPI acceleration in Python",
+    "Topics": [
+      "array-api",
+      "data-analytics",
+      "data-science",
+      "distributed-computing",
+      "gpu",
+      "high-performance-computing",
+      "hpc",
+      "machine-learning",
+      "mpi",
+      "mpi4py",
+      "multi-gpu",
+      "numpy",
+      "parallel-computing",
+      "python",
+      "pytorch",
+      "scientific-computing",
+      "tensors"
+    ],
+    "Language": "Python",
+    "Stars": 238,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-05-17T12:16:27Z",
+    "UpdatedAt": "2026-05-01T22:19:42Z",
+    "Owner": "helmholtz-analytics",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "uxlfoundation/scikit-learn-intelex",
+    "Name": "scikit-learn-intelex",
+    "Url": "https://github.com/uxlfoundation/scikit-learn-intelex",
+    "Description": " Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application",
+    "Topics": [
+      "ai-inference",
+      "ai-machine-learning",
+      "ai-training",
+      "analytics",
+      "big-data",
+      "data-analysis",
+      "gpu",
+      "hacktoberfest",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "oneapi",
+      "python",
+      "scikit-learn",
+      "swrepo"
+    ],
+    "Language": "Python",
+    "Stars": 1338,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-07T06:45:41Z",
+    "UpdatedAt": "2026-05-02T16:24:07Z",
+    "Owner": "uxlfoundation",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pandas-dev/pandas",
+    "Name": "pandas",
+    "Url": "https://github.com/pandas-dev/pandas",
+    "Description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "Topics": [
+      "alignment",
+      "data-analysis",
+      "data-science",
+      "flexible",
+      "pandas",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 48651,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-08-24T01:37:33Z",
+    "UpdatedAt": "2026-05-03T18:48:04Z",
+    "Owner": "pandas-dev",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PennyLaneAI/pennylane",
+    "Name": "pennylane",
+    "Url": "https://github.com/PennyLaneAI/pennylane",
+    "Description": "PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaningful quantum algorithms, from inspiration to implementation.",
+    "Topics": [
+      "autograd",
+      "automatic-differentiation",
+      "cirq",
+      "deep-learning",
+      "differentiable-computing",
+      "jax",
+      "machine-learning",
+      "neural-network",
+      "optimization",
+      "python",
+      "pytorch",
+      "qiskit",
+      "qml",
+      "quantum",
+      "quantum-chemistry",
+      "quantum-computing",
+      "quantum-machine-learning",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 3185,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-17T16:45:42Z",
+    "UpdatedAt": "2026-05-03T04:04:38Z",
+    "Owner": "PennyLaneAI",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "leptonai/leptonai",
+    "Name": "leptonai",
+    "Url": "https://github.com/leptonai/leptonai",
+    "Description": "A Pythonic framework to simplify AI service building",
+    "Topics": [
+      "artificial-intelligence",
+      "cloud",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 2805,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-06T20:38:00Z",
+    "UpdatedAt": "2026-04-26T20:48:55Z",
+    "Owner": "leptonai",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "buriburisuri/sugartensor",
+    "Name": "sugartensor",
+    "Url": "https://github.com/buriburisuri/sugartensor",
+    "Description": "A slim tensorflow wrapper that provides syntactic sugar for tensor variables. This library will be helpful for practical deep learning researchers not beginners.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 370,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-05T07:46:06Z",
+    "UpdatedAt": "2026-04-24T17:21:12Z",
+    "Owner": "buriburisuri",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Asabeneh/30-Days-Of-Python",
+    "Name": "30-Days-Of-Python",
+    "Url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "Description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "Topics": [
+      "30-days-of-python",
+      "data",
+      "data-science",
+      "database",
+      "flask",
+      "fullstack",
+      "github",
+      "heroku",
+      "matplotlib",
+      "ml",
+      "mongodb",
+      "numpy",
+      "pandas",
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 61999,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-19T17:24:16Z",
+    "UpdatedAt": "2026-05-03T18:37:55Z",
+    "Owner": "Asabeneh",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "norse/norse",
+    "Name": "norse",
+    "Url": "https://github.com/norse/norse",
+    "Description": "Deep learning with spiking neural networks (SNNs) in PyTorch.",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "neuromorphic",
+      "pytorch",
+      "pytorch-lightning",
+      "spiking-neural-networks",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 795,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-22T00:00:15Z",
+    "UpdatedAt": "2026-04-27T17:46:08Z",
+    "Owner": "norse",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50",
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fal-ai/flashpack",
+    "Name": "flashpack",
+    "Url": "https://github.com/fal-ai/flashpack",
+    "Description": "High-throughput tensor loading for PyTorch",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 228,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-24T15:39:45Z",
+    "UpdatedAt": "2026-05-02T18:13:11Z",
+    "Owner": "fal-ai",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/magika",
+    "Name": "magika",
+    "Url": "https://github.com/google/magika",
+    "Description": "Fast and accurate AI powered file content types detection ",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "filetype",
+      "keras-classification-models",
+      "keras-models",
+      "mime-types",
+      "onnx"
+    ],
+    "Language": "Python",
+    "Stars": 16876,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-22T09:36:55Z",
+    "UpdatedAt": "2026-05-03T17:39:49Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "patrick-kidger/torchtyping",
+    "Name": "torchtyping",
+    "Url": "https://github.com/patrick-kidger/torchtyping",
+    "Description": "Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.",
+    "Topics": [
+      "named-tensors",
+      "python-typing",
+      "pytorch",
+      "shape",
+      "tensors",
+      "typing"
+    ],
+    "Language": "Python",
+    "Stars": 1479,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-28T18:19:06Z",
+    "UpdatedAt": "2026-04-28T04:20:08Z",
+    "Owner": "patrick-kidger",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "plasma-umass/scalene",
+    "Name": "scalene",
+    "Url": "https://github.com/plasma-umass/scalene",
+    "Description": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals",
+    "Topics": [
+      "cpu",
+      "cpu-profiling",
+      "gpu",
+      "gpu-programming",
+      "memory-allocation",
+      "memory-consumption",
+      "performance-analysis",
+      "performance-cpu",
+      "profiler",
+      "profiles-memory",
+      "profiling",
+      "python",
+      "python-profilers",
+      "scalene"
+    ],
+    "Language": "Python",
+    "Stars": 13404,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-17T20:56:28Z",
+    "UpdatedAt": "2026-05-03T14:07:08Z",
+    "Owner": "plasma-umass",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "public-apis/public-apis",
+    "Name": "public-apis",
+    "Url": "https://github.com/public-apis/public-apis",
+    "Description": "A collective list of free APIs",
+    "Topics": [
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
+    ],
+    "Language": "Python",
+    "Stars": 430581,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-20T23:49:42Z",
+    "UpdatedAt": "2026-05-03T18:56:27Z",
+    "Owner": "public-apis",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ofnote/tsalib",
+    "Name": "tsalib",
+    "Url": "https://github.com/ofnote/tsalib",
+    "Description": "Tensor Shape Annotation Library (numpy, tensorflow, pytorch, ...)",
+    "Topics": [
+      "deep-learning",
+      "keras",
+      "numpy",
+      "pytorch",
+      "tensor-shape",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 268,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-25T08:56:17Z",
+    "UpdatedAt": "2026-01-30T02:28:48Z",
+    "Owner": "ofnote",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AkiRusProd/numpy-nn-model",
+    "Name": "numpy-nn-model",
+    "Url": "https://github.com/AkiRusProd/numpy-nn-model",
+    "Description": "Сustom torch style machine learning framework with automatic differentiation implemented on numpy, allows build GANs, VAEs, etc.",
+    "Topics": [
+      "auto-diff",
+      "auto-differentiation",
+      "autodiff",
+      "autoencoder",
+      "autograd",
+      "automatic-differentiation",
+      "convolutional-neural-network",
+      "deep-learning",
+      "gan",
+      "generative-adversarial-network",
+      "machine-learning",
+      "mnist",
+      "neural-network",
+      "numpy-model",
+      "numpy-neural-network",
+      "vae",
+      "variational-autoencoder"
+    ],
+    "Language": "Python",
+    "Stars": 81,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-21T22:07:07Z",
+    "UpdatedAt": "2026-02-28T16:53:59Z",
+    "Owner": "AkiRusProd",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Avik-Jain/100-Days-Of-ML-Code",
+    "Name": "100-Days-Of-ML-Code",
+    "Url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "Description": "100 Days of ML Coding",
+    "Topics": [
+      "100-days-of-code-log",
+      "100daysofcode",
+      "deep-learning",
+      "implementation",
+      "infographics",
+      "linear-algebra",
+      "linear-regression",
+      "logistic-regression",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "naive-bayes-classifier",
+      "python",
+      "scikit-learn",
+      "siraj-raval",
+      "siraj-raval-challenge",
+      "support-vector-machines",
+      "svm",
+      "tutorial"
+    ],
+    "Language": "",
+    "Stars": 50832,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-05T09:11:43Z",
+    "UpdatedAt": "2026-05-03T18:28:59Z",
+    "Owner": "Avik-Jain",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "OlafenwaMoses/ImageAI",
+    "Name": "ImageAI",
+    "Url": "https://github.com/OlafenwaMoses/ImageAI",
+    "Description": "A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities",
+    "Topics": [
+      "ai-practice-recommendations",
+      "algorithm",
+      "artificial-intelligence",
+      "artificial-neural-networks",
+      "densenet",
+      "detection",
+      "gpu",
+      "image-prediction",
+      "image-recognition",
+      "imageai",
+      "inceptionv3",
+      "machine-learning",
+      "object-detection",
+      "offline-capable",
+      "prediction",
+      "python",
+      "python3",
+      "squeezenet",
+      "video"
+    ],
+    "Language": "Python",
+    "Stars": 8868,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-19T23:12:33Z",
+    "UpdatedAt": "2026-05-03T12:58:21Z",
+    "Owner": "OlafenwaMoses",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "airlab-unibas/airlab",
+    "Name": "airlab",
+    "Url": "https://github.com/airlab-unibas/airlab",
+    "Description": "Image registration laboratory for 2D and 3D image data",
+    "Topics": [
+      "autograd",
+      "image-alignment",
+      "image-registration",
+      "pytorch",
+      "rapid-prototyping"
+    ],
+    "Language": "Python",
+    "Stars": 430,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-27T20:55:50Z",
+    "UpdatedAt": "2026-04-05T08:58:21Z",
+    "Owner": "airlab-unibas",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gprMax/gprMax",
+    "Name": "gprMax",
+    "Url": "https://github.com/gprMax/gprMax",
+    "Description": "gprMax is open source software that simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)",
+    "Topics": [
+      "antenna",
+      "cuda",
+      "electromagnetic",
+      "fdtd",
+      "gpr",
+      "gpu",
+      "modelling",
+      "nvidia",
+      "python",
+      "simulation",
+      "soil"
+    ],
+    "Language": "Python",
+    "Stars": 833,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-09-30T13:14:03Z",
+    "UpdatedAt": "2026-04-30T13:49:48Z",
+    "Owner": "gprMax",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PostHog/posthog",
+    "Name": "posthog",
+    "Url": "https://github.com/PostHog/posthog",
+    "Description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "Topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ],
+    "Language": "Python",
+    "Stars": 34263,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-23T22:46:58Z",
+    "UpdatedAt": "2026-05-03T18:48:12Z",
+    "Owner": "PostHog",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PDFMathTranslate/PDFMathTranslate",
+    "Name": "PDFMathTranslate",
+    "Url": "https://github.com/PDFMathTranslate/PDFMathTranslate",
+    "Description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+    "Topics": [
+      "chinese",
+      "document",
+      "edit",
+      "english",
+      "japanese",
+      "korean",
+      "latex",
+      "math",
+      "mcp",
+      "modify",
+      "obsidian",
+      "openai",
+      "pdf",
+      "pdf2zh",
+      "python",
+      "russian",
+      "translate",
+      "translation",
+      "zotero"
+    ],
+    "Language": "Python",
+    "Stars": 33489,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-06T06:56:03Z",
+    "UpdatedAt": "2026-05-03T17:01:00Z",
+    "Owner": "PDFMathTranslate",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arogozhnikov/einops",
+    "Name": "einops",
+    "Url": "https://github.com/arogozhnikov/einops",
+    "Description": "Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)",
+    "Topics": [
+      "cupy",
+      "deep-learning",
+      "einops",
+      "jax",
+      "mlx",
+      "numpy",
+      "pytorch",
+      "tensor",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 9476,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-22T00:45:08Z",
+    "UpdatedAt": "2026-05-01T20:54:35Z",
+    "Owner": "arogozhnikov",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TencentARC/GFPGAN",
+    "Name": "GFPGAN",
+    "Url": "https://github.com/TencentARC/GFPGAN",
+    "Description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "Topics": [
+      "deep-learning",
+      "face-restoration",
+      "gan",
+      "gfpgan",
+      "image-restoration",
+      "pytorch",
+      "super-resolution"
+    ],
+    "Language": "Python",
+    "Stars": 37445,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-19T06:18:20Z",
+    "UpdatedAt": "2026-05-03T15:03:06Z",
+    "Owner": "TencentARC",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/python-fire",
+    "Name": "python-fire",
+    "Url": "https://github.com/google/python-fire",
+    "Description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+    "Topics": [
+      "cli",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 28184,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-21T21:35:07Z",
+    "UpdatedAt": "2026-05-03T13:47:49Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google/tf-quant-finance",
+    "Name": "tf-quant-finance",
+    "Url": "https://github.com/google/tf-quant-finance",
+    "Description": "High-performance TensorFlow library for quantitative finance.",
+    "Topics": [
+      "finance",
+      "gpu",
+      "gpu-computing",
+      "high-performance",
+      "high-performance-computing",
+      "numerical-integration",
+      "numerical-methods",
+      "numerical-optimization",
+      "python",
+      "quantitative-finance",
+      "quantlib",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 5332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-24T16:09:50Z",
+    "UpdatedAt": "2026-05-03T08:12:07Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fastplotlib/fastplotlib",
+    "Name": "fastplotlib",
+    "Url": "https://github.com/fastplotlib/fastplotlib",
+    "Description": "Next-gen fast plotting library running on WGPU using the pygfx rendering engine",
+    "Topics": [
+      "fast-visualization",
+      "gpu",
+      "interactive-visualizations",
+      "pygfx",
+      "scientific-visualization",
+      "visualization",
+      "vulkan",
+      "webgpu",
+      "wgpu"
+    ],
+    "Language": "Python",
+    "Stars": 1505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-04-25T18:06:31Z",
+    "UpdatedAt": "2026-05-01T12:37:59Z",
+    "Owner": "fastplotlib",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fzyzcjy/torch_memory_saver",
+    "Name": "torch_memory_saver",
+    "Url": "https://github.com/fzyzcjy/torch_memory_saver",
+    "Description": "Allow torch tensor memory to be released and resumed later ",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 241,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T12:13:52Z",
+    "UpdatedAt": "2026-05-02T03:38:59Z",
+    "Owner": "fzyzcjy",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-team/keras",
+    "Name": "keras",
+    "Url": "https://github.com/keras-team/keras",
+    "Description": "Deep Learning for humans",
+    "Topics": [
+      "data-science",
+      "deep-learning",
+      "jax",
+      "machine-learning",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 64057,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-03-28T00:35:42Z",
+    "UpdatedAt": "2026-05-03T18:45:46Z",
+    "Owner": "keras-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "chainer/chainer",
+    "Name": "chainer",
+    "Url": "https://github.com/chainer/chainer",
+    "Description": "A flexible framework of neural networks for deep learning",
+    "Topics": [
+      "chainer",
+      "cuda",
+      "cudnn",
+      "cupy",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "neural-networks",
+      "numpy",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 5918,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-05T05:50:37Z",
+    "UpdatedAt": "2026-04-25T13:16:31Z",
+    "Owner": "chainer",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "recommenders-team/recommenders",
+    "Name": "recommenders",
+    "Url": "https://github.com/recommenders-team/recommenders",
+    "Description": "Best Practices on Recommendation Systems",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "jupyter-notebook",
+      "kubernetes",
+      "machine-learning",
+      "operationalization",
+      "python",
+      "ranking",
+      "rating",
+      "recommendation",
+      "recommendation-algorithm",
+      "recommendation-engine",
+      "recommendation-system",
+      "recommender",
+      "tutorial"
+    ],
+    "Language": "Python",
+    "Stars": 21665,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-19T10:06:07Z",
+    "UpdatedAt": "2026-05-03T13:48:30Z",
+    "Owner": "recommenders-team",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lebedov/scikit-cuda",
+    "Name": "scikit-cuda",
+    "Url": "https://github.com/lebedov/scikit-cuda",
+    "Description": "Python interface to GPU-powered libraries",
+    "Topics": [
+      "blas",
+      "cublas",
+      "cuda",
+      "cufft",
+      "cusolver",
+      "gpu",
+      "lapack",
+      "numerical",
+      "pycuda",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 988,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2010-09-27T02:02:07Z",
+    "UpdatedAt": "2026-04-24T17:19:41Z",
+    "Owner": "lebedov",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ibalazevic/TuckER",
+    "Name": "TuckER",
+    "Url": "https://github.com/ibalazevic/TuckER",
+    "Description": "TuckER: Tensor Factorization for Knowledge Graph Completion",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 366,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-26T14:18:02Z",
+    "UpdatedAt": "2026-04-17T21:16:46Z",
+    "Owner": "ibalazevic",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deezer/spleeter",
+    "Name": "spleeter",
+    "Url": "https://github.com/deezer/spleeter",
+    "Description": "Deezer source separation library including pretrained models.",
+    "Topics": [
+      "audio-processing",
+      "bass",
+      "deep-learning",
+      "deezer",
+      "drums",
+      "model",
+      "pretrained-models",
+      "python",
+      "tensorflow",
+      "vocals"
+    ],
+    "Language": "Python",
+    "Stars": 28198,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-26T15:40:46Z",
+    "UpdatedAt": "2026-05-03T07:49:41Z",
+    "Owner": "deezer",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nnaisense/evotorch",
+    "Name": "evotorch",
+    "Url": "https://github.com/nnaisense/evotorch",
+    "Description": "Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.",
+    "Topics": [
+      "artificial-intelligence",
+      "distributed",
+      "evolutionary-algorithms",
+      "evolutionary-computation",
+      "gpu",
+      "neural-networks",
+      "neuroevolution",
+      "optimization",
+      "optimization-algorithms",
+      "python",
+      "pytorch",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 1135,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-08T18:03:06Z",
+    "UpdatedAt": "2026-05-03T18:27:17Z",
+    "Owner": "nnaisense",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CorentinJ/Real-Time-Voice-Cloning",
+    "Name": "Real-Time-Voice-Cloning",
+    "Url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "Description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "deep-learning",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tts",
+      "voice-cloning"
+    ],
+    "Language": "Python",
+    "Stars": 59711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-26T08:56:15Z",
+    "UpdatedAt": "2026-05-03T18:01:13Z",
+    "Owner": "CorentinJ",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "coqui-ai/TTS",
+    "Name": "TTS",
+    "Url": "https://github.com/coqui-ai/TTS",
+    "Description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "Topics": [
+      "deep-learning",
+      "glow-tts",
+      "hifigan",
+      "melgan",
+      "multi-speaker-tts",
+      "python",
+      "pytorch",
+      "speaker-encoder",
+      "speaker-encodings",
+      "speech",
+      "speech-synthesis",
+      "tacotron",
+      "text-to-speech",
+      "tts",
+      "tts-model",
+      "vocoder",
+      "voice-cloning",
+      "voice-conversion",
+      "voice-synthesis"
+    ],
+    "Language": "Python",
+    "Stars": 45211,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T15:45:28Z",
+    "UpdatedAt": "2026-05-03T15:53:02Z",
+    "Owner": "coqui-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/datasets",
+    "Name": "datasets",
+    "Url": "https://github.com/huggingface/datasets",
+    "Description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "computer-vision",
+      "dataset-hub",
+      "datasets",
+      "deep-learning",
+      "huggingface",
+      "llm",
+      "machine-learning",
+      "natural-language-processing",
+      "nlp",
+      "numpy",
+      "pandas",
+      "pytorch",
+      "speech",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 21483,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-26T09:23:22Z",
+    "UpdatedAt": "2026-05-03T11:48:10Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gradio-app/gradio",
+    "Name": "gradio",
+    "Url": "https://github.com/gradio-app/gradio",
+    "Description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "Topics": [
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "deploy",
+      "gradio",
+      "gradio-interface",
+      "interface",
+      "machine-learning",
+      "models",
+      "python",
+      "python-notebook",
+      "ui",
+      "ui-components"
+    ],
+    "Language": "Python",
+    "Stars": 42495,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-19T08:24:04Z",
+    "UpdatedAt": "2026-05-03T17:33:59Z",
+    "Owner": "gradio-app",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/pytorch-image-models",
+    "Name": "pytorch-image-models",
+    "Url": "https://github.com/huggingface/pytorch-image-models",
+    "Description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+    "Topics": [
+      "augmix",
+      "convnext",
+      "distributed-training",
+      "efficientnet",
+      "image-classification",
+      "imagenet",
+      "maxvit",
+      "mixnet",
+      "mobile-deep-learning",
+      "mobilenet-v2",
+      "mobilenetv3",
+      "nfnets",
+      "normalization-free-training",
+      "optimizer",
+      "pretrained-models",
+      "pretrained-weights",
+      "pytorch",
+      "randaugment",
+      "resnet",
+      "vision-transformer-models"
+    ],
+    "Language": "Python",
+    "Stars": 36741,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-02T05:51:12Z",
+    "UpdatedAt": "2026-05-03T17:44:11Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "assafshocher/ResizeRight",
+    "Name": "ResizeRight",
+    "Url": "https://github.com/assafshocher/ResizeRight",
+    "Description": "The correct way to resize images or tensors. For Numpy or Pytorch (differentiable).",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 565,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-22T11:35:10Z",
+    "UpdatedAt": "2026-04-24T07:43:29Z",
+    "Owner": "assafshocher",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "inducer/pycuda",
+    "Name": "pycuda",
+    "Url": "https://github.com/inducer/pycuda",
+    "Description": "CUDA integration for Python, plus shiny features",
+    "Topics": [
+      "array",
+      "cuda",
+      "gpu",
+      "gpu-computing",
+      "multidimensional-arrays",
+      "pycuda",
+      "python",
+      "scientific-computing"
+    ],
+    "Language": "Python",
+    "Stars": 2039,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2011-04-06T02:53:31Z",
+    "UpdatedAt": "2026-04-29T21:11:10Z",
+    "Owner": "inducer",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "Description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "Topics": [
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "awesome",
+      "computer-vision",
+      "computer-vision-project",
+      "data-science",
+      "deep-learning",
+      "deep-learning-project",
+      "machine-learning",
+      "machine-learning-projects",
+      "nlp",
+      "nlp-projects",
+      "python"
+    ],
+    "Language": "",
+    "Stars": 33413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-01-02T12:08:37Z",
+    "UpdatedAt": "2026-05-03T18:37:28Z",
+    "Owner": "ashishpatel26",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "dstackai/dstack",
+    "Name": "dstack",
+    "Url": "https://github.com/dstackai/dstack",
+    "Description": "Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.",
+    "Topics": [
+      "agent-skills",
+      "agentic-orchestration",
+      "amd",
+      "cloud",
+      "containers",
+      "docker",
+      "fine-tuning",
+      "gpu",
+      "inference",
+      "k8s",
+      "kubernetes",
+      "llms",
+      "machine-learning",
+      "nvidia",
+      "orchestration",
+      "python",
+      "slurm",
+      "training"
+    ],
+    "Language": "Python",
+    "Stars": 2128,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-04T10:29:46Z",
+    "UpdatedAt": "2026-05-03T14:11:25Z",
+    "Owner": "dstackai",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TheAlgorithms/Python",
+    "Name": "Python",
+    "Url": "https://github.com/TheAlgorithms/Python",
+    "Description": "All Algorithms implemented in Python",
+    "Topics": [
+      "algorithm",
+      "algorithm-competitions",
+      "algorithms-implemented",
+      "algos",
+      "community-driven",
+      "education",
+      "hacktoberfest",
+      "interview",
+      "learn",
+      "practice",
+      "python",
+      "searches",
+      "sorting-algorithms",
+      "sorts"
+    ],
+    "Language": "Python",
+    "Stars": 220678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-16T09:44:01Z",
+    "UpdatedAt": "2026-05-03T18:27:22Z",
+    "Owner": "TheAlgorithms",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mli/paper-reading",
+    "Name": "paper-reading",
+    "Url": "https://github.com/mli/paper-reading",
+    "Description": "深度学习经典、新论文逐段精读",
+    "Topics": [
+      "deep-learning",
+      "paper",
+      "reading-list"
+    ],
+    "Language": "",
+    "Stars": 32952,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-22T06:34:51Z",
+    "UpdatedAt": "2026-05-03T15:54:12Z",
+    "Owner": "mli",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/qlib",
+    "Name": "qlib",
+    "Url": "https://github.com/microsoft/qlib",
+    "Description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+    "Topics": [
+      "algorithmic-trading",
+      "auto-quant",
+      "deep-learning",
+      "finance",
+      "fintech",
+      "investment",
+      "machine-learning",
+      "paper",
+      "platform",
+      "python",
+      "quant",
+      "quant-dataset",
+      "quant-models",
+      "quantitative-finance",
+      "quantitative-trading",
+      "research",
+      "research-paper",
+      "stock-data"
+    ],
+    "Language": "Python",
+    "Stars": 41915,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-14T06:46:00Z",
+    "UpdatedAt": "2026-05-03T18:01:55Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "fancompute/legume",
+    "Name": "legume",
+    "Url": "https://github.com/fancompute/legume",
+    "Description": " 🌱 Guided-mode expansion of photonic crystal slabs",
+    "Topics": [
+      "autograd",
+      "eigenmodes",
+      "optics",
+      "photonics"
+    ],
+    "Language": "Python",
+    "Stars": 147,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-12T22:32:00Z",
+    "UpdatedAt": "2026-05-02T23:42:48Z",
+    "Owner": "fancompute",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/cuEquivariance",
+    "Name": "cuEquivariance",
+    "Url": "https://github.com/NVIDIA/cuEquivariance",
+    "Description": "cuEquivariance is a math library that is a collective of low-level primitives and tensor ops to accelerate widely-used models, like DiffDock, MACE, Allegro and NEQUIP, based on equivariant neural networks. Also includes kernels for accelerated structure prediction.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 390,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-22T15:36:00Z",
+    "UpdatedAt": "2026-04-30T19:54:10Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "UCSBarchlab/OpenTPU",
+    "Name": "OpenTPU",
+    "Url": "https://github.com/UCSBarchlab/OpenTPU",
+    "Description": "A open source reimplementation of Google's Tensor Processing Unit (TPU).",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 750,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-27T20:06:28Z",
+    "UpdatedAt": "2026-04-30T23:10:56Z",
+    "Owner": "UCSBarchlab",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "eduardoleao052/Autograd-from-scratch",
+    "Name": "Autograd-from-scratch",
+    "Url": "https://github.com/eduardoleao052/Autograd-from-scratch",
+    "Description": "Documented and Unit Tested educational Deep Learning framework with Autograd from scratch.",
+    "Topics": [
+      "autograd",
+      "automatic-differentiation",
+      "deep-learning",
+      "from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 126,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-12-21T00:47:01Z",
+    "UpdatedAt": "2026-03-30T21:22:13Z",
+    "Owner": "eduardoleao052",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "Name": "ui-ux-pro-max-skill",
+    "Url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "Description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "Topics": [
+      "ai-skills",
+      "antigravity",
+      "claude",
+      "claude-code",
+      "codex",
+      "command-line",
+      "copilot",
+      "cursor-ai",
+      "html5",
+      "kiro",
+      "landing-page",
+      "mobile-ui",
+      "qoder",
+      "react",
+      "tailwindcss",
+      "trae",
+      "ui-design",
+      "uikit",
+      "windsurf-ai"
+    ],
+    "Language": "Python",
+    "Stars": 73551,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-30T11:36:31Z",
+    "UpdatedAt": "2026-05-03T18:28:50Z",
+    "Owner": "nextlevelbuilder",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tatsu-lab/stanford_alpaca",
+    "Name": "stanford_alpaca",
+    "Url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "Description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "Topics": [
+      "deep-learning",
+      "instruction-following",
+      "language-model"
+    ],
+    "Language": "Python",
+    "Stars": 30257,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-10T23:33:09Z",
+    "UpdatedAt": "2026-05-03T15:50:40Z",
+    "Owner": "tatsu-lab",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "kaszperro/slick-dnn",
+    "Name": "slick-dnn",
+    "Url": "https://github.com/kaszperro/slick-dnn",
+    "Description": "Tiny and elegant deep learning library",
+    "Topics": [
+      "autograd",
+      "deep-learning",
+      "deep-learning-library",
+      "deep-neural-networks",
+      "machine-learning-library"
+    ],
+    "Language": "Python",
+    "Stars": 121,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-16T13:11:12Z",
+    "UpdatedAt": "2025-11-24T09:29:26Z",
+    "Owner": "kaszperro",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "eriklindernoren/ML-From-Scratch",
+    "Name": "ML-From-Scratch",
+    "Url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "Description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "Topics": [
+      "data-mining",
+      "data-science",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "genetic-algorithm",
+      "machine-learning",
+      "machine-learning-from-scratch"
+    ],
+    "Language": "Python",
+    "Stars": 31413,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-05T12:11:23Z",
+    "UpdatedAt": "2026-05-03T17:38:10Z",
+    "Owner": "eriklindernoren",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "opencv/opencv",
+    "Name": "opencv",
+    "Url": "https://github.com/opencv/opencv",
+    "Description": "Open Source Computer Vision Library",
+    "Topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ],
+    "Language": "C++",
+    "Stars": 87330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-07-19T09:40:17Z",
+    "UpdatedAt": "2026-05-03T16:50:32Z",
+    "Owner": "opencv",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openai/openai-python",
+    "Name": "openai-python",
+    "Url": "https://github.com/openai/openai-python",
+    "Description": "The official Python library for the OpenAI API",
+    "Topics": [
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 30671,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-25T23:23:54Z",
+    "UpdatedAt": "2026-05-03T16:50:04Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/AI-For-Beginners",
+    "Name": "AI-For-Beginners",
+    "Url": "https://github.com/microsoft/AI-For-Beginners",
+    "Description": "12 Weeks, 24 Lessons, AI for All!",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 47148,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-03T16:27:36Z",
+    "UpdatedAt": "2026-05-03T17:46:05Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29395,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-03T16:59:12Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162703,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T18:53:50Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ocrmypdf/OCRmyPDF",
+    "Name": "OCRmyPDF",
+    "Url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "Description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "Topics": [
+      "image-processing",
+      "ocr",
+      "pdf",
+      "python",
+      "tesseract"
+    ],
+    "Language": "Python",
+    "Stars": 33523,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-12-20T08:26:28Z",
+    "UpdatedAt": "2026-05-03T18:33:03Z",
+    "Owner": "ocrmypdf",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorgi/TPA",
+    "Name": "TPA",
+    "Url": "https://github.com/tensorgi/TPA",
+    "Description": "[NeurIPS 2025 Spotlight] TPA: Tensor ProducT ATTenTion Transformer (T6) (https://arxiv.org/abs/2501.06425)",
+    "Topics": [
+      "deep-learning",
+      "foundation-models",
+      "large-language-models",
+      "llms",
+      "model-architectures",
+      "pretraining"
+    ],
+    "Language": "Python",
+    "Stars": 455,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-10T19:30:12Z",
+    "UpdatedAt": "2026-05-03T12:45:19Z",
+    "Owner": "tensorgi",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "NVIDIA/warp",
+    "Name": "warp",
+    "Url": "https://github.com/NVIDIA/warp",
+    "Description": "A Python framework for GPU-accelerated simulation, robotics, and machine learning.",
+    "Topics": [
+      "cuda",
+      "differentiable-programming",
+      "gpu",
+      "gpu-acceleration",
+      "nvidia",
+      "nvidia-warp",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 6587,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-18T21:56:23Z",
+    "UpdatedAt": "2026-05-03T18:47:29Z",
+    "Owner": "NVIDIA",
+    "SourceQueries": [
+      "topic:gpu language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rballester/tntorch",
+    "Name": "tntorch",
+    "Url": "https://github.com/rballester/tntorch",
+    "Description": "Tensor Network Learning with PyTorch",
+    "Topics": [
+      "cp-decomposition",
+      "data-science",
+      "learning",
+      "pytorch",
+      "tensor-decomposition",
+      "tensor-networks",
+      "tensor-train",
+      "tensors",
+      "tucker-decomposition"
+    ],
+    "Language": "Python",
+    "Stars": 308,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-16T14:28:55Z",
+    "UpdatedAt": "2026-03-30T15:23:04Z",
+    "Owner": "rballester",
+    "SourceQueries": [
+      "tensors language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "d2l-ai/d2l-zh",
+    "Name": "d2l-zh",
+    "Url": "https://github.com/d2l-ai/d2l-zh",
+    "Description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+    "Topics": [
+      "book",
+      "chinese",
+      "computer-vision",
+      "deep-learning",
+      "machine-learning",
+      "natural-language-processing",
+      "notebook",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 77606,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-23T04:40:24Z",
+    "UpdatedAt": "2026-05-03T18:06:54Z",
+    "Owner": "d2l-ai",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "BVLC/caffe",
+    "Name": "caffe",
+    "Url": "https://github.com/BVLC/caffe",
+    "Description": "Caffe: a fast open framework for deep learning.",
+    "Topics": [
+      "deep-learning",
+      "machine-learning",
+      "vision"
+    ],
+    "Language": "C++",
+    "Stars": 34624,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-09-12T18:39:48Z",
+    "UpdatedAt": "2026-05-03T03:13:57Z",
+    "Owner": "BVLC",
+    "SourceQueries": [
+      "topic:deep-learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "flaport/sax",
+    "Name": "sax",
+    "Url": "https://github.com/flaport/sax",
+    "Description": "S + Autograd + XLA :: S-parameter based frequency domain circuit simulations and optimizations using JAX.",
+    "Topics": [
+      "ann",
+      "autograd",
+      "circuit",
+      "deep-learning",
+      "jax",
+      "optimization",
+      "photonic-circuit",
+      "photonic-optimization",
+      "photonics",
+      "physics-simulation",
+      "s-parameters",
+      "simulation",
+      "simulation-framework",
+      "simulations",
+      "xla"
+    ],
+    "Language": "Python",
+    "Stars": 117,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-25T12:43:52Z",
+    "UpdatedAt": "2026-04-28T20:46:20Z",
+    "Owner": "flaport",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "modelcontextprotocol/python-sdk",
+    "Name": "python-sdk",
+    "Url": "https://github.com/modelcontextprotocol/python-sdk",
+    "Description": "The official Python SDK for Model Context Protocol servers and clients",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 22862,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-24T21:01:35Z",
+    "UpdatedAt": "2026-05-03T18:27:57Z",
+    "Owner": "modelcontextprotocol",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fjosw/pyerrors",
+    "Name": "pyerrors",
+    "Url": "https://github.com/fjosw/pyerrors",
+    "Description": "Error propagation and statistical analysis for Monte Carlo simulations in lattice QCD and statistical mechanics using autograd.",
+    "Topics": [
+      "autocorrelation",
+      "autograd",
+      "automatic-differentiation",
+      "condensed-matter",
+      "correlation",
+      "data-analysis",
+      "error-propagation",
+      "lattice-field-theory",
+      "lattice-gauge-theory",
+      "lattice-qcd",
+      "markov-chain",
+      "monte-carlo",
+      "particle-physics",
+      "physics",
+      "python",
+      "qcd",
+      "statistical-analysis",
+      "statistical-mechanics"
+    ],
+    "Language": "Python",
+    "Stars": 52,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-13T14:51:45Z",
+    "UpdatedAt": "2026-04-21T07:55:16Z",
+    "Owner": "fjosw",
+    "SourceQueries": [
+      "topic:autograd language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sinaptik-ai/pandas-ai",
+    "Name": "pandas-ai",
+    "Url": "https://github.com/sinaptik-ai/pandas-ai",
+    "Description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+    "Topics": [
+      "ai",
+      "csv",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "datalake",
+      "gpt-4",
+      "llm",
+      "pandas",
+      "sql",
+      "text-to-sql"
+    ],
+    "Language": "Python",
+    "Stars": 23500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-22T12:58:01Z",
+    "UpdatedAt": "2026-05-03T17:30:39Z",
+    "Owner": "sinaptik-ai",
+    "SourceQueries": [
+      "p language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ultralytics/yolov5",
+    "Name": "yolov5",
+    "Url": "https://github.com/ultralytics/yolov5",
+    "Description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "Topics": [
+      "coreml",
+      "deep-learning",
+      "ios",
+      "machine-learning",
+      "ml",
+      "object-detection",
+      "onnx",
+      "pytorch",
+      "tflite",
+      "ultralytics",
+      "yolo",
+      "yolov3",
+      "yolov5"
+    ],
+    "Language": "Python",
+    "Stars": 57330,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-18T03:45:11Z",
+    "UpdatedAt": "2026-05-03T15:06:59Z",
+    "Owner": "ultralytics",
+    "SourceQueries": [
+      "topic:deep-learning language:Python stars:>=50",
+      "topic:deep-learning stars:>=100"
+    ]
+  }
+]

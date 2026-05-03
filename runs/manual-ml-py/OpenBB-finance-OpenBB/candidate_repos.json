@@ -1,0 +1,6327 @@
+[
+  {
+    "FullName": "comet-ml/opik",
+    "Name": "opik",
+    "Url": "https://github.com/comet-ml/opik",
+    "Description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+    "Topics": [
+      "evaluation",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering"
+    ],
+    "Language": "Python",
+    "Stars": 19178,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-10T12:57:13Z",
+    "UpdatedAt": "2026-05-03T17:44:17Z",
+    "Owner": "comet-ml",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "letta-ai/letta",
+    "Name": "letta",
+    "Url": "https://github.com/letta-ai/letta",
+    "Description": "Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "Topics": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "llm-agent"
+    ],
+    "Language": "Python",
+    "Stars": 22417,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-11T07:38:37Z",
+    "UpdatedAt": "2026-05-03T18:13:50Z",
+    "Owner": "letta-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "man-c/pycoingecko",
+    "Name": "pycoingecko",
+    "Url": "https://github.com/man-c/pycoingecko",
+    "Description": "Python wrapper for the CoinGecko API",
+    "Topics": [
+      "api",
+      "api-wrapper",
+      "coingecko",
+      "crypto",
+      "cryptocurrency",
+      "nft",
+      "nfts",
+      "python",
+      "python3",
+      "wrapper"
+    ],
+    "Language": "Python",
+    "Stars": 1094,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-24T17:59:42Z",
+    "UpdatedAt": "2026-04-27T09:55:00Z",
+    "Owner": "man-c",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langgraph",
+    "Name": "langgraph",
+    "Url": "https://github.com/langchain-ai/langgraph",
+    "Description": "Build resilient language agents as graphs.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 31111,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-09T18:33:12Z",
+    "UpdatedAt": "2026-05-03T18:51:53Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yaron4u/EnigmaCracker",
+    "Name": "EnigmaCracker",
+    "Url": "https://github.com/yaron4u/EnigmaCracker",
+    "Description": "EnigmaCracker is a tool for brute forcing crypto wallets",
+    "Topics": [
+      "bitcoin",
+      "bitcoin-bruteforce",
+      "bitcoin-wallet",
+      "bitcoin-wallet-cracker",
+      "brute-force",
+      "brute-force-attacks",
+      "bruteforce",
+      "crypto",
+      "cryptography",
+      "hack",
+      "mnemonic",
+      "python",
+      "wallet"
+    ],
+    "Language": "Python",
+    "Stars": 612,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-01T19:40:48Z",
+    "UpdatedAt": "2026-05-02T00:36:37Z",
+    "Owner": "yaron4u",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "commaai/openpilot",
+    "Name": "openpilot",
+    "Url": "https://github.com/commaai/openpilot",
+    "Description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "Topics": [
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ],
+    "Language": "Python",
+    "Stars": 60802,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-11-24T01:33:30Z",
+    "UpdatedAt": "2026-05-03T18:49:55Z",
+    "Owner": "commaai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "insightglacier/Shiro_exploit",
+    "Name": "Shiro_exploit",
+    "Url": "https://github.com/insightglacier/Shiro_exploit",
+    "Description": "Apache Shiro 反序列化漏洞检测与利用工具",
+    "Topics": [
+      "crypto",
+      "deserialize",
+      "exploit",
+      "gadget",
+      "shiro",
+      "vulnerability",
+      "vulnerability-research",
+      "vulnerability-scanners"
+    ],
+    "Language": "Python",
+    "Stars": 580,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-01-19T13:50:32Z",
+    "UpdatedAt": "2026-04-25T11:07:33Z",
+    "Owner": "insightglacier",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/OpenHarness",
+    "Name": "OpenHarness",
+    "Url": "https://github.com/HKUDS/OpenHarness",
+    "Description": "\"OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!\"",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11798,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-01T15:37:13Z",
+    "UpdatedAt": "2026-05-03T18:05:51Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Unity-Technologies/ml-agents",
+    "Name": "ml-agents",
+    "Url": "https://github.com/Unity-Technologies/ml-agents",
+    "Description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+    "Topics": [
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "machine-learning",
+      "neural-networks",
+      "reinforcement-learning",
+      "unity",
+      "unity3d"
+    ],
+    "Language": "C#",
+    "Stars": 19373,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-08T21:09:04Z",
+    "UpdatedAt": "2026-05-03T15:11:45Z",
+    "Owner": "Unity-Technologies",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "andri27-ts/Reinforcement-Learning",
+    "Name": "Reinforcement-Learning",
+    "Url": "https://github.com/andri27-ts/Reinforcement-Learning",
+    "Description": "Learn Deep Reinforcement Learning in 60 days! Lectures & Code in Python. Reinforcement Learning + Deep Learning",
+    "Topics": [
+      "a2c",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "deepmind",
+      "dqn",
+      "evolution-strategies",
+      "machine-learning",
+      "policy-gradients",
+      "ppo",
+      "qlearning",
+      "reinforcement-learning"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 4716,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-28T11:04:16Z",
+    "UpdatedAt": "2026-04-30T14:50:43Z",
+    "Owner": "andri27-ts",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "jundot/omlx",
+    "Name": "omlx",
+    "Url": "https://github.com/jundot/omlx",
+    "Description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "Topics": [
+      "apple-silicon",
+      "inference-server",
+      "llm",
+      "macos",
+      "mlx",
+      "openai-api"
+    ],
+    "Language": "Python",
+    "Stars": 12201,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-13T14:13:27Z",
+    "UpdatedAt": "2026-05-03T18:56:45Z",
+    "Owner": "jundot",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thomasahle/tensorgrad",
+    "Name": "tensorgrad",
+    "Url": "https://github.com/thomasahle/tensorgrad",
+    "Description": "Machine Learning with Symbolic Tensors",
+    "Topics": [
+      "autograd",
+      "derivatives",
+      "neurosymbolic",
+      "probability",
+      "symbolic-computation",
+      "tensor"
+    ],
+    "Language": "Python",
+    "Stars": 362,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-04-02T18:16:37Z",
+    "UpdatedAt": "2026-04-12T13:40:35Z",
+    "Owner": "thomasahle",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "anthropics/financial-services",
+    "Name": "financial-services",
+    "Url": "https://github.com/anthropics/financial-services",
+    "Description": "",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 7884,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-23T19:24:50Z",
+    "UpdatedAt": "2026-05-03T17:33:17Z",
+    "Owner": "anthropics",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensorlayer/TensorLayer",
+    "Name": "TensorLayer",
+    "Url": "https://github.com/tensorlayer/TensorLayer",
+    "Description": "Deep Learning and Reinforcement Learning Library for Scientists and Engineers ",
+    "Topics": [
+      "a3c",
+      "artificial-intelligence",
+      "chatbot",
+      "deep-learning",
+      "dqn",
+      "gan",
+      "google",
+      "imagenet",
+      "neural-network",
+      "object-detection",
+      "python",
+      "reinforcement-learning",
+      "tensorflow",
+      "tensorflow-tutorial",
+      "tensorflow-tutorials",
+      "tensorlayer"
+    ],
+    "Language": "Python",
+    "Stars": 7390,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-06-07T15:55:16Z",
+    "UpdatedAt": "2026-05-02T10:00:17Z",
+    "Owner": "tensorlayer",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "1nchaos/adata",
+    "Name": "adata",
+    "Url": "https://github.com/1nchaos/adata",
+    "Description": "免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】",
+    "Topics": [
+      "3000",
+      "a",
+      "china",
+      "datasource",
+      "financial",
+      "kline",
+      "market-data",
+      "quant",
+      "stock",
+      "stock-data",
+      "stock-market-data"
+    ],
+    "Language": "Python",
+    "Stars": 4432,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-23T05:13:52Z",
+    "UpdatedAt": "2026-05-03T18:42:38Z",
+    "Owner": "1nchaos",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+    "Name": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+    "Url": "https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+    "Description": "PyTorch implementations of deep reinforcement learning algorithms and environments",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 5937,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-09-07T13:01:21Z",
+    "UpdatedAt": "2026-05-03T11:10:06Z",
+    "Owner": "p-christ",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "cuemacro/finmarketpy",
+    "Name": "finmarketpy",
+    "Url": "https://github.com/cuemacro/finmarketpy",
+    "Description": "Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)",
+    "Topics": [
+      "backtesting-trading-strategies",
+      "python",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 3750,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-02-19T23:32:03Z",
+    "UpdatedAt": "2026-05-02T03:45:26Z",
+    "Owner": "cuemacro",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "freelawproject/courtlistener",
+    "Name": "courtlistener",
+    "Url": "https://github.com/freelawproject/courtlistener",
+    "Description": "A fully-searchable and accessible archive of court data including growing repositories of opinions, oral arguments, judges, judicial financial records, and federal filings.",
+    "Topics": [
+      "courts",
+      "government",
+      "government-data",
+      "legaltech"
+    ],
+    "Language": "Python",
+    "Stars": 909,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-25T13:22:00Z",
+    "UpdatedAt": "2026-05-02T03:04:16Z",
+    "Owner": "freelawproject",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "HKUDS/nanobot",
+    "Name": "nanobot",
+    "Url": "https://github.com/HKUDS/nanobot",
+    "Description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "llm",
+      "nanobot",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 41567,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-01T07:16:15Z",
+    "UpdatedAt": "2026-05-03T18:55:58Z",
+    "Owner": "HKUDS",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "romanz/trezor-agent",
+    "Name": "trezor-agent",
+    "Url": "https://github.com/romanz/trezor-agent",
+    "Description": "Hardware-based SSH/GPG/age agent",
+    "Topics": [
+      "agent",
+      "crypto",
+      "gnupg",
+      "hardware",
+      "python",
+      "ssh",
+      "trezor"
+    ],
+    "Language": "Python",
+    "Stars": 613,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-06-06T14:42:48Z",
+    "UpdatedAt": "2026-04-28T21:31:04Z",
+    "Owner": "romanz",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nccgroup/featherduster",
+    "Name": "featherduster",
+    "Url": "https://github.com/nccgroup/featherduster",
+    "Description": "An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction",
+    "Topics": [
+      "cryptanalysis",
+      "crypto",
+      "cryptography",
+      "encryption",
+      "exploit",
+      "exploitation",
+      "exploitation-framework",
+      "exploits",
+      "python",
+      "security"
+    ],
+    "Language": "Python",
+    "Stars": 1128,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-05-03T18:23:27Z",
+    "UpdatedAt": "2026-04-11T22:23:07Z",
+    "Owner": "nccgroup",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fmilthaler/FinQuant",
+    "Name": "FinQuant",
+    "Url": "https://github.com/fmilthaler/FinQuant",
+    "Description": "A program for financial portfolio management, analysis and optimisation.",
+    "Topics": [
+      "analysis",
+      "bollinger-bands",
+      "efficient-frontier",
+      "finance",
+      "financial",
+      "financial-analysis",
+      "financial-portfolio-management",
+      "investment",
+      "investment-analysis",
+      "investment-portfolio",
+      "investment-strategies",
+      "markowitz-portfolio",
+      "monte-carlo",
+      "monte-carlo-simulation",
+      "moving-average",
+      "optimisation",
+      "portfolio-management",
+      "portfolio-optimisation",
+      "portfolio-properties",
+      "returns"
+    ],
+    "Language": "Python",
+    "Stars": 1755,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-01-20T15:07:19Z",
+    "UpdatedAt": "2026-05-02T01:03:42Z",
+    "Owner": "fmilthaler",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alpacahq/alpaca-trade-api-python",
+    "Name": "alpaca-trade-api-python",
+    "Url": "https://github.com/alpacahq/alpaca-trade-api-python",
+    "Description": "Python client for Alpaca's trade API",
+    "Topics": [
+      "algo-trading",
+      "alpaca",
+      "api",
+      "crypto",
+      "hacktoberfest",
+      "market-data",
+      "python",
+      "rest-api",
+      "stock-market",
+      "trade",
+      "trading",
+      "websocket"
+    ],
+    "Language": "Python",
+    "Stars": 1867,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-03-10T01:29:06Z",
+    "UpdatedAt": "2026-04-28T12:53:16Z",
+    "Owner": "alpacahq",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/FinRL",
+    "Name": "FinRL",
+    "Url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "Description": "FinRL®:  Financial Reinforcement Learning. 🔥",
+    "Topics": [
+      "algorithmic-trading",
+      "deep-reinforcement-learning",
+      "drl-algorithms",
+      "drl-framework",
+      "drl-trading-agents",
+      "finance",
+      "fintech",
+      "multi-agent-learning",
+      "openai-gym",
+      "pythorch",
+      "stock-markets",
+      "stock-trading",
+      "tensorflow2",
+      "trading-tasks"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 15046,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-26T13:18:16Z",
+    "UpdatedAt": "2026-05-03T16:01:47Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "Lumiwealth/lumibot",
+    "Name": "lumibot",
+    "Url": "https://github.com/Lumiwealth/lumibot",
+    "Description": "Backtesting and Trading Bots Made Easy for Crypto, Stocks, Options, Futures, FOREX and more. Lumibot also makes it very easy to run and backtest agentic AI trading strategies in a safer way.",
+    "Topics": [
+      "algorithmic-trading",
+      "alpaca",
+      "backtester",
+      "backtesting",
+      "backtesting-engine",
+      "backtesting-trading-strategies",
+      "broker",
+      "crypto",
+      "crypto-bot",
+      "cryptocurrency",
+      "finance",
+      "forex",
+      "investing",
+      "quantitative-finance",
+      "strategy",
+      "trade",
+      "trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 1387,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-09-10T10:00:16Z",
+    "UpdatedAt": "2026-05-03T13:18:39Z",
+    "Owner": "Lumiwealth",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "realrate/Causing",
+    "Name": "Causing",
+    "Url": "https://github.com/realrate/Causing",
+    "Description": "Causing: CAUsal INterpretation using Graphs",
+    "Topics": [
+      "automatic-differentiation",
+      "causal-networks",
+      "causality-analysis",
+      "dag",
+      "derivatives",
+      "do-calculus",
+      "effects-modeling",
+      "gnn",
+      "graph-theory",
+      "graphs",
+      "latent-variables",
+      "mediation-analysis",
+      "neural-networks",
+      "python",
+      "pytorch",
+      "simultaneous-equation",
+      "structural-analysis",
+      "structural-equation-modeling"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-25T14:29:04Z",
+    "UpdatedAt": "2026-03-08T12:56:59Z",
+    "Owner": "realrate",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "shiyu-coder/Kronos",
+    "Name": "Kronos",
+    "Url": "https://github.com/shiyu-coder/Kronos",
+    "Description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 22597,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-01T02:54:32Z",
+    "UpdatedAt": "2026-05-03T18:47:24Z",
+    "Owner": "shiyu-coder",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "microsoft/MarS",
+    "Name": "MarS",
+    "Url": "https://github.com/microsoft/MarS",
+    "Description": "MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1698,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-28T09:05:46Z",
+    "UpdatedAt": "2026-04-27T21:07:33Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dottxt-ai/outlines",
+    "Name": "outlines",
+    "Url": "https://github.com/dottxt-ai/outlines",
+    "Description": "Structured Outputs",
+    "Topics": [
+      "cfg",
+      "generative-ai",
+      "json",
+      "llms",
+      "prompt-engineering",
+      "regex",
+      "structured-generation",
+      "symbolic-ai"
+    ],
+    "Language": "Python",
+    "Stars": 13777,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-17T16:01:18Z",
+    "UpdatedAt": "2026-05-03T12:00:10Z",
+    "Owner": "dottxt-ai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Michalos88/Quant-Projects",
+    "Name": "Quant-Projects",
+    "Url": "https://github.com/Michalos88/Quant-Projects",
+    "Description": "Implementations of Leading Algorithms in Quantitative Finance ",
+    "Topics": [
+      "black-scholes",
+      "derivatives",
+      "monte-carlo-simulation",
+      "options",
+      "quant",
+      "quantitative-finance"
+    ],
+    "Language": "Python",
+    "Stars": 73,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-10T12:35:25Z",
+    "UpdatedAt": "2026-05-03T18:54:35Z",
+    "Owner": "Michalos88",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "firmai/financial-machine-learning",
+    "Name": "financial-machine-learning",
+    "Url": "https://github.com/firmai/financial-machine-learning",
+    "Description": "A curated list of practical financial machine learning tools and applications.",
+    "Topics": [
+      "algorithmic-trading",
+      "cryptocurrency",
+      "finance",
+      "investment",
+      "quant",
+      "quantitative-finance",
+      "stock-market",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 8537,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-21T21:00:35Z",
+    "UpdatedAt": "2026-05-02T20:05:56Z",
+    "Owner": "firmai",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "evilsocket/pwnagotchi",
+    "Name": "pwnagotchi",
+    "Url": "https://github.com/evilsocket/pwnagotchi",
+    "Description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
+    "Topics": [
+      "ai",
+      "bettercap",
+      "deep-learning",
+      "deep-neural-network",
+      "deep-reinforcement-learning",
+      "handshakes",
+      "wpa-psk"
+    ],
+    "Language": "Python",
+    "Stars": 9051,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-09-19T13:07:15Z",
+    "UpdatedAt": "2026-05-02T20:00:11Z",
+    "Owner": "evilsocket",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "vwxyzjn/cleanrl",
+    "Name": "cleanrl",
+    "Url": "https://github.com/vwxyzjn/cleanrl",
+    "Description": "High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",
+    "Topics": [
+      "a2c",
+      "actor-critic",
+      "advantage-actor-critic",
+      "ale",
+      "atari",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "gym",
+      "machine-learning",
+      "phasic-policy-gradient",
+      "ppo",
+      "proximal-policy-optimization",
+      "python",
+      "pytorch",
+      "reinforcement-learning",
+      "wandb"
+    ],
+    "Language": "Python",
+    "Stars": 9676,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-07T16:31:50Z",
+    "UpdatedAt": "2026-05-03T15:44:47Z",
+    "Owner": "vwxyzjn",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "asavinov/intelligent-trading-bot",
+    "Name": "intelligent-trading-bot",
+    "Url": "https://github.com/asavinov/intelligent-trading-bot",
+    "Description": "Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering",
+    "Topics": [
+      "algorithmic-trading",
+      "artificial-intelligence",
+      "bitcoin",
+      "crypto",
+      "crypto-trading",
+      "cryptocurrency",
+      "feature-engineering",
+      "machine-learning",
+      "trading",
+      "trading-bots"
+    ],
+    "Language": "Python",
+    "Stars": 1676,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-24T08:34:07Z",
+    "UpdatedAt": "2026-05-03T15:47:19Z",
+    "Owner": "asavinov",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tylerebowers/Schwabdev",
+    "Name": "Schwabdev",
+    "Url": "https://github.com/tylerebowers/Schwabdev",
+    "Description": "An easy and lightweight wrapper for using the Charles Schwab API.",
+    "Topics": [
+      "finance",
+      "finance-api",
+      "financial",
+      "python",
+      "python3",
+      "schwab",
+      "schwab-api",
+      "schwab-python",
+      "stock-data",
+      "stock-market",
+      "stocks",
+      "tda",
+      "tdameritrade",
+      "tdameritrade-api",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 761,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-16T23:34:56Z",
+    "UpdatedAt": "2026-05-02T11:49:26Z",
+    "Owner": "tylerebowers",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LantaoYu/MARL-Papers",
+    "Name": "MARL-Papers",
+    "Url": "https://github.com/LantaoYu/MARL-Papers",
+    "Description": "Paper list of multi-agent reinforcement learning (MARL)",
+    "Topics": [
+      "multi-agent-learning",
+      "multiagent-reinforcement-learning"
+    ],
+    "Language": "",
+    "Stars": 4812,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-03-12T06:50:59Z",
+    "UpdatedAt": "2026-05-02T01:41:39Z",
+    "Owner": "LantaoYu",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google-deepmind/dm_control",
+    "Name": "dm_control",
+    "Url": "https://github.com/google-deepmind/dm_control",
+    "Description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.",
+    "Topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "machine-learning",
+      "mujoco",
+      "neural-networks",
+      "physics-simulation",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 4566,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-29T18:13:15Z",
+    "UpdatedAt": "2026-05-03T10:15:37Z",
+    "Owner": "google-deepmind",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "openai/openai-python",
+    "Name": "openai-python",
+    "Url": "https://github.com/openai/openai-python",
+    "Description": "The official Python library for the OpenAI API",
+    "Topics": [
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 30671,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-25T23:23:54Z",
+    "UpdatedAt": "2026-05-03T16:50:04Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mindsdb/mindsdb",
+    "Name": "mindsdb",
+    "Url": "https://github.com/mindsdb/mindsdb",
+    "Description": "AI Data Vault - A query engine for AI Agents to securely query data from any datasource",
+    "Topics": [
+      "agents",
+      "ai",
+      "analytics",
+      "artificial-inteligence",
+      "bigquery",
+      "business-intelligence",
+      "databases",
+      "hacktoberfest",
+      "llms",
+      "mcp",
+      "mssql",
+      "mysql",
+      "postgresql",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 39093,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-08-02T17:56:45Z",
+    "UpdatedAt": "2026-05-03T13:25:31Z",
+    "Owner": "mindsdb",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kmario23/deep-learning-drizzle",
+    "Name": "deep-learning-drizzle",
+    "Url": "https://github.com/kmario23/deep-learning-drizzle",
+    "Description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+    "Topics": [
+      "artificial-intelligence-algorithms",
+      "artificial-neural-networks",
+      "bayesian-statistics",
+      "computer-vision",
+      "deep-learning",
+      "deep-neural-networks",
+      "deep-reinforcement-learning",
+      "explainable-ai",
+      "geometric-deep-learning",
+      "graph-neural-networks",
+      "machine-learning",
+      "medical-imaging",
+      "natural-language-processing",
+      "optimization",
+      "pattern-recognition",
+      "probabilistic-graphical-models",
+      "probability",
+      "reinforcement-learning",
+      "speech-recognition",
+      "visual-recognition"
+    ],
+    "Language": "HTML",
+    "Stars": 12807,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-26T01:17:36Z",
+    "UpdatedAt": "2026-05-03T00:45:29Z",
+    "Owner": "kmario23",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "D4Vinci/Scrapling",
+    "Name": "Scrapling",
+    "Url": "https://github.com/D4Vinci/Scrapling",
+    "Description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "Topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ],
+    "Language": "Python",
+    "Stars": 42777,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-13T20:29:53Z",
+    "UpdatedAt": "2026-05-03T18:55:13Z",
+    "Owner": "D4Vinci",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Comfy-Org/ComfyUI",
+    "Name": "ComfyUI",
+    "Url": "https://github.com/Comfy-Org/ComfyUI",
+    "Description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "Topics": [
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
+    ],
+    "Language": "Python",
+    "Stars": 111196,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-17T03:15:56Z",
+    "UpdatedAt": "2026-05-03T18:38:10Z",
+    "Owner": "Comfy-Org",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZENALC/algobot",
+    "Name": "algobot",
+    "Url": "https://github.com/ZENALC/algobot",
+    "Description": "Cryptocurrency trading bot with a graphical user interface with support for simulations, backtests, optimizations, and running live bots.",
+    "Topics": [
+      "backtests",
+      "bot",
+      "crypto",
+      "cryptocurrency",
+      "optimizations",
+      "pyqt",
+      "pyqt5",
+      "python",
+      "robot",
+      "simulations",
+      "telegram",
+      "trade",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 952,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-27T02:35:28Z",
+    "UpdatedAt": "2026-04-20T13:23:04Z",
+    "Owner": "ZENALC",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "uniswap-python/uniswap-python",
+    "Name": "uniswap-python",
+    "Url": "https://github.com/uniswap-python/uniswap-python",
+    "Description": "🦄 The unofficial Python client for the Uniswap exchange.",
+    "Topics": [
+      "amm",
+      "api",
+      "crypto",
+      "currency",
+      "decentralized-exchange",
+      "defi",
+      "dex",
+      "eth",
+      "ethereum",
+      "exchange",
+      "orderbook",
+      "trade",
+      "trading",
+      "trading-api",
+      "uniswap",
+      "uniswap-api",
+      "uniswap-exchange",
+      "uniswap-python",
+      "wrapper"
+    ],
+    "Language": "Python",
+    "Stars": 1008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-29T23:17:06Z",
+    "UpdatedAt": "2026-04-21T14:11:30Z",
+    "Owner": "uniswap-python",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "fabston/TradingView-Webhook-Bot",
+    "Name": "TradingView-Webhook-Bot",
+    "Url": "https://github.com/fabston/TradingView-Webhook-Bot",
+    "Description": "📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email. ",
+    "Topics": [
+      "bitcoin",
+      "bot",
+      "crypto",
+      "discord",
+      "docker",
+      "flask",
+      "slack",
+      "telegram",
+      "trading",
+      "tradingview",
+      "tradingview-webhook-bot",
+      "tweepy",
+      "twitter",
+      "webhook",
+      "webhooks",
+      "webhooks-json"
+    ],
+    "Language": "Python",
+    "Stars": 1739,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-21T14:05:31Z",
+    "UpdatedAt": "2026-05-02T18:48:51Z",
+    "Owner": "fabston",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/spinningup",
+    "Name": "spinningup",
+    "Url": "https://github.com/openai/spinningup",
+    "Description": "An educational resource to help anyone learn deep reinforcement learning.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11752,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-07T20:52:15Z",
+    "UpdatedAt": "2026-05-03T13:44:39Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "crewAIInc/crewAI",
+    "Name": "crewAI",
+    "Url": "https://github.com/crewAIInc/crewAI",
+    "Description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "llms"
+    ],
+    "Language": "Python",
+    "Stars": 50535,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-27T03:26:59Z",
+    "UpdatedAt": "2026-05-03T18:55:25Z",
+    "Owner": "crewAIInc",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hugohadfield/kalmangrad",
+    "Name": "kalmangrad",
+    "Url": "https://github.com/hugohadfield/kalmangrad",
+    "Description": "Automated, smooth, N'th order derivatives of non-uniformly sampled time series data",
+    "Topics": [
+      "data-science",
+      "derivatives",
+      "kalman-filter",
+      "signal-processing",
+      "smoothing"
+    ],
+    "Language": "Python",
+    "Stars": 230,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-16T18:33:24Z",
+    "UpdatedAt": "2026-04-09T19:24:20Z",
+    "Owner": "hugohadfield",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bottama/Dynamic-Derivatives-Portfolio-Hedging",
+    "Name": "Dynamic-Derivatives-Portfolio-Hedging",
+    "Url": "https://github.com/bottama/Dynamic-Derivatives-Portfolio-Hedging",
+    "Description": "Algorithmic Portfolio Hedging. Black-Scholes Pricing for Dynamic Hedges to produce a Dynamic multi-asset Portfolio Hedging with the usage of Options contracts.",
+    "Topics": [
+      "algotrading",
+      "black-scholes-merton",
+      "bs-model",
+      "delta",
+      "derivatives",
+      "dynamic-hedges",
+      "greeks",
+      "greeks-neutralization",
+      "hedging",
+      "option-pricing",
+      "options-trading",
+      "portfolio-position",
+      "vega"
+    ],
+    "Language": "Python",
+    "Stars": 58,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-12T15:39:05Z",
+    "UpdatedAt": "2026-04-02T16:49:50Z",
+    "Owner": "bottama",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FudanDISC/DISC-FinLLM",
+    "Name": "DISC-FinLLM",
+    "Url": "https://github.com/FudanDISC/DISC-FinLLM",
+    "Description": "DISC-FinLLM，中文金融大语言模型（LLM），旨在为用户提供金融场景下专业、智能、全面的金融咨询服务。DISC-FinLLM, a Chinese financial large language model (LLM) designed to provide users with professional, intelligent, and comprehensive financial consulting services in financial scenarios.",
+    "Topics": [
+      "chain-of-retrieval",
+      "financial-large-language-model",
+      "instruction-tuning",
+      "retrieval-enhanced-generation",
+      "tool-learning"
+    ],
+    "Language": "Python",
+    "Stars": 870,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-24T10:46:09Z",
+    "UpdatedAt": "2026-05-02T12:05:03Z",
+    "Owner": "FudanDISC",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "anthropics/claude-plugins-official",
+    "Name": "claude-plugins-official",
+    "Url": "https://github.com/anthropics/claude-plugins-official",
+    "Description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "Topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "Language": "Python",
+    "Stars": 18465,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-20T18:36:20Z",
+    "UpdatedAt": "2026-05-03T18:44:05Z",
+    "Owner": "anthropics",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "gauss314/defi",
+    "Name": "defi",
+    "Url": "https://github.com/gauss314/defi",
+    "Description": "Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more",
+    "Topics": [
+      "api",
+      "blockchain",
+      "cex",
+      "coingecko",
+      "crypto",
+      "cryptocurrency",
+      "dapp",
+      "defi",
+      "dex",
+      "exchanges",
+      "farming",
+      "impermanent-loss",
+      "pancakeswap",
+      "stake"
+    ],
+    "Language": "Python",
+    "Stars": 607,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-04-11T20:32:54Z",
+    "UpdatedAt": "2026-05-01T05:33:58Z",
+    "Owner": "gauss314",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "matplotlib/mplfinance",
+    "Name": "mplfinance",
+    "Url": "https://github.com/matplotlib/mplfinance",
+    "Description": "Financial Markets Data Visualization using Matplotlib",
+    "Topics": [
+      "candlestick",
+      "candlestick-chart",
+      "candlestickchart",
+      "finance",
+      "intraday-data",
+      "market-data",
+      "matplotlib",
+      "mplfinance",
+      "ohlc",
+      "ohlc-chart",
+      "ohlc-data",
+      "ohlc-plot",
+      "ohlcv",
+      "trading-days"
+    ],
+    "Language": "Python",
+    "Stars": 4345,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-05T16:32:32Z",
+    "UpdatedAt": "2026-05-02T09:12:08Z",
+    "Owner": "matplotlib",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ArturSepp/QuantInvestStrats",
+    "Name": "QuantInvestStrats",
+    "Url": "https://github.com/ArturSepp/QuantInvestStrats",
+    "Description": "Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.",
+    "Topics": [
+      "asset-management",
+      "data-analysis",
+      "data-visualization",
+      "investment-analysis",
+      "performance-attribution",
+      "portfolio-optimization",
+      "portfolio-risk-management",
+      "python",
+      "quantitative-finance"
+    ],
+    "Language": "Python",
+    "Stars": 561,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-30T16:57:52Z",
+    "UpdatedAt": "2026-05-03T12:06:25Z",
+    "Owner": "ArturSepp",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PKU-YuanGroup/Open-Sora-Plan",
+    "Name": "Open-Sora-Plan",
+    "Url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+    "Description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 12161,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-20T14:01:03Z",
+    "UpdatedAt": "2026-05-03T12:40:42Z",
+    "Owner": "PKU-YuanGroup",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "keras-rl/keras-rl",
+    "Name": "keras-rl",
+    "Url": "https://github.com/keras-rl/keras-rl",
+    "Description": "Deep Reinforcement Learning for Keras.",
+    "Topics": [
+      "keras",
+      "machine-learning",
+      "neural-networks",
+      "reinforcement-learning",
+      "tensorflow",
+      "theano"
+    ],
+    "Language": "Python",
+    "Stars": 5554,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-07-02T15:53:12Z",
+    "UpdatedAt": "2026-05-01T00:07:34Z",
+    "Owner": "keras-rl",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "allenai/olmocr",
+    "Name": "olmocr",
+    "Url": "https://github.com/allenai/olmocr",
+    "Description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 17267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-09-17T14:53:40Z",
+    "UpdatedAt": "2026-05-03T13:20:05Z",
+    "Owner": "allenai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hacksider/Deep-Live-Cam",
+    "Name": "Deep-Live-Cam",
+    "Url": "https://github.com/hacksider/Deep-Live-Cam",
+    "Description": "real time face swap and one-click video deepfake with only a single image",
+    "Topics": [
+      "ai",
+      "ai-deep-fake",
+      "ai-face",
+      "ai-webcam",
+      "artificial-intelligence",
+      "deep-fake",
+      "deepfake",
+      "deepfake-webcam",
+      "faceswap",
+      "fake-webcam",
+      "gan",
+      "real-time-deepfake",
+      "realtime",
+      "realtime-deepfake",
+      "realtime-face-changer",
+      "video-deepfake",
+      "webcam",
+      "webcamera"
+    ],
+    "Language": "Python",
+    "Stars": 92583,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-24T13:19:31Z",
+    "UpdatedAt": "2026-05-03T18:47:46Z",
+    "Owner": "hacksider",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "saidsurucu/borsapy",
+    "Name": "borsapy",
+    "Url": "https://github.com/saidsurucu/borsapy",
+    "Description": "Python library for Turkish financial markets - BIST stocks, forex, crypto, funds, inflation",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 582,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-02T09:33:12Z",
+    "UpdatedAt": "2026-05-03T17:43:47Z",
+    "Owner": "saidsurucu",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/baselines",
+    "Name": "baselines",
+    "Url": "https://github.com/openai/baselines",
+    "Description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 16703,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-24T01:58:13Z",
+    "UpdatedAt": "2026-05-03T18:46:30Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "JuliusBrussee/caveman",
+    "Name": "caveman",
+    "Url": "https://github.com/JuliusBrussee/caveman",
+    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ],
+    "Language": "Python",
+    "Stars": 52935,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-04T10:03:00Z",
+    "UpdatedAt": "2026-05-03T18:54:37Z",
+    "Owner": "JuliusBrussee",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlflow/mlflow",
+    "Name": "mlflow",
+    "Url": "https://github.com/mlflow/mlflow",
+    "Description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+    "Topics": [
+      "agentops",
+      "agents",
+      "ai",
+      "ai-governance",
+      "apache-spark",
+      "evaluation",
+      "langchain",
+      "llm-evaluation",
+      "llmops",
+      "machine-learning",
+      "ml",
+      "mlflow",
+      "mlops",
+      "model-management",
+      "observability",
+      "open-source",
+      "openai",
+      "prompt-engineering"
+    ],
+    "Language": "Python",
+    "Stars": 25701,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-05T16:05:58Z",
+    "UpdatedAt": "2026-05-03T16:59:45Z",
+    "Owner": "mlflow",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "open-webui/open-webui",
+    "Name": "open-webui",
+    "Url": "https://github.com/open-webui/open-webui",
+    "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "Topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ],
+    "Language": "Python",
+    "Stars": 135350,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-10-06T22:08:27Z",
+    "UpdatedAt": "2026-05-03T18:47:55Z",
+    "Owner": "open-webui",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50",
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thinh-vu/vnstock",
+    "Name": "vnstock",
+    "Url": "https://github.com/thinh-vu/vnstock",
+    "Description": "A beginner-friendly yet powerful Python toolkit for financial analysis and automation — built to make modern investing accessible to everyone",
+    "Topics": [
+      "data-extraction",
+      "quantitative-analysis",
+      "quantitative-finance",
+      "quantitative-trading",
+      "stock-market",
+      "stock-screener"
+    ],
+    "Language": "Python",
+    "Stars": 1277,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-27T02:44:34Z",
+    "UpdatedAt": "2026-05-03T05:30:09Z",
+    "Owner": "thinh-vu",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Asabeneh/30-Days-Of-Python",
+    "Name": "30-Days-Of-Python",
+    "Url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "Description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "Topics": [
+      "30-days-of-python",
+      "data",
+      "data-science",
+      "database",
+      "flask",
+      "fullstack",
+      "github",
+      "heroku",
+      "matplotlib",
+      "ml",
+      "mongodb",
+      "numpy",
+      "pandas",
+      "python",
+      "python3"
+    ],
+    "Language": "Python",
+    "Stars": 61999,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-11-19T17:24:16Z",
+    "UpdatedAt": "2026-05-03T18:37:55Z",
+    "Owner": "Asabeneh",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alpacahq/alpaca-py",
+    "Name": "alpaca-py",
+    "Url": "https://github.com/alpacahq/alpaca-py",
+    "Description": "The Official Python SDK for Alpaca API",
+    "Topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "alpaca",
+      "alpaca-api",
+      "brokerage",
+      "crypto",
+      "equities",
+      "finance",
+      "market-data",
+      "options",
+      "python",
+      "quant",
+      "quantitative-finance",
+      "stock-trading",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 1298,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-02-19T23:10:34Z",
+    "UpdatedAt": "2026-05-03T12:37:30Z",
+    "Owner": "alpacahq",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "SFTtech/openage",
+    "Name": "openage",
+    "Url": "https://github.com/SFTtech/openage",
+    "Description": "Clone of the Age of Empires II engine 🚀 ",
+    "Topics": [
+      "age-of-empires",
+      "c-plus-plus",
+      "cmake",
+      "cpp",
+      "cpp20",
+      "engine",
+      "entity-component-system",
+      "game",
+      "game-development",
+      "game-engine",
+      "hacktoberfest",
+      "linux",
+      "multiplayer",
+      "nyan",
+      "openage",
+      "opengl",
+      "python",
+      "qt",
+      "rts-engine"
+    ],
+    "Language": "Python",
+    "Stars": 14190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-11-03T22:35:23Z",
+    "UpdatedAt": "2026-05-03T17:11:54Z",
+    "Owner": "SFTtech",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/Open-Sora",
+    "Name": "Open-Sora",
+    "Url": "https://github.com/hpcaitech/Open-Sora",
+    "Description": "Open-Sora: Democratizing Efficient Video Production for All",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 28927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-20T03:01:34Z",
+    "UpdatedAt": "2026-05-03T12:45:23Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenHands/OpenHands",
+    "Name": "OpenHands",
+    "Url": "https://github.com/OpenHands/OpenHands",
+    "Description": "🙌 OpenHands: AI-Driven Development",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "chatgpt",
+      "claude-ai",
+      "cli",
+      "developer-tools",
+      "gpt",
+      "llm",
+      "openai"
+    ],
+    "Language": "Python",
+    "Stars": 72553,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-13T03:33:31Z",
+    "UpdatedAt": "2026-05-03T17:48:20Z",
+    "Owner": "OpenHands",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JerBouma/FinanceToolkit",
+    "Name": "FinanceToolkit",
+    "Url": "https://github.com/JerBouma/FinanceToolkit",
+    "Description": "Transparent and Efficient Financial Analysis",
+    "Topics": [
+      "commodities",
+      "economics",
+      "equities",
+      "factor-analysis",
+      "finance",
+      "financial-analysis",
+      "financial-data",
+      "financial-statements",
+      "fundamental-analysis",
+      "fundamentals",
+      "investing",
+      "investments",
+      "market-data",
+      "openbb",
+      "options",
+      "performance-analysis",
+      "risk-management",
+      "sector-analysis",
+      "stock-data",
+      "technical-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 4694,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-08T11:44:25Z",
+    "UpdatedAt": "2026-05-03T08:05:42Z",
+    "Owner": "JerBouma",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/deepagents",
+    "Name": "deepagents",
+    "Url": "https://github.com/langchain-ai/deepagents",
+    "Description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "Topics": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
+    ],
+    "Language": "Python",
+    "Stars": 22181,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-27T23:07:53Z",
+    "UpdatedAt": "2026-05-03T18:21:36Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/openai-agents-python",
+    "Name": "openai-agents-python",
+    "Url": "https://github.com/openai/openai-agents-python",
+    "Description": "A lightweight, powerful framework for multi-agent workflows",
+    "Topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 25819,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-11T03:42:36Z",
+    "UpdatedAt": "2026-05-03T18:55:31Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50",
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "omnuron/omniclaw",
+    "Name": "omniclaw",
+    "Url": "https://github.com/omnuron/omniclaw",
+    "Description": "The first agentic payment network: policy-controlled, gasless, and real money-ready.  OmniClaw CLI + Financial Policy Engine let autonomous agents pay and earn safely at machine speed.",
+    "Topics": [
+      "agent-economy",
+      "ai-agents",
+      "ai-payments",
+      "autonomous-agents",
+      "crypto-payment-acceptance",
+      "mcp-servers",
+      "payment-integration",
+      "usdc",
+      "web3"
+    ],
+    "Language": "Python",
+    "Stars": 558,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-23T10:38:41Z",
+    "UpdatedAt": "2026-05-03T18:16:18Z",
+    "Owner": "omnuron",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openinterpreter/open-interpreter",
+    "Name": "open-interpreter",
+    "Url": "https://github.com/openinterpreter/open-interpreter",
+    "Description": "A natural language interface for computers",
+    "Topics": [
+      "chatgpt",
+      "gpt-4",
+      "interpreter",
+      "javascript",
+      "nodejs",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 63372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-07-14T07:10:44Z",
+    "UpdatedAt": "2026-05-03T18:00:29Z",
+    "Owner": "openinterpreter",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Gbox4/tstock",
+    "Name": "tstock",
+    "Url": "https://github.com/Gbox4/tstock",
+    "Description": "📈A command line tool to view stock charts in the terminal.",
+    "Topics": [
+      "crypto",
+      "python",
+      "stock-chart",
+      "stock-market",
+      "stocks",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 629,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-01-04T02:58:35Z",
+    "UpdatedAt": "2026-05-01T02:38:46Z",
+    "Owner": "Gbox4",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lambdaclass/options_portfolio_backtester",
+    "Name": "options_portfolio_backtester",
+    "Url": "https://github.com/lambdaclass/options_portfolio_backtester",
+    "Description": "Backtester for evaluating options and equity portfolio strategies over historical data. Includes tools for strategy sweeps, tail-risk hedge analysis, and signal-based timing research.",
+    "Topics": [
+      "backtester",
+      "derivatives",
+      "finance",
+      "options",
+      "volatility"
+    ],
+    "Language": "Python",
+    "Stars": 230,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-05-08T14:48:04Z",
+    "UpdatedAt": "2026-05-03T05:45:38Z",
+    "Owner": "lambdaclass",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jmfernandes/robin_stocks",
+    "Name": "robin_stocks",
+    "Url": "https://github.com/jmfernandes/robin_stocks",
+    "Description": "This is a library to use with Robinhood Financial App. It currently supports trading crypto-currencies, options, and stocks. In addition, it can be used to get real time ticker information, assess the performance of your portfolio, and can also get tax documents, total dividends paid, and more. More info at",
+    "Topics": [
+      "cryptocurrency",
+      "options-trading",
+      "quantitative-finance",
+      "robinhood",
+      "robinhood-api",
+      "robinhood-portfolio",
+      "robinhood-python",
+      "stock-market",
+      "stock-trading",
+      "trading",
+      "trading-algorithms",
+      "trading-api"
+    ],
+    "Language": "Python",
+    "Stars": 2056,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-23T00:49:37Z",
+    "UpdatedAt": "2026-05-03T10:54:22Z",
+    "Owner": "jmfernandes",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kylejusticemagnuson/pyti",
+    "Name": "pyti",
+    "Url": "https://github.com/kylejusticemagnuson/pyti",
+    "Description": "Python library of various financial technical indicators",
+    "Topics": [
+      "python",
+      "python2",
+      "python3",
+      "technical-analysis",
+      "technical-indicators"
+    ],
+    "Language": "Python",
+    "Stars": 663,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-09T00:14:18Z",
+    "UpdatedAt": "2026-04-21T18:26:04Z",
+    "Owner": "kylejusticemagnuson",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Emsu/prophet",
+    "Name": "prophet",
+    "Url": "https://github.com/Emsu/prophet",
+    "Description": "Financial markets analysis framework for programmers",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1091,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-11-14T00:40:22Z",
+    "UpdatedAt": "2026-04-19T21:27:17Z",
+    "Owner": "Emsu",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sansan0/TrendRadar",
+    "Name": "TrendRadar",
+    "Url": "https://github.com/sansan0/TrendRadar",
+    "Description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "Topics": [
+      "ai",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
+      "llm",
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
+    ],
+    "Language": "Python",
+    "Stars": 56267,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-28T11:42:16Z",
+    "UpdatedAt": "2026-05-03T18:52:54Z",
+    "Owner": "sansan0",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "explosion/spaCy",
+    "Name": "spaCy",
+    "Url": "https://github.com/explosion/spaCy",
+    "Description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "cython",
+      "data-science",
+      "deep-learning",
+      "entity-linking",
+      "machine-learning",
+      "named-entity-recognition",
+      "natural-language-processing",
+      "neural-network",
+      "neural-networks",
+      "nlp",
+      "nlp-library",
+      "python",
+      "spacy",
+      "text-classification",
+      "tokenization"
+    ],
+    "Language": "Python",
+    "Stars": 33538,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-07-03T15:15:40Z",
+    "UpdatedAt": "2026-05-03T11:00:34Z",
+    "Owner": "explosion",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PyFE/PyFENG",
+    "Name": "PyFENG",
+    "Url": "https://github.com/PyFE/PyFENG",
+    "Description": "Python Financial ENGineering (PyFENG package in PyPI.org)",
+    "Topics": [
+      "bachelier-model",
+      "black-scholes",
+      "derivatives",
+      "financial-engineering",
+      "heston-model",
+      "mathematical-finance",
+      "option-pricing",
+      "quantitative-finance",
+      "sabr-model"
+    ],
+    "Language": "Python",
+    "Stars": 180,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-02-26T08:57:43Z",
+    "UpdatedAt": "2026-04-30T18:12:04Z",
+    "Owner": "PyFE",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "bmoscon/cryptofeed",
+    "Name": "cryptofeed",
+    "Url": "https://github.com/bmoscon/cryptofeed",
+    "Description": "Cryptocurrency Exchange Websocket Data Feed Handler",
+    "Topics": [
+      "asyncio",
+      "binance",
+      "bitcoin",
+      "btc",
+      "coinbase",
+      "coinbase-api",
+      "crypto",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "ethereum",
+      "exchange",
+      "ftx-exchange",
+      "influxdb",
+      "market-data",
+      "python",
+      "trading",
+      "trading-platform",
+      "websocket",
+      "websockets"
+    ],
+    "Language": "Python",
+    "Stars": 2812,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-16T12:35:23Z",
+    "UpdatedAt": "2026-05-03T02:10:53Z",
+    "Owner": "bmoscon",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Significant-Gravitas/AutoGPT",
+    "Name": "AutoGPT",
+    "Url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "Description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 183958,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-03-16T09:21:07Z",
+    "UpdatedAt": "2026-05-03T17:36:16Z",
+    "Owner": "Significant-Gravitas",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Pythagora-io/gpt-pilot",
+    "Name": "gpt-pilot",
+    "Url": "https://github.com/Pythagora-io/gpt-pilot",
+    "Description": "The first real AI developer",
+    "Topics": [
+      "ai",
+      "codegen",
+      "coding-assistant",
+      "developer-tools",
+      "gpt-4",
+      "research-project"
+    ],
+    "Language": "Python",
+    "Stars": 33771,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-16T11:56:07Z",
+    "UpdatedAt": "2026-05-03T17:24:44Z",
+    "Owner": "Pythagora-io",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VectifyAI/PageIndex",
+    "Name": "PageIndex",
+    "Url": "https://github.com/VectifyAI/PageIndex",
+    "Description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ],
+    "Language": "Python",
+    "Stars": 26083,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-01T10:53:54Z",
+    "UpdatedAt": "2026-05-03T18:51:01Z",
+    "Owner": "VectifyAI",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-deepmind/acme",
+    "Name": "acme",
+    "Url": "https://github.com/google-deepmind/acme",
+    "Description": "A library of reinforcement learning components and agents",
+    "Topics": [
+      "agents",
+      "reinforcement-learning",
+      "research"
+    ],
+    "Language": "Python",
+    "Stars": 3982,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-01T09:18:12Z",
+    "UpdatedAt": "2026-05-03T08:45:45Z",
+    "Owner": "google-deepmind",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/autogen",
+    "Name": "autogen",
+    "Url": "https://github.com/microsoft/autogen",
+    "Description": "A programming framework for agentic AI",
+    "Topics": [
+      "agentic",
+      "agentic-agi",
+      "agents",
+      "ai",
+      "autogen",
+      "autogen-ecosystem",
+      "chatgpt",
+      "framework",
+      "llm-agent",
+      "llm-framework"
+    ],
+    "Language": "Python",
+    "Stars": 57677,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-18T11:43:45Z",
+    "UpdatedAt": "2026-05-03T18:41:53Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "wangshusen/DRL",
+    "Name": "DRL",
+    "Url": "https://github.com/wangshusen/DRL",
+    "Description": "Deep Reinforcement Learning",
+    "Topics": [],
+    "Language": "",
+    "Stars": 4599,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-07-19T16:48:21Z",
+    "UpdatedAt": "2026-05-01T21:35:02Z",
+    "Owner": "wangshusen",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "alpacahq/alpaca-mcp-server",
+    "Name": "alpaca-mcp-server",
+    "Url": "https://github.com/alpacahq/alpaca-mcp-server",
+    "Description": "Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs",
+    "Topics": [
+      "ai-trading",
+      "algorithmic-trading",
+      "crypto",
+      "etfs",
+      "mcp",
+      "mcp-server",
+      "options",
+      "stocks",
+      "trading",
+      "trading-api"
+    ],
+    "Language": "Python",
+    "Stars": 697,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-03T17:09:19Z",
+    "UpdatedAt": "2026-05-03T18:48:31Z",
+    "Owner": "alpacahq",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mimoo/Diffie-Hellman_Backdoor",
+    "Name": "Diffie-Hellman_Backdoor",
+    "Url": "https://github.com/mimoo/Diffie-Hellman_Backdoor",
+    "Description": "How to backdoor Diffie-Hellman",
+    "Topics": [
+      "backdoor",
+      "crypto",
+      "cryptography",
+      "diffie-hellman",
+      "openssl",
+      "pohlig-hellman",
+      "socat"
+    ],
+    "Language": "Python",
+    "Stars": 615,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-02-04T04:00:35Z",
+    "UpdatedAt": "2026-05-01T04:31:29Z",
+    "Owner": "mimoo",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "thu-ml/tianshou",
+    "Name": "tianshou",
+    "Url": "https://github.com/thu-ml/tianshou",
+    "Description": "An elegant PyTorch deep reinforcement learning library.",
+    "Topics": [
+      "a2c",
+      "atari",
+      "bcq",
+      "cql",
+      "ddpg",
+      "double-dqn",
+      "dqn",
+      "drl",
+      "imitation-learning",
+      "mujoco",
+      "npg",
+      "policy-gradient",
+      "ppo",
+      "pytorch",
+      "rl",
+      "sac",
+      "td3",
+      "transferlab",
+      "trpo"
+    ],
+    "Language": "Python",
+    "Stars": 10630,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-16T22:47:38Z",
+    "UpdatedAt": "2026-05-03T15:47:46Z",
+    "Owner": "thu-ml",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "GregoryMorse/trendln",
+    "Name": "trendln",
+    "Url": "https://github.com/GregoryMorse/trendln",
+    "Description": "Support and Resistance Trend lines Calculator for Financial Analysis",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 698,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-12T13:37:28Z",
+    "UpdatedAt": "2026-05-02T19:45:55Z",
+    "Owner": "GregoryMorse",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JaidedAI/EasyOCR",
+    "Name": "EasyOCR",
+    "Url": "https://github.com/JaidedAI/EasyOCR",
+    "Description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "Topics": [
+      "cnn",
+      "crnn",
+      "data-mining",
+      "deep-learning",
+      "easyocr",
+      "image-processing",
+      "information-retrieval",
+      "lstm",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "python",
+      "pytorch",
+      "scene-text",
+      "scene-text-recognition"
+    ],
+    "Language": "Python",
+    "Stars": 29395,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-14T11:46:39Z",
+    "UpdatedAt": "2026-05-03T16:59:12Z",
+    "Owner": "JaidedAI",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "quantsbin/Quantsbin",
+    "Name": "Quantsbin",
+    "Url": "https://github.com/quantsbin/Quantsbin",
+    "Description": "Quantitative Finance tools",
+    "Topics": [
+      "binomial-tree",
+      "blackscholes",
+      "derivative-pricing",
+      "derivatives",
+      "finance",
+      "monte-carlo-methods",
+      "monte-carlo-simulation",
+      "option-pricing",
+      "options",
+      "python",
+      "quantitative-finance",
+      "quants"
+    ],
+    "Language": "Python",
+    "Stars": 628,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-04T02:23:09Z",
+    "UpdatedAt": "2026-04-30T17:30:10Z",
+    "Owner": "quantsbin",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dwasse/vol-surface-visualizer",
+    "Name": "vol-surface-visualizer",
+    "Url": "https://github.com/dwasse/vol-surface-visualizer",
+    "Description": "Volatility surface visualizer for cryptocurrency options.",
+    "Topics": [
+      "bitcoin",
+      "data-visualization",
+      "deribit",
+      "derivatives",
+      "options",
+      "volatility-surface-visualizer"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-07T22:10:43Z",
+    "UpdatedAt": "2026-02-11T20:09:27Z",
+    "Owner": "dwasse",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ValueCell-ai/valuecell",
+    "Name": "valuecell",
+    "Url": "https://github.com/ValueCell-ai/valuecell",
+    "Description": "ValueCell is a community-driven, multi-agent platform for financial applications.",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "assitant",
+      "crypto",
+      "equity",
+      "finance",
+      "investment",
+      "mcp",
+      "python",
+      "react",
+      "stock-market"
+    ],
+    "Language": "Python",
+    "Stars": 10541,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-09-01T09:07:06Z",
+    "UpdatedAt": "2026-05-03T15:40:18Z",
+    "Owner": "ValueCell-ai",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50",
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "babysor/MockingBird",
+    "Name": "MockingBird",
+    "Url": "https://github.com/babysor/MockingBird",
+    "Description": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "Topics": [
+      "ai",
+      "deep-learning",
+      "pytorch",
+      "speech",
+      "text-to-speech",
+      "tts"
+    ],
+    "Language": "Python",
+    "Stars": 36901,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-07T03:53:39Z",
+    "UpdatedAt": "2026-05-02T11:41:36Z",
+    "Owner": "babysor",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Physical-Intelligence/openpi",
+    "Name": "openpi",
+    "Url": "https://github.com/Physical-Intelligence/openpi",
+    "Description": "",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 11643,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-10-21T15:23:28Z",
+    "UpdatedAt": "2026-05-03T18:38:26Z",
+    "Owner": "Physical-Intelligence",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AsyncFuncAI/deepwiki-open",
+    "Name": "deepwiki-open",
+    "Url": "https://github.com/AsyncFuncAI/deepwiki-open",
+    "Description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+    "Topics": [
+      "ai",
+      "gemini",
+      "github",
+      "ollama",
+      "open-source",
+      "openai",
+      "openrouter",
+      "self-hosted",
+      "wiki"
+    ],
+    "Language": "Python",
+    "Stars": 16072,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-04-30T06:01:29Z",
+    "UpdatedAt": "2026-05-03T18:56:48Z",
+    "Owner": "AsyncFuncAI",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dgunning/edgartools",
+    "Name": "edgartools",
+    "Url": "https://github.com/dgunning/edgartools",
+    "Description": "Python library to access and analyze SEC Edgar filings, XBRL financial statements, 10-K, 10-Q, and 8-K reports",
+    "Topics": [
+      "10-k",
+      "10-q",
+      "13-f",
+      "8-k",
+      "balance-sheet",
+      "bdc",
+      "cashflow-statement",
+      "company",
+      "cusip",
+      "edgar",
+      "filings",
+      "financials",
+      "form-4",
+      "income-statement",
+      "insider-trading",
+      "sec",
+      "tickers",
+      "xbrl"
+    ],
+    "Language": "Python",
+    "Stars": 2086,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-24T17:07:26Z",
+    "UpdatedAt": "2026-05-03T15:37:21Z",
+    "Owner": "dgunning",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "google-deepmind/open_spiel",
+    "Name": "open_spiel",
+    "Url": "https://github.com/google-deepmind/open_spiel",
+    "Description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+    "Topics": [
+      "cpp",
+      "games",
+      "multiagent",
+      "python",
+      "reinforcement-learning"
+    ],
+    "Language": "C++",
+    "Stars": 5186,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-22T13:50:21Z",
+    "UpdatedAt": "2026-05-03T15:41:55Z",
+    "Owner": "google-deepmind",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "PWhiddy/PokemonRedExperiments",
+    "Name": "PokemonRedExperiments",
+    "Url": "https://github.com/PWhiddy/PokemonRedExperiments",
+    "Description": "Playing Pokemon Red with Reinforcement Learning",
+    "Topics": [],
+    "Language": "Jupyter Notebook",
+    "Stars": 7830,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-25T07:52:16Z",
+    "UpdatedAt": "2026-05-03T04:31:47Z",
+    "Owner": "PWhiddy",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "quantopian/empyrical",
+    "Name": "empyrical",
+    "Url": "https://github.com/quantopian/empyrical",
+    "Description": "Common financial risk and performance metrics. Used by zipline and pyfolio.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1481,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-18T10:22:52Z",
+    "UpdatedAt": "2026-05-01T09:57:20Z",
+    "Owner": "quantopian",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yzoz/python-option-calculator",
+    "Name": "python-option-calculator",
+    "Url": "https://github.com/yzoz/python-option-calculator",
+    "Description": "Vanilla option pricing and visualisation using Black-Scholes model in pure Python",
+    "Topics": [
+      "black-scholes",
+      "derivatives",
+      "derivatives-pricing",
+      "econometrics",
+      "european-options",
+      "financial",
+      "greeks",
+      "implied-volatility",
+      "market",
+      "market-data",
+      "option-pricing",
+      "options",
+      "options-strategies",
+      "options-trading",
+      "quantitative-analysis",
+      "stock-options",
+      "trading",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 134,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-02-07T15:46:31Z",
+    "UpdatedAt": "2026-04-17T03:43:26Z",
+    "Owner": "yzoz",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PolyPulse-Analytics/hyperliquid-trading-bot",
+    "Name": "hyperliquid-trading-bot",
+    "Url": "https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot",
+    "Description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, ",
+    "Topics": [
+      "algorithmic-trading",
+      "automated-trading",
+      "blockchain",
+      "crypto-trading",
+      "cryptocurrency",
+      "decentralized-exchange",
+      "defi",
+      "derivatives",
+      "dex",
+      "ethereum",
+      "grid-trading",
+      "hyperliquid",
+      "nodejs",
+      "perpetuals",
+      "python",
+      "quantitative-trading",
+      "spot-trading",
+      "trading-bot",
+      "typescript",
+      "web3"
+    ],
+    "Language": "Python",
+    "Stars": 174,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-26T16:20:04Z",
+    "UpdatedAt": "2026-05-03T16:38:37Z",
+    "Owner": "PolyPulse-Analytics",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lukas-blecher/LaTeX-OCR",
+    "Name": "LaTeX-OCR",
+    "Url": "https://github.com/lukas-blecher/LaTeX-OCR",
+    "Description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+    "Topics": [
+      "dataset",
+      "deep-learning",
+      "im2latex",
+      "im2markup",
+      "im2text",
+      "image-processing",
+      "image2text",
+      "latex",
+      "latex-ocr",
+      "machine-learning",
+      "math-ocr",
+      "ocr",
+      "python",
+      "pytorch",
+      "transformer",
+      "vision-transformer",
+      "vit"
+    ],
+    "Language": "Python",
+    "Stars": 16357,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-12-11T16:35:13Z",
+    "UpdatedAt": "2026-05-03T15:54:09Z",
+    "Owner": "lukas-blecher",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "akfamily/akshare",
+    "Name": "akshare",
+    "Url": "https://github.com/akfamily/akshare",
+    "Description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+    "Topics": [
+      "academic",
+      "akshare",
+      "asset-pricing",
+      "bond",
+      "currency",
+      "data",
+      "data-analysis",
+      "data-science",
+      "datasets",
+      "economic-data",
+      "economics",
+      "finance",
+      "finance-api",
+      "financial-data",
+      "fundamental",
+      "futures",
+      "option",
+      "quant",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 18823,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-10-01T07:34:12Z",
+    "UpdatedAt": "2026-05-03T18:38:51Z",
+    "Owner": "akfamily",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kyegomez/OpenMythos",
+    "Name": "OpenMythos",
+    "Url": "https://github.com/kyegomez/OpenMythos",
+    "Description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+    "Topics": [
+      "ai",
+      "anthropic",
+      "attention",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-mythos",
+      "claude-sonnet",
+      "deepmind",
+      "gpt-5",
+      "gpt-7",
+      "jax",
+      "looped-transformers",
+      "ml",
+      "pytorch",
+      "sonnet",
+      "torch"
+    ],
+    "Language": "Python",
+    "Stars": 11545,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-18T12:57:52Z",
+    "UpdatedAt": "2026-05-03T18:54:02Z",
+    "Owner": "kyegomez",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sweetice/Deep-reinforcement-learning-with-pytorch",
+    "Name": "Deep-reinforcement-learning-with-pytorch",
+    "Url": "https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch",
+    "Description": "PyTorch implementation of DQN, AC,  ACER, A2C, A3C, PG,  DDPG, TRPO, PPO, SAC, TD3 and ....",
+    "Topics": [
+      "a2c",
+      "a3c",
+      "actor-critic",
+      "actor-critic-algorithm",
+      "algorithm",
+      "alphago",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "dqn",
+      "policy-gradient",
+      "ppo",
+      "pytorch",
+      "reinforce",
+      "resnet",
+      "sac",
+      "sarsa",
+      "td3",
+      "trpo"
+    ],
+    "Language": "Python",
+    "Stars": 4619,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-06-09T01:43:02Z",
+    "UpdatedAt": "2026-04-30T02:39:02Z",
+    "Owner": "sweetice",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "zai-org/Open-AutoGLM",
+    "Name": "Open-AutoGLM",
+    "Url": "https://github.com/zai-org/Open-AutoGLM",
+    "Description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
+    "Topics": [
+      "agent",
+      "phone-use-agent"
+    ],
+    "Language": "Python",
+    "Stars": 25176,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-08T09:23:44Z",
+    "UpdatedAt": "2026-05-03T17:59:10Z",
+    "Owner": "zai-org",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "udacity/deep-reinforcement-learning",
+    "Name": "deep-reinforcement-learning",
+    "Url": "https://github.com/udacity/deep-reinforcement-learning",
+    "Description": "Repo for the Deep Reinforcement Learning Nanodegree program",
+    "Topics": [
+      "cross-entropy",
+      "ddpg",
+      "deep-reinforcement-learning",
+      "dqn",
+      "dynamic-programming",
+      "hill-climbing",
+      "ml-agents",
+      "neural-networks",
+      "openai-gym",
+      "openai-gym-solutions",
+      "ppo",
+      "pytorch",
+      "pytorch-rl",
+      "reinforcement-learning",
+      "reinforcement-learning-algorithms",
+      "rl-algorithms"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 5166,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-06T18:36:23Z",
+    "UpdatedAt": "2026-04-25T14:40:00Z",
+    "Owner": "udacity",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "nuglifeleoji/Options-Analytics-Agent",
+    "Name": "Options-Analytics-Agent",
+    "Url": "https://github.com/nuglifeleoji/Options-Analytics-Agent",
+    "Description": "A sophisticated LangGraph-based agent that automates financial options analysis with real-time data from Polygon.io, smart caching, persistent memory, and professional-grade analysis. Built for traders, analysts, and developers who need intelligent options data processing",
+    "Topics": [
+      "chroma-db",
+      "fastapi",
+      "langgraph",
+      "options",
+      "rag-chatbot"
+    ],
+    "Language": "Python",
+    "Stars": 618,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-11-19T20:22:18Z",
+    "UpdatedAt": "2026-04-25T05:01:45Z",
+    "Owner": "nuglifeleoji",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hpcaitech/ColossalAI",
+    "Name": "ColossalAI",
+    "Url": "https://github.com/hpcaitech/ColossalAI",
+    "Description": "Making large AI models cheaper, faster and more accessible",
+    "Topics": [
+      "ai",
+      "big-model",
+      "data-parallelism",
+      "deep-learning",
+      "distributed-computing",
+      "foundation-models",
+      "heterogeneous-training",
+      "hpc",
+      "inference",
+      "large-scale",
+      "model-parallelism",
+      "pipeline-parallelism"
+    ],
+    "Language": "Python",
+    "Stars": 41375,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-10-28T16:19:44Z",
+    "UpdatedAt": "2026-05-03T13:23:48Z",
+    "Owner": "hpcaitech",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "qmhedging/poboquant",
+    "Name": "poboquant",
+    "Url": "https://github.com/qmhedging/poboquant",
+    "Description": "quant strategy backtesting from pobo financial",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 528,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-24T12:17:04Z",
+    "UpdatedAt": "2026-04-27T15:27:57Z",
+    "Owner": "qmhedging",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhengyaoJiang/PGPortfolio",
+    "Name": "PGPortfolio",
+    "Url": "https://github.com/ZhengyaoJiang/PGPortfolio",
+    "Description": "PGPortfolio: Policy Gradient Portfolio, the source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\"(https://arxiv.org/pdf/1706.10059.pdf).",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 1851,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-12T16:08:44Z",
+    "UpdatedAt": "2026-05-03T17:00:39Z",
+    "Owner": "ZhengyaoJiang",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lucidrains/PaLM-rlhf-pytorch",
+    "Name": "PaLM-rlhf-pytorch",
+    "Url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "Description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "Topics": [
+      "artificial-intelligence",
+      "attention-mechanisms",
+      "deep-learning",
+      "human-feedback",
+      "reinforcement-learning",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 7868,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-09T17:53:46Z",
+    "UpdatedAt": "2026-04-30T08:34:17Z",
+    "Owner": "lucidrains",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "docling-project/docling",
+    "Name": "docling",
+    "Url": "https://github.com/docling-project/docling",
+    "Description": "Get your documents ready for gen AI",
+    "Topics": [
+      "ai",
+      "convert",
+      "document-parser",
+      "document-parsing",
+      "documents",
+      "docx",
+      "html",
+      "markdown",
+      "pdf",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "tables",
+      "xlsx"
+    ],
+    "Language": "Python",
+    "Stars": 59067,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-07-09T07:50:26Z",
+    "UpdatedAt": "2026-05-03T17:47:58Z",
+    "Owner": "docling-project",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "finvfamily/finshare",
+    "Name": "finshare",
+    "Url": "https://github.com/finvfamily/finshare",
+    "Description": " 专业的金融数据获取工具库 - A Professional Financial Data Fetching Toolkit for   Python",
+    "Topics": [
+      "china-stock",
+      "data-fetching",
+      "dataframe",
+      "eastmoney",
+      "finance",
+      "financial-data",
+      "pandas",
+      "python",
+      "stock",
+      "stock-market",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 785,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-02T06:32:39Z",
+    "UpdatedAt": "2026-05-03T09:29:31Z",
+    "Owner": "finvfamily",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenPipe/ART",
+    "Name": "ART",
+    "Url": "https://github.com/OpenPipe/ART",
+    "Description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!",
+    "Topics": [
+      "agent",
+      "agentic-ai",
+      "grpo",
+      "llms",
+      "lora",
+      "qwen",
+      "qwen3",
+      "reinforcement-learning",
+      "rl"
+    ],
+    "Language": "Python",
+    "Stars": 9388,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-10T18:25:47Z",
+    "UpdatedAt": "2026-05-03T15:48:02Z",
+    "Owner": "OpenPipe",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "NousResearch/hermes-agent",
+    "Name": "hermes-agent",
+    "Url": "https://github.com/NousResearch/hermes-agent",
+    "Description": "The agent that grows with you",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "Language": "Python",
+    "Stars": 130946,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-07-22T22:22:28Z",
+    "UpdatedAt": "2026-05-03T18:57:27Z",
+    "Owner": "NousResearch",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CarperAI/trlx",
+    "Name": "trlx",
+    "Url": "https://github.com/CarperAI/trlx",
+    "Description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+    "Topics": [
+      "machine-learning",
+      "pytorch",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 4745,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-03T19:42:40Z",
+    "UpdatedAt": "2026-04-28T14:44:04Z",
+    "Owner": "CarperAI",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "joshyattridge/smart-money-concepts",
+    "Name": "smart-money-concepts",
+    "Url": "https://github.com/joshyattridge/smart-money-concepts",
+    "Description": "Discover our Python package designed for algorithmic trading. It brings ICT's smart money concepts to Python, offering a range of indicators for your algorithmic trading strategies.",
+    "Topics": [
+      "circle",
+      "concepts",
+      "crypto",
+      "forex",
+      "fvg",
+      "ict",
+      "inner",
+      "liquidity",
+      "money",
+      "ob",
+      "smart",
+      "stocks",
+      "trader",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 1617,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-09-21T20:26:13Z",
+    "UpdatedAt": "2026-05-03T15:43:35Z",
+    "Owner": "joshyattridge",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiyouga/LlamaFactory",
+    "Name": "LlamaFactory",
+    "Url": "https://github.com/hiyouga/LlamaFactory",
+    "Description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "Topics": [
+      "agent",
+      "ai",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "gpt",
+      "instruction-tuning",
+      "large-language-models",
+      "llama",
+      "llama3",
+      "llm",
+      "lora",
+      "moe",
+      "nlp",
+      "peft",
+      "qlora",
+      "quantization",
+      "qwen",
+      "rlhf",
+      "transformers"
+    ],
+    "Language": "Python",
+    "Stars": 70865,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-28T10:09:12Z",
+    "UpdatedAt": "2026-05-03T18:02:34Z",
+    "Owner": "hiyouga",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "binance/binance-skills-hub",
+    "Name": "binance-skills-hub",
+    "Url": "https://github.com/binance/binance-skills-hub",
+    "Description": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto",
+    "Topics": [
+      "agents",
+      "ai",
+      "crypto",
+      "skills"
+    ],
+    "Language": "Python",
+    "Stars": 807,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-03T08:15:46Z",
+    "UpdatedAt": "2026-05-03T18:40:01Z",
+    "Owner": "binance",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "financial-datasets/mcp-server",
+    "Name": "mcp-server",
+    "Url": "https://github.com/financial-datasets/mcp-server",
+    "Description": "An MCP server for interacting with the Financial Datasets stock market API.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2060,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-07T13:39:26Z",
+    "UpdatedAt": "2026-05-03T12:44:50Z",
+    "Owner": "financial-datasets",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PaddlePaddle/PaddleOCR",
+    "Name": "PaddleOCR",
+    "Url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "Description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "Topics": [
+      "ai4science",
+      "chineseocr",
+      "document-parsing",
+      "document-translation",
+      "kie",
+      "ocr",
+      "paddleocr-vl",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pdf2markdown",
+      "pp-ocr",
+      "pp-structure",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 77008,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-08T10:38:16Z",
+    "UpdatedAt": "2026-05-03T18:51:17Z",
+    "Owner": "PaddlePaddle",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dbrojas/optlib",
+    "Name": "optlib",
+    "Url": "https://github.com/dbrojas/optlib",
+    "Description": "A library for financial options pricing written in Python.",
+    "Topics": [
+      "api-client",
+      "derivatives",
+      "derivatives-pricing",
+      "finance",
+      "options",
+      "stocks",
+      "tdameritrade-api",
+      "volatility"
+    ],
+    "Language": "Python",
+    "Stars": 1364,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-17T00:30:14Z",
+    "UpdatedAt": "2026-04-30T23:13:54Z",
+    "Owner": "dbrojas",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50",
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "langchain-ai/langchain",
+    "Name": "langchain",
+    "Url": "https://github.com/langchain-ai/langchain",
+    "Description": "The agent engineering platform",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag"
+    ],
+    "Language": "Python",
+    "Stars": 135691,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-10-17T02:58:36Z",
+    "UpdatedAt": "2026-05-03T18:57:32Z",
+    "Owner": "langchain-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "github/spec-kit",
+    "Name": "spec-kit",
+    "Url": "https://github.com/github/spec-kit",
+    "Description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "Topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ],
+    "Language": "Python",
+    "Stars": 92303,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-08-21T22:54:31Z",
+    "UpdatedAt": "2026-05-03T18:53:02Z",
+    "Owner": "github",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "lefterisloukas/edgar-crawler",
+    "Name": "edgar-crawler",
+    "Url": "https://github.com/lefterisloukas/edgar-crawler",
+    "Description": "The only open-source toolkit that can download SEC EDGAR financial reports and extract textual data from specific item sections into nice & clean structured JSON files. Presented at WWW 2025 @ Sydney, Australia (https://dl.acm.org/doi/10.1145/3701716.3715289)",
+    "Topics": [
+      "business",
+      "data-mining",
+      "edgar",
+      "edgar-crawler",
+      "finance",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "sec",
+      "web-crawler"
+    ],
+    "Language": "Python",
+    "Stars": 511,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-24T10:00:47Z",
+    "UpdatedAt": "2026-04-22T23:12:30Z",
+    "Owner": "lefterisloukas",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "BittyTax/BittyTax",
+    "Name": "BittyTax",
+    "Url": "https://github.com/BittyTax/BittyTax",
+    "Description": "Crypto-currency tax calculator with support for all popular wallets, exchanges, explorers and migration from other crypto tax platforms",
+    "Topics": [
+      "bitcoin",
+      "capital-gains",
+      "crypto",
+      "cryptoasset",
+      "cryptocurrency",
+      "cryptotax",
+      "hmrc",
+      "tax",
+      "tax-calculations",
+      "tax-calculator",
+      "tax-reports"
+    ],
+    "Language": "Python",
+    "Stars": 497,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-25T21:15:44Z",
+    "UpdatedAt": "2026-04-30T16:50:46Z",
+    "Owner": "BittyTax",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "twelvedata/twelvedata-python",
+    "Name": "twelvedata-python",
+    "Url": "https://github.com/twelvedata/twelvedata-python",
+    "Description": "Twelve Data Python Client - Financial data API & WebSocket",
+    "Topics": [
+      "cryptocurrency",
+      "financial-analysis",
+      "financial-data",
+      "forex",
+      "interactive-charts",
+      "matplotlib",
+      "ohlc",
+      "pandas",
+      "static-charts",
+      "stock-market",
+      "technical-indicators",
+      "twelve-data",
+      "twelvedata",
+      "websocket"
+    ],
+    "Language": "Python",
+    "Stars": 711,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-12-31T12:45:17Z",
+    "UpdatedAt": "2026-04-29T12:07:08Z",
+    "Owner": "twelvedata",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tukuaiai/tradecat",
+    "Name": "tradecat",
+    "Url": "https://github.com/tukuaiai/tradecat",
+    "Description": "交易猫数据系统",
+    "Topics": [
+      "ai",
+      "binance",
+      "bitcoin",
+      "ccxt",
+      "crypto",
+      "cryptocurrency",
+      "ethereum",
+      "futures",
+      "indicators",
+      "market-data",
+      "pandas",
+      "python",
+      "quantitative-trading",
+      "real-time",
+      "ta-lib",
+      "technical-analysis",
+      "telegram-bot",
+      "timescaledb",
+      "trading",
+      "wyckoff"
+    ],
+    "Language": "Python",
+    "Stars": 927,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-30T03:32:38Z",
+    "UpdatedAt": "2026-05-03T08:24:48Z",
+    "Owner": "tukuaiai",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "deepseek-ai/DeepSeek-OCR",
+    "Name": "DeepSeek-OCR",
+    "Url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+    "Description": "Contexts Optical Compression",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 23038,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-10-17T06:14:27Z",
+    "UpdatedAt": "2026-05-03T18:51:26Z",
+    "Owner": "deepseek-ai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mlfoundations/open_clip",
+    "Name": "open_clip",
+    "Url": "https://github.com/mlfoundations/open_clip",
+    "Description": "An open source implementation of CLIP.",
+    "Topics": [
+      "computer-vision",
+      "contrastive-loss",
+      "deep-learning",
+      "language-model",
+      "multi-modal-learning",
+      "pretrained-models",
+      "pytorch",
+      "zero-shot-classification"
+    ],
+    "Language": "Python",
+    "Stars": 13764,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-28T23:24:39Z",
+    "UpdatedAt": "2026-05-03T07:54:12Z",
+    "Owner": "mlfoundations",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ZhuLinsen/daily_stock_analysis",
+    "Name": "daily_stock_analysis",
+    "Url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "Description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "Topics": [
+      "agent",
+      "ai",
+      "aigc",
+      "gemini",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "rag",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 33845,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-10T06:43:20Z",
+    "UpdatedAt": "2026-05-03T18:52:21Z",
+    "Owner": "ZhuLinsen",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "CryptoSignal/Crypto-Signal",
+    "Name": "Crypto-Signal",
+    "Url": "https://github.com/CryptoSignal/Crypto-Signal",
+    "Description": "Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks",
+    "Topics": [
+      "abenezer-mamo",
+      "algorithmic-trading",
+      "binance",
+      "binance-api",
+      "bitcoin",
+      "bittrex-api",
+      "coinbase",
+      "coinbase-api",
+      "coinbase-pro",
+      "crypto",
+      "crypto-signal",
+      "cryptosignal",
+      "cryptotrading",
+      "ethereum",
+      "gdax",
+      "mamo",
+      "technical-analysis",
+      "trading",
+      "trading-bot",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 5542,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-16T23:49:24Z",
+    "UpdatedAt": "2026-05-03T13:48:02Z",
+    "Owner": "CryptoSignal",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TheFourGreatErrors/alpha-rptr",
+    "Name": "alpha-rptr",
+    "Url": "https://github.com/TheFourGreatErrors/alpha-rptr",
+    "Description": "A trading bot for automated algorithmic trading on Binance Futures, Bybit, BitMEX and FTX written in python.",
+    "Topics": [
+      "algo",
+      "algorithmic-trading",
+      "binance",
+      "binance-futures",
+      "bitcoin",
+      "bitmex",
+      "bot",
+      "bybit",
+      "crypto",
+      "cryptocurrency",
+      "ftx",
+      "ftx-exchange",
+      "python",
+      "quantitative-trading",
+      "trading",
+      "trading-bot",
+      "trading-systems",
+      "websocket"
+    ],
+    "Language": "Python",
+    "Stars": 654,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-08-17T21:49:21Z",
+    "UpdatedAt": "2026-05-02T20:41:03Z",
+    "Owner": "TheFourGreatErrors",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TechfaneTechnologies/QtsApp",
+    "Name": "QtsApp",
+    "Url": "https://github.com/TechfaneTechnologies/QtsApp",
+    "Description": "The Python Library For QtsApp which displays the option chain in near real-time. This program retrieves this data from the QtsApp site and then generates useful analysis of the Option Chain for the specified Index or Stock. It also continuously refreshes the Option Chain along with Implied Volatatlity (IV), Open Interest (OI), Delta, Theta, Vega, Gamma, Vanna, Charm, Speed, Zomma, Color, Volga, Veta at an interval of a second and visually displays the trend in various indicators useful for Technical Analysis.",
+    "Topics": [
+      "analysis",
+      "app",
+      "banknifty",
+      "derivatives",
+      "drmoonejune",
+      "equity",
+      "moonedrjune",
+      "nifty",
+      "nifty50",
+      "nse",
+      "option-chain",
+      "option-greeks",
+      "option-pricing",
+      "option-trading",
+      "options",
+      "options-trading",
+      "python",
+      "script",
+      "strike-price",
+      "web-scraping"
+    ],
+    "Language": "Python",
+    "Stars": 102,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-07-13T19:09:08Z",
+    "UpdatedAt": "2026-03-25T15:27:59Z",
+    "Owner": "TechfaneTechnologies",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "binance/binance-connector-python",
+    "Name": "binance-connector-python",
+    "Url": "https://github.com/binance/binance-connector-python",
+    "Description": "Simple connector to Binance Public API",
+    "Topics": [
+      "binance-api",
+      "connector",
+      "crypto",
+      "library",
+      "market-data",
+      "python",
+      "real-time",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 2839,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-04-20T04:33:46Z",
+    "UpdatedAt": "2026-05-03T10:17:00Z",
+    "Owner": "binance",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "janhuenermann/neurojs",
+    "Name": "neurojs",
+    "Url": "https://github.com/janhuenermann/neurojs",
+    "Description": "A JavaScript deep learning and reinforcement learning library.",
+    "Topics": [
+      "deep-learning",
+      "javascript",
+      "machine-learning",
+      "neural-network",
+      "reinforcement-learning",
+      "self-driving-car"
+    ],
+    "Language": "JavaScript",
+    "Stars": 4374,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-18T23:33:53Z",
+    "UpdatedAt": "2026-04-24T17:21:14Z",
+    "Owner": "janhuenermann",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bobeff/open-source-games",
+    "Name": "open-source-games",
+    "Url": "https://github.com/bobeff/open-source-games",
+    "Description": "A list of open source games.",
+    "Topics": [
+      "awesome-list",
+      "games",
+      "open-source"
+    ],
+    "Language": "Python",
+    "Stars": 12500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-15T21:35:29Z",
+    "UpdatedAt": "2026-05-03T17:57:03Z",
+    "Owner": "bobeff",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AI4Finance-Foundation/ElegantRL",
+    "Name": "ElegantRL",
+    "Url": "https://github.com/AI4Finance-Foundation/ElegantRL",
+    "Description": "Massively Parallel Deep Reinforcement Learning. 🔥",
+    "Topics": [
+      "a2c",
+      "bipedalwalkerhardcore",
+      "ddpg",
+      "dqn",
+      "drl-pytorch",
+      "efficient",
+      "gae",
+      "lightweight",
+      "model-free-rl",
+      "multiple-gpu",
+      "per",
+      "ppo",
+      "pytorch",
+      "reinforcement-learning",
+      "sac",
+      "stable",
+      "td3"
+    ],
+    "Language": "Python",
+    "Stars": 4321,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-12T03:18:05Z",
+    "UpdatedAt": "2026-05-02T02:48:30Z",
+    "Owner": "AI4Finance-Foundation",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ccxt/ccxt",
+    "Name": "ccxt",
+    "Url": "https://github.com/ccxt/ccxt",
+    "Description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
+    "Topics": [
+      "altcoin",
+      "api",
+      "arbitrage",
+      "bitcoin",
+      "bot",
+      "btc",
+      "crypto",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "eth",
+      "ethereum",
+      "exchange",
+      "invest",
+      "library",
+      "market-data",
+      "memecoin",
+      "merchant",
+      "strategy",
+      "trade",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 42186,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-05-14T15:41:56Z",
+    "UpdatedAt": "2026-05-03T18:19:06Z",
+    "Owner": "ccxt",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "opendilab/DI-engine",
+    "Name": "DI-engine",
+    "Url": "https://github.com/opendilab/DI-engine",
+    "Description": "OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Learning Framework B.P.",
+    "Topics": [
+      "atari",
+      "distributed-reinforcement-learning",
+      "distributed-system",
+      "drl",
+      "exploration-exploitation",
+      "imitation-learning",
+      "impala",
+      "inverse-reinforcement-learning",
+      "minigrid",
+      "model-based-reinforcement-learning",
+      "mujoco",
+      "multiagent-reinforcement-learning",
+      "offline-rl",
+      "python",
+      "pytorch-rl",
+      "r2d2",
+      "reinforcement-learning",
+      "reinforcement-learning-algorithms",
+      "self-play",
+      "smac"
+    ],
+    "Language": "Python",
+    "Stars": 3622,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-07-04T07:11:05Z",
+    "UpdatedAt": "2026-05-03T15:37:15Z",
+    "Owner": "opendilab",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "isaiahbjork/Auto-GPT-MetaTrader-Plugin",
+    "Name": "Auto-GPT-MetaTrader-Plugin",
+    "Url": "https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin",
+    "Description": "The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.",
+    "Topics": [
+      "autogpt",
+      "crypto",
+      "finance",
+      "forex",
+      "gpt-3",
+      "gpt-4",
+      "metatrader",
+      "metatrader-4",
+      "metatrader-5",
+      "metatrader5",
+      "mt4",
+      "mt5",
+      "stocks",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 546,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-21T22:22:03Z",
+    "UpdatedAt": "2026-04-23T11:52:36Z",
+    "Owner": "isaiahbjork",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Justi1980/Dawn-Validator-BOT",
+    "Name": "Dawn-Validator-BOT",
+    "Url": "https://github.com/Justi1980/Dawn-Validator-BOT",
+    "Description": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation",
+    "Topics": [
+      "automation",
+      "bandwidth-validation",
+      "blockchain",
+      "chrome-extension",
+      "cli-tool",
+      "crypto",
+      "cryptobot",
+      "dawn-internet",
+      "dawn-validator",
+      "decentralized-internet",
+      "depin",
+      "educational",
+      "keep-alive",
+      "multi-threading",
+      "proxy-rotation",
+      "python",
+      "solana",
+      "testnet",
+      "token-management",
+      "validator-bot"
+    ],
+    "Language": "Python",
+    "Stars": 536,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-03-09T10:52:37Z",
+    "UpdatedAt": "2026-05-03T15:25:00Z",
+    "Owner": "Justi1980",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onyx-dot-app/onyx",
+    "Name": "onyx",
+    "Url": "https://github.com/onyx-dot-app/onyx",
+    "Description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "Topics": [
+      "ai",
+      "ai-chat",
+      "chatgpt",
+      "chatui",
+      "enterprise-search",
+      "gen-ai",
+      "information-retrieval",
+      "llm",
+      "llm-ui",
+      "nextjs",
+      "python",
+      "rag",
+      "self-hosted",
+      "vector-search"
+    ],
+    "Language": "Python",
+    "Stars": 28894,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-27T06:04:01Z",
+    "UpdatedAt": "2026-05-03T18:27:37Z",
+    "Owner": "onyx-dot-app",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50",
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "assafelovic/gpt-researcher",
+    "Name": "gpt-researcher",
+    "Url": "https://github.com/assafelovic/gpt-researcher",
+    "Description": "An autonomous agent that conducts deep research on any data using any LLM providers",
+    "Topics": [
+      "agent",
+      "ai",
+      "automation",
+      "deepresearch",
+      "llms",
+      "mcp",
+      "mcp-server",
+      "python",
+      "research",
+      "search",
+      "webscraping"
+    ],
+    "Language": "Python",
+    "Stars": 26846,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T10:33:54Z",
+    "UpdatedAt": "2026-05-03T17:52:42Z",
+    "Owner": "assafelovic",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hummingbot/hummingbot",
+    "Name": "hummingbot",
+    "Url": "https://github.com/hummingbot/hummingbot",
+    "Description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "Topics": [
+      "algotrading",
+      "arbitrage",
+      "backtesting",
+      "bitcoin",
+      "bot",
+      "crypto",
+      "cryptocurrency",
+      "cython",
+      "dex",
+      "docker",
+      "ethereum",
+      "hft",
+      "marketmaking",
+      "orderbook",
+      "python",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 18449,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-04-02T21:41:52Z",
+    "UpdatedAt": "2026-05-03T15:27:17Z",
+    "Owner": "hummingbot",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "jadchaar/sec-edgar-downloader",
+    "Name": "sec-edgar-downloader",
+    "Url": "https://github.com/jadchaar/sec-edgar-downloader",
+    "Description": "📈 Download filings from the SEC EDGAR database using Python",
+    "Topics": [
+      "edgar",
+      "finance",
+      "financial",
+      "financial-data",
+      "mutual-funds",
+      "python",
+      "sec-edgar",
+      "stock-market",
+      "stocks"
+    ],
+    "Language": "Python",
+    "Stars": 680,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-12-20T20:59:26Z",
+    "UpdatedAt": "2026-05-02T17:52:25Z",
+    "Owner": "jadchaar",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "pmorissette/ffn",
+    "Name": "ffn",
+    "Url": "https://github.com/pmorissette/ffn",
+    "Description": "ffn - a financial function library for Python",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 2543,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-06-19T15:54:09Z",
+    "UpdatedAt": "2026-05-02T10:08:13Z",
+    "Owner": "pmorissette",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FoundationAgents/OpenManus",
+    "Name": "OpenManus",
+    "Url": "https://github.com/FoundationAgents/OpenManus",
+    "Description": "No fortress, purely open ground.  OpenManus is Coming.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 56007,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-06T14:08:14Z",
+    "UpdatedAt": "2026-05-03T18:50:58Z",
+    "Owner": "FoundationAgents",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "prudhvi-reddy-m/BlackScholes",
+    "Name": "BlackScholes",
+    "Url": "https://github.com/prudhvi-reddy-m/BlackScholes",
+    "Description": "Black-Scholes Pricing Model: An intuitive and sophisticated tool for accurately calculating European option prices. Leverage the mathematical elegance of the Black-Scholes formula to explore how varying market conditions impact option pricing with real-time interactive visualizations.",
+    "Topics": [
+      "blackscholes",
+      "derivatives",
+      "derivatives-pricing",
+      "european-options",
+      "financial-modeling",
+      "options-pricing"
+    ],
+    "Language": "Python",
+    "Stars": 84,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-02-23T18:54:13Z",
+    "UpdatedAt": "2026-04-28T13:55:42Z",
+    "Owner": "prudhvi-reddy-m",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "dortania/OpenCore-Legacy-Patcher",
+    "Name": "OpenCore-Legacy-Patcher",
+    "Url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "Description": "Experience macOS just like before",
+    "Topics": [
+      "big-sur",
+      "macos",
+      "opencore",
+      "patcher"
+    ],
+    "Language": "Python",
+    "Stars": 17315,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-11-24T01:54:56Z",
+    "UpdatedAt": "2026-05-03T10:34:01Z",
+    "Owner": "dortania",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "boyac/pyOptionPricing",
+    "Name": "pyOptionPricing",
+    "Url": "https://github.com/boyac/pyOptionPricing",
+    "Description": "Option pricing based on Black-Scholes processes, Monte-Carlo simulations with Geometric Brownian Motion, historical volatility, implied volatility, Greeks hedging",
+    "Topics": [
+      "blackscholes",
+      "derivatives",
+      "investment-banking",
+      "option-pricing",
+      "volatility"
+    ],
+    "Language": "Python",
+    "Stars": 316,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-03T12:54:28Z",
+    "UpdatedAt": "2026-04-23T18:24:42Z",
+    "Owner": "boyac",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "myshell-ai/OpenVoice",
+    "Name": "OpenVoice",
+    "Url": "https://github.com/myshell-ai/OpenVoice",
+    "Description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+    "Topics": [
+      "text-to-speech",
+      "tts",
+      "voice-clone",
+      "zero-shot-tts"
+    ],
+    "Language": "Python",
+    "Stars": 36436,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-11-29T12:17:01Z",
+    "UpdatedAt": "2026-05-03T18:14:29Z",
+    "Owner": "myshell-ai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "oraios/serena",
+    "Name": "serena",
+    "Url": "https://github.com/oraios/serena",
+    "Description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "Topics": [
+      "agent",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "codex",
+      "ide",
+      "jetbrains",
+      "language-server",
+      "mcp-server",
+      "programming",
+      "vibe-coding"
+    ],
+    "Language": "Python",
+    "Stars": 23773,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-23T22:35:24Z",
+    "UpdatedAt": "2026-05-03T18:45:08Z",
+    "Owner": "oraios",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Lightning-AI/pytorch-lightning",
+    "Name": "pytorch-lightning",
+    "Url": "https://github.com/Lightning-AI/pytorch-lightning",
+    "Description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "python",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 31104,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-03-31T00:45:57Z",
+    "UpdatedAt": "2026-05-03T13:51:48Z",
+    "Owner": "Lightning-AI",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JoinQuant/jqdatasdk",
+    "Name": "jqdatasdk",
+    "Url": "https://github.com/JoinQuant/jqdatasdk",
+    "Description": "简单易用的量化金融数据包(easy utility for getting financial market data of China)",
+    "Topics": [
+      "alpha101",
+      "alpha191",
+      "financial-data",
+      "fintech",
+      "joinquant",
+      "jqdata",
+      "marketdata",
+      "pandas",
+      "python",
+      "stock-data",
+      "stock-market-data"
+    ],
+    "Language": "Python",
+    "Stars": 1291,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-29T08:39:45Z",
+    "UpdatedAt": "2026-05-03T07:22:59Z",
+    "Owner": "JoinQuant",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "QuivrHQ/quivr",
+    "Name": "quivr",
+    "Url": "https://github.com/QuivrHQ/quivr",
+    "Description": "Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want.",
+    "Topics": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "database",
+      "docker",
+      "framework",
+      "frontend",
+      "groq",
+      "html",
+      "javascript",
+      "llm",
+      "openai",
+      "postgresql",
+      "privacy",
+      "rag",
+      "react",
+      "security",
+      "typescript",
+      "vector"
+    ],
+    "Language": "Python",
+    "Stars": 39125,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-12T23:53:30Z",
+    "UpdatedAt": "2026-05-03T15:15:42Z",
+    "Owner": "QuivrHQ",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "datasets/s-and-p-500-companies",
+    "Name": "s-and-p-500-companies",
+    "Url": "https://github.com/datasets/s-and-p-500-companies",
+    "Description": "List of companies in the S&P 500 together with associated financials",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 634,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2012-12-27T18:01:51Z",
+    "UpdatedAt": "2026-04-28T17:12:31Z",
+    "Owner": "datasets",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "arrobalytics/django-ledger",
+    "Name": "django-ledger",
+    "Url": "https://github.com/arrobalytics/django-ledger",
+    "Description": "Django Ledger is a double entry accounting system and financial analysis engine built on the Django Web Framework.",
+    "Topics": [
+      "accounting",
+      "bookkeeping",
+      "cashmanagement",
+      "django",
+      "django-application",
+      "django-framework",
+      "django-ledger",
+      "django-project",
+      "entities",
+      "finance",
+      "financial",
+      "financial-analysis-engine",
+      "forecasting",
+      "ledger-journal",
+      "quickbooks"
+    ],
+    "Language": "Python",
+    "Stars": 1332,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-10-29T22:25:37Z",
+    "UpdatedAt": "2026-05-02T19:43:39Z",
+    "Owner": "arrobalytics",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tensortrade-org/tensortrade",
+    "Name": "tensortrade",
+    "Url": "https://github.com/tensortrade-org/tensortrade",
+    "Description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 6221,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-07-30T21:28:32Z",
+    "UpdatedAt": "2026-05-03T14:36:57Z",
+    "Owner": "tensortrade-org",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mnemox-ai/tradememory-protocol",
+    "Name": "tradememory-protocol",
+    "Url": "https://github.com/mnemox-ai/tradememory-protocol",
+    "Description": "Decision audit trail + persistent memory for AI trading agents. Outcome-weighted recall, SHA-256 tamper detection, 17 MCP tools.",
+    "Topics": [
+      "ai-agents",
+      "claude",
+      "crypto",
+      "evolution-engine",
+      "forex",
+      "mcp",
+      "mcp-server",
+      "memory",
+      "mt5",
+      "outcome-weighted-memory",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 772,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-02-23T10:35:46Z",
+    "UpdatedAt": "2026-05-03T16:55:17Z",
+    "Owner": "mnemox-ai",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "hiroi-sora/Umi-OCR",
+    "Name": "Umi-OCR",
+    "Url": "https://github.com/hiroi-sora/Umi-OCR",
+    "Description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+    "Topics": [
+      "ocr",
+      "ocr-python",
+      "paddleocr",
+      "qml",
+      "qt",
+      "screenshot",
+      "umi-ocr"
+    ],
+    "Language": "Python",
+    "Stars": 43869,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-03-28T04:01:46Z",
+    "UpdatedAt": "2026-05-03T18:05:24Z",
+    "Owner": "hiroi-sora",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "minimaxir/big-list-of-naughty-strings",
+    "Name": "big-list-of-naughty-strings",
+    "Url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "Description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 47631,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2015-08-08T20:57:20Z",
+    "UpdatedAt": "2026-05-03T02:44:12Z",
+    "Owner": "minimaxir",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "kwai/DouZero",
+    "Name": "DouZero",
+    "Url": "https://github.com/kwai/DouZero",
+    "Description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
+    "Topics": [
+      "doudizhu",
+      "game-ai",
+      "poker",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 4542,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-06-02T01:55:56Z",
+    "UpdatedAt": "2026-05-03T15:54:10Z",
+    "Owner": "kwai",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "optuna/optuna",
+    "Name": "optuna",
+    "Url": "https://github.com/optuna/optuna",
+    "Description": "A hyperparameter optimization framework",
+    "Topics": [
+      "distributed",
+      "hyperparameter-optimization",
+      "machine-learning",
+      "parallel",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 14092,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-21T06:12:56Z",
+    "UpdatedAt": "2026-05-03T09:05:02Z",
+    "Owner": "optuna",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ctf-wiki/ctf-wiki",
+    "Name": "ctf-wiki",
+    "Url": "https://github.com/ctf-wiki/ctf-wiki",
+    "Description": "Come and join us, we need you!",
+    "Topics": [
+      "crypto",
+      "ctf",
+      "misc",
+      "mobile",
+      "pwn",
+      "reverse",
+      "web",
+      "wiki"
+    ],
+    "Language": "Python",
+    "Stars": 9308,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-06-04T15:29:18Z",
+    "UpdatedAt": "2026-05-03T11:44:23Z",
+    "Owner": "ctf-wiki",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "tpmmthomas/binance-copy-trade-bot",
+    "Name": "binance-copy-trade-bot",
+    "Url": "https://github.com/tpmmthomas/binance-copy-trade-bot",
+    "Description": "A telegram copy trading bot that follows cryptocurrency derivatives trade on the binance leaderboard.",
+    "Topics": [
+      "binance",
+      "bybit",
+      "copy-trade",
+      "cryptocurrency",
+      "derivatives",
+      "python",
+      "telegram-bot",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 141,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-06-23T08:08:00Z",
+    "UpdatedAt": "2026-04-18T15:57:46Z",
+    "Owner": "tpmmthomas",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AminHP/gym-mtsim",
+    "Name": "gym-mtsim",
+    "Url": "https://github.com/AminHP/gym-mtsim",
+    "Description": "A general-purpose, flexible, and easy-to-use simulator alongside an OpenAI Gym trading environment for MetaTrader 5 trading platform (Approved by OpenAI Gym)",
+    "Topics": [
+      "backtesting",
+      "crypto",
+      "forex",
+      "gym-environment",
+      "metatrader5",
+      "openai-gym",
+      "reinforcement-learning",
+      "simulator",
+      "stocks",
+      "trading",
+      "trading-algorithm",
+      "trading-environment"
+    ],
+    "Language": "Python",
+    "Stars": 513,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-09-04T19:00:25Z",
+    "UpdatedAt": "2026-04-29T03:15:44Z",
+    "Owner": "AminHP",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ocrmypdf/OCRmyPDF",
+    "Name": "OCRmyPDF",
+    "Url": "https://github.com/ocrmypdf/OCRmyPDF",
+    "Description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+    "Topics": [
+      "image-processing",
+      "ocr",
+      "pdf",
+      "python",
+      "tesseract"
+    ],
+    "Language": "Python",
+    "Stars": 33523,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2013-12-20T08:26:28Z",
+    "UpdatedAt": "2026-05-03T18:33:03Z",
+    "Owner": "ocrmypdf",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Matteo-Ferrara/gex-tracker",
+    "Name": "gex-tracker",
+    "Url": "https://github.com/Matteo-Ferrara/gex-tracker",
+    "Description": "Dealers' gamma exposure (GEX) tracker",
+    "Topics": [
+      "derivatives",
+      "options",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 190,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-06T10:25:48Z",
+    "UpdatedAt": "2026-05-02T06:35:11Z",
+    "Owner": "Matteo-Ferrara",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "6abd/horus",
+    "Name": "horus",
+    "Url": "https://github.com/6abd/horus",
+    "Description": "An OSINT / digital forensics tool built in Python",
+    "Topics": [
+      "api",
+      "crypto",
+      "cryptocurrency",
+      "cybersecurity",
+      "decryption",
+      "digital-forensics",
+      "encryption",
+      "forensics",
+      "hacktoberfest",
+      "investigation",
+      "investigations",
+      "location",
+      "osint",
+      "python",
+      "requests",
+      "security",
+      "security-tools",
+      "steganography",
+      "tool",
+      "tools"
+    ],
+    "Language": "Python",
+    "Stars": 501,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-21T23:32:38Z",
+    "UpdatedAt": "2026-05-03T01:55:20Z",
+    "Owner": "6abd",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "federicomariamassari/financial-engineering",
+    "Name": "financial-engineering",
+    "Url": "https://github.com/federicomariamassari/financial-engineering",
+    "Description": "Applications of Monte Carlo methods to financial engineering projects, in Python.",
+    "Topics": [
+      "financial-engineering",
+      "monte-carlo",
+      "python-3"
+    ],
+    "Language": "Python",
+    "Stars": 515,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-26T13:39:51Z",
+    "UpdatedAt": "2026-04-30T17:29:03Z",
+    "Owner": "federicomariamassari",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "yenchenlin/DeepLearningFlappyBird",
+    "Name": "DeepLearningFlappyBird",
+    "Url": "https://github.com/yenchenlin/DeepLearningFlappyBird",
+    "Description": "Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).",
+    "Topics": [
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "game"
+    ],
+    "Language": "Python",
+    "Stars": 6796,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-03-15T03:52:16Z",
+    "UpdatedAt": "2026-05-02T22:42:27Z",
+    "Owner": "yenchenlin",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "Name": "Bringing-Old-Photos-Back-to-Life",
+    "Url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "Description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "Topics": [
+      "gans",
+      "generative-adversarial-network",
+      "image-manipulation",
+      "image-restoration",
+      "old-photo-restoration",
+      "photo-restoration",
+      "photos",
+      "pytorch"
+    ],
+    "Language": "Python",
+    "Stars": 15691,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-24T06:37:58Z",
+    "UpdatedAt": "2026-05-03T06:53:26Z",
+    "Owner": "microsoft",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Datalux/Osintgram",
+    "Name": "Osintgram",
+    "Url": "https://github.com/Datalux/Osintgram",
+    "Description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "Topics": [
+      "analysis",
+      "hacking",
+      "information-gathering",
+      "instagram",
+      "instagram-account",
+      "instagram-api",
+      "nickname",
+      "osint",
+      "osint-python",
+      "penetration-testing",
+      "python",
+      "python3",
+      "tool"
+    ],
+    "Language": "Python",
+    "Stars": 12738,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-06-07T23:23:40Z",
+    "UpdatedAt": "2026-05-03T18:06:58Z",
+    "Owner": "Datalux",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "VarunS2002/Python-NSE-Option-Chain-Analyzer",
+    "Name": "Python-NSE-Option-Chain-Analyzer",
+    "Url": "https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer",
+    "Description": "The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Index or Stock. It also continuously refreshes the Option Chain and visually displays the trend in various indicators useful for Technical Analysis.",
+    "Topics": [
+      "analysis",
+      "app",
+      "derivatives",
+      "dharaskar",
+      "equity",
+      "nifty",
+      "nse",
+      "option-chain",
+      "options",
+      "program",
+      "python",
+      "sameer",
+      "script",
+      "strike-price",
+      "web-scrapping"
+    ],
+    "Language": "Python",
+    "Stars": 615,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-06-20T14:49:19Z",
+    "UpdatedAt": "2026-05-03T12:18:20Z",
+    "Owner": "VarunS2002",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "vsys-host/shkeeper.io",
+    "Name": "shkeeper.io",
+    "Url": "https://github.com/vsys-host/shkeeper.io",
+    "Description": "SHKeeper is a self-hosted and open-source cryptocurrency gateway payment processor. It's integrate with popular CMS, any e-commerce, your own code or product",
+    "Topics": [
+      "accept-crypto",
+      "accept-crypto-payments",
+      "crypto",
+      "crypto-gateway",
+      "crypto-payment",
+      "crypto-payment-api",
+      "crypto-payment-gateway",
+      "crypto-payments",
+      "crypto-processor",
+      "cryptocurrency-payments",
+      "gateway",
+      "gateway-api",
+      "gateway-service",
+      "gateway-services",
+      "open-source",
+      "payment-gateway",
+      "payment-processing",
+      "payment-processor",
+      "self-hosted",
+      "self-hosted-api"
+    ],
+    "Language": "Python",
+    "Stars": 561,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-04T09:04:43Z",
+    "UpdatedAt": "2026-05-02T21:07:45Z",
+    "Owner": "vsys-host",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "theOGognf/finagg",
+    "Name": "finagg",
+    "Url": "https://github.com/theOGognf/finagg",
+    "Description": "A Python package for aggregating and normalizing historical data from popular and free financial APIs.",
+    "Topics": [
+      "finance"
+    ],
+    "Language": "Python",
+    "Stars": 532,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-25T15:11:34Z",
+    "UpdatedAt": "2026-04-19T09:22:01Z",
+    "Owner": "theOGognf",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "LAION-AI/Open-Assistant",
+    "Name": "Open-Assistant",
+    "Url": "https://github.com/LAION-AI/Open-Assistant",
+    "Description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "Topics": [
+      "ai",
+      "assistant",
+      "chatgpt",
+      "discord-bot",
+      "language-model",
+      "machine-learning",
+      "nextjs",
+      "python",
+      "rlhf"
+    ],
+    "Language": "Python",
+    "Stars": 37407,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-13T05:24:17Z",
+    "UpdatedAt": "2026-05-03T15:37:14Z",
+    "Owner": "LAION-AI",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50",
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "facefusion/facefusion",
+    "Name": "facefusion",
+    "Url": "https://github.com/facefusion/facefusion",
+    "Description": "Industry leading face manipulation platform",
+    "Topics": [
+      "ai",
+      "deep-fake",
+      "deepfake",
+      "face-swap",
+      "faceswap",
+      "lip-sync",
+      "lipsync"
+    ],
+    "Language": "Python",
+    "Stars": 28124,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-08-17T19:59:55Z",
+    "UpdatedAt": "2026-05-03T16:01:06Z",
+    "Owner": "facefusion",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "evilsocket/opensnitch",
+    "Name": "opensnitch",
+    "Url": "https://github.com/evilsocket/opensnitch",
+    "Description": "OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.",
+    "Topics": [
+      "application-firewall",
+      "data-breach",
+      "firewall",
+      "linux",
+      "networking",
+      "security"
+    ],
+    "Language": "Python",
+    "Stars": 13571,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-16T14:02:50Z",
+    "UpdatedAt": "2026-05-03T14:36:48Z",
+    "Owner": "evilsocket",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Fosowl/agenticSeek",
+    "Name": "agenticSeek",
+    "Url": "https://github.com/Fosowl/agenticSeek",
+    "Description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
+    "Topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "autonomous-agents",
+      "deepseek-r1",
+      "llm",
+      "llm-agents",
+      "voice-assistant"
+    ],
+    "Language": "Python",
+    "Stars": 26184,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-02-19T18:03:06Z",
+    "UpdatedAt": "2026-05-03T18:49:39Z",
+    "Owner": "Fosowl",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AUTOMATIC1111/stable-diffusion-webui",
+    "Name": "stable-diffusion-webui",
+    "Url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "Description": "Stable Diffusion web UI",
+    "Topics": [
+      "ai",
+      "ai-art",
+      "deep-learning",
+      "diffusion",
+      "gradio",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "pytorch",
+      "stable-diffusion",
+      "text2image",
+      "torch",
+      "txt2img",
+      "unstable",
+      "upscaling",
+      "web"
+    ],
+    "Language": "Python",
+    "Stars": 162703,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-22T14:05:26Z",
+    "UpdatedAt": "2026-05-03T18:53:50Z",
+    "Owner": "AUTOMATIC1111",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DLR-RM/stable-baselines3",
+    "Name": "stable-baselines3",
+    "Url": "https://github.com/DLR-RM/stable-baselines3",
+    "Description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+    "Topics": [
+      "baselines",
+      "gsde",
+      "gym",
+      "machine-learning",
+      "openai",
+      "python",
+      "pytorch",
+      "reinforcement-learning",
+      "reinforcement-learning-algorithms",
+      "robotics",
+      "sb3",
+      "sde",
+      "stable-baselines",
+      "toolbox"
+    ],
+    "Language": "Python",
+    "Stars": 13200,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-05T05:52:26Z",
+    "UpdatedAt": "2026-05-03T18:06:37Z",
+    "Owner": "DLR-RM",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "google/dopamine",
+    "Name": "dopamine",
+    "Url": "https://github.com/google/dopamine",
+    "Description": "Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. ",
+    "Topics": [
+      "ai",
+      "google",
+      "ml",
+      "rl",
+      "tensorflow"
+    ],
+    "Language": "Jupyter Notebook",
+    "Stars": 10879,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-26T09:58:36Z",
+    "UpdatedAt": "2026-05-02T18:50:38Z",
+    "Owner": "google",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "ivopetiz/algotrading",
+    "Name": "algotrading",
+    "Url": "https://github.com/ivopetiz/algotrading",
+    "Description": "Algorithmic trading framework for cryptocurrencies.",
+    "Topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "backtest",
+      "backtesting-trading-strategies",
+      "bot",
+      "crypto",
+      "crypto-algotrading",
+      "cryptocurrencies",
+      "cryptocurrency",
+      "cryptocurrency-exchanges",
+      "framework",
+      "hft",
+      "hft-trading",
+      "high-frequency-trading",
+      "realtime",
+      "trading",
+      "trading-algorithms",
+      "trading-api",
+      "trading-bot",
+      "trading-simulator"
+    ],
+    "Language": "Python",
+    "Stars": 1553,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-07-10T22:10:41Z",
+    "UpdatedAt": "2026-05-03T13:35:15Z",
+    "Owner": "ivopetiz",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "RomelTorres/alpha_vantage",
+    "Name": "alpha_vantage",
+    "Url": "https://github.com/RomelTorres/alpha_vantage",
+    "Description": "A python wrapper for Alpha Vantage API for financial data.",
+    "Topics": [
+      "alpha-vantage",
+      "alphavantage",
+      "api-wrapper",
+      "bitcoin",
+      "cryptocurrency",
+      "finance",
+      "financial-data",
+      "json",
+      "pandas",
+      "python",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 4804,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-04-29T17:23:00Z",
+    "UpdatedAt": "2026-05-03T18:32:10Z",
+    "Owner": "RomelTorres",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "rllm-org/rllm",
+    "Name": "rllm",
+    "Url": "https://github.com/rllm-org/rllm",
+    "Description": "Democratizing Reinforcement Learning for LLMs",
+    "Topics": [
+      "agent-framework",
+      "agentic-workflow",
+      "coding-agent",
+      "distributed-training",
+      "llm-reasoning",
+      "llm-training",
+      "machine-learning",
+      "ml-infrastructure",
+      "ml-platform",
+      "reinforcement-learning",
+      "search-agent",
+      "swe-agent",
+      "tinker",
+      "verl"
+    ],
+    "Language": "Python",
+    "Stars": 5470,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-26T05:31:40Z",
+    "UpdatedAt": "2026-05-03T07:05:52Z",
+    "Owner": "rllm-org",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "huggingface/open-r1",
+    "Name": "open-r1",
+    "Url": "https://github.com/huggingface/open-r1",
+    "Description": "Fully open reproduction of DeepSeek-R1",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 26006,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-01-24T15:44:11Z",
+    "UpdatedAt": "2026-05-03T12:15:41Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "blankly-finance/blankly",
+    "Name": "blankly",
+    "Url": "https://github.com/blankly-finance/blankly",
+    "Description": "🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.",
+    "Topics": [
+      "algotrading",
+      "binance",
+      "blankly",
+      "bot",
+      "bot-framework",
+      "bots",
+      "coinbase",
+      "crypto",
+      "cryptocurrency",
+      "framework",
+      "investment",
+      "platform",
+      "python",
+      "stocks",
+      "trading",
+      "trading-bot",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 2431,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-03-09T18:33:22Z",
+    "UpdatedAt": "2026-05-03T11:38:32Z",
+    "Owner": "blankly-finance",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "nardew/talipp",
+    "Name": "talipp",
+    "Url": "https://github.com/nardew/talipp",
+    "Description": "talipp - incremental technical analysis library for python",
+    "Topics": [
+      "crypto",
+      "finance",
+      "incremental",
+      "indicators",
+      "python",
+      "technical-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 528,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-10-28T08:13:40Z",
+    "UpdatedAt": "2026-05-02T23:50:30Z",
+    "Owner": "nardew",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "FinanceData/FinanceDataReader",
+    "Name": "FinanceDataReader",
+    "Url": "https://github.com/FinanceData/FinanceDataReader",
+    "Description": "Financial data reader",
+    "Topics": [
+      "btc",
+      "financedata",
+      "financial-data-reader",
+      "kospi",
+      "krx",
+      "stock-price",
+      "stock-prices",
+      "symbol"
+    ],
+    "Language": "Python",
+    "Stars": 1476,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-04-19T13:51:59Z",
+    "UpdatedAt": "2026-05-03T07:48:04Z",
+    "Owner": "FinanceData",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "edtechre/pybroker",
+    "Name": "pybroker",
+    "Url": "https://github.com/edtechre/pybroker",
+    "Description": "Algorithmic Trading in Python with Machine Learning",
+    "Topics": [
+      "ai",
+      "algorithmic-trading",
+      "algotrading",
+      "artificial-intelligence",
+      "backtesting",
+      "crypto",
+      "cryptocurrency",
+      "data-science",
+      "finance",
+      "framework",
+      "investment",
+      "machine-learning",
+      "python",
+      "quantitative-finance",
+      "stocks",
+      "trading",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 3278,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-01-16T01:11:52Z",
+    "UpdatedAt": "2026-05-03T03:35:06Z",
+    "Owner": "edtechre",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "mervick/aes-bridge",
+    "Name": "aes-bridge",
+    "Url": "https://github.com/mervick/aes-bridge",
+    "Description": "AesBridge is a modern, secure and cross-language AES encryption library that supports CBC, GCM, and Legacy CBC modes. The goal is to ensure secure, interoperable encryption across multiple platforms and programming languages",
+    "Topics": [
+      "aes-256",
+      "aes-cbc",
+      "aes-encryption",
+      "aes-gcm",
+      "cbc",
+      "cross-language",
+      "crypto",
+      "crypto-library",
+      "decryption",
+      "encryption",
+      "gcm",
+      "openssl",
+      "secure",
+      "security"
+    ],
+    "Language": "Python",
+    "Stars": 505,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-05T15:40:43Z",
+    "UpdatedAt": "2026-04-02T23:23:17Z",
+    "Owner": "mervick",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "zhayujie/CowAgent",
+    "Name": "CowAgent",
+    "Url": "https://github.com/zhayujie/CowAgent",
+    "Description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+    "Topics": [
+      "ai",
+      "ai-agent",
+      "chatgpt-on-wechat",
+      "claude",
+      "deepseek",
+      "dingtalk",
+      "feishu-bot",
+      "gemini",
+      "kimi",
+      "linkai",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "openai",
+      "openclaw",
+      "python3",
+      "qwen",
+      "skills",
+      "wechat",
+      "weixin"
+    ],
+    "Language": "Python",
+    "Stars": 43987,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-08-07T08:33:41Z",
+    "UpdatedAt": "2026-05-03T18:08:03Z",
+    "Owner": "zhayujie",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ShangtongZhang/reinforcement-learning-an-introduction",
+    "Name": "reinforcement-learning-an-introduction",
+    "Url": "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction",
+    "Description": "Python Implementation of Reinforcement Learning: An Introduction",
+    "Topics": [
+      "artificial-intelligence",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 14640,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2016-09-13T16:24:05Z",
+    "UpdatedAt": "2026-05-03T13:03:10Z",
+    "Owner": "ShangtongZhang",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "mem0ai/mem0",
+    "Name": "mem0",
+    "Url": "https://github.com/mem0ai/mem0",
+    "Description": "Universal memory layer for AI Agents",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "rag",
+      "state-management"
+    ],
+    "Language": "Python",
+    "Stars": 54679,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-06-20T08:58:36Z",
+    "UpdatedAt": "2026-05-03T18:54:30Z",
+    "Owner": "mem0ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "TauricResearch/TradingAgents",
+    "Name": "TradingAgents",
+    "Url": "https://github.com/TauricResearch/TradingAgents",
+    "Description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "Topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 64863,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-12-28T03:31:08Z",
+    "UpdatedAt": "2026-05-03T18:57:53Z",
+    "Owner": "TauricResearch",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Finnhub-Stock-API/finnhub-python",
+    "Name": "finnhub-python",
+    "Url": "https://github.com/Finnhub-Stock-API/finnhub-python",
+    "Description": "Finnhub Python API Client. Finnhub API provides institutional-grade financial data to investors, fintech startups and investment firms. We support real-time stock price, global fundamentals, global ETFs holdings and alternative data. https://finnhub.io/docs/api",
+    "Topics": [
+      "api",
+      "finnhub",
+      "stock"
+    ],
+    "Language": "Python",
+    "Stars": 995,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-05-20T21:54:37Z",
+    "UpdatedAt": "2026-05-02T14:24:33Z",
+    "Owner": "Finnhub-Stock-API",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "volcengine/OpenViking",
+    "Name": "OpenViking",
+    "Url": "https://github.com/volcengine/OpenViking",
+    "Description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "Topics": [
+      "agent",
+      "agentic-rag",
+      "ai-agents",
+      "clawbot",
+      "context-database",
+      "context-engineering",
+      "filesystem",
+      "llm",
+      "memory",
+      "openclaw",
+      "opencode",
+      "rag",
+      "skill"
+    ],
+    "Language": "Python",
+    "Stars": 23392,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-01-05T07:11:17Z",
+    "UpdatedAt": "2026-05-03T18:35:21Z",
+    "Owner": "volcengine",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "harry0703/MoneyPrinterTurbo",
+    "Name": "MoneyPrinterTurbo",
+    "Url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "Description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "Topics": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "moviepy",
+      "python",
+      "shortvideo",
+      "tiktok"
+    ],
+    "Language": "Python",
+    "Stars": 56678,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-03-11T02:57:34Z",
+    "UpdatedAt": "2026-05-03T18:47:03Z",
+    "Owner": "harry0703",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "khoj-ai/khoj",
+    "Name": "khoj",
+    "Url": "https://github.com/khoj-ai/khoj",
+    "Description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "Topics": [
+      "agent",
+      "ai",
+      "assistant",
+      "chat",
+      "chatgpt",
+      "emacs",
+      "image-generation",
+      "llama3",
+      "llamacpp",
+      "llm",
+      "obsidian",
+      "obsidian-md",
+      "offline-llm",
+      "productivity",
+      "rag",
+      "research",
+      "self-hosted",
+      "semantic-search",
+      "stt",
+      "whatsapp-ai"
+    ],
+    "Language": "Python",
+    "Stars": 34372,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-08-16T01:48:44Z",
+    "UpdatedAt": "2026-05-03T17:26:40Z",
+    "Owner": "khoj-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "JECSand/yahoofinancials",
+    "Name": "yahoofinancials",
+    "Url": "https://github.com/JECSand/yahoofinancials",
+    "Description": "A powerful financial data module used for pulling data from Yahoo Finance. This module can pull fundamental and technical data for stocks, indexes, currencies, cryptos, ETFs, Mutual Funds, U.S. Treasuries, and commodity futures.",
+    "Topics": [
+      "bonds",
+      "commodities",
+      "cryptocurrencies",
+      "etfs",
+      "financial-data",
+      "forex",
+      "fundamentals",
+      "mutual-funds",
+      "stock-data",
+      "stock-quotes",
+      "yahoo-finance"
+    ],
+    "Language": "Python",
+    "Stars": 960,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-10-22T03:10:57Z",
+    "UpdatedAt": "2026-04-30T08:51:29Z",
+    "Owner": "JECSand",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "odoo/odoo",
+    "Name": "odoo",
+    "Url": "https://github.com/odoo/odoo",
+    "Description": "Odoo. Open Source Apps To Grow Your Business.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 50439,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2014-05-13T15:38:58Z",
+    "UpdatedAt": "2026-05-03T18:55:01Z",
+    "Owner": "odoo",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "camel-ai/owl",
+    "Name": "owl",
+    "Url": "https://github.com/camel-ai/owl",
+    "Description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "Topics": [
+      "agent",
+      "artificial-intelligence",
+      "multi-agent-systems",
+      "task-automation",
+      "web-interaction"
+    ],
+    "Language": "Python",
+    "Stars": 19730,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-03-03T15:42:51Z",
+    "UpdatedAt": "2026-05-03T17:39:02Z",
+    "Owner": "camel-ai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "constverum/Quantdom",
+    "Name": "Quantdom",
+    "Url": "https://github.com/constverum/Quantdom",
+    "Description": "Python-based framework for backtesting trading strategies & analyzing financial markets [GUI :neckbeard:]",
+    "Topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "backtesting",
+      "finance",
+      "financial-analysis",
+      "fintech",
+      "investment",
+      "quant",
+      "quantitative-finance",
+      "stock-market",
+      "trading",
+      "trading-platform",
+      "trading-strategies"
+    ],
+    "Language": "Python",
+    "Stars": 765,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-11-05T19:23:53Z",
+    "UpdatedAt": "2026-05-03T11:45:06Z",
+    "Owner": "constverum",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Paulescu/hands-on-train-and-deploy-ml",
+    "Name": "hands-on-train-and-deploy-ml",
+    "Url": "https://github.com/Paulescu/hands-on-train-and-deploy-ml",
+    "Description": "Train and Deploy an ML REST API to predict crypto prices, in 10 steps",
+    "Topics": [
+      "crypto",
+      "deployment",
+      "ml",
+      "mlops"
+    ],
+    "Language": "Python",
+    "Stars": 883,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-05-16T10:36:32Z",
+    "UpdatedAt": "2026-04-29T18:38:34Z",
+    "Owner": "Paulescu",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "DemonDamon/FinnewsHunter",
+    "Name": "FinnewsHunter",
+    "Url": "https://github.com/DemonDamon/FinnewsHunter",
+    "Description": "FinnewsHunter: Multi-agent financial intelligence platform powered by AgenticX. Real-time news analysis, sentiment fusion, and alpha factor mining.",
+    "Topics": [
+      "agentic-ai",
+      "alpha-signals",
+      "fintech",
+      "multi-agent",
+      "quant-finance",
+      "sentiment-analysis"
+    ],
+    "Language": "Python",
+    "Stars": 1416,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-02-25T07:59:30Z",
+    "UpdatedAt": "2026-05-03T03:03:52Z",
+    "Owner": "DemonDamon",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "PufferAI/PufferLib",
+    "Name": "PufferLib",
+    "Url": "https://github.com/PufferAI/PufferLib",
+    "Description": "Puffing up reinforcement learning",
+    "Topics": [
+      "reinforcement-learning"
+    ],
+    "Language": "C",
+    "Stars": 5647,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-17T01:25:33Z",
+    "UpdatedAt": "2026-05-03T16:17:29Z",
+    "Owner": "PufferAI",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "shner-elmo/TradingView-Screener",
+    "Name": "TradingView-Screener",
+    "Url": "https://github.com/shner-elmo/TradingView-Screener",
+    "Description": "A package that lets you create TradingView screeners in Python",
+    "Topics": [
+      "cfd",
+      "crypto",
+      "forex",
+      "indices",
+      "live-data",
+      "quant",
+      "quantitative-finance",
+      "stock",
+      "stock-market",
+      "stock-scanner",
+      "stock-screener",
+      "stonk",
+      "ta",
+      "technical-analysis",
+      "trading",
+      "tradingview",
+      "tradingview-api",
+      "tradingview-scanner",
+      "tradingview-screener",
+      "tvscreener"
+    ],
+    "Language": "Python",
+    "Stars": 932,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-30T08:31:01Z",
+    "UpdatedAt": "2026-05-03T13:12:28Z",
+    "Owner": "shner-elmo",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "binance/binance-futures-connector-python",
+    "Name": "binance-futures-connector-python",
+    "Url": "https://github.com/binance/binance-futures-connector-python",
+    "Description": "Simple python connector to Binance Futures API",
+    "Topics": [
+      "binance-api",
+      "connector",
+      "crypto",
+      "futures",
+      "library",
+      "market-data",
+      "python",
+      "real-time",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 1214,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2021-11-15T07:48:07Z",
+    "UpdatedAt": "2026-05-03T18:11:21Z",
+    "Owner": "binance",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "sinaptik-ai/pandas-ai",
+    "Name": "pandas-ai",
+    "Url": "https://github.com/sinaptik-ai/pandas-ai",
+    "Description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+    "Topics": [
+      "ai",
+      "csv",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "datalake",
+      "gpt-4",
+      "llm",
+      "pandas",
+      "sql",
+      "text-to-sql"
+    ],
+    "Language": "Python",
+    "Stars": 23500,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-22T12:58:01Z",
+    "UpdatedAt": "2026-05-03T17:30:39Z",
+    "Owner": "sinaptik-ai",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "AstrBotDevs/AstrBot",
+    "Name": "AstrBot",
+    "Url": "https://github.com/AstrBotDevs/AstrBot",
+    "Description": "AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "Topics": [
+      "agent",
+      "ai",
+      "chatbot",
+      "chatgpt",
+      "discord",
+      "docker",
+      "gemini",
+      "gpt",
+      "llama",
+      "llm",
+      "mcp",
+      "openai",
+      "python",
+      "qq",
+      "qqbot",
+      "telegram"
+    ],
+    "Language": "Python",
+    "Stars": 31239,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-12-08T13:27:46Z",
+    "UpdatedAt": "2026-05-03T18:17:26Z",
+    "Owner": "AstrBotDevs",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chadi0x/TheBigBrother",
+    "Name": "TheBigBrother",
+    "Url": "https://github.com/chadi0x/TheBigBrother",
+    "Description": "The Big Brother V4.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.",
+    "Topics": [
+      "crypto",
+      "cybersecurity",
+      "dork",
+      "dorking",
+      "dorks",
+      "exif",
+      "exiftool",
+      "information-gathering",
+      "osint",
+      "osint-tool",
+      "pentesting",
+      "python3",
+      "radar",
+      "redteam",
+      "ssl"
+    ],
+    "Language": "Python",
+    "Stars": 590,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-12-08T13:34:35Z",
+    "UpdatedAt": "2026-05-03T07:34:46Z",
+    "Owner": "chadi0x",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "chubin/rate.sx",
+    "Name": "rate.sx",
+    "Url": "https://github.com/chubin/rate.sx",
+    "Description": ":moneybag: curl cryptocurrencies exchange rates",
+    "Topics": [
+      "bitcoin",
+      "cli",
+      "crypto",
+      "cryptocurrency",
+      "curl",
+      "terminal"
+    ],
+    "Language": "Python",
+    "Stars": 1080,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-12-02T20:12:14Z",
+    "UpdatedAt": "2026-04-25T17:31:22Z",
+    "Owner": "chubin",
+    "SourceQueries": [
+      "topic:crypto language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "ikostrikov/pytorch-a2c-ppo-acktr-gail",
+    "Name": "pytorch-a2c-ppo-acktr-gail",
+    "Url": "https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail",
+    "Description": "PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).",
+    "Topics": [
+      "a2c",
+      "acktr",
+      "actor-critic",
+      "advantage-actor-critic",
+      "ale",
+      "atari",
+      "continuous-control",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "hessian",
+      "kfac",
+      "kronecker-factored-approximation",
+      "mujoco",
+      "natural-gradients",
+      "ppo",
+      "proximal-policy-optimization",
+      "pytorch",
+      "reinforcement-learning",
+      "roboschool",
+      "second-order"
+    ],
+    "Language": "Python",
+    "Stars": 3898,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-08-22T15:57:25Z",
+    "UpdatedAt": "2026-05-03T03:40:51Z",
+    "Owner": "ikostrikov",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "agno-agi/agno",
+    "Name": "agno",
+    "Url": "https://github.com/agno-agi/agno",
+    "Description": "Run agents as production software.",
+    "Topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 39891,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-05-04T15:23:02Z",
+    "UpdatedAt": "2026-05-03T18:18:59Z",
+    "Owner": "agno-agi",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "OpenBMB/MiniCPM-o",
+    "Name": "MiniCPM-o",
+    "Url": "https://github.com/OpenBMB/MiniCPM-o",
+    "Description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+    "Topics": [
+      "minicpm",
+      "minicpm-v",
+      "multi-modal"
+    ],
+    "Language": "Python",
+    "Stars": 24490,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2024-01-29T05:30:33Z",
+    "UpdatedAt": "2026-05-03T15:17:45Z",
+    "Owner": "OpenBMB",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "harsh-vardhhan/Option-Trading-Backend",
+    "Name": "Option-Trading-Backend",
+    "Url": "https://github.com/harsh-vardhhan/Option-Trading-Backend",
+    "Description": "Option trading platform on NSE (India) for Upstox",
+    "Topics": [
+      "derivatives",
+      "option-trading",
+      "trading"
+    ],
+    "Language": "Python",
+    "Stars": 62,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2019-02-14T12:07:20Z",
+    "UpdatedAt": "2025-10-13T17:36:05Z",
+    "Owner": "harsh-vardhhan",
+    "SourceQueries": [
+      "topic:derivatives language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "Farama-Foundation/Gymnasium",
+    "Name": "Gymnasium",
+    "Url": "https://github.com/Farama-Foundation/Gymnasium",
+    "Description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+    "Topics": [
+      "api",
+      "gym",
+      "reinforcement-learning"
+    ],
+    "Language": "Python",
+    "Stars": 11821,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2022-09-08T01:58:05Z",
+    "UpdatedAt": "2026-05-03T18:51:55Z",
+    "Owner": "Farama-Foundation",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  },
+  {
+    "FullName": "bentoml/OpenLLM",
+    "Name": "OpenLLM",
+    "Url": "https://github.com/bentoml/OpenLLM",
+    "Description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+    "Topics": [
+      "bentoml",
+      "fine-tuning",
+      "llama",
+      "llama2",
+      "llama3-1",
+      "llama3-2",
+      "llama3-2-vision",
+      "llm",
+      "llm-inference",
+      "llm-ops",
+      "llm-serving",
+      "llmops",
+      "mistral",
+      "mlops",
+      "model-inference",
+      "open-source-llm",
+      "openllm",
+      "vicuna"
+    ],
+    "Language": "Python",
+    "Stars": 12307,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2023-04-19T00:27:52Z",
+    "UpdatedAt": "2026-05-02T07:43:01Z",
+    "Owner": "bentoml",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "openai/gpt-oss",
+    "Name": "gpt-oss",
+    "Url": "https://github.com/openai/gpt-oss",
+    "Description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 20066,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2025-06-23T16:43:33Z",
+    "UpdatedAt": "2026-05-03T17:22:16Z",
+    "Owner": "openai",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "onnx/onnx",
+    "Name": "onnx",
+    "Url": "https://github.com/onnx/onnx",
+    "Description": "Open standard for machine learning interoperability",
+    "Topics": [
+      "ai",
+      "artificial-intelligence",
+      "deep-learning",
+      "deep-neural-networks",
+      "dnn",
+      "keras",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "onnx",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "Language": "Python",
+    "Stars": 20762,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2017-09-07T04:53:45Z",
+    "UpdatedAt": "2026-05-03T18:27:35Z",
+    "Owner": "onnx",
+    "SourceQueries": [
+      "o language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "MemPalace/mempalace",
+    "Name": "mempalace",
+    "Url": "https://github.com/MemPalace/mempalace",
+    "Description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "Topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ],
+    "Language": "Python",
+    "Stars": 50936,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2026-04-05T01:12:07Z",
+    "UpdatedAt": "2026-05-03T18:49:09Z",
+    "Owner": "MemPalace",
+    "SourceQueries": [
+      "topic:ai language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "alvarobartt/investpy",
+    "Name": "investpy",
+    "Url": "https://github.com/alvarobartt/investpy",
+    "Description": "Financial Data Extraction from Investing.com with Python",
+    "Topics": [
+      "financial-data",
+      "hacktoberfest",
+      "historical-data",
+      "investing",
+      "investing-api",
+      "investing-com",
+      "investing-python"
+    ],
+    "Language": "Python",
+    "Stars": 1822,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2018-11-27T14:51:47Z",
+    "UpdatedAt": "2026-05-02T18:35:07Z",
+    "Owner": "alvarobartt",
+    "SourceQueries": [
+      "financial language:Python stars:>=50"
+    ]
+  },
+  {
+    "FullName": "huggingface/trl",
+    "Name": "trl",
+    "Url": "https://github.com/huggingface/trl",
+    "Description": "Train transformer language models with reinforcement learning.",
+    "Topics": [],
+    "Language": "Python",
+    "Stars": 18254,
+    "Fork": false,
+    "Archived": false,
+    "CreatedAt": "2020-03-27T10:54:55Z",
+    "UpdatedAt": "2026-05-03T18:01:40Z",
+    "Owner": "huggingface",
+    "SourceQueries": [
+      "reinforcement learning stars:>=100"
+    ]
+  }
+]
