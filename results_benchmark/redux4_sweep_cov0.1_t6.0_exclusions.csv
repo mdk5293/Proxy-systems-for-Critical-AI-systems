@@ -1,0 +1,3 @@
+pair,reason,include,status,mirror_sha,upstream_sha
+Blender,SHA mismatch (mirror lag) but official_mirror_claim=True; upstream=a0e997fbe077 mirror=795b62d8d14c,True,aligned_documentation_backed,795b62d8d14c04ee1a00c70f1fd46eb7c5a49db4,a0e997fbe077bf4eb4d9aae643f247a99750e3b2
+LibreOffice,Upstream ref 'HEAD' unresolvable via API and git ls-remote,False,excluded_unresolved_upstream_ref,31889dedea153a9c205edcf39c285a74585c643e,

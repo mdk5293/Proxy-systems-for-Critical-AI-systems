@@ -1,0 +1,5 @@
+method,n_pairs,n_candidate_rows,top1_accuracy,mrr,recall_at_3,threshold,tp,tn,fp,fn,precision,recall,f1,accuracy
+code_centric,8,32,1.0,1.0,1.0,0.4962,8,24,0,0,1.0,1.0,1.0,1.0
+cross_language,8,32,1.0,1.0,1.0,0.6324,8,24,0,0,1.0,1.0,1.0,1.0
+dynamic,8,32,1.0,1.0,1.0,0.7807,6,24,0,2,1.0,0.75,0.8571,0.9375
+metadata,8,32,0.875,0.9375,1.0,0.986,5,19,5,3,0.5,0.625,0.5556,0.75
