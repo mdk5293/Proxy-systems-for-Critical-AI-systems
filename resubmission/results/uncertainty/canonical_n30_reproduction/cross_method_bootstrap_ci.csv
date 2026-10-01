@@ -1,0 +1,3 @@
+metric,point_estimate,bootstrap_mean,ci_95_lo,ci_95_hi,n_pairs,known_match,known_non_match,target_uncertain,n_bootstrap,seed
+pearson_r,0.666682,0.66983,0.537195,0.789137,30,10,10,10,10000,42
+spearman_rho,0.690922,0.68761,0.554391,0.819129,30,10,10,10,10000,42
