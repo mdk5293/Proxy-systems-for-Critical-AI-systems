@@ -1,0 +1,59 @@
+repository,exclusion_source,reason
+apache/airflow,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+apache/openoffice,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+apache/spark,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+autowarefoundation/autoware,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+bbfamily/abu,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+blender/blender,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+chromium.googlesource.com/apps/libapps,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+chromium.googlesource.com/v8/v8,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+cockroachdb/cockroach,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+commaai/openpilot,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+deepspeedai/deepspeed,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+django/django,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+dmlc/xgboost,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+electron/electron,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+eriklindernoren/ml-from-scratch,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+explosion/spacy,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+ffmpeg/ffmpeg,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+freetype/freetype,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+gcc-mirror/gcc,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+gcc.gnu.org/git/gcc,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+git.ffmpeg.org/ffmpeg,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+git.kernel.org/pub/scm/git/git,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+git.libreoffice.org/core,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+git/git,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+gitlab.freedesktop.org/freetype/freetype,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+google/skia,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+gradio-app/gradio,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+huggingface/datasets,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+huggingface/transformers,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+jaidedai/easyocr,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+jina-ai/serve,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+libapps/libapps-mirror,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+libreoffice/core,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+lightning-ai/pytorch-lightning,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+mariadb/server,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+microsoft/vscode,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+mysql/mysql-server,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+nginx/nginx,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+onnx/onnx,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+openbb-finance/openbb,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+postgres/postgres,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+project-monai/monai,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+projects.blender.org/blender/blender,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+pytorch/pytorch,metamatch_winner_selection_anchor; v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark. Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+ray-project/ray,metamatch_winner_selection_anchor; v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark. Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+recommenders-team/recommenders,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+redis/redis,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+rust-lang/rust,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+scikit-learn/scikit-learn,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+sebastianruder/nlp-progress,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+serengil/deepface,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+skia.googlesource.com/skia,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+streamlit/streamlit,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+tensorflow/tensorflow,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+torvalds/linux,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.
+ultralytics/yolov5,metamatch_winner_selection_anchor,Repository served as an anchor in the MetaMatch experiment used to select the reported winning configuration.
+v8/v8,v2_labeled_benchmark,Repository appears in the existing v2 labeled evaluation benchmark.

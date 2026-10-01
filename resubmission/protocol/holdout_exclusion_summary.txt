@@ -1,0 +1,13 @@
+Repository-disjoint holdout exclusion audit
+============================================
+
+v2 benchmark pairs: 24
+unique repository identities in v2 benchmark: 40
+MetaMatch winner-selection anchor files: 20
+unique MetaMatch winner-selection anchors: 20
+benchmark/tuning-anchor overlap: 2
+total unique excluded repository identities: 58
+
+Repositories appearing in both benchmark and winner-selection anchors:
+  - pytorch/pytorch
+  - ray-project/ray
