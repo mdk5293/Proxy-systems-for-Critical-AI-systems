@@ -1,0 +1,9 @@
+method,cohort,threshold,n_pairs,positive_count,negative_count,f1_mean,f1_ci_lo,f1_ci_hi,n_bootstrap,seed
+metadata,strict,50.0,16,8,8,0.6665,0.5,0.8,10000,42
+metadata,lenient,50.0,24,16,8,0.7777,0.6667,0.8649,10000,42
+code_centric,strict,50.0,16,8,8,0.8735,0.6667,1.0,10000,42
+code_centric,lenient,50.0,24,16,8,0.9039,0.7857,1.0,10000,42
+dynamic,strict,50.0,16,8,8,0.1335,0.0,0.4,10000,42
+dynamic,lenient,50.0,24,16,8,0.2436,0.0,0.4667,10000,42
+cross_language,strict,50.0,16,8,8,0.8481,0.5455,1.0,10000,42
+cross_language,lenient,50.0,24,16,8,0.8528,0.6667,0.9677,10000,42
