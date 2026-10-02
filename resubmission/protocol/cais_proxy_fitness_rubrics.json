@@ -1,0 +1,358 @@
+{
+  "version": "1.0",
+  "purpose": "Frozen anchor-specific CAIS proxy-fitness rubrics defined before candidate-level fitness scoring.",
+  "score_scale": {
+    "0": "No evidence that the candidate supports the requirement",
+    "1": "Partial or indirect support",
+    "2": "Strong or direct support"
+  },
+  "adequacy_rule": {
+    "minimum_fitness_pct": 60,
+    "critical_requirement_rule": "No critical requirement may receive a score of 0"
+  },
+  "anchors": [
+    {
+      "anchor_slug": "apache-airflow",
+      "role": "Workflow orchestration and data-pipeline reliability",
+      "requirements": [
+        {
+          "id": "AIR01",
+          "name": "Workflow and dependency-graph execution",
+          "critical": true,
+          "description": "Supports construction or testing of multi-step workflows, DAGs, dependency graphs, or equivalent execution relationships."
+        },
+        {
+          "id": "AIR02",
+          "name": "Failure recovery and retry semantics",
+          "critical": true,
+          "description": "Supports testing retry, recovery, failure propagation, restart, or equivalent resilience behavior."
+        },
+        {
+          "id": "AIR03",
+          "name": "Connector and integration behavior",
+          "critical": false,
+          "description": "Supports integration with external data sources, services, connectors, or heterogeneous components."
+        },
+        {
+          "id": "AIR04",
+          "name": "Scheduling and execution semantics",
+          "critical": false,
+          "description": "Supports scheduled, triggered, queued, or coordinated execution behavior."
+        },
+        {
+          "id": "AIR05",
+          "name": "Pipeline or data consistency",
+          "critical": false,
+          "description": "Supports testing consistency or correctness of data or state as it moves through a workflow."
+        },
+        {
+          "id": "AIR06",
+          "name": "Operational observability",
+          "critical": false,
+          "description": "Provides logging, monitoring, task state, metrics, or equivalent evidence useful for observing workflow behavior."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "huggingface-transformers",
+      "role": "Foundation-model training and inference",
+      "requirements": [
+        {
+          "id": "HFT01",
+          "name": "Model loading and inference",
+          "critical": true,
+          "description": "Supports loading trained models and executing inference or prediction."
+        },
+        {
+          "id": "HFT02",
+          "name": "Training or fine-tuning",
+          "critical": true,
+          "description": "Supports model training, adaptation, or fine-tuning workflows."
+        },
+        {
+          "id": "HFT03",
+          "name": "Distributed or accelerated execution",
+          "critical": false,
+          "description": "Supports distributed, multi-device, GPU, sharded, or otherwise accelerated model execution."
+        },
+        {
+          "id": "HFT04",
+          "name": "Model artifact or hub compatibility",
+          "critical": false,
+          "description": "Supports reusable model artifacts, checkpoints, registries, hubs, or comparable model distribution mechanisms."
+        },
+        {
+          "id": "HFT05",
+          "name": "Multi-task or multimodal capability",
+          "critical": false,
+          "description": "Supports multiple model tasks, modalities, architectures, or configurable model families."
+        },
+        {
+          "id": "HFT06",
+          "name": "Configuration and preprocessing reproducibility",
+          "critical": false,
+          "description": "Captures model configuration, preprocessing, tokenizer/processor behavior, or comparable reproducibility information."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "ray-project-ray",
+      "role": "Distributed AI execution, training, and serving",
+      "requirements": [
+        {
+          "id": "RAY01",
+          "name": "Distributed execution",
+          "critical": true,
+          "description": "Supports execution of work across multiple workers, processes, nodes, or distributed resources."
+        },
+        {
+          "id": "RAY02",
+          "name": "Fault tolerance and recovery",
+          "critical": true,
+          "description": "Supports worker, process, task, node, or job failure handling and recovery."
+        },
+        {
+          "id": "RAY03",
+          "name": "Distributed model training",
+          "critical": false,
+          "description": "Supports scalable or distributed model-training workloads."
+        },
+        {
+          "id": "RAY04",
+          "name": "Model inference or serving",
+          "critical": false,
+          "description": "Supports deployment, serving, online inference, or distributed prediction."
+        },
+        {
+          "id": "RAY05",
+          "name": "Resource and accelerator scheduling",
+          "critical": false,
+          "description": "Supports allocation or scheduling of CPU, GPU, memory, or other constrained resources."
+        },
+        {
+          "id": "RAY06",
+          "name": "Parallel pipeline or task execution",
+          "critical": false,
+          "description": "Supports task, pipeline, actor, stage, or equivalent parallel execution structures."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "mlflow-mlflow",
+      "role": "Model lifecycle, experiment tracking, registry, and deployment",
+      "requirements": [
+        {
+          "id": "MLF01",
+          "name": "Experiment and run tracking",
+          "critical": true,
+          "description": "Records model-development runs, parameters, metrics, outputs, or equivalent experimental evidence."
+        },
+        {
+          "id": "MLF02",
+          "name": "Model lineage and version management",
+          "critical": true,
+          "description": "Supports model versioning, lineage, provenance, registration, or controlled lifecycle transitions."
+        },
+        {
+          "id": "MLF03",
+          "name": "Artifact and dependency reproducibility",
+          "critical": false,
+          "description": "Captures model artifacts, dependencies, environment information, or packaging needed to reproduce execution."
+        },
+        {
+          "id": "MLF04",
+          "name": "Deployment and serving",
+          "critical": false,
+          "description": "Supports deployment of models to an inference endpoint or comparable execution environment."
+        },
+        {
+          "id": "MLF05",
+          "name": "Validation or promotion workflow",
+          "critical": false,
+          "description": "Supports validation state, approval, promotion, aliasing, staging, or comparable model-governance workflow."
+        },
+        {
+          "id": "MLF06",
+          "name": "Metadata and artifact retrieval",
+          "critical": false,
+          "description": "Provides structured retrieval of runs, models, metadata, artifacts, or associated evidence."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "ultralytics-yolov5",
+      "role": "Computer vision object detection and related vision workloads",
+      "requirements": [
+        {
+          "id": "YOL01",
+          "name": "Object detection or localization inference",
+          "critical": true,
+          "description": "Supports detection, localization, segmentation, or equivalent spatial prediction from visual inputs."
+        },
+        {
+          "id": "YOL02",
+          "name": "Vision-model training or fine-tuning",
+          "critical": true,
+          "description": "Supports training or adapting computer-vision models on labeled datasets."
+        },
+        {
+          "id": "YOL03",
+          "name": "Quantitative validation",
+          "critical": false,
+          "description": "Supports repeatable evaluation using accuracy, precision/recall, mAP, loss, or comparable performance metrics."
+        },
+        {
+          "id": "YOL04",
+          "name": "Model export and runtime portability",
+          "critical": false,
+          "description": "Supports export or execution across alternate model formats, frameworks, accelerators, or inference runtimes."
+        },
+        {
+          "id": "YOL05",
+          "name": "Input and inference variability",
+          "critical": false,
+          "description": "Supports testing across different images, streams, sizes, sources, batch conditions, or inference configurations."
+        },
+        {
+          "id": "YOL06",
+          "name": "Multiple vision task modes",
+          "critical": false,
+          "description": "Supports more than one related vision task such as detection, classification, segmentation, tracking, or equivalent."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "serengil-deepface",
+      "role": "Face recognition, verification, and facial analysis",
+      "requirements": [
+        {
+          "id": "DFC01",
+          "name": "Face detection and representation",
+          "critical": true,
+          "description": "Supports detecting faces and producing representations, embeddings, or equivalent identity-oriented features."
+        },
+        {
+          "id": "DFC02",
+          "name": "Identity verification or matching",
+          "critical": true,
+          "description": "Supports comparing identities using similarity, distance, thresholds, verification, or recognition."
+        },
+        {
+          "id": "DFC03",
+          "name": "Spoofing or authenticity resistance",
+          "critical": false,
+          "description": "Supports anti-spoofing, liveness, authenticity checking, or equivalent presentation-attack testing."
+        },
+        {
+          "id": "DFC04",
+          "name": "Model or detector variability",
+          "critical": false,
+          "description": "Supports multiple models, detector backends, recognition approaches, or configurable processing pipelines."
+        },
+        {
+          "id": "DFC05",
+          "name": "Threshold and confidence behavior",
+          "critical": false,
+          "description": "Supports threshold, confidence, distance, calibration, or comparable decision-boundary evaluation."
+        },
+        {
+          "id": "DFC06",
+          "name": "Service or application integration",
+          "critical": false,
+          "description": "Supports API, service, database, streaming, or application-level integration of face-analysis functionality."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "OpenBB-finance-OpenBB",
+      "role": "Financial data aggregation and analytical decision support",
+      "requirements": [
+        {
+          "id": "OBB01",
+          "name": "Financial or market data ingestion",
+          "critical": true,
+          "description": "Supports acquisition of market, economic, company, asset, or comparable financial-domain data."
+        },
+        {
+          "id": "OBB02",
+          "name": "Financial analytics or time-series analysis",
+          "critical": true,
+          "description": "Supports analytical operations on financial, market, quantitative, or time-series information."
+        },
+        {
+          "id": "OBB03",
+          "name": "Multiple data-provider integration",
+          "critical": false,
+          "description": "Supports multiple providers, APIs, adapters, connectors, or interchangeable data sources."
+        },
+        {
+          "id": "OBB04",
+          "name": "Data provenance and reproducibility",
+          "critical": false,
+          "description": "Provides evidence of data source, parameters, timestamps, transformations, or other provenance needed to reproduce analysis."
+        },
+        {
+          "id": "OBB05",
+          "name": "Programmatic automation",
+          "critical": false,
+          "description": "Supports APIs, SDKs, scripts, pipelines, or automated analytical workflows."
+        },
+        {
+          "id": "OBB06",
+          "name": "Missing, delayed, or provider-error handling",
+          "critical": false,
+          "description": "Supports testing behavior when financial data are unavailable, incomplete, delayed, malformed, or provider access fails."
+        }
+      ]
+    },
+
+    {
+      "anchor_slug": "onnx-onnx",
+      "role": "Model interchange, validation, and runtime portability",
+      "requirements": [
+        {
+          "id": "ONX01",
+          "name": "Model serialization and interchange",
+          "critical": true,
+          "description": "Supports a portable model representation or conversion/interchange between model-producing and model-consuming systems."
+        },
+        {
+          "id": "ONX02",
+          "name": "Operator and schema compatibility",
+          "critical": true,
+          "description": "Supports explicit operators, schemas, graph structures, or compatibility rules governing model execution."
+        },
+        {
+          "id": "ONX03",
+          "name": "Model validation or checking",
+          "critical": false,
+          "description": "Supports validation of model structure, graph integrity, schema compliance, or equivalent correctness checks."
+        },
+        {
+          "id": "ONX04",
+          "name": "Shape and type inference",
+          "critical": false,
+          "description": "Supports propagation or validation of tensor shapes, types, dimensions, or equivalent interface contracts."
+        },
+        {
+          "id": "ONX05",
+          "name": "Runtime or backend interoperability",
+          "critical": false,
+          "description": "Supports execution or compatibility across multiple runtimes, frameworks, hardware targets, or backends."
+        },
+        {
+          "id": "ONX06",
+          "name": "Version and compatibility evolution",
+          "critical": false,
+          "description": "Supports model-format, operator-set, schema, or version compatibility testing across releases."
+        }
+      ]
+    }
+  ]
+}
