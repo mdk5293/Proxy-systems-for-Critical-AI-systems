@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "evaluation_dataset": "repository_disjoint_holdout",
+  "decision_thresholds": [40, 50, 60],
+  "reference_threshold": 50,
+
+  "commit_window_conditions": {
+    "window_50": {
+      "max_commits": 50,
+      "window_weights": {
+        "50": 1.0
+      }
+    },
+    "window_150": {
+      "max_commits": 150,
+      "window_weights": {
+        "150": 1.0
+      }
+    },
+    "reference_blend": {
+      "max_commits": 150,
+      "window_weights": {
+        "50": 0.65,
+        "150": 0.35
+      }
+    }
+  },
+
+  "normalization_conditions": [
+    "global_minmax",
+    "minmax",
+    "zscore"
+  ],
+
+  "weight_conditions": [
+    "reference",
+    "minus_20_percent_each_family",
+    "plus_20_percent_each_family"
+  ],
+
+  "feature_family_ablations": [
+    "commitsem",
+    "contributors",
+    "cochange",
+    "temporal",
+    "embedding",
+    "release_cadence",
+    "branching",
+    "issue_metrics",
+    "doc_quality",
+    "ci_signals"
+  ],
+
+  "missing_metadata_conditions": [
+    "reference",
+    "drop_issue_metrics",
+    "drop_doc_quality",
+    "drop_ci_signals",
+    "drop_issue_doc_ci_combined"
+  ],
+
+  "rules": {
+    "no_retuning": true,
+    "no_label_changes": true,
+    "no_pair_removal": true,
+    "no_candidate_replacement": true,
+    "report_all_conditions": true
+  }
+}
