@@ -32,11 +32,22 @@
     "zscore"
   ],
 
-  "weight_conditions": [
-    "reference",
-    "minus_20_percent_each_family",
-    "plus_20_percent_each_family"
-  ],
+  "weight_perturbation": {
+    "mode": "one_family_at_a_time",
+    "relative_changes": [-0.20, 0.20],
+    "families": [
+      "commitsem",
+      "contributors",
+      "cochange",
+      "temporal",
+      "embedding",
+      "release_cadence",
+      "branching",
+      "issue_metrics",
+      "doc_quality",
+      "ci_signals"
+    ]
+  }
 
   "feature_family_ablations": [
     "commitsem",
