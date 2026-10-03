@@ -1,0 +1,43 @@
+CAIS PROXY-FITNESS VALIDATION
+============================================================
+
+Total candidates: 56
+Framework top-5 candidates: 40
+Lower-ranked baselines: 16
+Candidates with REDUX score: 40
+
+OVERALL ADEQUACY
+------------------------------------------------------------
+Overall: 18/56 (32.1%)
+Framework top-5: 15/40 (37.5%)
+Lower-ranked baselines: 3/16 (18.8%)
+Adequacy-rate difference: 18.8 percentage points
+Cluster-bootstrap 95% CI: [-1.3, 37.5]
+Fisher exact p: 0.2183
+
+FITNESS SCORE COMPARISON
+------------------------------------------------------------
+Top-5 mean fitness: 60.6%
+Top-5 median fitness: 58.3%
+Baseline mean fitness: 50.5%
+Baseline median fitness: 50.0%
+Mean fitness difference: 10.1 points
+Cluster-bootstrap 95% CI: [0.8, 20.6]
+Mann-Whitney U p: 0.2429
+
+ASSOCIATION WITH FITNESS
+------------------------------------------------------------
+MetaMatch score vs fitness (n=56): Spearman rho=0.270, p=0.0446, 95% cluster-bootstrap CI [0.056, 0.472]
+MetaMatch rank vs fitness (n=56): Spearman rho=-0.199, p=0.1423, 95% cluster-bootstrap CI [-0.441, 0.016]
+REDUX metadata score vs fitness (n=40): Spearman rho=-0.188, p=0.2447, 95% cluster-bootstrap CI [-0.508, 0.479]
+
+ANCHOR-LEVEL SUMMARY
+------------------------------------------------------------
+OpenBB-finance-OpenBB: top5 mean=61.7%, adequate=2/5; baseline mean=45.8%, adequate=0/2
+apache-airflow: top5 mean=63.3%, adequate=2/5; baseline mean=70.8%, adequate=1/2
+huggingface-transformers: top5 mean=88.3%, adequate=3/5; baseline mean=50.0%, adequate=0/2
+mlflow-mlflow: top5 mean=66.7%, adequate=2/5; baseline mean=45.9%, adequate=0/2
+onnx-onnx: top5 mean=45.0%, adequate=1/5; baseline mean=37.5%, adequate=1/2
+ray-project-ray: top5 mean=36.7%, adequate=0/5; baseline mean=33.4%, adequate=0/2
+serengil-deepface: top5 mean=46.7%, adequate=1/5; baseline mean=54.1%, adequate=0/2
+ultralytics-yolov5: top5 mean=76.6%, adequate=4/5; baseline mean=66.7%, adequate=1/2
